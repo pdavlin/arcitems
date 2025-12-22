@@ -75,6 +75,9 @@ jobs:
           Write-Host "Installing arcitems..."
           scoop install arcitems
 
+          Write-Host "Refreshing PATH..."
+          $env:Path = [System.Environment]::GetEnvironmentVariable("Path","Machine") + ";" + [System.Environment]::GetEnvironmentVariable("Path","User")
+
           Write-Host "Testing installed version..."
           arcitems --version
 
