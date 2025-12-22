@@ -133,7 +133,8 @@ jobs:
 
           # Windows amd64
           GOOS=windows GOARCH=amd64 go build -ldflags "$LDFLAGS" -o dist/arcitems-windows-amd64.exe ./cmd/arcitems
-          cd dist && zip arcitems-windows-amd64.zip arcitems-windows-amd64.exe && cd ..
+          cp dist/arcitems-windows-amd64.exe dist/arcitems.exe
+          cd dist && zip arcitems-windows-amd64.zip arcitems.exe arcitems-windows-amd64.exe && cd ..
 
       - name: Calculate checksums
         if: steps.check.outputs.needs_sync == 'true' && steps.changes.outputs.has_changes == 'true'
