@@ -1,0 +1,248 @@
+name: Sync Data and Release
+
+on:
+  schedule:
+    # Run every 6 hours
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+    # Allow manual triggering
+
+jobs:
+  check-and-sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Get current upstream commit SHA
+        id: upstream
+        run: |
+          UPSTREAM_SHA=$(curl -s https://api.github.com/repos/RaidTheory/arcraiders-data/commits/main | jq -r '.sha')
+          echo "sha=$UPSTREAM_SHA" >> $GITHUB_OUTPUT
+          echo "Upstream SHA: $UPSTREAM_SHA"
+
+      - name: Get last synced SHA
+        id: cached
+        run: |
+          if [ -f internal/data/bundled/metadata.json ]; then
+            CACHED_SHA=$(jq -r '.upstreamSHA // "none"' internal/data/bundled/metadata.json)
+            echo "sha=$CACHED_SHA" >> $GITHUB_OUTPUT
+            echo "Cached SHA: $CACHED_SHA"
+          else
+            echo "sha=none" >> $GITHUB_OUTPUT
+            echo "No cached SHA found"
+          fi
+
+      - name: Check if sync needed
+        id: check
+        run: |
+          if [ "${{ steps.upstream.outputs.sha }}" != "${{ steps.cached.outputs.sha }}" ]; then
+            echo "needs_sync=true" >> $GITHUB_OUTPUT
+            echo "Data has changed - sync needed"
+          else
+            echo "needs_sync=false" >> $GITHUB_OUTPUT
+            echo "Data is up to date - no sync needed"
+          fi
+
+      - name: Fetch new data
+        if: steps.check.outputs.needs_sync == 'true'
+        run: |
+          python3 scripts/fetch_data.py
+          # Update metadata with upstream SHA
+          jq --arg sha "${{ steps.upstream.outputs.sha }}" '.upstreamSHA = $sha' internal/data/bundled/metadata.json > temp.json && mv temp.json internal/data/bundled/metadata.json
+
+      - name: Check for changes
+        if: steps.check.outputs.needs_sync == 'true'
+        id: changes
+        run: |
+          git diff --quiet internal/data/bundled/ || echo "has_changes=true" >> $GITHUB_OUTPUT
+
+      - name: Generate version tag
+        if: steps.check.outputs.needs_sync == 'true' && steps.changes.outputs.has_changes == 'true'
+        id: version
+        run: |
+          VERSION=$(date -u +"%Y.%m.%d.%H%M")
+          echo "tag=v$VERSION" >> $GITHUB_OUTPUT
+          echo "version=$VERSION" >> $GITHUB_OUTPUT
+          echo "Generated version: v$VERSION"
+
+      - name: Commit data changes
+        if: steps.check.outputs.needs_sync == 'true' && steps.changes.outputs.has_changes == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add internal/data/bundled/
+          git commit -m "Update data from upstream (${{ steps.version.outputs.version }})"
+          git push
+
+      - name: Set up Go
+        if: steps.check.outputs.needs_sync == 'true' && steps.changes.outputs.has_changes == 'true'
+        uses: actions/setup-go@v5
+        with:
+          go-version: '1.25'
+
+      - name: Build binaries
+        if: steps.check.outputs.needs_sync == 'true' && steps.changes.outputs.has_changes == 'true'
+        run: |
+          VERSION="${{ steps.version.outputs.version }}"
+          LDFLAGS="-s -w -X main.Version=$VERSION"
+
+          # Create dist directory
+          mkdir -p dist
+
+          # macOS arm64 (Apple Silicon)
+          GOOS=darwin GOARCH=arm64 go build -ldflags "$LDFLAGS" -o dist/arcitems-darwin-arm64 ./cmd/arcitems
+          tar -czf dist/arcitems-darwin-arm64.tar.gz -C dist arcitems-darwin-arm64
+
+          # macOS amd64 (Intel)
+          GOOS=darwin GOARCH=amd64 go build -ldflags "$LDFLAGS" -o dist/arcitems-darwin-amd64 ./cmd/arcitems
+          tar -czf dist/arcitems-darwin-amd64.tar.gz -C dist arcitems-darwin-amd64
+
+          # Linux amd64
+          GOOS=linux GOARCH=amd64 go build -ldflags "$LDFLAGS" -o dist/arcitems-linux-amd64 ./cmd/arcitems
+          tar -czf dist/arcitems-linux-amd64.tar.gz -C dist arcitems-linux-amd64
+
+          # Linux arm64
+          GOOS=linux GOARCH=arm64 go build -ldflags "$LDFLAGS" -o dist/arcitems-linux-arm64 ./cmd/arcitems
+          tar -czf dist/arcitems-linux-arm64.tar.gz -C dist arcitems-linux-arm64
+
+          # Windows amd64
+          GOOS=windows GOARCH=amd64 go build -ldflags "$LDFLAGS" -o dist/arcitems-windows-amd64.exe ./cmd/arcitems
+          cd dist && zip arcitems-windows-amd64.zip arcitems-windows-amd64.exe && cd ..
+
+      - name: Calculate checksums
+        if: steps.check.outputs.needs_sync == 'true' && steps.changes.outputs.has_changes == 'true'
+        run: |
+          cd dist
+          sha256sum *.tar.gz *.zip > checksums.txt
+          cat checksums.txt
+
+      - name: Create GitHub Release
+        if: steps.check.outputs.needs_sync == 'true' && steps.changes.outputs.has_changes == 'true'
+        uses: softprops/action-gh-release@v1
+        with:
+          tag_name: ${{ steps.version.outputs.tag }}
+          name: Release ${{ steps.version.outputs.version }}
+          body: |
+            Automated data sync from [RaidTheory/arcraiders-data](https://github.com/RaidTheory/arcraiders-data)
+
+            Upstream commit: ${{ steps.upstream.outputs.sha }}
+
+            ## Installation
+
+            ### Homebrew (macOS/Linux)
+            ```bash
+            brew tap pdavlin/arcitems
+            brew install arcitems
+            ```
+
+            ### Direct Download
+            Download the appropriate binary for your platform below.
+
+            ## Checksums
+            ```
+            $(cat dist/checksums.txt)
+            ```
+          files: |
+            dist/*.tar.gz
+            dist/*.zip
+            dist/checksums.txt
+          draft: false
+          prerelease: false
+
+      - name: Update Homebrew formula
+        if: steps.check.outputs.needs_sync == 'true' && steps.changes.outputs.has_changes == 'true'
+        env:
+          TAP_REPO_TOKEN: ${{ secrets.TAP_REPO_TOKEN }}
+        run: |
+          VERSION="${{ steps.version.outputs.version }}"
+          TAG="${{ steps.version.outputs.tag }}"
+
+          # Get SHA256 for macOS arm64 (primary platform for Homebrew)
+          MAC_ARM64_SHA256=$(grep "arcitems-darwin-arm64.tar.gz" dist/checksums.txt | awk '{print $1}')
+
+          # Clone tap repository
+          git clone https://x-access-token:${TAP_REPO_TOKEN}@github.com/pdavlin/homebrew-arcitems.git tap-repo
+          cd tap-repo
+
+          # Update formula
+          cat > Formula/arcitems.rb <<EOF
+          class Arcitems < Formula
+            desc "CLI tool for ARC Raiders item and quest lookup"
+            homepage "https://github.com/pdavlin/arcitems"
+            version "$VERSION"
+
+            on_macos do
+              if Hardware::CPU.arm?
+                url "https://github.com/pdavlin/arcitems/releases/download/$TAG/arcitems-darwin-arm64.tar.gz"
+                sha256 "$MAC_ARM64_SHA256"
+              else
+                url "https://github.com/pdavlin/arcitems/releases/download/$TAG/arcitems-darwin-amd64.tar.gz"
+                sha256 "$(grep "arcitems-darwin-amd64.tar.gz" ../dist/checksums.txt | awk '{print $1}')"
+              end
+            end
+
+            on_linux do
+              if Hardware::CPU.arm?
+                url "https://github.com/pdavlin/arcitems/releases/download/$TAG/arcitems-linux-arm64.tar.gz"
+                sha256 "$(grep "arcitems-linux-arm64.tar.gz" ../dist/checksums.txt | awk '{print $1}')"
+              else
+                url "https://github.com/pdavlin/arcitems/releases/download/$TAG/arcitems-linux-amd64.tar.gz"
+                sha256 "$(grep "arcitems-linux-amd64.tar.gz" ../dist/checksums.txt | awk '{print $1}')"
+              end
+            end
+
+            def install
+              bin.install "arcitems-darwin-arm64" => "arcitems" if OS.mac? && Hardware::CPU.arm?
+              bin.install "arcitems-darwin-amd64" => "arcitems" if OS.mac? && Hardware::CPU.intel?
+              bin.install "arcitems-linux-arm64" => "arcitems" if OS.linux? && Hardware::CPU.arm?
+              bin.install "arcitems-linux-amd64" => "arcitems" if OS.linux? && Hardware::CPU.intel?
+            end
+
+            test do
+              assert_match version.to_s, shell_output("#{bin}/arcitems --version")
+            end
+          end
+          EOF
+
+          # Commit and push
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add Formula/arcitems.rb
+          git commit -m "Update arcitems to $VERSION"
+          git push
+
+      - name: Update Scoop manifest
+        if: steps.check.outputs.needs_sync == 'true' && steps.changes.outputs.has_changes == 'true'
+        env:
+          SCOOP_BUCKET_TOKEN: ${{ secrets.SCOOP_BUCKET_TOKEN }}
+        run: |
+          VERSION="${{ steps.version.outputs.version }}"
+          TAG="${{ steps.version.outputs.tag }}"
+          WIN_SHA256=$(grep "arcitems-windows-amd64.zip" dist/checksums.txt | awk '{print $1}')
+
+          # Clone scoop bucket
+          git clone https://x-access-token:${SCOOP_BUCKET_TOKEN}@github.com/pdavlin/scoop-arcitems.git scoop-repo
+          cd scoop-repo
+
+          # Update manifest
+          jq --arg version "$VERSION" \
+             --arg url "https://github.com/pdavlin/arcitems/releases/download/$TAG/arcitems-windows-amd64.zip" \
+             --arg hash "sha256:$WIN_SHA256" \
+             '.version = $version | .architecture."64bit".url = $url | .architecture."64bit".hash = $hash' \
+             bucket/arcitems.json > temp.json && mv temp.json bucket/arcitems.json
+
+          # Commit and push
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add bucket/arcitems.json
+          git commit -m "Update arcitems to $VERSION"
+          git push

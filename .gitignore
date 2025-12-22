@@ -1,0 +1,33 @@
+# Binaries
+arcitems
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Test binaries
+*.test
+*.out
+
+# Go workspace file
+go.work
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Update checker cache
+.arcitems/
+
+# Cloned package manager repos
+homebrew-arcitems/
+scoop-arcitems/
+homebrew/
+scoop-bucket-files/
