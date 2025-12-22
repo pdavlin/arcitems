@@ -190,6 +190,9 @@ jobs:
           git clone https://x-access-token:${TAP_REPO_TOKEN}@github.com/pdavlin/homebrew-arcitems.git tap-repo
           cd tap-repo
 
+          # Create Formula directory if it doesn't exist
+          mkdir -p Formula
+
           # Update formula
           cat > Formula/arcitems.rb <<EOF
           class Arcitems < Formula
