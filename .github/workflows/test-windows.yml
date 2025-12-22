@@ -1,0 +1,83 @@
+name: Test Windows Build
+
+on:
+  workflow_dispatch:
+    inputs:
+      version:
+        description: 'Version to test (e.g., v2025.12.22.1542, or "latest")'
+        required: false
+        default: 'latest'
+  release:
+    types: [published]
+
+jobs:
+  test-windows:
+    runs-on: windows-latest
+
+    steps:
+      - name: Download release
+        shell: pwsh
+        run: |
+          if ("${{ github.event.inputs.version }}" -eq "latest" -or "${{ github.event.inputs.version }}" -eq "") {
+            Write-Host "Downloading latest release..."
+            gh release download --pattern "arcitems-windows-amd64.zip" -R pdavlin/arcitems
+          } else {
+            Write-Host "Downloading version ${{ github.event.inputs.version }}..."
+            gh release download ${{ github.event.inputs.version }} --pattern "arcitems-windows-amd64.zip" -R pdavlin/arcitems
+          }
+        env:
+          GH_TOKEN: ${{ github.token }}
+
+      - name: Extract binary
+        shell: pwsh
+        run: |
+          Write-Host "Extracting archive..."
+          Expand-Archive arcitems-windows-amd64.zip -DestinationPath .
+          Get-ChildItem
+
+      - name: Test version command
+        shell: pwsh
+        run: |
+          Write-Host "Testing --version..."
+          .\arcitems-windows-amd64.exe --version
+
+      - name: Test help command
+        shell: pwsh
+        run: |
+          Write-Host "Testing --help..."
+          .\arcitems-windows-amd64.exe --help
+
+      - name: Test item search
+        shell: pwsh
+        run: |
+          Write-Host "Testing item search..."
+          .\arcitems-windows-amd64.exe "arc alloy"
+
+      - name: Test quest search
+        shell: pwsh
+        run: |
+          Write-Host "Testing quest search..."
+          .\arcitems-windows-amd64.exe "celeste"
+
+      - name: Test Scoop installation
+        shell: pwsh
+        run: |
+          Write-Host "Testing Scoop bucket installation..."
+          # Install Scoop if not present
+          if (-not (Get-Command scoop -ErrorAction SilentlyContinue)) {
+            Write-Host "Installing Scoop..."
+            irm get.scoop.sh | iex
+          }
+
+          Write-Host "Adding arcitems bucket..."
+          scoop bucket add arcitems https://github.com/pdavlin/scoop-arcitems
+
+          Write-Host "Installing arcitems..."
+          scoop install arcitems
+
+          Write-Host "Testing installed version..."
+          arcitems --version
+
+          Write-Host "Uninstalling..."
+          scoop uninstall arcitems
+          scoop bucket rm arcitems
