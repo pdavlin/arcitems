@@ -6,6 +6,12 @@ on:
     - cron: '0 */6 * * *'
   workflow_dispatch:
     # Allow manual triggering
+    inputs:
+      force_release:
+        description: 'Force release even if data is up to date'
+        required: false
+        type: boolean
+        default: false
 
 jobs:
   check-and-sync:
@@ -46,16 +52,20 @@ jobs:
       - name: Check if sync needed
         id: check
         run: |
-          if [ "${{ steps.upstream.outputs.sha }}" != "${{ steps.cached.outputs.sha }}" ]; then
+          if [ "${{ steps.upstream.outputs.sha }}" != "${{ steps.cached.outputs.sha }}" ] || [ "${{ github.event.inputs.force_release }}" = "true" ]; then
             echo "needs_sync=true" >> $GITHUB_OUTPUT
-            echo "Data has changed - sync needed"
+            if [ "${{ github.event.inputs.force_release }}" = "true" ]; then
+              echo "Force release requested"
+            else
+              echo "Data has changed - sync needed"
+            fi
           else
             echo "needs_sync=false" >> $GITHUB_OUTPUT
             echo "Data is up to date - no sync needed"
           fi
 
       - name: Fetch new data
-        if: steps.check.outputs.needs_sync == 'true'
+        if: steps.check.outputs.needs_sync == 'true' && github.event.inputs.force_release != 'true'
         run: |
           python3 scripts/fetch_data.py
           # Update metadata with upstream SHA
@@ -65,7 +75,12 @@ jobs:
         if: steps.check.outputs.needs_sync == 'true'
         id: changes
         run: |
-          git diff --quiet internal/data/bundled/ || echo "has_changes=true" >> $GITHUB_OUTPUT
+          if [ "${{ github.event.inputs.force_release }}" = "true" ]; then
+            echo "has_changes=true" >> $GITHUB_OUTPUT
+            echo "Forcing release with existing data"
+          else
+            git diff --quiet internal/data/bundled/ || echo "has_changes=true" >> $GITHUB_OUTPUT
+          fi
 
       - name: Generate version tag
         if: steps.check.outputs.needs_sync == 'true' && steps.changes.outputs.has_changes == 'true'
@@ -77,7 +92,7 @@ jobs:
           echo "Generated version: v$VERSION"
 
       - name: Commit data changes
-        if: steps.check.outputs.needs_sync == 'true' && steps.changes.outputs.has_changes == 'true'
+        if: steps.check.outputs.needs_sync == 'true' && steps.changes.outputs.has_changes == 'true' && github.event.inputs.force_release != 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
