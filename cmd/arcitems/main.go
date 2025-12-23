@@ -192,11 +192,10 @@ func outputList(results []*search.SearchResult) {
 			safeIcon = "✓"
 		}
 
-		fmt.Printf("%s %s [%s] %s - %.0f coins\n",
+		fmt.Printf("%s %s [%s] %.0f coins\n",
 			safeIcon,
 			result.MatchStr,
 			item.Rarity,
-			item.Type,
 			item.Value)
 	}
 }

@@ -125,8 +125,8 @@ func (m Model) View() string {
 
 		// Show details for selected item
 		if i == m.cursor {
-			b.WriteString(fmt.Sprintf("  %s | %s | %.0f coins\n",
-				item.Rarity, item.Type, item.Value))
+			b.WriteString(fmt.Sprintf("  %s | %.0f coins\n",
+				item.Rarity, item.Value))
 
 			// Quest usage
 			if len(result.Usage.UsedInQuests) > 0 {
