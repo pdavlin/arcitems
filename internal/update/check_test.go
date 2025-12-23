@@ -221,12 +221,12 @@ func TestShouldNotifyForVersion(t *testing.T) {
 			want:            true,
 		},
 		{
-			name:            "version is less than 7 days old (should not notify)",
+			name:            "version is less than 7 days old (should notify with default threshold of 0)",
 			currentVersion:  "2025.11.23.0000",
 			latestVersion:   "2025.11.24.1628",
 			lastSeenVersion: "",
 			config:          nil,
-			want:            false,
+			want:            true,
 		},
 		{
 			name:            "custom threshold of 1 day",

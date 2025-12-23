@@ -14,8 +14,8 @@ import (
 
 const (
 	githubReleasesAPI = "https://api.github.com/repos/pdavlin/arcitems/releases/latest"
-	checkInterval     = 24 * time.Hour
-	notifyThreshold   = 7 * 24 * time.Hour // Only notify if >7 days old
+	checkInterval   = 24 * time.Hour
+	notifyThreshold = 0 * time.Hour // Notify immediately on any new version (configurable via notifyThresholdDays)
 )
 
 type cacheData struct {
@@ -312,7 +312,7 @@ func loadConfig() (*configData, error) {
 			return &configData{
 				DisableUpdateCheck:  false,
 				UpdateCheckInterval: 24,
-				NotifyThresholdDays: 7,
+				NotifyThresholdDays: 0,
 			}, nil
 		}
 		return nil, err
