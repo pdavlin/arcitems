@@ -2,6 +2,7 @@ package state
 
 import (
 	"encoding/json"
+	"fmt"
 	"os"
 	"path/filepath"
 	"time"
@@ -101,7 +102,7 @@ func (s *CompletionState) ToggleQuest(questID string) {
 	s.CompletedQuests = append(s.CompletedQuests, questID)
 }
 
-// IsProjectCompleted checks if a project is marked complete
+// IsProjectCompleted checks if a project is marked complete (all phases)
 func (s *CompletionState) IsProjectCompleted(projectID string) bool {
 	for _, id := range s.CompletedProjects {
 		if id == projectID {
@@ -120,6 +121,29 @@ func (s *CompletionState) ToggleProject(projectID string) {
 		}
 	}
 	s.CompletedProjects = append(s.CompletedProjects, projectID)
+}
+
+// IsProjectPhaseCompleted checks if a specific project phase is completed
+func (s *CompletionState) IsProjectPhaseCompleted(projectID string, phase int) bool {
+	phaseKey := fmt.Sprintf("%s:%d", projectID, phase)
+	for _, id := range s.CompletedProjects {
+		if id == phaseKey {
+			return true
+		}
+	}
+	return false
+}
+
+// ToggleProjectPhase toggles completion status for a project phase
+func (s *CompletionState) ToggleProjectPhase(projectID string, phase int) {
+	phaseKey := fmt.Sprintf("%s:%d", projectID, phase)
+	for i, id := range s.CompletedProjects {
+		if id == phaseKey {
+			s.CompletedProjects = append(s.CompletedProjects[:i], s.CompletedProjects[i+1:]...)
+			return
+		}
+	}
+	s.CompletedProjects = append(s.CompletedProjects, phaseKey)
 }
 
 // GetHideoutLevel returns the completed level for a hideout station (0 if not started)

@@ -12,20 +12,20 @@ import (
 var (
 	titleStyle = lipgloss.NewStyle().
 			Bold(true).
-			Foreground(lipgloss.Color("86"))
+			Foreground(lipgloss.AdaptiveColor{Light: "236", Dark: "255"})
 
 	safeStyle = lipgloss.NewStyle().
-			Foreground(lipgloss.Color("46"))
+			Foreground(lipgloss.AdaptiveColor{Light: "22", Dark: "46"})
 
 	unsafeStyle = lipgloss.NewStyle().
-			Foreground(lipgloss.Color("196"))
+			Foreground(lipgloss.AdaptiveColor{Light: "124", Dark: "196"})
 
 	cursorStyle = lipgloss.NewStyle().
-			Foreground(lipgloss.Color("86")).
+			Foreground(lipgloss.AdaptiveColor{Light: "236", Dark: "255"}).
 			Bold(true)
 
 	headerStyle = lipgloss.NewStyle().
-			Foreground(lipgloss.Color("241"))
+			Foreground(lipgloss.AdaptiveColor{Light: "240", Dark: "250"})
 
 	rarityColors = map[string]string{
 		"Common":    "250",

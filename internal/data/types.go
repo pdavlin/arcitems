@@ -47,7 +47,9 @@ type Project struct {
 
 // Phase represents a single phase within a project
 type Phase struct {
-	PhaseNumber           int                 `json:"phaseNumber"`
+	PhaseNumber           int                 `json:"phase"`
+	Name                  map[string]string   `json:"name,omitempty"`
+	Description           map[string]string   `json:"description,omitempty"`
 	RequirementItemIds    []ItemRequirement   `json:"requirementItemIds,omitempty"`
 	RequirementCategories []CategoryReq       `json:"requirementCategories,omitempty"`
 }
