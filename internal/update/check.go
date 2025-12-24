@@ -10,6 +10,8 @@ import (
 	"strconv"
 	"strings"
 	"time"
+
+	"github.com/pdavlin/arcitems/internal/config"
 )
 
 const (
@@ -23,12 +25,6 @@ type cacheData struct {
 	LastSeenVersion string    `json:"lastSeenVersion"` // Track last version shown to avoid duplicate notifications
 }
 
-type configData struct {
-	DisableUpdateCheck   bool `json:"disableUpdateCheck"`
-	UpdateCheckInterval  int  `json:"updateCheckInterval"`   // Hours between checks
-	NotifyThresholdDays  int  `json:"notifyThresholdDays"`  // Minimum age difference to show notification
-}
-
 type releaseInfo struct {
 	TagName string `json:"tag_name"`
 }
@@ -37,8 +33,8 @@ type releaseInfo struct {
 // It respects the 24-hour check interval and fails silently if offline or if any errors occur.
 func NotifyIfOutdated(currentVersion string, disableCheck bool) {
 	// Check config file for disable setting
-	config, err := loadConfig()
-	if err == nil && config.DisableUpdateCheck {
+	cfg, err := config.Load()
+	if err == nil && cfg.DisableUpdateCheck {
 		return
 	}
 
@@ -52,7 +48,7 @@ func NotifyIfOutdated(currentVersion string, disableCheck bool) {
 	}
 
 	// Check if we should perform an update check
-	if !shouldCheckForUpdates(config) {
+	if !shouldCheckForUpdates(cfg) {
 		return
 	}
 
@@ -75,7 +71,7 @@ func NotifyIfOutdated(currentVersion string, disableCheck bool) {
 	}
 
 	// Compare versions - only notify if version is old enough and we haven't notified about this version
-	if latestVersion != "" && latestVersion != currentVersion && shouldNotifyForVersion(currentVersion, latestVersion, cache.LastSeenVersion, config) {
+	if latestVersion != "" && latestVersion != currentVersion && shouldNotifyForVersion(currentVersion, latestVersion, cache.LastSeenVersion, cfg) {
 		updateCmd := detectUpdateCommand()
 		fmt.Fprintf(os.Stderr, "💡 New data available: %s (you have %s)\n", latestVersion, currentVersion)
 		fmt.Fprintf(os.Stderr, "   Update: %s\n\n", updateCmd)
@@ -83,7 +79,7 @@ func NotifyIfOutdated(currentVersion string, disableCheck bool) {
 }
 
 // shouldCheckForUpdates returns true if we haven't checked in the configured interval
-func shouldCheckForUpdates(config *configData) bool {
+func shouldCheckForUpdates(cfg *config.Config) bool {
 	cache, err := loadCache()
 	if err != nil {
 		// If we can't load the cache, allow the check
@@ -91,15 +87,15 @@ func shouldCheckForUpdates(config *configData) bool {
 	}
 
 	interval := checkInterval
-	if config != nil && config.UpdateCheckInterval > 0 {
-		interval = time.Duration(config.UpdateCheckInterval) * time.Hour
+	if cfg != nil && cfg.UpdateCheckInterval > 0 {
+		interval = time.Duration(cfg.UpdateCheckInterval) * time.Hour
 	}
 
 	return time.Since(cache.LastCheck) >= interval
 }
 
 // shouldNotifyForVersion determines if we should notify about a new version
-func shouldNotifyForVersion(currentVersion, latestVersion, lastSeenVersion string, config *configData) bool {
+func shouldNotifyForVersion(currentVersion, latestVersion, lastSeenVersion string, cfg *config.Config) bool {
 	// Already notified about this version
 	if latestVersion == lastSeenVersion {
 		return false
@@ -120,8 +116,8 @@ func shouldNotifyForVersion(currentVersion, latestVersion, lastSeenVersion strin
 
 	// Determine threshold from config or use default
 	threshold := notifyThreshold
-	if config != nil && config.NotifyThresholdDays > 0 {
-		threshold = time.Duration(config.NotifyThresholdDays) * 24 * time.Hour
+	if cfg != nil && cfg.NotifyThresholdDays > 0 {
+		threshold = time.Duration(cfg.NotifyThresholdDays) * 24 * time.Hour
 	}
 
 	// Only notify if version is older than threshold
@@ -239,39 +235,14 @@ func detectUpdateCommand() string {
 	return "download from https://github.com/pdavlin/arcitems/releases"
 }
 
-// getArcItemsDir returns the path to the ~/.arcitems directory, creating it if needed
-func getArcItemsDir() (string, error) {
-	homeDir, err := os.UserHomeDir()
-	if err != nil {
-		return "", err
-	}
-
-	arcItemsDir := filepath.Join(homeDir, ".arcitems")
-	if err := os.MkdirAll(arcItemsDir, 0755); err != nil {
-		return "", err
-	}
-
-	return arcItemsDir, nil
-}
-
 // getCacheFilePath returns the path to the update check cache file
 func getCacheFilePath() (string, error) {
-	arcItemsDir, err := getArcItemsDir()
+	configDir, err := config.GetConfigDir()
 	if err != nil {
 		return "", err
 	}
 
-	return filepath.Join(arcItemsDir, "update_check.json"), nil
-}
-
-// getConfigFilePath returns the path to the config file
-func getConfigFilePath() (string, error) {
-	arcItemsDir, err := getArcItemsDir()
-	if err != nil {
-		return "", err
-	}
-
-	return filepath.Join(arcItemsDir, "config.json"), nil
+	return filepath.Join(configDir, "update_check.json"), nil
 }
 
 // loadCache loads the update check cache from disk
@@ -296,34 +267,6 @@ func loadCache() (*cacheData, error) {
 	}
 
 	return &cache, nil
-}
-
-// loadConfig loads the config file from disk
-func loadConfig() (*configData, error) {
-	configPath, err := getConfigFilePath()
-	if err != nil {
-		return nil, err
-	}
-
-	data, err := os.ReadFile(configPath)
-	if err != nil {
-		if os.IsNotExist(err) {
-			// Config doesn't exist yet, return defaults
-			return &configData{
-				DisableUpdateCheck:  false,
-				UpdateCheckInterval: 24,
-				NotifyThresholdDays: 0,
-			}, nil
-		}
-		return nil, err
-	}
-
-	var config configData
-	if err := json.Unmarshal(data, &config); err != nil {
-		return nil, err
-	}
-
-	return &config, nil
 }
 
 // updateLastCheckTime updates the last check time and seen version in the cache

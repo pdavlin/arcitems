@@ -6,6 +6,8 @@ import (
 	"path/filepath"
 	"testing"
 	"time"
+
+	"github.com/pdavlin/arcitems/internal/config"
 )
 
 func TestDetectUpdateCommand(t *testing.T) {
@@ -201,7 +203,7 @@ func TestShouldNotifyForVersion(t *testing.T) {
 		currentVersion  string
 		latestVersion   string
 		lastSeenVersion string
-		config          *configData
+		cfg             *config.Config
 		want            bool
 	}{
 		{
@@ -209,7 +211,7 @@ func TestShouldNotifyForVersion(t *testing.T) {
 			currentVersion:  "2025.11.17.0000",
 			latestVersion:   "2025.11.24.1628",
 			lastSeenVersion: "2025.11.24.1628",
-			config:          nil,
+			cfg:             nil,
 			want:            false,
 		},
 		{
@@ -217,7 +219,7 @@ func TestShouldNotifyForVersion(t *testing.T) {
 			currentVersion:  "2025.11.17.0000",
 			latestVersion:   "2025.11.24.1628",
 			lastSeenVersion: "",
-			config:          nil,
+			cfg:             nil,
 			want:            true,
 		},
 		{
@@ -225,7 +227,7 @@ func TestShouldNotifyForVersion(t *testing.T) {
 			currentVersion:  "2025.11.23.0000",
 			latestVersion:   "2025.11.24.1628",
 			lastSeenVersion: "",
-			config:          nil,
+			cfg:             nil,
 			want:            true,
 		},
 		{
@@ -233,14 +235,14 @@ func TestShouldNotifyForVersion(t *testing.T) {
 			currentVersion:  "2025.11.23.0000",
 			latestVersion:   "2025.11.24.1628",
 			lastSeenVersion: "",
-			config:          &configData{NotifyThresholdDays: 1},
+			cfg:             &config.Config{NotifyThresholdDays: 1},
 			want:            true,
 		},
 	}
 
 	for _, tt := range tests {
 		t.Run(tt.name, func(t *testing.T) {
-			result := shouldNotifyForVersion(tt.currentVersion, tt.latestVersion, tt.lastSeenVersion, tt.config)
+			result := shouldNotifyForVersion(tt.currentVersion, tt.latestVersion, tt.lastSeenVersion, tt.cfg)
 			if result != tt.want {
 				t.Errorf("shouldNotifyForVersion() = %v, want %v", result, tt.want)
 			}

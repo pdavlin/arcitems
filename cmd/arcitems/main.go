@@ -7,12 +7,14 @@ import (
 	"strings"
 
 	"github.com/pdavlin/arcitems/internal/analyzer"
+	"github.com/pdavlin/arcitems/internal/config"
 	"github.com/pdavlin/arcitems/internal/data"
 	"github.com/pdavlin/arcitems/internal/search"
 	"github.com/pdavlin/arcitems/internal/state"
 	"github.com/pdavlin/arcitems/internal/ui"
 	"github.com/pdavlin/arcitems/internal/update"
 	"github.com/spf13/cobra"
+	"golang.org/x/term"
 )
 
 var (
@@ -41,7 +43,7 @@ whether they are safe to sell or recycle based on quest requirements.`,
 
 	rootCmd.Flags().BoolVar(&jsonOutput, "json", false, "Output results as JSON")
 	rootCmd.Flags().BoolVarP(&interactive, "interactive", "i", false, "Start interactive UI mode")
-	rootCmd.Flags().StringVar(&lang, "lang", "en", "Language for item names (en, de, fr, es, etc.)")
+	rootCmd.Flags().StringVar(&lang, "lang", "", "Language for item names (en, de, fr, es, etc.)")
 	rootCmd.Flags().BoolVarP(&manageMode, "manage", "m", false, "Launch completion manager")
 	rootCmd.Flags().BoolVar(&noStateFlag, "no-state", false, "Ignore completion state (search all items)")
 	rootCmd.Flags().BoolVar(&noUpdateCheck, "no-update-check", false, "Disable update check")
@@ -53,6 +55,16 @@ whether they are safe to sell or recycle based on quest requirements.`,
 }
 
 func runCommand(cmd *cobra.Command, args []string) {
+	// Load config
+	cfg, err := config.Load()
+	if err != nil {
+		// Non-fatal: use defaults
+		cfg = &config.Config{}
+	}
+
+	// Determine effective language
+	effectiveLang := determineLanguage(cmd, cfg)
+
 	// Check for updates (non-blocking)
 	update.NotifyIfOutdated(Version, noUpdateCheck)
 
@@ -88,6 +100,9 @@ func runCommand(cmd *cobra.Command, args []string) {
 		fmt.Fprintf(os.Stderr, "Error: query required (or use --manage)\n")
 		os.Exit(1)
 	}
+
+	// Use effectiveLang for the rest of the function
+	lang = effectiveLang
 
 	// Print data version info (subtle)
 	if !jsonOutput {
@@ -131,6 +146,41 @@ func runCommand(cmd *cobra.Command, args []string) {
 		// Simple list output
 		outputList(results)
 	}
+}
+
+// determineLanguage figures out which language to use based on flag, config, or user prompt
+func determineLanguage(cmd *cobra.Command, cfg *config.Config) string {
+	// If --lang flag was explicitly provided, use it (but don't save)
+	if cmd.Flags().Changed("lang") {
+		return lang
+	}
+
+	// If config has a stored language, use it
+	if cfg.Language != "" {
+		return cfg.Language
+	}
+
+	// First run: need to prompt for language
+	// Skip if not a TTY (e.g., piped input)
+	if !term.IsTerminal(int(os.Stdin.Fd())) {
+		return "en"
+	}
+
+	// Show language picker
+	selected, err := ui.RunLanguagePicker()
+	if err != nil {
+		// On error, default to English
+		return "en"
+	}
+
+	// Save the selection to config
+	cfg.Language = selected
+	if err := config.Save(cfg); err != nil {
+		// Non-fatal: just warn
+		fmt.Fprintf(os.Stderr, "Warning: could not save language preference: %v\n", err)
+	}
+
+	return selected
 }
 
 func filterResultsByState(
