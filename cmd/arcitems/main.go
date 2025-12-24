@@ -242,10 +242,16 @@ func outputList(results []*search.SearchResult) {
 			safeIcon = "✓"
 		}
 
-		fmt.Printf("%s %s [%s] %.0f coins\n",
+		location := ""
+		if item.FoundIn != nil && *item.FoundIn != "" {
+			location = fmt.Sprintf(" (%s)", *item.FoundIn)
+		}
+
+		fmt.Printf("%s %s [%s] %.0f coins%s\n",
 			safeIcon,
 			result.MatchStr,
 			item.Rarity,
-			item.Value)
+			item.Value,
+			location)
 	}
 }
