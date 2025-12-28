@@ -1,5 +1,56 @@
 [
   {
+    "id": "acoustic_guitar",
+    "name": {
+      "en": "Acoustic Guitar",
+      "de": "Akustikgitarre",
+      "fr": "Guitare acoustique",
+      "es": "Guitarra ac\u00fastica",
+      "pt": "Viol\u00e3o",
+      "pl": "Gitara akustyczna",
+      "no": "Akustisk gitar",
+      "da": "Akustisk guitar",
+      "it": "Chitarra acustica",
+      "ru": "\u0410\u043a\u0443\u0441\u0442\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u0433\u0438\u0442\u0430\u0440\u0430",
+      "ja": "\u30a2\u30b3\u30fc\u30b9\u30c6\u30a3\u30c3\u30af\u30ae\u30bf\u30fc",
+      "zh-TW": "\u6728\u5409\u4ed6",
+      "uk": "\u0410\u043a\u0443\u0441\u0442\u0438\u0447\u043d\u0430 \u0433\u0456\u0442\u0430\u0440\u0430",
+      "zh-CN": "\u6728\u5409\u4ed6",
+      "kr": "\uc5b4\ucfe0\uc2a4\ud2f1 \uae30\ud0c0",
+      "tr": "Akustik Gitar",
+      "hr": "Akusti\u010dna gitara",
+      "sr": "Akusti\u010dna gitara"
+    },
+    "description": {
+      "en": "A playable acoustic guitar used to attract ARC's attention, and impress other Raiders.",
+      "de": "Eine spielbare Akustikgitarre, um ARCs Aufmerksamkeit zu erregen und andere Raider zu beeindrucken.",
+      "fr": "Une guitare acoustique jouable, utilis\u00e9e pour attirer l'attention d'ARC et impressionner les autres Raiders.",
+      "es": "Una guitarra ac\u00fastica tocable, usada para atraer la atenci\u00f3n de ARC e impresionar a otros Raiders.",
+      "pt": "Um viol\u00e3o toc\u00e1vel usado para atrair a aten\u00e7\u00e3o da ARC e impressionar outros Raiders.",
+      "pl": "Grywalna gitara akustyczna, u\u017cywana do przyci\u0105gania uwagi ARC i imponowania innym Raiderom.",
+      "no": "En spillbar akustisk gitar som brukes til \u00e5 tiltrekke ARCs oppmerksomhet og imponere andre raiders.",
+      "da": "En spilbar akustisk guitar, der bruges til at tiltr\u00e6kke ARCs opm\u00e6rksomhed og imponere andre raiders.",
+      "it": "Una chitarra acustica suonabile, usata per attirare l'attenzione di ARC e impressionare gli altri Raiders.",
+      "ru": "\u0418\u0433\u0440\u0430\u0431\u0435\u043b\u044c\u043d\u0430\u044f \u0430\u043a\u0443\u0441\u0442\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u0433\u0438\u0442\u0430\u0440\u0430, \u0447\u0442\u043e\u0431\u044b \u043f\u0440\u0438\u0432\u043b\u0435\u0447\u044c \u0432\u043d\u0438\u043c\u0430\u043d\u0438\u0435 ARC \u0438 \u0432\u043f\u0435\u0447\u0430\u0442\u043b\u0438\u0442\u044c \u0434\u0440\u0443\u0433\u0438\u0445 \u0440\u0435\u0439\u0434\u0435\u0440\u043e\u0432.",
+      "ja": "ARC\u306e\u6ce8\u610f\u3092\u5f15\u304d\u3001\u307b\u304b\u306e\u30ec\u30a4\u30c0\u30fc\u306b\u81ea\u6162\u3067\u304d\u308b\u3001\u6f14\u594f\u53ef\u80fd\u306a\u30a2\u30b3\u30fc\u30b9\u30c6\u30a3\u30c3\u30af\u30ae\u30bf\u30fc\u3002",
+      "zh-TW": "\u4e00\u628a\u53ef\u5f48\u594f\u7684\u6728\u5409\u4ed6\uff0c\u7528\u4f86\u5438\u5f15ARC\u7684\u6ce8\u610f\u4e26\u8b93\u5176\u4ed6\u63a0\u596a\u8005\u522e\u76ee\u76f8\u770b\u3002",
+      "uk": "\u0413\u0440\u0430\u043b\u044c\u043d\u0430 \u0430\u043a\u0443\u0441\u0442\u0438\u0447\u043d\u0430 \u0433\u0456\u0442\u0430\u0440\u0430, \u0449\u043e\u0431 \u043f\u0440\u0438\u0432\u0435\u0440\u043d\u0443\u0442\u0438 \u0443\u0432\u0430\u0433\u0443 ARC \u0456 \u0432\u0440\u0430\u0437\u0438\u0442\u0438 \u0456\u043d\u0448\u0438\u0445 \u0440\u0435\u0439\u0434\u0435\u0440\u0456\u0432.",
+      "zh-CN": "\u4e00\u628a\u53ef\u5f39\u594f\u7684\u6728\u5409\u4ed6\uff0c\u7528\u6765\u5438\u5f15ARC\u7684\u6ce8\u610f\u5e76\u8ba9\u5176\u4ed6\u63a0\u593a\u8005\u522e\u76ee\u76f8\u770b\u3002",
+      "kr": "ARC\uc758 \uad00\uc2ec\uc744 \ub04c\uace0 \ub2e4\ub978 \ub808\uc774\ub354\ub4e4\uc5d0\uac8c \uae4a\uc740 \uc778\uc0c1\uc744 \ub0a8\uae30\uae30 \uc704\ud574 \uc5f0\uc8fc\ud560 \uc218 \uc788\ub294 \uc5b4\ucfe0\uc2a4\ud2f1 \uae30\ud0c0\uc785\ub2c8\ub2e4.",
+      "tr": "ARC'nin dikkatini \u00e7ekmek ve di\u011fer Raider'lar\u0131 etkilemek i\u00e7in kullan\u0131lan, \u00e7al\u0131nabilir bir akustik gitar.",
+      "hr": "Akusti\u010dna gitara na kojoj se mo\u017ee svirati, koristi se za privla\u010denje ARC-ove pa\u017enje i impresioniranje drugih Raidera.",
+      "sr": "Akusti\u010dna gitara na kojoj se mo\u017ee svirati, koristi se za privla\u010denje ARC-ove pa\u017enje i impresioniranje drugih Rajdera."
+    },
+    "type": "Quick Use",
+    "rarity": "Legendary",
+    "value": 7000,
+    "recyclesInto": {},
+    "weightKg": 1.0,
+    "stackSize": 1,
+    "imageFilename": "https://cdn.arctracker.io/items/acoustic_guitar.png",
+    "updatedAt": "12/17/2025"
+  },
+  {
     "id": "adrenaline_shot",
     "name": {
       "en": "Adrenaline Shot",
@@ -5308,7 +5359,13 @@
       }
     },
     "imageFilename": "https://cdn.arctracker.io/items/blaze_grenade_trap.png",
-    "updatedAt": "10/30/2025"
+    "updatedAt": "12/19/2025",
+    "recipe": {
+      "blaze_grenade": 1,
+      "wires": 1
+    },
+    "craftBench": "workbench",
+    "stationLevelRequired": 1
   },
   {
     "id": "bloated_tuna_can",
@@ -5725,7 +5782,7 @@
     },
     "description": {
       "en": "A throwable chemical light that illuminates the area around it.",
-      "de": "Ein werfbares chemisches Licht, das die Umgebung erhellt.",
+      "de": "Ein werfbares chemisches Licht, das seine Umgebung erhellt.",
       "fr": "Une lampe chimique jetable qui \u00e9claire la zone qui l'entoure.",
       "es": "Una luz qu\u00edmica arrojadiza que ilumina el \u00e1rea a su alrededor.",
       "pt": "Uma luz qu\u00edmica arremess\u00e1vel que ilumina a \u00e1rea ao seu redor.",
@@ -5746,7 +5803,7 @@
     "type": "Blueprint",
     "value": 5000,
     "weightKg": 0,
-    "foundIn": "",
+    "stackSize": 1,
     "imageFilename": "https://cdn.arctracker.io/items/blue_light_stick_blueprint.png",
     "rarity": "Legendary",
     "updatedAt": "11/04/2025"
@@ -5841,7 +5898,7 @@
       "sr": "Potpuno automatski SMG sa visokom brzinom paljbe ali niskom precizno\u0161\u0107u."
     },
     "type": "Blueprint",
-    "value": 15000,
+    "value": 5000,
     "weightKg": 0,
     "rarity": "Legendary",
     "imageFilename": "https://cdn.arctracker.io/items/bobcat.png",
@@ -7289,7 +7346,7 @@
       "zh-TW": "\u4ee4\u4eba\u9a5a\u5606\u7684\u96ea\u7403",
       "uk": "\u0417\u0430\u0445\u043e\u043f\u043b\u044e\u044e\u0447\u0438\u0439 \u0441\u043d\u0456\u0436\u043d\u0438\u0439 \u0448\u0430\u0440",
       "zh-CN": "\u4ee4\u4eba\u60ca\u53f9\u7684\u96ea\u7403",
-      "kr": "\uc228\ub9c9\ud788\ub294 \uc2a4\ub178\uc6b0 \uae00\ub85c\ube0c",
+      "kr": "\uc228\ub9c9\ud788\uac8c \uba4b\uc9c4 \uc2a4\ub178\uc6b0 \uae00\ub85c\ube0c",
       "tr": "Nefes Kesici Kar K\u00fcresi",
       "hr": "Zadivljuju\u0107a Snje\u017ena Kugla",
       "sr": "Zadivljuju\u0107a Sne\u017ena Kugla"
@@ -8363,7 +8420,7 @@
       "zh-TW": "\u71ed\u53f0",
       "uk": "\u0421\u0432\u0456\u0447\u043d\u0438\u043a",
       "zh-CN": "\u70db\u53f0",
-      "kr": "\ucd1b\ub300",
+      "kr": "\uc591\ucd08 \ud640\ub354",
       "tr": "\u015eamdan",
       "hr": "Svije\u0107njak",
       "sr": "Sve\u0107njak"
@@ -8463,7 +8520,7 @@
       "en": "Canister",
       "de": "Kanister",
       "fr": "Bonbonne",
-      "es": "Bid\u00f3n",
+      "es": "Lata",
       "pt": "Vasilhame",
       "pl": "Kanister",
       "no": "Beholder",
@@ -8474,7 +8531,7 @@
       "zh-TW": "\u7f50\u5b50",
       "uk": "\u041a\u0430\u043d\u0456\u0441\u0442\u0440\u0430",
       "zh-CN": "\u7f50\u5b50",
-      "kr": "\uce90\ub2c8\uc2a4\ud130",
+      "kr": "\uce94",
       "tr": "Kaps\u00fcl",
       "hr": "Kanister",
       "sr": "Kanister"
@@ -10359,7 +10416,7 @@
     "value": 2000,
     "recyclesInto": {
       "plastic_parts": 14,
-      "battery": 4
+      "wires": 4
     },
     "description": {
       "en": "Can be recycled into crafting materials.",
@@ -10393,7 +10450,7 @@
       "en": "Cracked Bioscanner",
       "de": "Angeschlagener Bioscanner",
       "fr": "Bioscanner F\u00eal\u00e9",
-      "es": "Bioesc\u00e1ner agrietado",
+      "es": "Bioescaner roto",
       "pt": "Bioesc\u00e2ner rachado",
       "pl": "P\u0119kni\u0119ty bioskaner",
       "no": "Sprukket bioskanner",
@@ -10978,7 +11035,7 @@
       "da": "Beskadiget ildkuglebr\u00e6nder",
       "it": "Bruciatore di palla di fuoco danneggiato",
       "ja": "\u7834\u640d\u3057\u305f\u30d5\u30a1\u30a4\u30a2\u30dc\u30fc\u30eb\u30d0\u30fc\u30ca\u30fc",
-      "kr": "\uc190\uc0c1\ub41c \ud654\uc5fc\uad6c \ubc84\ub108",
+      "kr": "\uc190\uc0c1\ub41c \ud30c\uc774\uc5b4\ubcfc \ubc84\ub108",
       "zh-CN": "\u635f\u574f\u7684\u706b\u7403\u71c3\u70e7\u5668",
       "zh-TW": "\u640d\u58de\u7684\u706b\u7403\u71c3\u71d2\u5668",
       "ru": "\u041f\u043e\u0432\u0440\u0435\u0436\u0434\u0435\u043d\u043d\u0430\u044f \u0433\u043e\u0440\u0435\u043b\u043a\u0430 \u043e\u0433\u043d\u0435\u043d\u043d\u043e\u0433\u043e \u0448\u0430\u0440\u0430",
@@ -11036,7 +11093,7 @@
       "zh-TW": "\u640d\u58de\u7684\u6563\u71b1\u5668",
       "uk": "\u041f\u043e\u0448\u043a\u043e\u0434\u0436\u0435\u043d\u0438\u0439 \u0440\u0430\u0434\u0456\u0430\u0442\u043e\u0440",
       "zh-CN": "\u635f\u574f\u7684\u6563\u70ed\u5668",
-      "kr": "\uc190\uc0c1\ub41c \ud788\ud2b8 \uc2f1\ud06c",
+      "kr": "\uc190\uc0c1\ub41c \ubc29\uc5f4\ud310",
       "tr": "Hasarl\u0131 So\u011futucu",
       "hr": "O\u0161te\u0107eni Hladnjak",
       "sr": "O\u0161te\u0107eni Hladnjak"
@@ -12957,7 +13014,7 @@
     },
     "description": {
       "en": "A proximity-triggered explosive device that detonates when enemies approach.",
-      "de": "Ein naherungsaktiviertes Sprengstoffgerat, das bei Annaherung von Feinden detoniert.",
+      "de": "Eine Mine, die bei Ann\u00e4herung explodiert und dabei alles besch\u00e4digt, was sich in ihrem Radius befindet.",
       "fr": "Un dispositif explosif a declenchement de proximite qui detone a l'approche des ennemis.",
       "es": "Un dispositivo explosivo activado por proximidad que detona cuando los enemigos se acercan.",
       "pt": "Um dispositivo explosivo ativado por proximidade que detona quando inimigos se aproximam.",
@@ -13062,7 +13119,7 @@
     },
     "description": {
       "en": "A proximity-triggered explosive device that detonates when enemies approach.",
-      "de": "Ein naherungsaktiviertes Sprengstoffgerat, das bei Annaherung von Feinden detoniert.",
+      "de": "Eine Mine, die bei Ann\u00e4herung explodiert und dabei alles besch\u00e4digt, was sich in ihrem Radius befindet.",
       "fr": "Un dispositif explosif a declenchement de proximite qui detone a l'approche des ennemis.",
       "es": "Un dispositivo explosivo activado por proximidad que detona cuando los enemigos se acercan.",
       "pt": "Um dispositivo explosivo ativado por proximidade que detona quando inimigos se aproximam.",
@@ -13083,6 +13140,7 @@
     "type": "Blueprint",
     "rarity": "Legendary",
     "value": 5000,
+    "stackSize": 1,
     "weightKg": 0,
     "imageFilename": "https://cdn.arctracker.io/items/explosive_mine.png",
     "updatedAt": "12/07/2025"
@@ -16030,7 +16088,7 @@
     "rarity": "Epic",
     "weightKg": 0.25,
     "stackSize": 3,
-    "foundIn": "Nature, Scavenging",
+    "foundIn": "Nature",
     "imageFilename": "https://cdn.arctracker.io/items/fossilized_lightning.png",
     "value": 4000,
     "recyclesInto": {
@@ -16698,7 +16756,13 @@
     },
     "imageFilename": "https://cdn.arctracker.io/items/gas_grenade_trap.png",
     "stackSize": 3,
-    "updatedAt": "10/30/2025"
+    "updatedAt": "12/19/2025",
+    "recipe": {
+      "gas_grenade": 1,
+      "wires": 1
+    },
+    "craftBench": "workbench",
+    "stationLevelRequired": 1
   },
   {
     "name": {
@@ -16816,8 +16880,64 @@
       "chemicals": 1,
       "rubber_parts": 1
     },
+    "recipe": {
+      "chemicals": 4,
+      "rubber_parts": 2
+    },
+    "craftBench": "explosives_bench",
+    "stationLevelRequired": 1,
+    "blueprintLocked": true,
     "imageFilename": "https://cdn.arctracker.io/items/gas_mine.png",
-    "updatedAt": "11/13/2025"
+    "updatedAt": "12/25/2025"
+  },
+  {
+    "id": "gas_mine_blueprint",
+    "name": {
+      "en": "Gas Mine Blueprint",
+      "de": "Bauplan: Sprungmine: Ausdauerverlust \u00fcber Zeit",
+      "fr": "Schema Mine Bondissance : D\u00e9g\u00e2ts d'Endurance sur la Dur\u00e9e",
+      "es": "Plano de Mina de gas",
+      "pt": "Projeto de Mina de g\u00e1s",
+      "pl": "Projekt Mina gazowa",
+      "no": "Gassmine-tegning",
+      "da": "Gasmine-tegning",
+      "it": "Progetto Mina a gas",
+      "ja": "\u30ac\u30b9\u5730\u96f7 \u8a2d\u8a08\u56f3",
+      "kr": "\uac00\uc2a4 \uc9c0\ub8b0 \uc124\uacc4\ub3c4",
+      "zh-CN": "\u6bd2\u6c14\u5730\u96f7 \u84dd\u56fe",
+      "zh-TW": "\u6bd2\u6c23\u5730\u96f7 \u85cd\u5716",
+      "ru": "\u0427\u0435\u0440\u0442\u0435\u0436 \u2014 \u0413\u0430\u0437\u043e\u0432\u0430\u044f \u043c\u0438\u043d\u0430",
+      "tr": "Gaz May\u0131n\u0131 Plan\u0131",
+      "uk": "\u041a\u0440\u0435\u0441\u043b\u0435\u043d\u043d\u044f \u0413\u0430\u0437\u043e\u0432\u0430 \u043c\u0456\u043d\u0430",
+      "sr": "Gasna mina Nacrt",
+      "hr": "Plinska mina Nacrt"
+    },
+    "description": {
+      "en": "A proximity-triggered mine that pops up and deploys a gas cloud that rapidly drains stamina.",
+      "de": "Eine Mine, die bei Ann\u00e4herung explodiert und dabei eine Gaswolke erzeugt, welche schnell Ausdauer absaugt.",
+      "fr": "Une mine \u00e0 d\u00e9clenchement de proximit\u00e9 qui surgit et d\u00e9ploie un nuage de gaz qui draine rapidement l'endurance.",
+      "es": "Una mina activada por proximidad que emerge y despliega una nube de gas que drena r\u00e1pidamente la resistencia.",
+      "pt": "Uma mina ativada por proximidade que surge e libera uma nuvem de g\u00e1s que drena rapidamente a stamina.",
+      "pl": "Mina aktywowana zbli\u017ceniem, kt\u00f3ra wyskakuje i uwalnia chmur\u0119 gazu szybko wyczerpuj\u0105cego wytrzyma\u0142o\u015b\u0107.",
+      "no": "En n\u00e6rhetsaktivert mine som spretter opp og utl\u00f8ser en gassky som raskt t\u00f8mmer utholdenhet.",
+      "da": "En n\u00e6rhedsudl\u00f8st mine der popper op og frigiver en gassky der hurtigt dr\u00e6ner udholdenhed.",
+      "it": "Una mina attivata dalla prossimit\u00e0 che emerge e rilascia una nube di gas che drena rapidamente la resistenza.",
+      "ja": "\u8fd1\u63a5\u8d77\u52d5\u3059\u308b\u5730\u96f7\u3067\u3001\u98db\u3073\u51fa\u3057\u3066\u30b9\u30bf\u30df\u30ca\u3092\u6025\u901f\u306b\u6d88\u8017\u3055\u305b\u308b\u30ac\u30b9\u96f2\u3092\u5c55\u958b\u3059\u308b\u3002",
+      "kr": "\uadfc\uc811 \uac10\uc9c0\ub85c \uc791\ub3d9\ud558\uc5ec \ud280\uc5b4\ub098\uc640 \uc2a4\ud0dc\ubbf8\ub098\ub97c \ube60\ub974\uac8c \uc18c\ubaa8\uc2dc\ud0a4\ub294 \uac00\uc2a4 \uad6c\ub984\uc744 \uc804\uac1c\ud558\ub294 \uc9c0\ub8b0\uc785\ub2c8\ub2e4.",
+      "zh-CN": "\u4e00\u79cd\u8fd1\u8ddd\u79bb\u89e6\u53d1\u7684\u5730\u96f7\uff0c\u4f1a\u5f39\u51fa\u5e76\u91ca\u653e\u5feb\u901f\u6d88\u8017\u8010\u529b\u7684\u6bd2\u6c14\u4e91\u3002",
+      "zh-TW": "\u4e00\u7a2e\u8fd1\u8ddd\u96e2\u89f8\u767c\u7684\u5730\u96f7\uff0c\u6703\u5f48\u51fa\u4e26\u91cb\u653e\u5feb\u901f\u6d88\u8017\u8010\u529b\u7684\u6bd2\u6c23\u96f2\u3002",
+      "ru": "\u041c\u0438\u043d\u0430 \u0441 \u0434\u0430\u0442\u0447\u0438\u043a\u043e\u043c \u043f\u0440\u0438\u0431\u043b\u0438\u0436\u0435\u043d\u0438\u044f, \u043a\u043e\u0442\u043e\u0440\u0430\u044f \u0432\u044b\u0441\u043a\u0430\u043a\u0438\u0432\u0430\u0435\u0442 \u0438 \u0432\u044b\u043f\u0443\u0441\u043a\u0430\u0435\u0442 \u043e\u0431\u043b\u0430\u043a\u043e \u0433\u0430\u0437\u0430, \u0431\u044b\u0441\u0442\u0440\u043e \u0438\u0441\u0442\u043e\u0449\u0430\u044e\u0449\u0435\u0435 \u0432\u044b\u043d\u043e\u0441\u043b\u0438\u0432\u043e\u0441\u0442\u044c.",
+      "tr": "Yak\u0131nl\u0131k tetiklemeli bir may\u0131n, f\u0131rlayarak dayan\u0131kl\u0131l\u0131\u011f\u0131 h\u0131zla t\u00fcketen bir gaz bulutu yayar.",
+      "uk": "\u041c\u0456\u043d\u0430 \u0437 \u0434\u0430\u0442\u0447\u0438\u043a\u043e\u043c \u043d\u0430\u0431\u043b\u0438\u0436\u0435\u043d\u043d\u044f, \u044f\u043a\u0430 \u0432\u0438\u0441\u0442\u0440\u0438\u0431\u0443\u0454 \u0456 \u0432\u0438\u043f\u0443\u0441\u043a\u0430\u0454 \u0433\u0430\u0437\u043e\u0432\u0443 \u0445\u043c\u0430\u0440\u0443, \u0449\u043e \u0448\u0432\u0438\u0434\u043a\u043e \u0432\u0438\u0441\u043d\u0430\u0436\u0443\u0454 \u0432\u0438\u0442\u0440\u0438\u0432\u0430\u043b\u0456\u0441\u0442\u044c.",
+      "sr": "Mina aktivirana blizinom koja isko\u010di i osloba\u0111a oblak gasa koji brzo iscrpljuje izdr\u017eljivost.",
+      "hr": "Mina aktivirana blizinom koja isko\u010di i osloba\u0111a oblak plina koji brzo iscrpljuje izdr\u017eljivost."
+    },
+    "type": "Blueprint",
+    "rarity": "Legendary",
+    "value": 5000,
+    "weightKg": 0,
+    "imageFilename": "https://cdn.arctracker.io/items/gas_mine.png",
+    "updatedAt": "12/25/2025"
   },
   {
     "name": {
@@ -18478,7 +18598,7 @@
       "sr": "Improvizovana medicinska stavka koja postepeno obnavlja zdravlje tokom vremena."
     },
     "type": "Quick Use",
-    "value": 640,
+    "value": 900,
     "rarity": "Uncommon",
     "weightKg": 0.15,
     "stackSize": 5,
@@ -18582,24 +18702,24 @@
       "hr": "Horizontalni Rukohvat"
     },
     "description": {
-      "en": "Moderately reduces per-shot dispersion.",
-      "it": "Riduce moderatamente la dispersione dei colpi.",
-      "da": "Reducerer moderat spredningen pr. skud.",
-      "uk": "\u041f\u043e\u043c\u0456\u0440\u043d\u043e \u0437\u043c\u0435\u043d\u0448\u0443\u0454 \u0440\u043e\u0437\u0441\u0456\u044e\u0432\u0430\u043d\u043d\u044f \u043a\u0443\u043b\u044c \u0437\u0430 \u043f\u043e\u0441\u0442\u0440\u0456\u043b.",
-      "zh-TW": "\u9069\u5ea6\u964d\u4f4e\u6bcf\u6b21\u5c04\u64ca\u7684\u5f48\u8457\u5206\u6563\u3002",
-      "pt": "Reduz moderadamente a dispers\u00e3o por disparo.",
-      "ru": "\u0423\u043c\u0435\u0440\u0435\u043d\u043d\u043e \u0441\u043d\u0438\u0436\u0430\u0435\u0442 \u0440\u0430\u0437\u0431\u0440\u043e\u0441 \u043f\u0443\u043b\u044c \u0437\u0430 \u0432\u044b\u0441\u0442\u0440\u0435\u043b.",
-      "de": "Verringert die Streuung pro Schuss moderat.",
-      "fr": "R\u00e9duit mod\u00e9r\u00e9ment la dispersion par tir.",
-      "zh-CN": "\u9002\u5ea6\u964d\u4f4e\u6bcf\u6b21\u5c04\u51fb\u7684\u5f39\u7740\u5206\u6563\u3002",
-      "no": "Reduserer moderat spredning per skudd.",
-      "tr": "Her at\u0131\u015f ba\u015f\u0131na sa\u00e7\u0131lmay\u0131 orta d\u00fczeyde azalt\u0131r.",
-      "es": "Reduce moderadamente la dispersi\u00f3n por disparo.",
-      "sr": "Umereno smanjuje rasipanje metaka po hicu.",
-      "ja": "1\u767a\u3054\u3068\u306e\u5f3e\u306e\u3070\u3089\u3064\u304d\u3092\u9069\u5ea6\u306b\u8efd\u6e1b\u3057\u307e\u3059\u3002",
-      "kr": "\ubc1c\uc0ac\ub2f9 \ud0c4 \ud37c\uc9d0\uc744 \uc801\ub2f9\ud788 \uac10\uc18c\uc2dc\ud0b5\ub2c8\ub2e4.",
-      "pl": "Umiarkowanie zmniejsza rozrzut pocisk\u00f3w na strza\u0142.",
-      "hr": "Umjereno smanjuje rasipanje metaka po ispaljenom hicu."
+      "en": "Moderately reduces both vertical recoil and horizontal recoil.",
+      "it": "Riduce moderatamente sia il rinculo verticale che quello orizzontale.",
+      "da": "Reducerer moderat b\u00e5de lodret og vandret rekyl.",
+      "uk": "\u041f\u043e\u043c\u0456\u0440\u043d\u043e \u0437\u043c\u0435\u043d\u0448\u0443\u0454 \u044f\u043a \u0432\u0435\u0440\u0442\u0438\u043a\u0430\u043b\u044c\u043d\u0443, \u0442\u0430\u043a \u0456 \u0433\u043e\u0440\u0438\u0437\u043e\u043d\u0442\u0430\u043b\u044c\u043d\u0443 \u0432\u0456\u0434\u0434\u0430\u0447\u0443.",
+      "zh-TW": "\u9069\u5ea6\u964d\u4f4e\u5782\u76f4\u548c\u6c34\u5e73\u5f8c\u5ea7\u529b\u3002",
+      "pt": "Reduz moderadamente o recuo vertical e horizontal.",
+      "ru": "\u0423\u043c\u0435\u0440\u0435\u043d\u043d\u043e \u0441\u043d\u0438\u0436\u0430\u0435\u0442 \u043a\u0430\u043a \u0432\u0435\u0440\u0442\u0438\u043a\u0430\u043b\u044c\u043d\u0443\u044e, \u0442\u0430\u043a \u0438 \u0433\u043e\u0440\u0438\u0437\u043e\u043d\u0442\u0430\u043b\u044c\u043d\u0443\u044e \u043e\u0442\u0434\u0430\u0447\u0443.",
+      "de": "Verringert sowohl den vertikalen als auch den horizontalen R\u00fccksto\u00df moderat.",
+      "fr": "R\u00e9duit mod\u00e9r\u00e9ment le recul vertical et horizontal.",
+      "zh-CN": "\u9002\u5ea6\u964d\u4f4e\u5782\u76f4\u548c\u6c34\u5e73\u540e\u5750\u529b\u3002",
+      "no": "Reduserer moderat b\u00e5de vertikal og horisontal rekyl.",
+      "tr": "Hem dikey hem de yatay geri tepmeyi orta d\u00fczeyde azalt\u0131r.",
+      "es": "Reduce moderadamente el retroceso vertical y horizontal.",
+      "sr": "Umereno smanjuje i vertikalni i horizontalni trzaj.",
+      "ja": "\u5782\u76f4\u53cd\u52d5\u3068\u6c34\u5e73\u53cd\u52d5\u3092\u9069\u5ea6\u306b\u8efd\u6e1b\u3057\u307e\u3059\u3002",
+      "kr": "\uc218\uc9c1 \ubc18\ub3d9\uacfc \uc218\ud3c9 \ubc18\ub3d9\uc744 \uc801\ub2f9\ud788 \uac10\uc18c\uc2dc\ud0b5\ub2c8\ub2e4.",
+      "pl": "Umiarkowanie zmniejsza odrzut pionowy i poziomy.",
+      "hr": "Umjereno smanjuje i vertikalni i horizontalni trzaj."
     },
     "type": "Modification",
     "rarity": "Epic",
@@ -18723,24 +18843,24 @@
       "hr": "Nacrt Horizontalnog Rukohvata"
     },
     "description": {
-      "en": "Moderately reduces per-shot dispersion.",
-      "it": "Riduce moderatamente la dispersione dei colpi.",
-      "da": "Reducerer moderat spredningen pr. skud.",
-      "uk": "\u041f\u043e\u043c\u0456\u0440\u043d\u043e \u0437\u043c\u0435\u043d\u0448\u0443\u0454 \u0440\u043e\u0437\u0441\u0456\u044e\u0432\u0430\u043d\u043d\u044f \u043a\u0443\u043b\u044c \u0437\u0430 \u043f\u043e\u0441\u0442\u0440\u0456\u043b.",
-      "zh-TW": "\u9069\u5ea6\u964d\u4f4e\u6bcf\u6b21\u5c04\u64ca\u7684\u5f48\u8457\u5206\u6563\u3002",
-      "pt": "Reduz moderadamente a dispers\u00e3o por disparo.",
-      "ru": "\u0423\u043c\u0435\u0440\u0435\u043d\u043d\u043e \u0441\u043d\u0438\u0436\u0430\u0435\u0442 \u0440\u0430\u0437\u0431\u0440\u043e\u0441 \u043f\u0443\u043b\u044c \u0437\u0430 \u0432\u044b\u0441\u0442\u0440\u0435\u043b.",
-      "de": "Verringert die Streuung pro Schuss moderat.",
-      "fr": "R\u00e9duit mod\u00e9r\u00e9ment la dispersion par tir.",
-      "zh-CN": "\u9002\u5ea6\u964d\u4f4e\u6bcf\u6b21\u5c04\u51fb\u7684\u5f39\u7740\u5206\u6563\u3002",
-      "no": "Reduserer moderat spredning per skudd.",
-      "tr": "Her at\u0131\u015f ba\u015f\u0131na sa\u00e7\u0131lmay\u0131 orta d\u00fczeyde azalt\u0131r.",
-      "es": "Reduce moderadamente la dispersi\u00f3n por disparo.",
-      "sr": "Umereno smanjuje rasipanje metaka po hicu.",
-      "ja": "1\u767a\u3054\u3068\u306e\u5f3e\u306e\u3070\u3089\u3064\u304d\u3092\u9069\u5ea6\u306b\u8efd\u6e1b\u3057\u307e\u3059\u3002",
-      "kr": "\ubc1c\uc0ac\ub2f9 \ud0c4 \ud37c\uc9d0\uc744 \uc801\ub2f9\ud788 \uac10\uc18c\uc2dc\ud0b5\ub2c8\ub2e4.",
-      "pl": "Umiarkowanie zmniejsza rozrzut pocisk\u00f3w na strza\u0142.",
-      "hr": "Umjereno smanjuje rasipanje metaka po ispaljenom hicu."
+      "en": "Moderately reduces both vertical recoil and horizontal recoil.",
+      "it": "Riduce moderatamente sia il rinculo verticale che quello orizzontale.",
+      "da": "Reducerer moderat b\u00e5de lodret og vandret rekyl.",
+      "uk": "\u041f\u043e\u043c\u0456\u0440\u043d\u043e \u0437\u043c\u0435\u043d\u0448\u0443\u0454 \u044f\u043a \u0432\u0435\u0440\u0442\u0438\u043a\u0430\u043b\u044c\u043d\u0443, \u0442\u0430\u043a \u0456 \u0433\u043e\u0440\u0438\u0437\u043e\u043d\u0442\u0430\u043b\u044c\u043d\u0443 \u0432\u0456\u0434\u0434\u0430\u0447\u0443.",
+      "zh-TW": "\u9069\u5ea6\u964d\u4f4e\u5782\u76f4\u548c\u6c34\u5e73\u5f8c\u5ea7\u529b\u3002",
+      "pt": "Reduz moderadamente o recuo vertical e horizontal.",
+      "ru": "\u0423\u043c\u0435\u0440\u0435\u043d\u043d\u043e \u0441\u043d\u0438\u0436\u0430\u0435\u0442 \u043a\u0430\u043a \u0432\u0435\u0440\u0442\u0438\u043a\u0430\u043b\u044c\u043d\u0443\u044e, \u0442\u0430\u043a \u0438 \u0433\u043e\u0440\u0438\u0437\u043e\u043d\u0442\u0430\u043b\u044c\u043d\u0443\u044e \u043e\u0442\u0434\u0430\u0447\u0443.",
+      "de": "Verringert sowohl den vertikalen als auch den horizontalen R\u00fccksto\u00df moderat.",
+      "fr": "R\u00e9duit mod\u00e9r\u00e9ment le recul vertical et horizontal.",
+      "zh-CN": "\u9002\u5ea6\u964d\u4f4e\u5782\u76f4\u548c\u6c34\u5e73\u540e\u5750\u529b\u3002",
+      "no": "Reduserer moderat b\u00e5de vertikal og horisontal rekyl.",
+      "tr": "Hem dikey hem de yatay geri tepmeyi orta d\u00fczeyde azalt\u0131r.",
+      "es": "Reduce moderadamente el retroceso vertical y horizontal.",
+      "sr": "Umereno smanjuje i vertikalni i horizontalni trzaj.",
+      "ja": "\u5782\u76f4\u53cd\u52d5\u3068\u6c34\u5e73\u53cd\u52d5\u3092\u9069\u5ea6\u306b\u8efd\u6e1b\u3057\u307e\u3059\u3002",
+      "kr": "\uc218\uc9c1 \ubc18\ub3d9\uacfc \uc218\ud3c9 \ubc18\ub3d9\uc744 \uc801\ub2f9\ud788 \uac10\uc18c\uc2dc\ud0b5\ub2c8\ub2e4.",
+      "pl": "Umiarkowanie zmniejsza odrzut pionowy i poziomy.",
+      "hr": "Umjereno smanjuje i vertikalni i horizontalni trzaj."
     },
     "type": "Blueprint",
     "rarity": "Legendary",
@@ -22631,7 +22751,7 @@
     "id": "light_gun_parts_blueprint",
     "name": {
       "en": "Light Gun Parts Blueprint",
-      "de": "Bauplan: Teile f\u00fcr Waffe mit leichter Munition",
+      "de": "Bauplan: Leichte Waffenteile",
       "fr": "Sch\u00e9ma de Pi\u00e8ces d'Arme L\u00e9g\u00e8re",
       "es": "Plano de piezas de armas ligeras",
       "pt": "Projeto de pe\u00e7as de armas leves",
@@ -22651,7 +22771,7 @@
     },
     "description": {
       "en": "Assorted spare parts used for pistols and SMGs.",
-      "de": "Verschiedenste Ersatzteile, die in Pistolen und MPs zum Einsatz kommen. Zur Herstellung von: Bobcat, Komplexe Waffenteile",
+      "de": "Verschiedenste Ersatzteile, die in Pistolen und MPs zum Einsatz kommen.",
       "fr": "Pi\u00e8ces de rechange assorties utilis\u00e9es pour les pistolets et les mitraillettes.",
       "es": "Piezas de repuesto variadas usadas para pistolas y subfusiles.",
       "pt": "Pe\u00e7as sobressalentes variadas usadas para pistolas e submetralhadoras.",
@@ -22672,6 +22792,7 @@
     "type": "Blueprint",
     "value": 5000,
     "weightKg": 0,
+    "stackSize": 1,
     "imageFilename": "https://cdn.arctracker.io/items/light_gun_parts_blueprint.png",
     "rarity": "Legendary",
     "updatedAt": "11/12/2025"
@@ -23966,7 +24087,13 @@
       }
     },
     "imageFilename": "https://cdn.arctracker.io/items/lure_grenade_trap.png",
-    "updatedAt": "11/01/2025"
+    "updatedAt": "12/19/2025",
+    "recipe": {
+      "lure_grenade": 1,
+      "wires": 1
+    },
+    "craftBench": "workbench",
+    "stationLevelRequired": 1
   },
   {
     "id": "magnet",
@@ -25296,7 +25423,8 @@
     "weightKg": 0.4,
     "stackSize": 3,
     "foundIn": "Old World, Residential, Commercial",
-    "updatedAt": "11/03/2025"
+    "imageFilename": "https://cdn.arctracker.io/items/music_box.png",
+    "updatedAt": "12/16/2025"
   },
   {
     "id": "muzzle_brake_i",
@@ -25597,6 +25725,7 @@
     "type": "Blueprint",
     "value": 5000,
     "weightKg": 0,
+    "stackSize": 1,
     "rarity": "Legendary",
     "imageFilename": "https://cdn.arctracker.io/items/muzzle_brake_ii.png",
     "updatedAt": "11/12/2025"
@@ -27268,7 +27397,7 @@
       "zh-TW": "\u5f69\u7e6a\u76d2\u5b50",
       "uk": "\u0420\u043e\u0437\u043f\u0438\u0441\u043d\u0430 \u0441\u043a\u0440\u0438\u043d\u044c\u043a\u0430",
       "zh-CN": "\u5f69\u7ed8\u76d2\u5b50",
-      "kr": "\ucc44\uc0c9\ub41c \uc0c1\uc790",
+      "kr": "\ud398\uc778\ud2b8 \ubb3b\uc740 \uc0c1\uc790",
       "tr": "Boyal\u0131 Kutu",
       "hr": "Oslikana Kutija",
       "sr": "Oslikana Kutija"
@@ -27320,7 +27449,7 @@
       "zh-TW": "\u5de1\u908f\u8eca\u9470\u5319",
       "uk": "\u041a\u043b\u044e\u0447 \u0432\u0456\u0434 \u043f\u0430\u0442\u0440\u0443\u043b\u044c\u043d\u043e\u0457 \u043c\u0430\u0448\u0438\u043d\u0438",
       "zh-CN": "\u5de1\u903b\u8f66\u94a5\u5319",
-      "kr": "\uc21c\ucc30\ucc28 \ud0a4",
+      "kr": "\uc21c\ucc30\ucc28 \uc5f4\uc1e0",
       "tr": "Devriye Arabas\u0131 Anahtar\u0131",
       "hr": "Klju\u010d Patrolnog Automobila",
       "sr": "Klju\u010d Patrolnog Automobila"
@@ -27507,7 +27636,7 @@
       "zh-TW": "\u64b2\u514b\u724c",
       "uk": "\u0413\u0440\u0430\u043b\u044c\u043d\u0456 \u043a\u0430\u0440\u0442\u0438",
       "zh-CN": "\u6251\u514b\u724c",
-      "kr": "\uce74\ub4dc \ub180\uc774",
+      "kr": "\ud2b8\ub7fc\ud504 \uce74\ub4dc",
       "tr": "Oyun Ka\u011f\u0131tlar\u0131",
       "hr": "Igra\u0107e Karte",
       "sr": "Igra\u0107e Karte"
@@ -27604,7 +27733,7 @@
     "id": "pop_trigger",
     "name": {
       "en": "Pop Trigger",
-      "de": "Direktabzug",
+      "de": "Pop-Ausl\u00f6ser",
       "fr": "G\u00e2chette Pop",
       "es": "Gatillo de tronador",
       "pt": "Gatilho de Estalinho",
@@ -27622,7 +27751,7 @@
       "hr": "Pop Okida\u010d",
       "sr": "Pop Okida\u010d"
     },
-    "rarity": "Common",
+    "rarity": "Uncommon",
     "type": "Recyclable",
     "value": 640,
     "recyclesInto": {
@@ -27970,6 +28099,7 @@
     "type": "Refined Material",
     "rarity": "Epic",
     "weightKg": 2,
+    "stackSize": 3,
     "value": 5000,
     "recyclesInto": {
       "advanced_electrical_components": 1,
@@ -31982,7 +32112,63 @@
       "chemicals": 1
     },
     "imageFilename": "https://cdn.arctracker.io/items/seeker_grenade.png",
-    "updatedAt": "11/13/2025"
+    "updatedAt": "11/13/2025",
+    "recipe": {
+      "crude_explosives": 1,
+      "arc_alloy": 2
+    },
+    "craftBench": "explosives_bench",
+    "stationLevelRequired": 1,
+    "blueprintLocked": true
+  },
+  {
+    "id": "seeker_grenade_blueprint",
+    "name": {
+      "en": "Seeker Grenade Blueprint",
+      "de": "Bauplan: Suchgranate",
+      "fr": "Sch\u00e9ma de Grenade Traqueuse",
+      "es": "Plano de granada rastreadora",
+      "pt": "Projeto de granada rastreadora",
+      "pl": "Projekt granatu naprowadzanego",
+      "no": "S\u00f8kergranat-tegning",
+      "da": "S\u00f8gergranat-tegning",
+      "it": "Progetto granata cercatrice",
+      "ru": "\u0427\u0435\u0440\u0442\u0451\u0436 \u2014 \u0421\u0430\u043c\u043e\u043d\u0430\u0432\u043e\u0434\u044f\u0449\u0430\u044f\u0441\u044f \u0433\u0440\u0430\u043d\u0430\u0442\u0430",
+      "ja": "\u30b7\u30fc\u30ab\u30fc\u30b0\u30ec\u30cd\u30fc\u30c9\u8a2d\u8a08\u56f3",
+      "zh-TW": "\u8ffd\u8e64\u624b\u69b4\u5f48\u85cd\u5716",
+      "uk": "\u041a\u0440\u0435\u0441\u043b\u0435\u043d\u043d\u044f \u0441\u0430\u043c\u043e\u043d\u0430\u0432\u0456\u0434\u043d\u043e\u0457 \u0433\u0440\u0430\u043d\u0430\u0442\u0438",
+      "zh-CN": "\u8ffd\u8e2a\u624b\u69b4\u5f39\u84dd\u56fe",
+      "kr": "\ucd94\uc801 \uc218\ub958\ud0c4 \uc124\uacc4\ub3c4",
+      "tr": "\u0130zleyici Bomba Plan\u0131",
+      "hr": "Nacrt Traga\u010dke granate",
+      "sr": "Nacrt Traga\u010dke granate"
+    },
+    "description": {
+      "en": "Unlocks the crafting blueprint for the Seeker Grenade.",
+      "de": "Schaltet den Herstellungsbauplan f\u00fcr die Suchgranate frei.",
+      "fr": "D\u00e9bloque le sch\u00e9ma de fabrication de la Grenade Traqueuse.",
+      "es": "Desbloquea el plano de fabricaci\u00f3n de la granada rastreadora.",
+      "pt": "Desbloqueia o projeto de fabrica\u00e7\u00e3o da granada rastreadora.",
+      "pl": "Odblokowuje projekt wytwarzania Granatu naprowadzanego.",
+      "no": "L\u00e5ser opp oppskriften for S\u00f8kergranaten.",
+      "da": "L\u00e5ser opskriften til S\u00f8gergranaten op.",
+      "it": "Sblocca il progetto di creazione per la Granata cercatrice.",
+      "ru": "\u041e\u0442\u043a\u0440\u044b\u0432\u0430\u0435\u0442 \u0447\u0435\u0440\u0442\u0435\u0436 \u0434\u043b\u044f \u0441\u043e\u0437\u0434\u0430\u043d\u0438\u044f \u0421\u0430\u043c\u043e\u043d\u0430\u0432\u043e\u0434\u044f\u0449\u0435\u0439\u0441\u044f \u0433\u0440\u0430\u043d\u0430\u0442\u044b.",
+      "ja": "\u30b7\u30fc\u30ab\u30fc\u30b0\u30ec\u30cd\u30fc\u30c9\u306e\u30af\u30e9\u30d5\u30c8\u8a2d\u8a08\u56f3\u3092\u30a2\u30f3\u30ed\u30c3\u30af\u3059\u308b\u3002",
+      "zh-TW": "\u89e3\u9396\u8ffd\u8e64\u624b\u69b4\u5f48\u7684\u88fd\u4f5c\u85cd\u5716\u3002",
+      "uk": "\u0412\u0456\u0434\u043a\u0440\u0438\u0432\u0430\u0454 \u043a\u0440\u0435\u0441\u043b\u0435\u043d\u043d\u044f \u0434\u043b\u044f \u0441\u0442\u0432\u043e\u0440\u0435\u043d\u043d\u044f \u0421\u0430\u043c\u043e\u043d\u0430\u0432\u0456\u0434\u043d\u043e\u0457 \u0433\u0440\u0430\u043d\u0430\u0442\u0438.",
+      "zh-CN": "\u89e3\u9501\u8ffd\u8e2a\u624b\u69b4\u5f39\u7684\u5236\u4f5c\u84dd\u56fe\u3002",
+      "kr": "\ucd94\uc801 \uc218\ub958\ud0c4 \uc81c\uc791 \uc124\uacc4\ub3c4\ub97c \ud574\uae08\ud569\ub2c8\ub2e4.",
+      "tr": "\u0130zleyici Bomba i\u00e7in \u00fcretim plan\u0131n\u0131 a\u00e7ar.",
+      "hr": "Otklju\u010dava nacrt izrade za Traga\u010dku granatu.",
+      "sr": "Otklju\u010dava nacrt izrade za Traga\u010dku granatu."
+    },
+    "type": "Blueprint",
+    "value": 5000,
+    "weightKg": 0,
+    "imageFilename": "https://cdn.arctracker.io/items/seeker_grenade.png",
+    "rarity": "Legendary",
+    "updatedAt": "12/17/2025"
   },
   {
     "id": "sensors",
@@ -32147,6 +32333,7 @@
     "foundIn": "Residential",
     "weightKg": 0.2,
     "stackSize": 1,
+    "value": 1000,
     "imageFilename": "https://cdn.arctracker.io/items/shaker.png",
     "updatedAt": "12/16/2025"
   },
@@ -33169,7 +33356,7 @@
     "id": "shredder_gyro",
     "type": "Recyclable",
     "value": 3000,
-    "rarity": "Uncommon",
+    "rarity": "Rare",
     "weightKg": 1,
     "stackSize": 3,
     "foundIn": "ARC",
@@ -33892,6 +34079,7 @@
     "rarity": "Rare",
     "weightKg": 0.3,
     "stackSize": 3,
+    "value": 640,
     "effects": {
       "Duration": {
         "en": "Duration",
@@ -33937,7 +34125,13 @@
       }
     },
     "imageFilename": "https://cdn.arctracker.io/items/smoke_grenade_trap.png",
-    "updatedAt": "11/01/2025"
+    "updatedAt": "12/19/2025",
+    "recipe": {
+      "smoke_grenade": 1,
+      "wires": 1
+    },
+    "craftBench": "workbench",
+    "stationLevelRequired": 1
   },
   {
     "id": "snap_blast_grenade",
@@ -34251,6 +34445,58 @@
     "weightKg": 0.75,
     "stackSize": 3,
     "foundIn": "ARC"
+  },
+  {
+    "id": "snowball",
+    "name": {
+      "en": "Snowball",
+      "de": "Schneeball",
+      "fr": "Boule de neige",
+      "es": "Bola de nieve",
+      "pt": "Bola de neve",
+      "pl": "Kula \u015bnie\u017cna",
+      "no": "Sn\u00f8ball",
+      "da": "Snebold",
+      "it": "Palla di neve",
+      "ru": "\u0421\u043d\u0435\u0436\u043e\u043a",
+      "ja": "\u96ea\u7389",
+      "zh-TW": "\u96ea\u7403",
+      "uk": "\u0421\u043d\u0456\u0436\u043a\u0430",
+      "zh-CN": "\u96ea\u7403",
+      "kr": "\ub208\ub369\uc774",
+      "tr": "Kartopu",
+      "hr": "Snje\u017ena gruda",
+      "sr": "Sne\u017ena grudva"
+    },
+    "description": {
+      "en": "A compact snowball.",
+      "de": "Ein kompakter Schneeball.",
+      "fr": "Une boule de neige compacte.",
+      "es": "Una bola de nieve compacta.",
+      "pt": "Uma bola de neve compacta.",
+      "pl": "Zbita kula \u015bnie\u017cna.",
+      "no": "En kompakt sn\u00f8ball.",
+      "da": "En kompakt snebold.",
+      "it": "Una palla di neve compatta.",
+      "ru": "\u041f\u043b\u043e\u0442\u043d\u044b\u0439 \u0441\u043d\u0435\u0436\u043e\u043a.",
+      "ja": "\u56fa\u304f\u63e1\u308a\u56fa\u3081\u305f\u96ea\u7389\u3002",
+      "zh-TW": "\u4e00\u9846\u7dca\u5be6\u7684\u96ea\u7403\u3002",
+      "uk": "\u0429\u0456\u043b\u044c\u043d\u043e \u0437\u043b\u0456\u043f\u043b\u0435\u043d\u0430 \u0441\u043d\u0456\u0436\u043a\u0430.",
+      "zh-CN": "\u4e00\u4e2a\u7d27\u5b9e\u7684\u96ea\u7403\u3002",
+      "kr": "\ub2e8\ub2e8\ud788 \ubb49\uce5c \ub208\ub369\uc774.",
+      "tr": "S\u0131k\u0131ca yap\u0131lm\u0131\u015f bir kartopu.",
+      "hr": "Zbijena snje\u017ena gruda.",
+      "sr": "Zbijena sne\u017ena grudva."
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/snowball.png",
+    "rarity": "Common",
+    "type": "Quick Use",
+    "value": 10,
+    "recyclesInto": {},
+    "weightKg": 0.4,
+    "stackSize": 5,
+    "foundIn": "Nature",
+    "updatedAt": "12/17/2025"
   },
   {
     "id": "spaceport_container_storage_key",
@@ -36593,7 +36839,7 @@
       "en": "Surveyor Vault",
       "de": "Beobachtertresor",
       "fr": "Coffre de l'Arpenteur",
-      "es": "B\u00f3veda del Top\u00f3grafo",
+      "es": "Dep\u00f3sito de Vigilante",
       "pt": "Cofre de Inspetor",
       "pl": "Skarbiec Geodety",
       "no": "Landm\u00e5ler-hvelv",
@@ -38630,7 +38876,7 @@
       "en": "Toaster",
       "de": "Toaster",
       "fr": "Grille-pain",
-      "es": "Tostadora",
+      "es": "Tostador",
       "pt": "Torradeira",
       "pl": "Toster",
       "no": "Br\u00f8drister",
@@ -39609,6 +39855,12 @@
     "rarity": "Rare",
     "weightKg": 1,
     "stackSize": 3,
+    "recipe": {
+      "synthesized_fuel": 1,
+      "explosive_compound": 1
+    },
+    "craftBench": "explosives_bench",
+    "stationLevelRequired": 3,
     "effects": {
       "Damage": {
         "en": "Damage",
@@ -39658,6 +39910,55 @@
     },
     "imageFilename": "https://cdn.arctracker.io/items/trailblazer.png",
     "updatedAt": "11/14/2025"
+  },
+  {
+    "id": "trailblazer_blueprint",
+    "name": {
+      "en": "Trailblazer Blueprint",
+      "de": "Bauplan: Trailblazer",
+      "fr": "Sch\u00e9ma de Trailblazer",
+      "es": "Plano de Trailblazer",
+      "pt": "Projeto de Trailblazer",
+      "pl": "Projekt Trailblazera",
+      "no": "Trailblazer-tegning",
+      "da": "Trailblazer-tegning",
+      "it": "Progetto Trailblazer",
+      "ru": "\u0427\u0435\u0440\u0442\u0451\u0436 \u2014 Trailblazer",
+      "ja": "\u30c8\u30ec\u30a4\u30eb\u30d6\u30ec\u30a4\u30b6\u30fc\u8a2d\u8a08\u56f3",
+      "zh-TW": "\u958b\u62d3\u8005\u85cd\u5716",
+      "uk": "\u041a\u0440\u0435\u0441\u043b\u0435\u043d\u043d\u044f Trailblazer",
+      "zh-CN": "\u5f00\u62d3\u8005\u84dd\u56fe",
+      "kr": "\ud2b8\ub808\uc77c\ube14\ub808\uc774\uc800 \uc124\uacc4\ub3c4",
+      "tr": "Trailblazer Plan\u0131",
+      "hr": "Nacrt Trailblazera",
+      "sr": "Nacrt Trailblazera"
+    },
+    "description": {
+      "en": "Unlocks the crafting blueprint for the Trailblazer.",
+      "de": "Schaltet den Herstellungsbauplan f\u00fcr den Trailblazer frei.",
+      "fr": "D\u00e9bloque le sch\u00e9ma de fabrication de Trailblazer.",
+      "es": "Desbloquea el plano de fabricaci\u00f3n de Trailblazer.",
+      "pt": "Desbloqueia o projeto de fabrica\u00e7\u00e3o de Trailblazer.",
+      "pl": "Odblokowuje projekt wytwarzania Trailblazera.",
+      "no": "L\u00e5ser opp oppskriften for Trailblazer.",
+      "da": "L\u00e5ser opskriften til Trailblazer op.",
+      "it": "Sblocca il progetto di creazione per Trailblazer.",
+      "ru": "\u041e\u0442\u043a\u0440\u044b\u0432\u0430\u0435\u0442 \u0447\u0435\u0440\u0442\u0435\u0436 \u0434\u043b\u044f \u0441\u043e\u0437\u0434\u0430\u043d\u0438\u044f Trailblazer.",
+      "ja": "\u30c8\u30ec\u30a4\u30eb\u30d6\u30ec\u30a4\u30b6\u30fc\u306e\u30af\u30e9\u30d5\u30c8\u8a2d\u8a08\u56f3\u3092\u30a2\u30f3\u30ed\u30c3\u30af\u3059\u308b\u3002",
+      "zh-TW": "\u89e3\u9396\u958b\u62d3\u8005\u7684\u88fd\u4f5c\u85cd\u5716\u3002",
+      "uk": "\u0412\u0456\u0434\u043a\u0440\u0438\u0432\u0430\u0454 \u043a\u0440\u0435\u0441\u043b\u0435\u043d\u043d\u044f \u0434\u043b\u044f \u0441\u0442\u0432\u043e\u0440\u0435\u043d\u043d\u044f Trailblazer.",
+      "zh-CN": "\u89e3\u9501\u5f00\u62d3\u8005\u7684\u5236\u4f5c\u84dd\u56fe\u3002",
+      "kr": "\ud2b8\ub808\uc77c\ube14\ub808\uc774\uc800 \uc81c\uc791 \uc124\uacc4\ub3c4\ub97c \ud574\uae08\ud569\ub2c8\ub2e4.",
+      "tr": "Trailblazer i\u00e7in \u00fcretim plan\u0131n\u0131 a\u00e7ar.",
+      "hr": "Otklju\u010dava nacrt izrade za Trailblazer.",
+      "sr": "Otklju\u010dava nacrt izrade za Trailblazer."
+    },
+    "type": "Blueprint",
+    "value": 5000,
+    "weightKg": 0,
+    "imageFilename": "https://cdn.arctracker.io/items/trailblazer.png",
+    "rarity": "Legendary",
+    "updatedAt": "12/17/2025"
   },
   {
     "id": "trigger_nade",
@@ -39807,6 +40108,7 @@
     "type": "Blueprint",
     "value": 5000,
     "weightKg": 0,
+    "stackSize": 1,
     "rarity": "Legendary",
     "imageFilename": "https://cdn.arctracker.io/items/trigger_nade_blueprint.png",
     "updatedAt": "11/12/2025"
@@ -41090,7 +41392,7 @@
     },
     "description": {
       "en": "Moderately reduces vertical recoil. Compatible with: Arpeggio, Ferro, Venator, Il Toro, Stitcher",
-      "de": "Verringert den vertikalen Ruckstoss moderat. Kompatibel mit: Arpeggio, Ferro, Venator, Il Toro, Stitcher",
+      "de": "Verringert den vertikalen Rucksto\u00df moderat.",
       "fr": "Reduit moderement le recul vertical. Compatible avec : Arpege, Ferro, Venator, Il Toro, Sutureur",
       "es": "Reduce moderadamente el retroceso vertical. Compatible con: Arpeggio, Ferro, Venator, Il Toro, Costurero",
       "pt": "Reduz moderadamente o recuo vertical. Compativel com: Arpeggio, Ferro, Venator, Il Toro, Stitcher",
@@ -41112,6 +41414,7 @@
     "rarity": "Legendary",
     "value": 5000,
     "weightKg": 0,
+    "stackSize": 1,
     "imageFilename": "https://cdn.arctracker.io/items/vertical_grip_ii.png",
     "updatedAt": "12/07/2025"
   },
@@ -41237,7 +41540,7 @@
     },
     "description": {
       "en": "Significantly reduces vertical recoil.",
-      "de": "Verringert den vertikalen R\u00fccksto\u00df erheblich. Kompatibel mit: Tempest, Kettle, Hullcracker, Venator, Il Toro",
+      "de": "Verringert den vertikalen R\u00fccksto\u00df erheblich.",
       "fr": "R\u00e9duit consid\u00e9rablement le recul vertical.",
       "es": "Reduce significativamente el retroceso vertical.",
       "pt": "Reduz significativamente o recuo vertical.",
@@ -41257,6 +41560,7 @@
     },
     "type": "Blueprint",
     "value": 5000,
+    "stackSize": 1,
     "weightKg": 0,
     "imageFilename": "https://cdn.arctracker.io/items/vertical_grip_iii_blueprint.png",
     "rarity": "Legendary",
@@ -41407,7 +41711,7 @@
     },
     "imageFilename": "https://cdn.arctracker.io/items/vita_shot.png",
     "recipe": {
-      "antiseptic": 1,
+      "antiseptic": 2,
       "syringe": 1
     },
     "recyclesInto": {
@@ -42802,7 +43106,7 @@
       "zh-TW": "\u6ffe\u6c34\u5668",
       "uk": "\u0412\u043e\u0434\u044f\u043d\u0438\u0439 \u0444\u0456\u043b\u044c\u0442\u0440",
       "zh-CN": "\u6ee4\u6c34\u5668",
-      "kr": "\uc815\uc218 \ud544\ud130",
+      "kr": "\ubb3c \ud544\ud130",
       "tr": "Su Filtresi",
       "hr": "Filter za Vodu",
       "sr": "Filter za Vodu"
@@ -43232,7 +43536,7 @@
     },
     "description": {
       "en": "A throwable chemical light that illuminates the area around it.",
-      "de": "Ein werfbares chemisches Licht, das die Umgebung erhellt.",
+      "de": "Ein werfbares chemisches Licht, das seine Umgebung erhellt.",
       "fr": "Une lampe chimique jetable qui \u00e9claire la zone qui l'entoure.",
       "es": "Una luz qu\u00edmica arrojadiza que ilumina el \u00e1rea a su alrededor.",
       "pt": "Uma luz qu\u00edmica arremess\u00e1vel que ilumina a \u00e1rea ao redor.",
