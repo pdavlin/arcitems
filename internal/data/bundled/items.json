@@ -5216,7 +5216,13 @@
         "value": "10m"
       }
     },
-    "updatedAt": "10/30/2025"
+    "updatedAt": "12/31/2025",
+    "recipe": {
+      "explosive_compound": 1,
+      "oil": 2
+    },
+    "craftBench": "explosives_bench",
+    "stationLevelRequired": 3
   },
   {
     "id": "blaze_grenade_blueprint",
@@ -5753,7 +5759,12 @@
       }
     },
     "imageFilename": "https://cdn.arctracker.io/items/blue_light_stick.png",
-    "updatedAt": "11/01/2025",
+    "updatedAt": "12/31/2025",
+    "recipe": {
+      "chemicals": 3
+    },
+    "craftBench": "utility_bench",
+    "stationLevelRequired": 2,
     "recyclesInto": {
       "chemicals": 1
     }
@@ -8471,7 +8482,7 @@
       "pl": "Jagody \u015bwiecowe",
       "no": "Stearinb\u00e6r",
       "da": "Lysb\u00e6r",
-      "it": "Bacche di candela",
+      "it": "Baccandele",
       "ru": "\u0421\u0432\u0435\u0447\u043d\u044b\u0435 \u044f\u0433\u043e\u0434\u044b",
       "ja": "\u30ad\u30e3\u30f3\u30c9\u30eb\u30d9\u30ea\u30fc",
       "zh-TW": "\u881f\u8393",
@@ -8491,7 +8502,7 @@
       "pl": "Woskowa jagoda, kt\u00f3ra ro\u015bnie tylko przez kr\u00f3tki okres w roku. Ludzie od wiek\u00f3w polegaj\u0105 na nich do wyrobu \u015bwiec, \u017cywno\u015bci i lek\u00f3w.",
       "no": "Et voksaktig b\u00e6r som bare vokser i en kort periode hvert \u00e5r. Folk har v\u00e6rt avhengige av dem i generasjoner for \u00e5 lage lys, mat og medisin.",
       "da": "Et voksagtigt b\u00e6r, der kun vokser i en kort periode hvert \u00e5r. Folk har i generationer v\u00e6ret afh\u00e6ngige af dem til at lave lys, mad og medicin.",
-      "it": "Una bacca cerosa che cresce solo durante un breve periodo ogni anno. Le persone le hanno usate per secoli per fare candele, cibo e medicine.",
+      "it": "Una bacca cerosa che cresce solo durante un breve periodo dell'anno. Da sempre le persone si affidano a queste bacche per la produzione di candele, alimenti e medicine.",
       "ru": "\u0412\u043e\u0441\u043a\u043e\u0432\u0430\u044f \u044f\u0433\u043e\u0434\u0430, \u043a\u043e\u0442\u043e\u0440\u0430\u044f \u0440\u0430\u0441\u0442\u0451\u0442 \u0442\u043e\u043b\u044c\u043a\u043e \u0432 \u0442\u0435\u0447\u0435\u043d\u0438\u0435 \u043a\u043e\u0440\u043e\u0442\u043a\u043e\u0433\u043e \u043f\u0435\u0440\u0438\u043e\u0434\u0430 \u043a\u0430\u0436\u0434\u044b\u0439 \u0433\u043e\u0434. \u041b\u044e\u0434\u0438 \u0432\u0435\u043a\u0430\u043c\u0438 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043b\u0438 \u0435\u0451 \u0434\u043b\u044f \u0438\u0437\u0433\u043e\u0442\u043e\u0432\u043b\u0435\u043d\u0438\u044f \u0441\u0432\u0435\u0447\u0435\u0439, \u043f\u0440\u043e\u0434\u0443\u043a\u0442\u043e\u0432 \u043f\u0438\u0442\u0430\u043d\u0438\u044f \u0438 \u043b\u0435\u043a\u0430\u0440\u0441\u0442\u0432.",
       "ja": "\u6bce\u5e74\u308f\u305a\u304b\u306a\u671f\u9593\u306b\u3057\u304b\u5b9f\u3089\u306a\u3044\u30ef\u30c3\u30af\u30b9\u72b6\u306e\u679c\u5b9f\u3002\u4eba\u3005\u306f\u53e4\u304f\u304b\u3089\u3053\u308c\u3092\u4f7f\u3063\u3066\u308d\u3046\u305d\u304f\u3084\u98df\u54c1\u3001\u85ac\u3092\u4f5c\u3063\u3066\u304d\u305f\u3002",
       "zh-TW": "\u4e00\u7a2e\u6bcf\u5e74\u53ea\u5728\u77ed\u66ab\u6642\u9593\u5167\u751f\u9577\u7684\u881f\u8cea\u6f3f\u679c\u3002\u4eba\u5011\u9577\u4e45\u4ee5\u4f86\u4e00\u76f4\u4f9d\u8cf4\u5b83\u4f86\u88fd\u4f5c\u881f\u71ed\u3001\u98df\u7269\u548c\u85e5\u54c1\u3002",
@@ -10178,7 +10189,7 @@
       "pl": "Z\u0142o\u017cone cz\u0119\u015bci broni",
       "no": "Komplekse v\u00e5pendeler",
       "da": "Komplekse v\u00e5bendele",
-      "it": "Parti di arma complesse",
+      "it": "Parti di armi complesse",
       "ru": "\u0421\u043b\u043e\u0436\u043d\u044b\u0435 \u0434\u0435\u0442\u0430\u043b\u0438 \u043e\u0440\u0443\u0436\u0438\u044f",
       "ja": "\u8907\u96d1\u306a\u9283\u306e\u90e8\u54c1",
       "zh-TW": "\u8907\u96dc\u69cd\u68b0\u96f6\u4ef6",
@@ -10198,7 +10209,7 @@
       "pl": "U\u017cywane do wytwarzania zaawansowanej broni. U\u017cywane do wytworzenia: Equalizer, Jupiter",
       "no": "Brukes til \u00e5 lage avanserte v\u00e5pen. Brukes til \u00e5 lage: Equalizer, Jupiter",
       "da": "Bruges til at lave avancerede v\u00e5ben. Bruges til at lave: Equalizer, Jupiter",
-      "it": "Si usa per creare armi avanzate. Si usa per creare: Equalizer, Jupiter",
+      "it": "Si usa per creare armi avanzate. Si usa per creare: Equalizzatore, Aphelion, Giove",
       "ru": "\u0418\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0435\u0442\u0441\u044f \u0434\u043b\u044f \u0441\u043e\u0437\u0434\u0430\u043d\u0438\u044f \u043f\u0440\u043e\u0434\u0432\u0438\u043d\u0443\u0442\u043e\u0433\u043e \u043e\u0440\u0443\u0436\u0438\u044f. \u0418\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0435\u0442\u0441\u044f \u0434\u043b\u044f \u043a\u0440\u0430\u0444\u0442\u0430: Equalizer, Jupiter",
       "ja": "\u9ad8\u5ea6\u306a\u6b66\u5668\u306e\u88fd\u4f5c\u306b\u4f7f\u7528\u3002\u88fd\u4f5c\u53ef\u80fd: Equalizer\u3001Jupiter",
       "zh-TW": "\u7528\u65bc\u88fd\u4f5c\u9ad8\u7d1a\u6b66\u5668\u3002\u53ef\u88fd\u4f5c\uff1aEqualizer\u3001Jupiter",
@@ -12667,7 +12678,8 @@
     "updatedAt": "11/17/2025",
     "rarity": "Common",
     "weightKg": 0.25,
-    "imageFilename": "https://cdn.arctracker.io/items/esr_analyzer.png"
+    "imageFilename": "https://cdn.arctracker.io/items/esr_analyzer.png",
+    "questItem": true
   },
   {
     "id": "exodus_modules",
@@ -14159,7 +14171,13 @@
       }
     },
     "imageFilename": "https://cdn.arctracker.io/items/extended_shotgun_mag_ii.png",
-    "updatedAt": "11/02/2025"
+    "updatedAt": "12/31/2025",
+    "recipe": {
+      "mechanical_components": 2,
+      "steel_spring": 3
+    },
+    "craftBench": "weapon_bench",
+    "stationLevelRequired": 2
   },
   {
     "id": "extended_shotgun_mag_ii_blueprint",
@@ -15746,7 +15764,8 @@
     "weightKg": 0.25,
     "imageFilename": "https://cdn.arctracker.io/items/first_wave_compass.png",
     "rarity": "Common",
-    "updatedAt": "11/17/2025"
+    "updatedAt": "11/17/2025",
+    "questItem": true
   },
   {
     "name": {
@@ -15794,7 +15813,8 @@
     "weightKg": 0.25,
     "imageFilename": "https://cdn.arctracker.io/items/first_wave_rations.png",
     "rarity": "Common",
-    "updatedAt": "11/17/2025"
+    "updatedAt": "11/17/2025",
+    "questItem": true
   },
   {
     "name": {
@@ -15842,7 +15862,8 @@
     "weightKg": 0.25,
     "imageFilename": "https://cdn.arctracker.io/items/first_wave_tape.png",
     "rarity": "Common",
-    "updatedAt": "11/17/2025"
+    "updatedAt": "11/17/2025",
+    "questItem": true
   },
   {
     "id": "flame_spray",
@@ -15935,7 +15956,12 @@
       }
     },
     "imageFilename": "https://cdn.arctracker.io/items/flame_spray.png",
-    "updatedAt": "11/04/2025"
+    "updatedAt": "12/31/2025",
+    "recipe": {
+      "air_freshener": 1,
+      "fireball_burner": 1
+    },
+    "craftBench": "in_raid"
   },
   {
     "name": {
@@ -16400,7 +16426,7 @@
       "apricot": 1,
       "prickly_pear": 1
     },
-    "craftBench": "Inventory",
+    "craftBench": "in_raid",
     "blueprintLocked": false,
     "imageFilename": "https://cdn.arctracker.io/items/fruit_mix.png",
     "updatedAt": "11/12/2025"
@@ -19107,7 +19133,7 @@
       "pl": "Hullcracker I",
       "no": "Hullcracker I",
       "da": "Hullcracker I",
-      "it": "Hullcracker I",
+      "it": "Spaccascudi I",
       "ru": "\u0412\u0437\u043b\u043e\u043c\u0449\u0438\u043a \u043a\u043e\u0440\u043f\u0443\u0441\u043e\u0432 I",
       "ja": "\u30cf\u30eb\u30af\u30e9\u30c3\u30ab\u30fc I",
       "zh-TW": "Hullcracker I",
@@ -19127,7 +19153,7 @@
       "pl": "Wystrzeliwuje pociski wybuchowe, kt\u00f3re detonuj\u0105 tylko po trafieniu ARC.",
       "no": "Skyter eksplosive prosjektiler som bare detonerer n\u00e5r de treffer ARC.",
       "da": "Affyrer eksplosive projektiler, der kun detonerer ved tr\u00e6f p\u00e5 ARC.",
-      "it": "Spara proiettili esplosivi che detonano solo colpendo ARC.",
+      "it": "Spara proiettili esplosivi che si attivano solo colpendo ARC.",
       "ru": "\u0421\u0442\u0440\u0435\u043b\u044f\u0435\u0442 \u0440\u0430\u0437\u0440\u044b\u0432\u043d\u044b\u043c\u0438 \u0441\u043d\u0430\u0440\u044f\u0434\u0430\u043c\u0438, \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0432\u0437\u0440\u044b\u0432\u0430\u044e\u0442\u0441\u044f \u0442\u043e\u043b\u044c\u043a\u043e \u043f\u0440\u0438 \u043f\u043e\u043f\u0430\u0434\u0430\u043d\u0438\u0438 \u0432 ARC.",
       "ja": "ARC\u306b\u547d\u4e2d\u3057\u305f\u6642\u306e\u307f\u7206\u767a\u3059\u308b\u7206\u767a\u6027\u306e\u5f3e\u3092\u767a\u5c04\u3059\u308b\u3002",
       "zh-TW": "\u767c\u5c04\u7206\u70b8\u6027\u5f48\u85e5\uff0c\u50c5\u5728\u64ca\u4e2dARC\u6642\u5f15\u7206\u3002",
@@ -19275,7 +19301,7 @@
       "zh-TW": "\u7834\u6bbc\u8005 II",
       "tr": "G\u00f6vde K\u0131r\u0131c\u0131 II",
       "zh-CN": "\u7834\u58f3\u8005 II",
-      "it": "Spaccascafo II",
+      "it": "Spaccascudi II",
       "kr": "\ud5d0\ud06c\ub798\ucee4 II",
       "sr": "Loma\u010d Trupa II",
       "pl": "\u0141amacz Kad\u0142ub\u00f3w II",
@@ -19472,7 +19498,7 @@
       "zh-TW": "\u7834\u6bbc\u8005 III",
       "tr": "G\u00f6vde K\u0131r\u0131c\u0131 III",
       "zh-CN": "\u7834\u58f3\u8005 III",
-      "it": "Spaccascafo III",
+      "it": "Spaccascudi III",
       "kr": "\ud5d0\ud06c\ub798\ucee4 III",
       "sr": "Loma\u010d Trupa III",
       "pl": "\u0141amacz Kad\u0142ub\u00f3w III",
@@ -19669,7 +19695,7 @@
       "zh-TW": "\u7834\u6bbc\u8005 IV",
       "tr": "G\u00f6vde K\u0131r\u0131c\u0131 IV",
       "zh-CN": "\u7834\u58f3\u8005 IV",
-      "it": "Spaccascafo IV",
+      "it": "Spaccascudi IV",
       "kr": "\ud5d0\ud06c\ub798\ucee4 IV",
       "sr": "Loma\u010d Trupa IV",
       "pl": "\u0141amacz Kad\u0142ub\u00f3w IV",
@@ -20992,7 +21018,7 @@
       "pl": "Rozpylacz jonowy",
       "no": "Ionesputter",
       "da": "Ionesputter",
-      "it": "Polverizzatore ionico",
+      "it": "Sputter ionico",
       "ja": "\u30a4\u30aa\u30f3\u30b9\u30d1\u30c3\u30bf\u30fc",
       "kr": "\uc774\uc628 \uc2a4\ud37c\ud130",
       "zh-CN": "\u79bb\u5b50\u6e85\u5c04\u5668",
@@ -22341,7 +22367,7 @@
       "pl": "Jednostka pulsacyjna skoczka",
       "no": "Hopper-pulsenhet",
       "da": "Springer-pulsenhed",
-      "it": "Unit\u00e0 a impulsi del saltatore",
+      "it": "Unit\u00e0 a impulso Leaper",
       "ru": "\u0418\u043c\u043f\u0443\u043b\u044c\u0441\u043d\u044b\u0439 \u0431\u043b\u043e\u043a \u041f\u0440\u044b\u0433\u0443\u043d\u0430",
       "ja": "\u30ea\u30fc\u30d1\u30fc\u30fb\u30d1\u30eb\u30b9\u30e6\u30cb\u30c3\u30c8",
       "zh-TW": "\u8df3\u8e8d\u8005\u8108\u885d\u88dd\u7f6e",
@@ -22413,7 +22439,7 @@
       "pl": "Mo\u017cna go podda\u0107 recyklingowi na materia\u0142y rzemie\u015blnicze. Mo\u017cna nim rzuci\u0107, aby stworzy\u0107 gwa\u0142town\u0105 osobliwo\u015b\u0107.",
       "no": "Kan resirkuleres til h\u00e5ndverksmaterialer. Kan kastes for \u00e5 skape en voldsom singularitet.",
       "da": "Kan genbruges til h\u00e5ndv\u00e6rksmaterialer. Kan kastes for at skabe en voldsom singularitet.",
-      "it": "Si pu\u00f2 riciclare in materiali per il crafting. Pu\u00f2 essere lanciato per creare una violenta singolarit\u00e0.",
+      "it": "Si pu\u00f2 riciclare in materiali da creazione. Si pu\u00f2 lanciare per creare una singolarit\u00e0 violenta",
       "ru": "\u041c\u043e\u0436\u043d\u043e \u043f\u0435\u0440\u0435\u0440\u0430\u0431\u043e\u0442\u0430\u0442\u044c \u0432 \u043c\u0430\u0442\u0435\u0440\u0438\u0430\u043b\u044b \u0434\u043b\u044f \u043a\u0440\u0430\u0444\u0442\u0430. \u041c\u043e\u0436\u043d\u043e \u0431\u0440\u043e\u0441\u0438\u0442\u044c, \u0447\u0442\u043e\u0431\u044b \u0441\u043e\u0437\u0434\u0430\u0442\u044c \u043c\u043e\u0449\u043d\u0443\u044e \u0441\u0438\u043d\u0433\u0443\u043b\u044f\u0440\u043d\u043e\u0441\u0442\u044c.",
       "ja": "\u30af\u30e9\u30d5\u30c8\u7d20\u6750\u306b\u30ea\u30b5\u30a4\u30af\u30eb\u3067\u304d\u307e\u3059\u3002\u6295\u3052\u308b\u3068\u5f37\u529b\u306a\u7279\u7570\u70b9\u3092\u751f\u6210\u3057\u307e\u3059\u3002",
       "zh-TW": "\u53ef\u56de\u6536\u70ba\u88fd\u4f5c\u6750\u6599\u3002\u53ef\u6295\u64f2\u4ee5\u5275\u9020\u731b\u70c8\u7684\u5947\u9ede\u3002",
@@ -25992,7 +26018,12 @@
       }
     },
     "imageFilename": "https://cdn.arctracker.io/items/noisemaker.png",
-    "updatedAt": "10/30/2025"
+    "updatedAt": "12/31/2025",
+    "recipe": {
+      "speaker_component": 1,
+      "plastic_parts": 2
+    },
+    "craftBench": "in_raid"
   },
   {
     "id": "number_plate",
@@ -27329,7 +27360,13 @@
       }
     },
     "imageFilename": "https://cdn.arctracker.io/items/padded_stock.png",
-    "updatedAt": "11/12/2025"
+    "updatedAt": "12/31/2025",
+    "recipe": {
+      "mod_components": 2,
+      "duct_tape": 5
+    },
+    "craftBench": "weapon_bench",
+    "stationLevelRequired": 3
   },
   {
     "id": "padded_stock_blueprint",
@@ -28065,7 +28102,7 @@
       "pl": "Pr\u0119t zasilaj\u0105cy",
       "no": "Kraftstang",
       "da": "Kraftstang",
-      "it": "Asta di alimentazione",
+      "it": "Asta di trasmissione",
       "ru": "\u042d\u043d\u0435\u0440\u0433\u0435\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0441\u0442\u0435\u0440\u0436\u0435\u043d\u044c",
       "ja": "\u96fb\u6c17\u30ed\u30c3\u30c9",
       "zh-TW": "\u80fd\u91cf\u68d2",
@@ -28085,7 +28122,7 @@
       "pl": "U\u017cywane do wytwarzania. U\u017cywane do wytworzenia: Ci\u0119\u017cka tarcza, Karabi\u0144czyk",
       "no": "Brukes til h\u00e5ndverk. Brukes til \u00e5 lage: Tungt skjold, Karabinkrok",
       "da": "Bruges til h\u00e5ndv\u00e6rk. Bruges til at lave: Tungt skjold, Karabinkrog",
-      "it": "Usato per la fabbricazione. Si usa per creare: Scudo pesante, Moschettone",
+      "it": "Utile per le creazioni. Si usa per creare: Scudo pesante, Gancio a scatto",
       "ru": "\u0418\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0435\u0442\u0441\u044f \u0432 \u0441\u043e\u0437\u0434\u0430\u043d\u0438\u0438 \u043f\u0440\u0435\u0434\u043c\u0435\u0442\u043e\u0432. \u0418\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0435\u0442\u0441\u044f \u0434\u043b\u044f \u0441\u043e\u0437\u0434\u0430\u043d\u0438\u044f: \u0442\u044f\u0436\u0435\u043b\u044b\u0439 \u0449\u0438\u0442, \u043a\u0430\u0440\u0430\u0431\u0438\u043d",
       "ja": "\u88fd\u4f5c\u306b\u4f7f\u7528\u3002\u88fd\u4f5c\u306b\u4f7f\u7528: \u30d8\u30d3\u30fc\u30b7\u30fc\u30eb\u30c9\u3001\u30b9\u30ca\u30c3\u30d7\u30d5\u30c3\u30af",
       "zh-TW": "\u7528\u65bc\u88fd\u4f5c\u3002\u7528\u65bc\u88fd\u4f5c\uff1a\u91cd\u578b\u8b77\u76fe\u3001\u5feb\u6263\u9264",
@@ -28357,8 +28394,13 @@
       "chemicals": 3
     },
     "imageFilename": "https://cdn.arctracker.io/items/pulse_mine.png",
-    "updatedAt": "12/16/2025",
+    "updatedAt": "12/31/2025",
+    "recipe": {
+      "crude_explosives": 1,
+      "wires": 1
+    },
     "craftBench": "explosives_bench",
+    "stationLevelRequired": 1,
     "blueprintLocked": true
   },
   {
@@ -30868,7 +30910,7 @@
       "pl": "Nap\u0119d rakietowy",
       "no": "Rakettdriver",
       "da": "Raketdriver",
-      "it": "Propulsore a razzo",
+      "it": "Driver di lanciarazzi",
       "ru": "\u0414\u0440\u0430\u0439\u0432\u0435\u0440 \u0420\u0430\u043a\u0435\u0442\u0447\u0438\u043a\u0430",
       "ja": "\u30ed\u30b1\u30c3\u30c6\u30a3\u30a2\u30c9\u30e9\u30a4\u30d0\u30fc",
       "zh-TW": "\u706b\u7bad\u5175\u9a45\u52d5\u5668",
@@ -30896,7 +30938,7 @@
       "pl": "Mo\u017cna przetworzy\u0107 na materia\u0142y rzemie\u015blnicze.",
       "no": "Kan resirkuleres til h\u00e5ndverksmateriell.",
       "da": "Kan genbruges til h\u00e5ndv\u00e6rksmaterialer.",
-      "it": "Si pu\u00f2 riciclare in materiali da costruzione.",
+      "it": "Si pu\u00f2 riciclare in materiali da creazione.",
       "ru": "\u041c\u043e\u0436\u043d\u043e \u043f\u0435\u0440\u0435\u0440\u0430\u0431\u043e\u0442\u0430\u0442\u044c \u0432 \u043c\u0430\u0442\u0435\u0440\u0438\u0430\u043b\u044b \u0434\u043b\u044f \u043a\u0440\u0430\u0444\u0442\u0430.",
       "ja": "\u30af\u30e9\u30d5\u30c8\u7d20\u6750\u306b\u30ea\u30b5\u30a4\u30af\u30eb\u3067\u304d\u307e\u3059\u3002",
       "zh-TW": "\u53ef\u56de\u6536\u70ba\u88fd\u4f5c\u6750\u6599\u3002",
@@ -31859,7 +31901,7 @@
       "pl": "Zardzewia\u0142e narz\u0119dzia",
       "no": "Rustne verkt\u00f8y",
       "da": "Rustne v\u00e6rkt\u00f8jer",
-      "it": "Attrezzi arrugginiti",
+      "it": "Strumenti arrugginiti",
       "ru": "\u0420\u0436\u0430\u0432\u044b\u0435 \u0438\u043d\u0441\u0442\u0440\u0443\u043c\u0435\u043d\u0442\u044b",
       "ja": "\u9306\u3073\u305f\u9053\u5177",
       "zh-TW": "\u751f\u93fd\u7684\u5de5\u5177",
@@ -32457,7 +32499,8 @@
     },
     "craftBench": [
       "workbench",
-      "med_station"
+      "med_station",
+      "in_raid"
     ],
     "recyclesInto": {
       "rubber_parts": 4
@@ -33465,7 +33508,7 @@
       "sr": "Blago smanjuje koli\u010dinu buke proizvedene pri pucanju."
     },
     "type": "Modification",
-    "updatedAt": "10/30/2025",
+    "updatedAt": "12/31/2025",
     "rarity": "Uncommon",
     "effects": {
       "Noise Reduction": {
@@ -33492,7 +33535,13 @@
     },
     "value": 2000,
     "weightKg": 0.25,
-    "imageFilename": "https://cdn.arctracker.io/items/silencer_i.png"
+    "imageFilename": "https://cdn.arctracker.io/items/silencer_i.png",
+    "recipe": {
+      "mechanical_components": 2,
+      "wires": 4
+    },
+    "craftBench": "weapon_bench",
+    "stationLevelRequired": 2
   },
   {
     "id": "silencer_i_blueprint",
@@ -33613,7 +33662,13 @@
       }
     },
     "imageFilename": "https://cdn.arctracker.io/items/silencer_ii.png",
-    "updatedAt": "10/30/2025"
+    "updatedAt": "12/31/2025",
+    "recipe": {
+      "mod_components": 2,
+      "wires": 8
+    },
+    "craftBench": "weapon_bench",
+    "stationLevelRequired": 3
   },
   {
     "id": "silencer_ii_blueprint",
@@ -35940,7 +35995,7 @@
       "pl": "Stitcher I",
       "no": "Stitcher I",
       "da": "Stitcher I",
-      "it": "Stitcher I",
+      "it": "Stormo I",
       "ru": "\u0421\u0448\u0438\u0432\u0430\u0442\u0435\u043b\u044c I",
       "ja": "\u30b9\u30c6\u30a3\u30c3\u30c1\u30e3\u30fc I",
       "zh-TW": "\u7e2b\u5408\u8005 I",
@@ -35960,7 +36015,7 @@
       "pl": "Zadaje dobre obra\u017cenia, ale ma do\u015b\u0107 nisk\u0105 szybkostrzelno\u015b\u0107 i mo\u017ce by\u0107 trudny w kontroli.",
       "no": "Gj\u00f8r god skade, men har ganske lav skuddfrekvens og kan v\u00e6re vanskelig \u00e5 kontrollere.",
       "da": "Giver god skade, men har en ret lav skudhastighed og kan v\u00e6re sv\u00e6r at kontrollere.",
-      "it": "Infligge buoni danni, ma ha una cadenza di fuoco piuttosto bassa e pu\u00f2 essere difficile da controllare.",
+      "it": "\u00c8 rapido e preciso, ma ha una velocit\u00e0 dei proiettili ridotta e richiede molto tempo per essere ricaricato.",
       "ru": "\u041d\u0430\u043d\u043e\u0441\u0438\u0442 \u0445\u043e\u0440\u043e\u0448\u0438\u0439 \u0443\u0440\u043e\u043d, \u043d\u043e \u0438\u043c\u0435\u0435\u0442 \u0434\u043e\u0432\u043e\u043b\u044c\u043d\u043e \u043d\u0438\u0437\u043a\u0443\u044e \u0441\u043a\u043e\u0440\u043e\u0441\u0442\u0440\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u044c \u0438 \u043c\u043e\u0436\u0435\u0442 \u0431\u044b\u0442\u044c \u0441\u043b\u043e\u0436\u043d\u0430 \u0432 \u0443\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0438.",
       "ja": "\u512a\u308c\u305f\u30c0\u30e1\u30fc\u30b8\u3092\u4e0e\u3048\u308b\u304c\u3001\u767a\u5c04\u901f\u5ea6\u304c\u304b\u306a\u308a\u4f4e\u304f\u3001\u5236\u5fa1\u304c\u96e3\u3057\u3044\u3002",
       "zh-TW": "\u9020\u6210\u4e0d\u932f\u7684\u50b7\u5bb3\uff0c\u4f46\u5c04\u901f\u76f8\u7576\u4f4e\u4e14\u96e3\u4ee5\u63a7\u5236\u3002",
@@ -36112,7 +36167,7 @@
       "pl": "Stitcher II",
       "no": "Stitcher II",
       "da": "Stitcher II",
-      "it": "Stitcher II",
+      "it": "Stormo II",
       "ru": "\u0421\u0448\u0438\u0432\u0430\u0442\u0435\u043b\u044c II",
       "ja": "\u30b9\u30c6\u30a3\u30c3\u30c1\u30e3\u30fc II",
       "zh-TW": "\u7e2b\u5408\u8005 II",
@@ -36322,7 +36377,7 @@
       "pl": "Stitcher III",
       "no": "Stitcher III",
       "da": "Stitcher III",
-      "it": "Stitcher III",
+      "it": "Stormo III",
       "ru": "\u0421\u0448\u0438\u0432\u0430\u0442\u0435\u043b\u044c III",
       "ja": "\u30b9\u30c6\u30a3\u30c3\u30c1\u30e3\u30fc III",
       "zh-TW": "\u7e2b\u5408\u8005 III",
@@ -36532,7 +36587,7 @@
       "pl": "Stitcher IV",
       "no": "Stitcher IV",
       "da": "Stitcher IV",
-      "it": "Stitcher IV",
+      "it": "Stormo IV",
       "ru": "\u0421\u0448\u0438\u0432\u0430\u0442\u0435\u043b\u044c IV",
       "ja": "\u30b9\u30c6\u30a3\u30c3\u30c1\u30e3\u30fc IV",
       "zh-TW": "\u7e2b\u5408\u8005 IV",
@@ -37540,7 +37595,13 @@
     "weightKg": 4,
     "value": 5000,
     "imageFilename": "https://cdn.arctracker.io/items/tactical_mk3_healing.png",
-    "updatedAt": "11/05/2025"
+    "updatedAt": "12/31/2025",
+    "recipe": {
+      "advanced_electrical_components": 2,
+      "processor": 3
+    },
+    "craftBench": "equipment_bench",
+    "stationLevelRequired": 3
   },
   {
     "id": "tactical_mk3_healing_blueprint",
@@ -43158,7 +43219,7 @@
       "pl": "Pompa wodna",
       "no": "Vannpumpe",
       "da": "Vandpumpe",
-      "it": "Pompa dell'acqua",
+      "it": "Pompa idrica",
       "ru": "\u0412\u043e\u0434\u044f\u043d\u043e\u0439 \u043d\u0430\u0441\u043e\u0441",
       "ja": "\u9001\u6c34\u30dd\u30f3\u30d7",
       "zh-TW": "\u62bd\u6c34\u6a5f",
@@ -43178,7 +43239,7 @@
       "pl": "Mo\u017cna przetworzy\u0107 na materia\u0142y rzemie\u015blnicze.",
       "no": "Kan resirkuleres til h\u00e5ndverksmateriell.",
       "da": "Kan genbruges til h\u00e5ndv\u00e6rksmaterialer.",
-      "it": "Pu\u00f2 essere riciclata in materiali da crafting.",
+      "it": "Si pu\u00f2 riciclare in materiali da creazione.",
       "ru": "\u041c\u043e\u0436\u043d\u043e \u043f\u0435\u0440\u0435\u0440\u0430\u0431\u043e\u0442\u0430\u0442\u044c \u0432 \u043c\u0430\u0442\u0435\u0440\u0438\u0430\u043b\u044b \u0434\u043b\u044f \u043a\u0440\u0430\u0444\u0442\u0430.",
       "ja": "\u30af\u30e9\u30d5\u30c8\u7d20\u6750\u306b\u30ea\u30b5\u30a4\u30af\u30eb\u3067\u304d\u308b\u3002",
       "zh-TW": "\u53ef\u4ee5\u56de\u6536\u6210\u88fd\u4f5c\u6750\u6599\u3002",
@@ -43510,7 +43571,12 @@
       }
     },
     "imageFilename": "https://cdn.arctracker.io/items/yellow_light_stick.png",
-    "updatedAt": "11/01/2025"
+    "updatedAt": "12/31/2025",
+    "recipe": {
+      "chemicals": 3
+    },
+    "craftBench": "explosives_bench",
+    "stationLevelRequired": 3
   },
   {
     "id": "yellow_light_stick_blueprint",
