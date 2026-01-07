@@ -8801,7 +8801,8 @@
       "simple_gun_parts": 2
     },
     "imageFilename": "https://cdn.arctracker.io/items/burletta.png",
-    "updatedAt": "11/24/2025"
+    "updatedAt": "11/24/2025",
+    "isWeapon": true
   },
   {
     "id": "burletta_iii",
@@ -8862,7 +8863,8 @@
       "simple_gun_parts": 3
     },
     "imageFilename": "https://cdn.arctracker.io/items/burletta.png",
-    "updatedAt": "11/24/2025"
+    "updatedAt": "11/24/2025",
+    "isWeapon": true
   },
   {
     "id": "burletta_iv",
@@ -8923,7 +8925,8 @@
       "simple_gun_parts": 4
     },
     "imageFilename": "https://cdn.arctracker.io/items/burletta.png",
-    "updatedAt": "11/24/2025"
+    "updatedAt": "11/24/2025",
+    "isWeapon": true
   },
   {
     "id": "burned_arc_circuitry",
@@ -23468,7 +23471,8 @@
       "rubber_parts": 6
     },
     "imageFilename": "https://cdn.arctracker.io/items/kettle.png",
-    "updatedAt": "10/30/2025"
+    "updatedAt": "10/30/2025",
+    "isWeapon": true
   },
   {
     "id": "kettle_iii",
