@@ -2,26 +2,26 @@
   {
     "id": "equipment_bench",
     "name": {
-      "en": "Gear Bench",
-      "de": "Ausr\u00fcstungsbank",
-      "fr": "\u00c9tabli \u00e0 mat\u00e9riel",
-      "es": "Banco de equipo",
-      "pt": "Bancada de equipamento",
-      "pl": "St\u00f3\u0142 ekwipunku",
-      "no": "Utstyrsbenk",
       "da": "Udstyrsb\u00e6nk",
-      "ru": "\u0412\u0435\u0440\u0441\u0442\u0430\u043a \u0434\u043b\u044f \u0441\u043d\u0430\u0440\u044f\u0436\u0435\u043d\u0438\u044f",
-      "ja": "\u88c5\u5099\u30d9\u30f3\u30c1",
-      "it": "Banco Equipaggiamento",
-      "kr": "\uc7a5\ube44 \uc791\uc5c5\ub300",
-      "zh-CN": "\u88c5\u5907\u5de5\u4f5c\u53f0",
-      "zh-TW": "\u88dd\u5099\u5de5\u4f5c\u53f0",
-      "uk": "\u0421\u043f\u043e\u0440\u044f\u0434\u0436\u0435\u043d\u043d\u044f",
-      "tr": "Ekipman Tezgah\u0131",
+      "de": "Ausr\u00fcstungsbank",
+      "en": "Gear Bench",
+      "es": "Banco de equipo",
+      "fr": "\u00c9tabli \u00e0 mat\u00e9riel",
+      "he": "\u05e2\u05de\u05d3\u05ea \u05e6\u05d9\u05d5\u05d3",
       "hr": "Stol za Opremu",
-      "sr": "Sto za Opremu",
+      "it": "Banco Equipaggiamento",
+      "ja": "\u88c5\u5099\u30d9\u30f3\u30c1",
+      "kr": "\uc7a5\ube44 \uc791\uc5c5\ub300",
+      "no": "Utstyrsbenk",
+      "pl": "St\u00f3\u0142 ekwipunku",
+      "pt": "Bancada de equipamento",
       "pt-BR": "Bancada de Equipamento",
-      "he": "\u05e2\u05de\u05d3\u05ea \u05e6\u05d9\u05d5\u05d3"
+      "ru": "\u0412\u0435\u0440\u0441\u0442\u0430\u043a \u0434\u043b\u044f \u0441\u043d\u0430\u0440\u044f\u0436\u0435\u043d\u0438\u044f",
+      "sr": "Sto za Opremu",
+      "tr": "Ekipman Tezgah\u0131",
+      "uk": "\u0421\u043f\u043e\u0440\u044f\u0434\u0436\u0435\u043d\u043d\u044f",
+      "zh-CN": "\u88c5\u5907\u5de5\u4f5c\u53f0",
+      "zh-TW": "\u88dd\u5099\u5de5\u4f5c\u53f0"
     },
     "maxLevel": 3,
     "levels": [
@@ -77,26 +77,26 @@
   {
     "id": "explosives_bench",
     "name": {
-      "en": "Explosives Station",
-      "de": "Sprengstoffstation",
-      "fr": "Station \u00e0 explosifs",
-      "es": "Estaci\u00f3n de explosivos",
-      "pt": "Esta\u00e7\u00e3o de explosivos",
-      "pl": "Stacja materia\u0142\u00f3w wybuchowych",
-      "no": "Eksplosivstasjon",
       "da": "Spr\u00e6ngstofstation",
-      "ru": "\u0412\u0435\u0440\u0441\u0442\u0430\u043a \u0434\u043b\u044f \u0432\u0437\u0440\u044b\u0432\u0447\u0430\u0442\u043a\u0438",
-      "ja": "\u7206\u767a\u7269\u30b9\u30c6\u30fc\u30b7\u30e7\u30f3",
-      "it": "Stazione Esplosivi",
-      "kr": "\ud3ed\ubc1c\ubb3c \uc2a4\ud14c\uc774\uc158",
-      "zh-CN": "\u7206\u70b8\u7269\u5de5\u4f5c\u7ad9",
-      "zh-TW": "\u7206\u88c2\u7269\u5de5\u4f5c\u7ad9",
-      "uk": "\u0421\u0442\u0430\u043d\u0446\u0456\u044f \u0432\u0438\u0431\u0443\u0445\u0456\u0432\u043a\u0438",
-      "tr": "Patlay\u0131c\u0131 \u0130stasyonu",
+      "de": "Sprengstoffstation",
+      "en": "Explosives Station",
+      "es": "Estaci\u00f3n de explosivos",
+      "fr": "Station \u00e0 explosifs",
+      "he": "\u05e2\u05de\u05d3\u05ea \u05d7\u05d5\u05de\u05e8\u05d9 \u05e0\u05e4\u05e5",
       "hr": "Stanica za eksploziv",
-      "sr": "Stanica za eksploziv",
+      "it": "Stazione Esplosivi",
+      "ja": "\u7206\u767a\u7269\u30b9\u30c6\u30fc\u30b7\u30e7\u30f3",
+      "kr": "\ud3ed\ubc1c\ubb3c \uc2a4\ud14c\uc774\uc158",
+      "no": "Eksplosivstasjon",
+      "pl": "Stacja materia\u0142\u00f3w wybuchowych",
+      "pt": "Esta\u00e7\u00e3o de explosivos",
       "pt-BR": "Esta\u00e7\u00e3o de Explosivos",
-      "he": "\u05e2\u05de\u05d3\u05ea \u05d7\u05d5\u05de\u05e8\u05d9 \u05e0\u05e4\u05e5"
+      "ru": "\u0412\u0435\u0440\u0441\u0442\u0430\u043a \u0434\u043b\u044f \u0432\u0437\u0440\u044b\u0432\u0447\u0430\u0442\u043a\u0438",
+      "sr": "Stanica za eksploziv",
+      "tr": "Patlay\u0131c\u0131 \u0130stasyonu",
+      "uk": "\u0421\u0442\u0430\u043d\u0446\u0456\u044f \u0432\u0438\u0431\u0443\u0445\u0456\u0432\u043a\u0438",
+      "zh-CN": "\u7206\u70b8\u7269\u5de5\u4f5c\u7ad9",
+      "zh-TW": "\u7206\u88c2\u7269\u5de5\u4f5c\u7ad9"
     },
     "maxLevel": 3,
     "levels": [
@@ -152,26 +152,26 @@
   {
     "id": "med_station",
     "name": {
-      "en": "Medical Lab",
-      "de": "Medizinisches Labor",
-      "fr": "Laboratoire M\u00e9dical",
-      "es": "Laboratorio m\u00e9dico",
-      "pt": "Laborat\u00f3rio m\u00e9dico",
-      "pl": "Laboratorium medyczne",
-      "no": "Medisinsk laboratorium",
       "da": "Medicinsk laboratorium",
-      "ru": "\u041c\u0435\u0434\u0438\u0446\u0438\u043d\u0441\u043a\u0430\u044f \u043b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u0438\u044f",
-      "ja": "\u533b\u7642\u30e9\u30dc",
-      "it": "Laboratorio Medico",
-      "kr": "\uc758\uc57d\ud488 \uc5f0\uad6c\uc2e4",
-      "zh-CN": "\u533b\u7597\u7ad9",
-      "zh-TW": "\u91ab\u7642\u7ad9",
-      "uk": "\u041c\u0435\u0434\u0438\u0447\u043d\u0430 \u043b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u0456\u044f",
-      "tr": "T\u0131bbi Laboratuvar",
+      "de": "Medizinisches Labor",
+      "en": "Medical Lab",
+      "es": "Laboratorio m\u00e9dico",
+      "fr": "Laboratoire M\u00e9dical",
+      "he": "\u05de\u05e2\u05d1\u05d3\u05d4 \u05e8\u05e4\u05d5\u05d0\u05d9\u05ea",
       "hr": "Medicinski Laboratorij",
-      "sr": "Medicinska Laboratorija",
+      "it": "Laboratorio Medico",
+      "ja": "\u533b\u7642\u30e9\u30dc",
+      "kr": "\uc758\uc57d\ud488 \uc5f0\uad6c\uc2e4",
+      "no": "Medisinsk laboratorium",
+      "pl": "Laboratorium medyczne",
+      "pt": "Laborat\u00f3rio m\u00e9dico",
       "pt-BR": "Laborat\u00f3rio M\u00e9dico",
-      "he": "\u05de\u05e2\u05d1\u05d3\u05d4 \u05e8\u05e4\u05d5\u05d0\u05d9\u05ea"
+      "ru": "\u041c\u0435\u0434\u0438\u0446\u0438\u043d\u0441\u043a\u0430\u044f \u043b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u0438\u044f",
+      "sr": "Medicinska Laboratorija",
+      "tr": "T\u0131bbi Laboratuvar",
+      "uk": "\u041c\u0435\u0434\u0438\u0447\u043d\u0430 \u043b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u0456\u044f",
+      "zh-CN": "\u533b\u7597\u7ad9",
+      "zh-TW": "\u91ab\u7642\u7ad9"
     },
     "maxLevel": 3,
     "levels": [
@@ -227,26 +227,26 @@
   {
     "id": "refiner",
     "name": {
-      "en": "Refiner",
-      "de": "Veredler",
-      "fr": "Raffineur",
-      "es": "Refiner\u00eda",
-      "pt": "Refinaria",
-      "pl": "Rafineria",
-      "no": "Raffineri",
       "da": "Raffinaderi",
-      "ru": "\u041e\u0447\u0438\u0441\u0442\u0438\u0442\u0435\u043b\u044c",
-      "ja": "\u7cbe\u932c\u6a5f",
-      "it": "Raffineria",
-      "kr": "\uac00\uacf5\uae30",
-      "zh-CN": "\u7cbe\u70bc\u7ad9",
-      "zh-TW": "\u7cbe\u7149\u7ad9",
-      "uk": "\u041e\u0447\u0438\u0441\u043d\u0438\u043a",
-      "tr": "Rafine \u00dcnitesi",
+      "de": "Veredler",
+      "en": "Refiner",
+      "es": "Refiner\u00eda",
+      "fr": "Raffineur",
+      "he": "\u05de\u05d6\u05e7\u05e7",
       "hr": "Rafinerija",
-      "sr": "Rafinerija",
+      "it": "Raffineria",
+      "ja": "\u7cbe\u932c\u6a5f",
+      "kr": "\uac00\uacf5\uae30",
+      "no": "Raffineri",
+      "pl": "Rafineria",
+      "pt": "Refinaria",
       "pt-BR": "Refinador",
-      "he": "\u05de\u05d6\u05e7\u05e7"
+      "ru": "\u041e\u0447\u0438\u0441\u0442\u0438\u0442\u0435\u043b\u044c",
+      "sr": "Rafinerija",
+      "tr": "Rafine \u00dcnitesi",
+      "uk": "\u041e\u0447\u0438\u0441\u043d\u0438\u043a",
+      "zh-CN": "\u7cbe\u70bc\u7ad9",
+      "zh-TW": "\u7cbe\u7149\u7ad9"
     },
     "maxLevel": 3,
     "levels": [
@@ -302,26 +302,26 @@
   {
     "id": "scrappy",
     "name": {
-      "en": "Scrappy",
-      "de": "Scrappy",
-      "fr": "Coquillard",
-      "es": "Scrappy",
-      "pt": "Sucatinha",
-      "pl": "Scrappy",
-      "no": "Scrappy",
       "da": "Scrappy",
-      "ru": "\u041f\u043b\u044e\u0448\u043a\u0438\u043d",
-      "ja": "\u30b9\u30af\u30e9\u30c3\u30d4\u30fc",
-      "it": "Rottamaio",
-      "kr": "\uc218\ud0c9 \uaf2c\uaf2c",
-      "zh-CN": "\u5e9f\u54c1\u56de\u6536\u7ad9",
-      "zh-TW": "\u5ee2\u54c1\u56de\u6536\u7ad9",
-      "uk": "\u0421\u0442\u0430\u0440\u0433\u0430\u043d\u0449\u0438\u043a",
-      "tr": "Hurda Tezgah\u0131",
+      "de": "Scrappy",
+      "en": "Scrappy",
+      "es": "Scrappy",
+      "fr": "Coquillard",
+      "he": "\u05e1\u05e7\u05e8\u05d0\u05e4\u05d9",
       "hr": "Otpadnik",
-      "sr": "Otpadnik",
+      "it": "Rottamaio",
+      "ja": "\u30b9\u30af\u30e9\u30c3\u30d4\u30fc",
+      "kr": "\uc218\ud0c9 \uaf2c\uaf2c",
+      "no": "Scrappy",
+      "pl": "Scrappy",
+      "pt": "Sucatinha",
       "pt-BR": "Scrappy",
-      "he": "\u05e1\u05e7\u05e8\u05d0\u05e4\u05d9"
+      "ru": "\u041f\u043b\u044e\u0448\u043a\u0438\u043d",
+      "sr": "Otpadnik",
+      "tr": "Hurda Tezgah\u0131",
+      "uk": "\u0421\u0442\u0430\u0440\u0433\u0430\u043d\u0449\u0438\u043a",
+      "zh-CN": "\u5e9f\u54c1\u56de\u6536\u7ad9",
+      "zh-TW": "\u5ee2\u54c1\u56de\u6536\u7ad9"
     },
     "maxLevel": 5,
     "levels": [
@@ -390,131 +390,131 @@
   {
     "id": "stash",
     "name": {
-      "en": "Stash",
-      "de": "Lager",
-      "fr": "R\u00e9serve",
-      "es": "Alijo",
-      "pt": "Esconderijo",
-      "pl": "Schowek",
-      "no": "Oppbevaring",
       "da": "Opbevaring",
+      "de": "Lager",
+      "en": "Stash",
+      "es": "Alijo",
+      "fr": "R\u00e9serve",
+      "he": "\u05de\u05d7\u05e1\u05df",
+      "hr": "Skladi\u0161te",
       "it": "Deposito",
       "ja": "\u4fdd\u7ba1\u5eab",
       "kr": "\ubcf4\uad00\ud568",
-      "zh-CN": "\u50a8\u85cf\u7bb1",
-      "zh-TW": "\u5132\u85cf\u7bb1",
+      "no": "Oppbevaring",
+      "pl": "Schowek",
+      "pt": "Esconderijo",
+      "pt-BR": "Dep\u00f3sito",
       "ru": "\u0425\u0440\u0430\u043d\u0438\u043b\u0438\u0449\u0435",
+      "sr": "Skladi\u0161te",
       "tr": "Depo",
       "uk": "\u0421\u0445\u043e\u0432\u0430\u043d\u043a\u0430",
-      "hr": "Skladi\u0161te",
-      "sr": "Skladi\u0161te",
-      "pt-BR": "Dep\u00f3sito",
-      "he": "\u05de\u05d7\u05e1\u05df"
+      "zh-CN": "\u50a8\u85cf\u7bb1",
+      "zh-TW": "\u5132\u85cf\u7bb1"
     },
     "maxLevel": 10,
     "levels": [
       {
+        "description": "64 slots",
         "level": 1,
-        "requirementItemIds": [],
-        "description": "64 slots"
+        "requirementItemIds": []
       },
       {
+        "description": "+24 slots (88 total)",
         "level": 2,
-        "requirementItemIds": [],
         "otherRequirements": [
           "5000 Coins"
         ],
-        "description": "+24 slots (88 total)"
+        "requirementItemIds": []
       },
       {
+        "description": "+24 slots (112 total)",
         "level": 3,
-        "requirementItemIds": [],
         "otherRequirements": [
           "10000 Coins"
         ],
-        "description": "+24 slots (112 total)"
+        "requirementItemIds": []
       },
       {
+        "description": "+24 slots (136 total)",
         "level": 4,
-        "requirementItemIds": [],
         "otherRequirements": [
           "15000 Coins"
         ],
-        "description": "+24 slots (136 total)"
+        "requirementItemIds": []
       },
       {
+        "description": "+24 slots (160 total)",
         "level": 5,
-        "requirementItemIds": [],
         "otherRequirements": [
           "25000 Coins"
         ],
-        "description": "+24 slots (160 total)"
+        "requirementItemIds": []
       },
       {
+        "description": "+24 slots (184 total)",
         "level": 6,
-        "requirementItemIds": [],
         "otherRequirements": [
           "40000 Coins"
         ],
-        "description": "+24 slots (184 total)"
+        "requirementItemIds": []
       },
       {
+        "description": "+24 slots (208 total)",
         "level": 7,
-        "requirementItemIds": [],
         "otherRequirements": [
           "60000 Coins"
         ],
-        "description": "+24 slots (208 total)"
+        "requirementItemIds": []
       },
       {
+        "description": "+24 slots (232 total)",
         "level": 8,
-        "requirementItemIds": [],
         "otherRequirements": [
           "90000 Coins"
         ],
-        "description": "+24 slots (232 total)"
+        "requirementItemIds": []
       },
       {
+        "description": "+24 slots (256 total)",
         "level": 9,
-        "requirementItemIds": [],
         "otherRequirements": [
           "130000 Coins"
         ],
-        "description": "+24 slots (256 total)"
+        "requirementItemIds": []
       },
       {
+        "description": "+24 slots (280 total)",
         "level": 10,
-        "requirementItemIds": [],
         "otherRequirements": [
           "200000 Coins"
         ],
-        "description": "+24 slots (280 total)"
+        "requirementItemIds": []
       }
     ]
   },
   {
     "id": "utility_bench",
     "name": {
-      "en": "Utility Station",
-      "de": "Gebrauchsgegenstand-Station",
-      "fr": "Station utilitaire",
-      "es": "Estaci\u00f3n de utilidad",
-      "pt": "Esta\u00e7\u00e3o utilit\u00e1ria",
-      "pl": "Stacja u\u017cytkowa",
-      "no": "Verkt\u00f8ystasjon",
       "da": "V\u00e6rkt\u00f8jsstation",
-      "ru": "\u0412\u0435\u0440\u0441\u0442\u0430\u043a \u0434\u043b\u044f \u0438\u043d\u0441\u0442\u0440\u0443\u043c\u0435\u043d\u0442\u043e\u0432",
-      "ja": "\u30e6\u30fc\u30c6\u30a3\u30ea\u30c6\u30a3\u30b9\u30c6\u30fc\u30b7\u30e7\u30f3",
-      "it": "Stazione Utilit\u00e0",
-      "kr": "\uc720\ud2f8\ub9ac\ud2f0 \uc2a4\ud14c\uc774\uc158",
-      "zh-CN": "\u5b9e\u7528\u5de5\u5177\u7ad9",
-      "zh-TW": "\u5be6\u7528\u5de5\u5177\u7ad9",
-      "uk": "\u0421\u0442\u0430\u043d\u0446\u0456\u044f \u0441\u043f\u043e\u0440\u044f\u0434\u0436\u0435\u043d\u043d\u044f",
-      "tr": "Ekipman \u0130stasyonu",
+      "de": "Gebrauchsgegenstand-Station",
+      "en": "Utility Station",
+      "es": "Estaci\u00f3n de utilidad",
+      "fr": "Station utilitaire",
+      "he": "\u05e2\u05de\u05d3\u05ea \u05e2\u05d6\u05e8\u05d9\u05dd",
       "hr": "Pomo\u0107na stanica",
-      "sr": "Pomo\u0107na stanica",
+      "it": "Stazione Utilit\u00e0",
+      "ja": "\u30e6\u30fc\u30c6\u30a3\u30ea\u30c6\u30a3\u30b9\u30c6\u30fc\u30b7\u30e7\u30f3",
+      "kr": "\uc720\ud2f8\ub9ac\ud2f0 \uc2a4\ud14c\uc774\uc158",
+      "no": "Verkt\u00f8ystasjon",
+      "pl": "Stacja u\u017cytkowa",
+      "pt": "Esta\u00e7\u00e3o utilit\u00e1ria",
       "pt-BR": "Esta\u00e7\u00e3o de Utilit\u00e1rios",
-      "he": "\u05e2\u05de\u05d3\u05ea \u05e2\u05d6\u05e8\u05d9\u05dd"
+      "ru": "\u0412\u0435\u0440\u0441\u0442\u0430\u043a \u0434\u043b\u044f \u0438\u043d\u0441\u0442\u0440\u0443\u043c\u0435\u043d\u0442\u043e\u0432",
+      "sr": "Pomo\u0107na stanica",
+      "tr": "Ekipman \u0130stasyonu",
+      "uk": "\u0421\u0442\u0430\u043d\u0446\u0456\u044f \u0441\u043f\u043e\u0440\u044f\u0434\u0436\u0435\u043d\u043d\u044f",
+      "zh-CN": "\u5b9e\u7528\u5de5\u5177\u7ad9",
+      "zh-TW": "\u5be6\u7528\u5de5\u5177\u7ad9"
     },
     "maxLevel": 3,
     "levels": [
@@ -570,26 +570,26 @@
   {
     "id": "weapon_bench",
     "name": {
-      "en": "Gunsmith",
-      "de": "Waffenstation",
-      "fr": "Armurier",
-      "es": "Armero",
-      "pt": "Armeiro",
-      "pl": "Rusznikarz",
-      "no": "V\u00e5penmaker",
       "da": "V\u00e5bensmed",
-      "ru": "\u041e\u0440\u0443\u0436\u0435\u0439\u043d\u044b\u0439 \u0432\u0435\u0440\u0441\u0442\u0430\u043a",
-      "ja": "\u30ac\u30f3\u30b9\u30df\u30b9",
-      "it": "Armaiolo",
-      "kr": "\ucd1d\uae30 \uc81c\uc791",
-      "zh-CN": "\u67aa\u68b0\u5de5\u574a",
-      "zh-TW": "\u69cd\u68b0\u5de5\u574a",
-      "uk": "\u0417\u0431\u0440\u043e\u044f\u0440\u043d\u044f",
-      "tr": "Silah Tezgah\u0131",
+      "de": "Waffenstation",
+      "en": "Gunsmith",
+      "es": "Armero",
+      "fr": "Armurier",
+      "he": "\u05e0\u05e9\u05e7",
       "hr": "Oru\u017ear",
-      "sr": "Oru\u017ear",
+      "it": "Armaiolo",
+      "ja": "\u30ac\u30f3\u30b9\u30df\u30b9",
+      "kr": "\ucd1d\uae30 \uc81c\uc791",
+      "no": "V\u00e5penmaker",
+      "pl": "Rusznikarz",
+      "pt": "Armeiro",
       "pt-BR": "Armeiro",
-      "he": "\u05e0\u05e9\u05e7"
+      "ru": "\u041e\u0440\u0443\u0436\u0435\u0439\u043d\u044b\u0439 \u0432\u0435\u0440\u0441\u0442\u0430\u043a",
+      "sr": "Oru\u017ear",
+      "tr": "Silah Tezgah\u0131",
+      "uk": "\u0417\u0431\u0440\u043e\u044f\u0440\u043d\u044f",
+      "zh-CN": "\u67aa\u68b0\u5de5\u574a",
+      "zh-TW": "\u69cd\u68b0\u5de5\u574a"
     },
     "maxLevel": 3,
     "levels": [
@@ -645,26 +645,26 @@
   {
     "id": "workbench",
     "name": {
-      "en": "Workbench",
-      "de": "Werkbank",
-      "fr": "\u00c9tabli",
-      "es": "Banco de trabajo",
-      "pt": "Bancada de trabalho",
-      "pl": "St\u00f3\u0142 warsztatowy",
-      "no": "Arbeidsbenk",
       "da": "Arbejdsb\u00e6nk",
-      "ru": "\u0412\u0435\u0440\u0441\u0442\u0430\u043a",
-      "ja": "\u30ef\u30fc\u30af\u30d9\u30f3\u30c1",
-      "it": "Banco da Lavoro",
-      "kr": "\uc791\uc5c5\ub300",
-      "zh-CN": "\u5de5\u4f5c\u53f0",
-      "zh-TW": "\u5de5\u4f5c\u53f0",
-      "uk": "\u0412\u0435\u0440\u0441\u0442\u0430\u0442",
-      "tr": "\u00c7al\u0131\u015fma Tezgah\u0131",
+      "de": "Werkbank",
+      "en": "Workbench",
+      "es": "Banco de trabajo",
+      "fr": "\u00c9tabli",
+      "he": "\u05e9\u05d5\u05dc\u05d7\u05df \u05e2\u05d1\u05d5\u05d3\u05d4",
       "hr": "Radni Stol",
-      "sr": "Radni Sto",
+      "it": "Banco da Lavoro",
+      "ja": "\u30ef\u30fc\u30af\u30d9\u30f3\u30c1",
+      "kr": "\uc791\uc5c5\ub300",
+      "no": "Arbeidsbenk",
+      "pl": "St\u00f3\u0142 warsztatowy",
+      "pt": "Bancada de trabalho",
       "pt-BR": "Bancada de Trabalho",
-      "he": "\u05e9\u05d5\u05dc\u05d7\u05df \u05e2\u05d1\u05d5\u05d3\u05d4"
+      "ru": "\u0412\u0435\u0440\u0441\u0442\u0430\u043a",
+      "sr": "Radni Sto",
+      "tr": "\u00c7al\u0131\u015fma Tezgah\u0131",
+      "uk": "\u0412\u0435\u0440\u0441\u0442\u0430\u0442",
+      "zh-CN": "\u5de5\u4f5c\u53f0",
+      "zh-TW": "\u5de5\u4f5c\u53f0"
     },
     "maxLevel": 0,
     "levels": []
