@@ -1562,7 +1562,7 @@
     "map": [
       "the_blue_gate"
     ],
-    "trader": "Shani",
+    "trader": "Tian Wen",
     "description": {
       "da": "Siden vi udvidede tunnelerne til den Bl\u00e5 Port, er nogle sj\u00e6ldne dele begyndt at dukke op p\u00e5 det sorte marked.\n\nI mellemtiden sidder jeg fast her og s\u00e6lger slidte gamle Rattlers. Hvis jeg ikke finder nye forsyningslinjer, bliver jeg efterladt i st\u00f8vet.",
       "de": "Seit wir die Tunnel zum Blauen Tor erweitert haben, tauchen einige seltene St\u00fccke auf dem Schwarzmarkt auf.\n\nIn der Zwischenzeit sitze ich hier fest und verh\u00f6kere alte, ramponierte Rattlers. Wenn ich keine neuen Versorgungslinien finde, werde ich abgeh\u00e4ngt.",
@@ -7471,7 +7471,7 @@
         "hr": "Dostavi jedan Magnetron Tian Wenu",
         "it": "Consegna un magnetron a Tian Wen",
         "ja": "\u30c6\u30a3\u30a2\u30f3\u30fb\u30a6\u30a7\u30f3\u306b\u30de\u30b0\u30cd\u30c8\u30ed\u30f3\u3092\u5c4a\u3051\u308b",
-        "kr": "\ub9c8\uadf8\ub124\ud2b8\ub860 1\uac1c\ub97c \ud2f0\uc548 \uc6ec\uc5d0\uac8c \uc804\ub2ec\ud558\uae30",
+        "kr": "\uc804\uc790\uad00 1\uac1c\ub97c \ud2f0\uc548 \uc6ec\uc5d0\uac8c \uc804\ub2ec\ud558\uae30",
         "no": "Lever en magnetron til Tian Wen",
         "pl": "Dostarcz magnetron Tian Wenowi",
         "pt": "Entregue um Magnetron para Tian Wen",
@@ -8875,8 +8875,8 @@
         "hr": "Upotrijebi klju\u010d na bilo kojem terminalu za ispiranje kako bi poni\u0161tio protokol zaobila\u017eenja",
         "it": "Usa la chiave su qualsiasi terminale di spurgo per aggirare il protocollo di bypass",
         "ja": "\u4efb\u610f\u306e\u30d5\u30e9\u30c3\u30b7\u30f3\u30b0\u7aef\u672b\u3067\u9375\u3092\u4f7f\u3044\u3001\u30d0\u30a4\u30d1\u30b9\u30d7\u30ed\u30c8\u30b3\u30eb\u3092\u4e0a\u66f8\u304d\u3059\u308b",
-        "ko": "\uc544\ubb34 \ud50c\ub7ec\uc2f1 \ud130\ubbf8\ub110\uc5d0\uc11c\ub4e0 \uc5f4\uc1e0\ub97c \uc0ac\uc6a9\ud574 \uc6b0\ud68c \ud504\ub85c\ud1a0\ucf5c\uc744 \uc7ac\uc815\uc758",
-        "kr": "\uc544\ubb34 Flushing Terminal\uc5d0 \uc5f4\uc1e0\ub97c \uc0ac\uc6a9\ud558\uc5ec \uc6b0\ud68c \ud504\ub85c\ud1a0\ucf5c \uc624\ubc84\ub77c\uc774\ub4dc",
+        "ko": "\uc544\ubb34 \uc218\uc138 \ud130\ubbf8\ub110\uc5d0\uc11c\ub4e0 \uc5f4\uc1e0\ub97c \uc0ac\uc6a9\ud574 \uc6b0\ud68c \ud504\ub85c\ud1a0\ucf5c \uc911\ub2e8\uc2dc\ud0a4\uae30",
+        "kr": "\uc544\ubb34 \uc218\uc138 \ud130\ubbf8\ub110\uc5d0\uc11c\ub4e0 \uc5f4\uc1e0\ub97c \uc0ac\uc6a9\ud574 \uc6b0\ud68c \ud504\ub85c\ud1a0\ucf5c \uc911\ub2e8\uc2dc\ud0a4\uae30",
         "no": "Bruk n\u00f8kkelen p\u00e5 en hvilken som helst spyleterminal for \u00e5 overstyre bypass-protokollen",
         "pl": "U\u017cyj klucza na dowolnym terminalu p\u0142ukania, aby nadpisa\u0107 protok\u00f3\u0142 obej\u015bcia",
         "pt": "Use a chave em qualquer Terminal de Purga para sobrescrever o protocolo de desvio",
@@ -8912,7 +8912,7 @@
       "a_toxic_trail"
     ],
     "nextQuestIds": [],
-    "updatedAt": "12/16/2025"
+    "updatedAt": "01/13/2026"
   },
   {
     "id": "ss9",

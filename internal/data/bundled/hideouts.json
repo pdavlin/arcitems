@@ -95,7 +95,7 @@
       "sr": "Stanica za eksploziv",
       "tr": "Patlay\u0131c\u0131 \u0130stasyonu",
       "uk": "\u0421\u0442\u0430\u043d\u0446\u0456\u044f \u0432\u0438\u0431\u0443\u0445\u0456\u0432\u043a\u0438",
-      "zh-CN": "\u7206\u70b8\u7269\u5de5\u4f5c\u7ad9",
+      "zh-CN": "\u7206\u70b8\u7269\u5de5\u4f5c\u53f0",
       "zh-TW": "\u7206\u88c2\u7269\u5de5\u4f5c\u7ad9"
     },
     "maxLevel": 3,
@@ -170,7 +170,7 @@
       "sr": "Medicinska Laboratorija",
       "tr": "T\u0131bbi Laboratuvar",
       "uk": "\u041c\u0435\u0434\u0438\u0447\u043d\u0430 \u043b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u0456\u044f",
-      "zh-CN": "\u533b\u7597\u7ad9",
+      "zh-CN": "\u533b\u7597\u5b9e\u9a8c\u5ba4",
       "zh-TW": "\u91ab\u7642\u7ad9"
     },
     "maxLevel": 3,
@@ -245,7 +245,7 @@
       "sr": "Rafinerija",
       "tr": "Rafine \u00dcnitesi",
       "uk": "\u041e\u0447\u0438\u0441\u043d\u0438\u043a",
-      "zh-CN": "\u7cbe\u70bc\u7ad9",
+      "zh-CN": "\u7cbe\u52a0\u5de5\u673a",
       "zh-TW": "\u7cbe\u7149\u7ad9"
     },
     "maxLevel": 3,
@@ -320,7 +320,7 @@
       "sr": "Otpadnik",
       "tr": "Hurda Tezgah\u0131",
       "uk": "\u0421\u0442\u0430\u0440\u0433\u0430\u043d\u0449\u0438\u043a",
-      "zh-CN": "\u5e9f\u54c1\u56de\u6536\u7ad9",
+      "zh-CN": "\u5e9f\u54c1\u4ed4",
       "zh-TW": "\u5ee2\u54c1\u56de\u6536\u7ad9"
     },
     "maxLevel": 5,
@@ -408,7 +408,7 @@
       "sr": "Skladi\u0161te",
       "tr": "Depo",
       "uk": "\u0421\u0445\u043e\u0432\u0430\u043d\u043a\u0430",
-      "zh-CN": "\u50a8\u85cf\u7bb1",
+      "zh-CN": "\u50a8\u5907\u7bb1",
       "zh-TW": "\u5132\u85cf\u7bb1"
     },
     "maxLevel": 10,
@@ -513,7 +513,7 @@
       "sr": "Pomo\u0107na stanica",
       "tr": "Ekipman \u0130stasyonu",
       "uk": "\u0421\u0442\u0430\u043d\u0446\u0456\u044f \u0441\u043f\u043e\u0440\u044f\u0434\u0436\u0435\u043d\u043d\u044f",
-      "zh-CN": "\u5b9e\u7528\u5de5\u5177\u7ad9",
+      "zh-CN": "\u5de5\u5177\u5de5\u4f5c\u53f0",
       "zh-TW": "\u5be6\u7528\u5de5\u5177\u7ad9"
     },
     "maxLevel": 3,
@@ -588,7 +588,7 @@
       "sr": "Oru\u017ear",
       "tr": "Silah Tezgah\u0131",
       "uk": "\u0417\u0431\u0440\u043e\u044f\u0440\u043d\u044f",
-      "zh-CN": "\u67aa\u68b0\u5de5\u574a",
+      "zh-CN": "\u6b66\u5668\u5de5\u4f5c\u53f0",
       "zh-TW": "\u69cd\u68b0\u5de5\u574a"
     },
     "maxLevel": 3,
