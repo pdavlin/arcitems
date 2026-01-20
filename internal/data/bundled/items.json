@@ -24336,6 +24336,59 @@
     "updatedAt": "01/13/2026"
   },
   {
+    "id": "kinetic_converter_blueprint",
+    "name": {
+      "da": "Kinetisk konverter Tegning",
+      "de": "Bauplan: Kinetischer Konverter",
+      "en": "Kinetic Converter Blueprint",
+      "es": "Plano de Convertidor cin\u00e9tico",
+      "fr": "Sch\u00e9ma Convertisseur Cin\u00e9tique",
+      "he": "\u05e9\u05e8\u05d8\u05d5\u05d8 \u05de\u05de\u05d9\u05e8 \u05e7\u05d9\u05e0\u05d8\u05d9",
+      "hr": "Nacrt za Kineti\u010dki pretvara\u010d",
+      "it": "Progetto Convertitore cinetico",
+      "ja": "\u30ad\u30cd\u30c6\u30a3\u30c3\u30af\u30fb\u30b3\u30f3\u30d0\u30fc\u30bf\u30fc \u8a2d\u8a08\u56f3",
+      "kr": "\ud0a4\ub124\ud2f1 \ucee8\ubc84\ud130 \uc124\uacc4\ub3c4",
+      "no": "Kinetisk konverter Tegning",
+      "pl": "Projekt Konwerter kinetyczny",
+      "pt": "Projeto de Conversor cin\u00e9tico",
+      "pt-BR": "Esquema de Conversor Cin\u00e9tico",
+      "ru": "\u0427\u0435\u0440\u0442\u0451\u0436 \u043a\u0438\u043d\u0435\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u043f\u0440\u0435\u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044f",
+      "sr": "Nacrt za Kineti\u010dki pretvara\u010d",
+      "tr": "Kinetik D\u00f6n\u00fc\u015ft\u00fcr\u00fcc\u00fc Plan\u0131",
+      "uk": "\u041a\u0440\u0435\u0441\u043b\u0435\u043d\u043d\u044f \u043a\u0456\u043d\u0435\u0442\u0438\u0447\u043d\u043e\u0433\u043e \u043f\u0435\u0440\u0435\u0442\u0432\u043e\u0440\u044e\u0432\u0430\u0447\u0430",
+      "zh-CN": "\u52a8\u80fd\u8f6c\u6362\u5668\u84dd\u56fe",
+      "zh-TW": "\u52d5\u80fd\u8f49\u63db\u5668\u85cd\u5716"
+    },
+    "description": {
+      "da": "En tegning til at lave Kinetisk konverter.",
+      "de": "Ein Bauplan zur Herstellung des Kinetischen Konverters.",
+      "en": "A blueprint to craft the Kinetic Converter.",
+      "es": "Un plano para fabricar el Convertidor cin\u00e9tico.",
+      "fr": "Un sch\u00e9ma pour fabriquer le Convertisseur Cin\u00e9tique.",
+      "he": "\u05e9\u05e8\u05d8\u05d5\u05d8 \u05dc\u05d9\u05e6\u05d9\u05e8\u05ea \u05de\u05de\u05d9\u05e8 \u05e7\u05d9\u05e0\u05d8\u05d9.",
+      "hr": "Nacrt za izradu Kineti\u010dkog pretvara\u010da.",
+      "it": "Un progetto per creare il Convertitore cinetico.",
+      "ja": "\u30ad\u30cd\u30c6\u30a3\u30c3\u30af\u30fb\u30b3\u30f3\u30d0\u30fc\u30bf\u30fc \u3092\u88fd\u4f5c\u3059\u308b\u305f\u3081\u306e\u8a2d\u8a08\u56f3\u3002",
+      "kr": "\ud0a4\ub124\ud2f1 \ucee8\ubc84\ud130\uc744 \uc81c\uc791\ud558\uae30 \uc704\ud55c \uc124\uacc4\ub3c4.",
+      "no": "En tegning for \u00e5 lage Kinetisk konverter.",
+      "pl": "Projekt do wytworzenia Konwertera kinetycznego.",
+      "pt": "Um projeto para fabricar o Conversor cin\u00e9tico.",
+      "pt-BR": "Um esquema para fabricar o Conversor Cin\u00e9tico.",
+      "ru": "\u0427\u0435\u0440\u0442\u0451\u0436 \u0434\u043b\u044f \u0441\u043e\u0437\u0434\u0430\u043d\u0438\u044f \u043a\u0438\u043d\u0435\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u043f\u0440\u0435\u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044f.",
+      "sr": "Nacrt za izradu Kineti\u010dkog pretvara\u010da.",
+      "tr": "Kinetik D\u00f6n\u00fc\u015ft\u00fcr\u00fcc\u00fc \u00fcretmek i\u00e7in bir plan.",
+      "uk": "\u041a\u0440\u0435\u0441\u043b\u0435\u043d\u043d\u044f \u0434\u043b\u044f \u0441\u0442\u0432\u043e\u0440\u0435\u043d\u043d\u044f \u043a\u0456\u043d\u0435\u0442\u0438\u0447\u043d\u043e\u0433\u043e \u043f\u0435\u0440\u0435\u0442\u0432\u043e\u0440\u044e\u0432\u0430\u0447\u0430.",
+      "zh-CN": "\u7528\u4e8e\u5236\u4f5c\u52a8\u80fd\u8f6c\u6362\u5668\u7684\u84dd\u56fe\u3002",
+      "zh-TW": "\u7528\u65bc\u88fd\u4f5c\u52d5\u80fd\u8f49\u63db\u5668\u7684\u85cd\u5716\u3002"
+    },
+    "type": "Blueprint",
+    "rarity": "Legendary",
+    "value": 5000,
+    "weightKg": 0,
+    "imageFilename": "https://cdn.arctracker.io/items/kinetic_converter.png",
+    "updatedAt": "01/19/2026"
+  },
+  {
     "id": "laboratory_reagents",
     "name": {
       "da": "Laboratoriereagenser",
@@ -37145,6 +37198,59 @@
     "updatedAt": "01/13/2026"
   },
   {
+    "id": "silencer_iii_blueprint",
+    "name": {
+      "da": "Lydd\u00e6mper III Tegning",
+      "de": "Bauplan: Schalld\u00e4mpfer III",
+      "en": "Silencer III Blueprint",
+      "es": "Plano de Silenciador III",
+      "fr": "Sch\u00e9ma Silencieux III",
+      "he": "\u05e9\u05e8\u05d8\u05d5\u05d8 \u05de\u05e9\u05ea\u05d9\u05e7 III",
+      "hr": "Nacrt za Prigu\u0161iva\u010d III",
+      "it": "Progetto Silenziatore III",
+      "ja": "\u30b5\u30a4\u30ec\u30f3\u30b5\u30fc III \u8a2d\u8a08\u56f3",
+      "kr": "\uc18c\uc74c\uae30 III \uc124\uacc4\ub3c4",
+      "no": "Lyddemper III Tegning",
+      "pl": "Projekt T\u0142umika III",
+      "pt": "Projeto de Silenciador III",
+      "pt-BR": "Esquema de Silenciador III",
+      "ru": "\u0427\u0435\u0440\u0442\u0451\u0436 \u0433\u043b\u0443\u0448\u0438\u0442\u0435\u043b\u044f III",
+      "sr": "Nacrt za Prigu\u0161iva\u010d III",
+      "tr": "Susturucu III Plan\u0131",
+      "uk": "\u041a\u0440\u0435\u0441\u043b\u0435\u043d\u043d\u044f \u0433\u043b\u0443\u0448\u043d\u0438\u043a\u0430 III",
+      "zh-CN": "\u6d88\u97f3\u5668 III \u84dd\u56fe",
+      "zh-TW": "\u6d88\u97f3\u5668 III \u85cd\u5716"
+    },
+    "description": {
+      "da": "En tegning til at lave Lydd\u00e6mper III.",
+      "de": "Ein Bauplan zur Herstellung des Schalld\u00e4mpfers III.",
+      "en": "A blueprint to craft the Silencer III.",
+      "es": "Un plano para fabricar el Silenciador III.",
+      "fr": "Un sch\u00e9ma pour fabriquer le Silencieux III.",
+      "he": "\u05e9\u05e8\u05d8\u05d5\u05d8 \u05dc\u05d9\u05e6\u05d9\u05e8\u05ea \u05de\u05e9\u05ea\u05d9\u05e7 III.",
+      "hr": "Nacrt za izradu Prigu\u0161iva\u010da III.",
+      "it": "Un progetto per creare il Silenziatore III.",
+      "ja": "\u30b5\u30a4\u30ec\u30f3\u30b5\u30fc III \u3092\u88fd\u4f5c\u3059\u308b\u305f\u3081\u306e\u8a2d\u8a08\u56f3\u3002",
+      "kr": "\uc18c\uc74c\uae30 III\uc744 \uc81c\uc791\ud558\uae30 \uc704\ud55c \uc124\uacc4\ub3c4.",
+      "no": "En tegning for \u00e5 lage Lyddemper III.",
+      "pl": "Projekt do wytworzenia T\u0142umika III.",
+      "pt": "Um projeto para fabricar o Silenciador III.",
+      "pt-BR": "Um esquema para fabricar o Silenciador III.",
+      "ru": "\u0427\u0435\u0440\u0442\u0451\u0436 \u0434\u043b\u044f \u0441\u043e\u0437\u0434\u0430\u043d\u0438\u044f \u0433\u043b\u0443\u0448\u0438\u0442\u0435\u043b\u044f III.",
+      "sr": "Nacrt za izradu Prigu\u0161iva\u010da III.",
+      "tr": "Susturucu III \u00fcretmek i\u00e7in bir plan.",
+      "uk": "\u041a\u0440\u0435\u0441\u043b\u0435\u043d\u043d\u044f \u0434\u043b\u044f \u0441\u0442\u0432\u043e\u0440\u0435\u043d\u043d\u044f \u0433\u043b\u0443\u0448\u043d\u0438\u043a\u0430 III.",
+      "zh-CN": "\u7528\u4e8e\u5236\u4f5c\u6d88\u97f3\u5668 III \u7684\u84dd\u56fe\u3002",
+      "zh-TW": "\u7528\u65bc\u88fd\u4f5c\u6d88\u97f3\u5668 III \u7684\u85cd\u5716\u3002"
+    },
+    "type": "Blueprint",
+    "rarity": "Legendary",
+    "value": 5000,
+    "weightKg": 0,
+    "imageFilename": "https://cdn.arctracker.io/items/silencer_iii.png",
+    "updatedAt": "01/19/2026"
+  },
+  {
     "id": "silver_teaspoon_set",
     "name": {
       "da": "S\u00f8lv teskes\u00e6t",
@@ -47816,7 +47922,7 @@
         "zh-TW": "\u7167\u660e\u7bc4\u570d"
       }
     },
-    "craftBench": "explosives_bench",
+    "craftBench": "utility_bench",
     "stationLevelRequired": 3,
     "recipe": {
       "chemicals": 3
