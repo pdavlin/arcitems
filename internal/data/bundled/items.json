@@ -9789,6 +9789,7 @@
     "rarity": "Uncommon",
     "value": 640,
     "weightKg": 2,
+    "stackSize": 1,
     "effects": {
       "Durability": {
         "value": "100/100",
@@ -9873,7 +9874,7 @@
       "plastic_parts": 3
     },
     "imageFilename": "https://cdn.arctracker.io/items/combat_i.png",
-    "updatedAt": "01/09/2026"
+    "updatedAt": "01/20/2026"
   },
   {
     "id": "combat_mk2",
@@ -9925,6 +9926,7 @@
     "rarity": "Rare",
     "value": 2000,
     "weightKg": 3,
+    "stackSize": 1,
     "effects": {
       "Durability": {
         "value": "100/100",
@@ -10032,7 +10034,7 @@
       "electrical_components": 1
     },
     "imageFilename": "https://cdn.arctracker.io/items/combat_i.png",
-    "updatedAt": "01/09/2026"
+    "updatedAt": "01/20/2026"
   },
   {
     "id": "combat_mk3_aggressive",
@@ -10084,6 +10086,7 @@
     "rarity": "Epic",
     "value": 5000,
     "weightKg": 5,
+    "stackSize": 1,
     "blueprintLocked": true,
     "effects": {
       "Backpack Slots": {
@@ -10285,7 +10288,7 @@
       "electrical_components": 2
     },
     "imageFilename": "https://cdn.arctracker.io/items/combat_mk3_aggressive.png",
-    "updatedAt": "01/13/2026",
+    "updatedAt": "01/20/2026",
     "repairCost": {
       "advanced_electrical_components": 1,
       "processor": 2
@@ -10395,6 +10398,7 @@
     "rarity": "Epic",
     "value": 5000,
     "weightKg": 5,
+    "stackSize": 1,
     "blueprintLocked": true,
     "effects": {
       "Backpack Slots": {
@@ -10596,7 +10600,7 @@
       "electrical_components": 2
     },
     "imageFilename": "https://cdn.arctracker.io/items/combat_mk3_flanking.png",
-    "updatedAt": "01/13/2026",
+    "updatedAt": "01/20/2026",
     "repairCost": {
       "advanced_electrical_components": 1,
       "processor": 2
@@ -12025,13 +12029,13 @@
     "weightKg": 0.25,
     "stackSize": 5,
     "recyclesInto": {
-      "arc_alloy": 3
-    },
-    "salvagesInto": {
       "arc_alloy": 2
     },
+    "salvagesInto": {
+      "arc_alloy": 1
+    },
     "imageFilename": "https://cdn.arctracker.io/items/damaged_arc_motion_core.png",
-    "updatedAt": "01/13/2026"
+    "updatedAt": "01/20/2026"
   },
   {
     "id": "damaged_arc_powercell",
@@ -25737,6 +25741,7 @@
     "rarity": "Uncommon",
     "value": 640,
     "weightKg": 1,
+    "stackSize": 1,
     "effects": {
       "Durability": {
         "value": "100/100",
@@ -25824,7 +25829,7 @@
       "plastic_parts": 3
     },
     "imageFilename": "https://cdn.arctracker.io/items/looting_mk1.png",
-    "updatedAt": "01/09/2026"
+    "updatedAt": "01/20/2026"
   },
   {
     "id": "looting_mk2",
@@ -25876,6 +25881,7 @@
     "rarity": "Rare",
     "value": 2000,
     "weightKg": 2,
+    "stackSize": 1,
     "effects": {
       "Durability": {
         "value": "100/100",
@@ -25960,7 +25966,7 @@
       "electrical_components": 1
     },
     "imageFilename": "https://cdn.arctracker.io/items/looting_mk2.png",
-    "updatedAt": "01/09/2026"
+    "updatedAt": "01/20/2026"
   },
   {
     "id": "looting_mk3_cautious",
@@ -26012,6 +26018,7 @@
     "rarity": "Epic",
     "value": 5000,
     "weightKg": 3,
+    "stackSize": 1,
     "effects": {
       "Durability": {
         "value": "100/100",
@@ -26096,7 +26103,7 @@
       "electrical_components": 2
     },
     "imageFilename": "https://cdn.arctracker.io/items/looting_mk3_cautious.png",
-    "updatedAt": "01/09/2026"
+    "updatedAt": "01/20/2026"
   },
   {
     "id": "looting_mk3_survivor",
@@ -26149,6 +26156,7 @@
     "value": 5000,
     "weightKg": 4,
     "stackSize": 1,
+    "blueprintLocked": true,
     "effects": {
       "Durability": {
         "value": "100/100",
@@ -26222,8 +26230,8 @@
     },
     "craftBench": "equipment_bench",
     "recipe": {
-      "advanced_mechanical_components": 2,
-      "processor": 2
+      "advanced_electrical_components": 2,
+      "processor": 3
     },
     "recyclesInto": {
       "advanced_electrical_components": 1,
@@ -26233,7 +26241,7 @@
       "electrical_components": 2
     },
     "imageFilename": "https://cdn.arctracker.io/items/looting_mk3_survivor.png",
-    "updatedAt": "01/13/2026"
+    "updatedAt": "01/20/2026"
   },
   {
     "id": "looting_mk3_survivor_blueprint",
@@ -40831,6 +40839,7 @@
     "rarity": "Uncommon",
     "value": 640,
     "weightKg": 2,
+    "stackSize": 1,
     "effects": {
       "Durability": {
         "value": "100/100",
@@ -40915,7 +40924,7 @@
       "plastic_parts": 3
     },
     "imageFilename": "https://cdn.arctracker.io/items/tactical_i.png",
-    "updatedAt": "01/09/2026"
+    "updatedAt": "01/20/2026"
   },
   {
     "id": "tactical_mk2",
@@ -40967,6 +40976,7 @@
     "rarity": "Rare",
     "value": 2000,
     "weightKg": 2,
+    "stackSize": 1,
     "effects": {
       "Durability": {
         "value": "100/100",
@@ -41051,7 +41061,7 @@
       "electrical_components": 1
     },
     "imageFilename": "https://cdn.arctracker.io/items/tactical_i.png",
-    "updatedAt": "01/09/2026"
+    "updatedAt": "01/20/2026"
   },
   {
     "id": "tactical_mk3_defensive",
@@ -41103,6 +41113,7 @@
     "rarity": "Epic",
     "value": 5000,
     "weightKg": 5,
+    "stackSize": 1,
     "blueprintLocked": true,
     "effects": {
       "Durability": {
@@ -41189,7 +41200,7 @@
       "electrical_components": 2
     },
     "imageFilename": "https://cdn.arctracker.io/items/tactical_mk3_defensive.png",
-    "updatedAt": "01/09/2026"
+    "updatedAt": "01/20/2026"
   },
   {
     "id": "tactical_mk3_defensive_blueprint",
@@ -41294,6 +41305,8 @@
     "rarity": "Epic",
     "value": 5000,
     "weightKg": 4,
+    "stackSize": 1,
+    "blueprintLocked": true,
     "effects": {
       "Durability": {
         "value": "100/100",
@@ -41379,7 +41392,7 @@
       "electrical_components": 2
     },
     "imageFilename": "https://cdn.arctracker.io/items/tactical_mk3_healing.png",
-    "updatedAt": "01/13/2026"
+    "updatedAt": "01/20/2026"
   },
   {
     "id": "tactical_mk3_healing_blueprint",
@@ -47647,13 +47660,13 @@
     "weightKg": 0.25,
     "stackSize": 15,
     "recyclesInto": {
-      "rubber_parts": 3
+      "rubber_parts": 2
     },
     "salvagesInto": {
       "rubber_parts": 1
     },
     "imageFilename": "https://cdn.arctracker.io/items/wires.png",
-    "updatedAt": "01/13/2026",
+    "updatedAt": "01/20/2026",
     "tip": "Wires are an uncommon item used to craft weapon mods that can be recycled into crafting materials."
   },
   {
