@@ -1,8 +1,8 @@
 {
-  "version": "2026.01.27.1809",
-  "syncedAt": "2026-01-27T18:09:52.914309Z",
+  "version": "2026.01.28.0019",
+  "syncedAt": "2026-01-28T00:19:02.420004Z",
   "itemCount": 499,
-  "questCount": 72,
+  "questCount": 80,
   "hideoutCount": 9,
-  "upstreamSHA": "8e4c211b8a04a04d442346bb736affcaa5c5df43"
+  "upstreamSHA": "599a4672e9c8a0168a2a4fccf197b4d7d5c16b68"
 }
