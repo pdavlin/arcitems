@@ -2268,6 +2268,11 @@
         "quantity": 30
       }
     ],
+    "xp": 0,
+    "previousQuestIds": [
+      "combat_recon"
+    ],
+    "nextQuestIds": [],
     "updatedAt": "01/27/2026"
   },
   {
@@ -3266,6 +3271,13 @@
         "itemId": "fireworks_box",
         "quantity": 1
       }
+    ],
+    "xp": 0,
+    "previousQuestIds": [
+      "ss10x5"
+    ],
+    "nextQuestIds": [
+      "bombing_run"
     ],
     "updatedAt": "01/27/2026"
   },
@@ -5130,7 +5142,9 @@
     "previousQuestIds": [
       "deciphering_the_data"
     ],
-    "nextQuestIds": [],
+    "nextQuestIds": [
+      "on_deaf_ears"
+    ],
     "updatedAt": "12/16/2025"
   },
   {
@@ -5614,7 +5628,8 @@
       "ss11b2"
     ],
     "nextQuestIds": [
-      "paving_the_way"
+      "paving_the_way",
+      "combat_recon"
     ],
     "updatedAt": "12/29/2025"
   },
@@ -7021,6 +7036,10 @@
         "quantity": 1
       }
     ],
+    "xp": 0,
+    "previousQuestIds": [
+      "groundbreaking"
+    ],
     "nextQuestIds": [
       "on_the_map"
     ],
@@ -7208,9 +7227,11 @@
         "quantity": 1
       }
     ],
+    "xp": 0,
     "previousQuestIds": [
       "on_deaf_ears"
     ],
+    "nextQuestIds": [],
     "updatedAt": "01/27/2026"
   },
   {
@@ -8494,7 +8515,9 @@
     "previousQuestIds": [
       "12_cold_storage"
     ],
-    "nextQuestIds": [],
+    "nextQuestIds": [
+      "with_a_view"
+    ],
     "updatedAt": "01/13/2026"
   },
   {
@@ -8737,7 +8760,9 @@
     "previousQuestIds": [
       "ss8a"
     ],
-    "nextQuestIds": [],
+    "nextQuestIds": [
+      "the_league"
+    ],
     "updatedAt": "01/13/2026"
   },
   {
@@ -9469,6 +9494,10 @@
         "itemId": "firecracker",
         "quantity": 5
       }
+    ],
+    "xp": 0,
+    "previousQuestIds": [
+      "ss8b"
     ],
     "nextQuestIds": [
       "movie_night"
@@ -11736,6 +11765,11 @@
         "quantity": 1
       }
     ],
+    "xp": 0,
+    "previousQuestIds": [
+      "12_snap_and_salvage"
+    ],
+    "nextQuestIds": [],
     "updatedAt": "01/27/2026"
   }
 ]
