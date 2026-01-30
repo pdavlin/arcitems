@@ -1189,5 +1189,380 @@
         ]
       }
     ]
+  },
+  {
+    "id": "trophy_display_project",
+    "disabled": false,
+    "name": {
+      "da": "Trof\u00e9udstilling",
+      "de": "Troph\u00e4enanzeige",
+      "en": "Trophy Display",
+      "es": "Exhibici\u00f3n de Trofeos",
+      "fr": "Vitrine de Troph\u00e9es",
+      "he": "\u05ea\u05e6\u05d5\u05d2\u05ea \u05d2\u05d1\u05d9\u05e2\u05d9\u05dd",
+      "hr": "Prikaz Trofeja",
+      "it": "Esposizione Trofei",
+      "ja": "\u30c8\u30ed\u30d5\u30a3\u30fc\u5c55\u793a",
+      "kr": "\ud2b8\ub85c\ud53c \ub514\uc2a4\ud50c\ub808\uc774",
+      "no": "Trofeutstilling",
+      "pl": "Wystawa Trofe\u00f3w",
+      "pt": "Exibi\u00e7\u00e3o de Trof\u00e9us",
+      "pt-BR": "Exibi\u00e7\u00e3o de Trof\u00e9us",
+      "ru": "\u0412\u0438\u0442\u0440\u0438\u043d\u0430 \u0442\u0440\u043e\u0444\u0435\u0435\u0432",
+      "sr": "Prikaz Trofeja",
+      "tr": "Kupa Sergisi",
+      "uk": "\u0412\u0456\u0442\u0440\u0438\u043d\u0430 \u0442\u0440\u043e\u0444\u0435\u0457\u0432",
+      "zh-CN": "\u6218\u5229\u54c1\u5c55\u793a",
+      "zh-TW": "\u6230\u5229\u54c1\u5c55\u793a"
+    },
+    "description": {
+      "da": "Skab din egen Trof\u00e9udstilling for at h\u00f8ste bel\u00f8nningerne. Saml trof\u00e6er fra besejrede ARC-enheder og vis din dygtighed.",
+      "de": "Erstelle deine eigene Troph\u00e4enanzeige, um die Belohnungen zu ernten. Sammle Troph\u00e4en von besiegten ARC-Einheiten und zeige deine F\u00e4higkeiten.",
+      "en": "Create your own Trophy Display to reap the rewards. Collect trophies from defeated ARC units and showcase your prowess.",
+      "es": "Crea tu propia Exhibici\u00f3n de Trofeos para cosechar las recompensas. Recolecta trofeos de unidades ARC derrotadas y muestra tu destreza.",
+      "fr": "Cr\u00e9ez votre propre Vitrine de Troph\u00e9es pour r\u00e9colter les r\u00e9compenses. Collectez des troph\u00e9es des unit\u00e9s ARC vaincues et montrez votre prouesse.",
+      "he": "\u05e6\u05e8\u05d5 \u05d0\u05ea \u05ea\u05e6\u05d5\u05d2\u05ea \u05d4\u05d2\u05d1\u05d9\u05e2\u05d9\u05dd \u05e9\u05dc\u05db\u05dd \u05db\u05d3\u05d9 \u05dc\u05e7\u05e6\u05d5\u05e8 \u05d0\u05ea \u05d4\u05ea\u05d2\u05de\u05d5\u05dc\u05d9\u05dd. \u05d0\u05e1\u05e4\u05d5 \u05d2\u05d1\u05d9\u05e2\u05d9\u05dd \u05de\u05d9\u05d7\u05d9\u05d3\u05d5\u05ea ARC \u05de\u05d5\u05d1\u05e1\u05d5\u05ea \u05d5\u05d4\u05e6\u05d9\u05d2\u05d5 \u05d0\u05ea \u05db\u05d9\u05e9\u05d5\u05e8\u05d9\u05db\u05dd.",
+      "hr": "Stvorite vlastiti Prikaz Trofeja kako biste ubrale nagrade. Sakupite trofeje od pora\u017eenih ARC jedinica i poka\u017eite svoju vje\u0161tinu.",
+      "it": "Crea la tua Esposizione Trofei per raccogliere le ricompense. Raccogli trofei dalle unit\u00e0 ARC sconfitte e mostra la tua abilit\u00e0.",
+      "ja": "\u81ea\u5206\u306e\u30c8\u30ed\u30d5\u30a3\u30fc\u5c55\u793a\u3092\u4f5c\u6210\u3057\u3066\u5831\u916c\u3092\u7372\u5f97\u3057\u307e\u3057\u3087\u3046\u3002\u5012\u3057\u305fARC\u30e6\u30cb\u30c3\u30c8\u304b\u3089\u30c8\u30ed\u30d5\u30a3\u30fc\u3092\u96c6\u3081\u3001\u3042\u306a\u305f\u306e\u8155\u524d\u3092\u62ab\u9732\u3057\u307e\u3057\u3087\u3046\u3002",
+      "kr": "\ubcf4\uc0c1\uc744 \uc5bb\uae30 \uc704\ud574 \ub098\ub9cc\uc758 \ud2b8\ub85c\ud53c \ub514\uc2a4\ud50c\ub808\uc774\ub97c \ub9cc\ub4dc\uc138\uc694. \ubb3c\ub9ac\uce5c ARC \uc720\ub2db\uc5d0\uc11c \ud2b8\ub85c\ud53c\ub97c \uc218\uc9d1\ud558\uace0 \uc2e4\ub825\uc744 \uacfc\uc2dc\ud558\uc138\uc694.",
+      "no": "Lag din egen Trofeutstilling for \u00e5 h\u00f8ste bel\u00f8nningene. Samle trof\u00e9er fra beseirede ARC-enheter og vis dine ferdigheter.",
+      "pl": "Stw\u00f3rz w\u0142asn\u0105 Wystaw\u0119 Trofe\u00f3w, aby zebra\u0107 nagrody. Zbieraj trofea z pokonanych jednostek ARC i poka\u017c swoje umiej\u0119tno\u015bci.",
+      "pt": "Crie sua pr\u00f3pria Exibi\u00e7\u00e3o de Trof\u00e9us para colher as recompensas. Colete trof\u00e9us de unidades ARC derrotadas e mostre sua per\u00edcia.",
+      "pt-BR": "Crie sua pr\u00f3pria Exibi\u00e7\u00e3o de Trof\u00e9us para colher as recompensas. Colete trof\u00e9us de unidades ARC derrotadas e mostre sua per\u00edcia.",
+      "ru": "\u0421\u043e\u0437\u0434\u0430\u0439\u0442\u0435 \u0441\u0432\u043e\u044e \u0412\u0438\u0442\u0440\u0438\u043d\u0443 \u0442\u0440\u043e\u0444\u0435\u0435\u0432, \u0447\u0442\u043e\u0431\u044b \u043f\u043e\u043b\u0443\u0447\u0438\u0442\u044c \u043d\u0430\u0433\u0440\u0430\u0434\u044b. \u0421\u043e\u0431\u0438\u0440\u0430\u0439\u0442\u0435 \u0442\u0440\u043e\u0444\u0435\u0438 \u0441 \u043f\u043e\u0431\u0435\u0436\u0434\u0435\u043d\u043d\u044b\u0445 \u044e\u043d\u0438\u0442\u043e\u0432 ARC \u0438 \u0434\u0435\u043c\u043e\u043d\u0441\u0442\u0440\u0438\u0440\u0443\u0439\u0442\u0435 \u0441\u0432\u043e\u0435 \u043c\u0430\u0441\u0442\u0435\u0440\u0441\u0442\u0432\u043e.",
+      "sr": "Napravite vlastiti Prikaz Trofeja kako biste ubrali nagrade. Sakupite trofeje od pobe\u0111enih ARC jedinica i poka\u017eite svoju ve\u0161tinu.",
+      "tr": "\u00d6d\u00fclleri toplamak i\u00e7in kendi Kupa Serginizi olu\u015fturun. Yenilmi\u015f ARC birimlerinden kupa toplay\u0131n ve becerinizi sergileyin.",
+      "uk": "\u0421\u0442\u0432\u043e\u0440\u0456\u0442\u044c \u0441\u0432\u043e\u044e \u0412\u0456\u0442\u0440\u0438\u043d\u0443 \u0442\u0440\u043e\u0444\u0435\u0457\u0432, \u0449\u043e\u0431 \u043e\u0442\u0440\u0438\u043c\u0430\u0442\u0438 \u043d\u0430\u0433\u043e\u0440\u043e\u0434\u0438. \u0417\u0431\u0438\u0440\u0430\u0439\u0442\u0435 \u0442\u0440\u043e\u0444\u0435\u0457 \u0437 \u043f\u0435\u0440\u0435\u043c\u043e\u0436\u0435\u043d\u0438\u0445 \u044e\u043d\u0456\u0442\u0456\u0432 ARC \u0442\u0430 \u0434\u0435\u043c\u043e\u043d\u0441\u0442\u0440\u0443\u0439\u0442\u0435 \u0441\u0432\u043e\u044e \u043c\u0430\u0439\u0441\u0442\u0435\u0440\u043d\u0456\u0441\u0442\u044c.",
+      "zh-CN": "\u521b\u5efa\u81ea\u5df1\u7684\u6218\u5229\u54c1\u5c55\u793a\u4ee5\u83b7\u53d6\u5956\u52b1\u3002\u4ece\u88ab\u51fb\u8d25\u7684ARC\u5355\u4f4d\u6536\u96c6\u6218\u5229\u54c1\u5e76\u5c55\u793a\u60a8\u7684\u5b9e\u529b\u3002",
+      "zh-TW": "\u5275\u5efa\u81ea\u5df1\u7684\u6230\u5229\u54c1\u5c55\u793a\u4ee5\u7372\u53d6\u734e\u52f5\u3002\u5f9e\u88ab\u64ca\u6557\u7684ARC\u55ae\u4f4d\u6536\u96c6\u6230\u5229\u54c1\u4e26\u5c55\u793a\u60a8\u7684\u5be6\u529b\u3002"
+    },
+    "phases": [
+      {
+        "name": {
+          "da": "Vandrende Trusler",
+          "de": "Umherstreifende Bedrohungen",
+          "en": "Roaming Threats",
+          "es": "Amenazas Errantes",
+          "fr": "Menaces Errantes",
+          "he": "\u05d0\u05d9\u05d5\u05de\u05d9\u05dd \u05e0\u05d5\u05d3\u05d3\u05d9\u05dd",
+          "hr": "Lutaju\u0107e Prijetnje",
+          "it": "Minacce Vaganti",
+          "ja": "\u5f98\u5f8a\u3059\u308b\u8105\u5a01",
+          "kr": "\ubc30\ud68c\ud558\ub294 \uc704\ud611",
+          "no": "Vandrende Trusler",
+          "pl": "W\u0119drowne Zagro\u017cenia",
+          "pt": "Amea\u00e7as Errantes",
+          "pt-BR": "Amea\u00e7as Errantes",
+          "ru": "\u0411\u0440\u043e\u0434\u044f\u0447\u0438\u0435 \u0443\u0433\u0440\u043e\u0437\u044b",
+          "sr": "Lutaju\u0107e Pretnje",
+          "tr": "Dola\u015fan Tehditler",
+          "uk": "\u0411\u043b\u0443\u043a\u0430\u044e\u0447\u0456 \u0437\u0430\u0433\u0440\u043e\u0437\u0438",
+          "zh-CN": "\u6e38\u8361\u5a01\u80c1",
+          "zh-TW": "\u904a\u8569\u5a01\u8105"
+        },
+        "description": {
+          "da": "Besejr landbaserede ARC-enheder og saml trof\u00e6er fra deres rester.",
+          "de": "Besiege bodengebundene ARC-Einheiten und sammle Troph\u00e4en aus ihren \u00dcberresten.",
+          "en": "Defeat ground-based ARC units and collect trophies from their remains.",
+          "es": "Derrota unidades ARC terrestres y recolecta trofeos de sus restos.",
+          "fr": "Vaincre les unit\u00e9s ARC terrestres et collecter des troph\u00e9es de leurs restes.",
+          "he": "\u05d4\u05d1\u05d9\u05e1\u05d5 \u05d9\u05d7\u05d9\u05d3\u05d5\u05ea ARC \u05e7\u05e8\u05e7\u05e2\u05d9\u05d5\u05ea \u05d5\u05d0\u05e1\u05e4\u05d5 \u05d2\u05d1\u05d9\u05e2\u05d9\u05dd \u05de\u05e9\u05e8\u05d9\u05d3\u05d9\u05d4\u05df.",
+          "hr": "Pobijedite prizemne ARC jedinice i sakupite trofeje iz njihovih ostataka.",
+          "it": "Sconfiggi unit\u00e0 ARC terrestri e raccogli trofei dai loro resti.",
+          "ja": "\u5730\u4e0a\u306eARC\u30e6\u30cb\u30c3\u30c8\u3092\u5012\u3057\u3001\u305d\u306e\u6b8b\u9ab8\u304b\u3089\u30c8\u30ed\u30d5\u30a3\u30fc\u3092\u96c6\u3081\u307e\u3059\u3002",
+          "kr": "\uc9c0\uc0c1 ARC \uc720\ub2db\uc744 \ubb3c\ub9ac\uce58\uace0 \uc794\ud574\uc5d0\uc11c \ud2b8\ub85c\ud53c\ub97c \uc218\uc9d1\ud558\uc138\uc694.",
+          "no": "Beseir bakkebaserte ARC-enheter og samle trof\u00e9er fra deres rester.",
+          "pl": "Pokonaj naziemne jednostki ARC i zbierz trofea z ich szcz\u0105tk\u00f3w.",
+          "pt": "Derrote unidades ARC terrestres e colete trof\u00e9us de seus restos.",
+          "pt-BR": "Derrote unidades ARC terrestres e colete trof\u00e9us de seus restos.",
+          "ru": "\u041f\u043e\u0431\u0435\u0434\u0438\u0442\u0435 \u043d\u0430\u0437\u0435\u043c\u043d\u044b\u0435 \u044e\u043d\u0438\u0442\u044b ARC \u0438 \u0441\u043e\u0431\u0435\u0440\u0438\u0442\u0435 \u0442\u0440\u043e\u0444\u0435\u0438 \u0441 \u0438\u0445 \u043e\u0441\u0442\u0430\u043d\u043a\u043e\u0432.",
+          "sr": "Pobedite prizemne ARC jedinice i sakupite trofeje iz njihovih ostataka.",
+          "tr": "Yer tabanl\u0131 ARC birimlerini yenin ve kal\u0131nt\u0131lar\u0131ndan kupa toplay\u0131n.",
+          "uk": "\u041f\u0435\u0440\u0435\u043c\u043e\u0436\u0456\u0442\u044c \u043d\u0430\u0437\u0435\u043c\u043d\u0456 \u044e\u043d\u0456\u0442\u0438 ARC \u0442\u0430 \u0437\u0431\u0435\u0440\u0456\u0442\u044c \u0442\u0440\u043e\u0444\u0435\u0457 \u0437 \u0457\u0445\u043d\u0456\u0445 \u0437\u0430\u043b\u0438\u0448\u043a\u0456\u0432.",
+          "zh-CN": "\u51fb\u8d25\u5730\u9762ARC\u5355\u4f4d\u5e76\u4ece\u5176\u6b8b\u9ab8\u4e2d\u6536\u96c6\u6218\u5229\u54c1\u3002",
+          "zh-TW": "\u64ca\u6557\u5730\u9762ARC\u55ae\u4f4d\u4e26\u5f9e\u5176\u6b98\u9ab8\u4e2d\u6536\u96c6\u6230\u5229\u54c1\u3002"
+        },
+        "phase": 1,
+        "requirementItemIds": [
+          {
+            "itemId": "rusted_bolts",
+            "quantity": 3
+          },
+          {
+            "itemId": "pop_trigger",
+            "quantity": 15
+          },
+          {
+            "itemId": "tick_pod",
+            "quantity": 15
+          },
+          {
+            "itemId": "surveyor_vault",
+            "quantity": 5
+          }
+        ]
+      },
+      {
+        "name": {
+          "da": "Sv\u00e6vende Trusler",
+          "de": "Schwebende Gefahren",
+          "en": "Soaring Menaces",
+          "es": "Amenazas Voladoras",
+          "fr": "Menaces A\u00e9riennes",
+          "he": "\u05d0\u05d9\u05d5\u05de\u05d9\u05dd \u05de\u05e8\u05d7\u05e4\u05d9\u05dd",
+          "hr": "Lebde\u0107e Opasnosti",
+          "it": "Minacce Volanti",
+          "ja": "\u7a7a\u4e2d\u306e\u8105\u5a01",
+          "kr": "\ub0a0\uc544\uc624\ub974\ub294 \uc704\ud611",
+          "no": "Svevende Trusler",
+          "pl": "Szybuj\u0105ce Zagro\u017cenia",
+          "pt": "Amea\u00e7as Voadoras",
+          "pt-BR": "Amea\u00e7as Voadoras",
+          "ru": "\u041f\u0430\u0440\u044f\u0449\u0438\u0435 \u0443\u0433\u0440\u043e\u0437\u044b",
+          "sr": "Lebde\u0107e Opasnosti",
+          "tr": "U\u00e7an Tehditler",
+          "uk": "\u041b\u0435\u0442\u044e\u0447\u0456 \u0437\u0430\u0433\u0440\u043e\u0437\u0438",
+          "zh-CN": "\u98de\u884c\u5a01\u80c1",
+          "zh-TW": "\u98db\u884c\u5a01\u8105"
+        },
+        "description": {
+          "da": "Nedskyd luftb\u00e5rne ARC-enheder og saml deres unikke komponenter.",
+          "de": "Schie\u00dfe luftgest\u00fctzte ARC-Einheiten ab und sammle ihre einzigartigen Komponenten.",
+          "en": "Shoot down airborne ARC units and collect their unique components.",
+          "es": "Derriba unidades ARC a\u00e9reas y recolecta sus componentes \u00fanicos.",
+          "fr": "Abattez les unit\u00e9s ARC a\u00e9riennes et collectez leurs composants uniques.",
+          "he": "\u05d4\u05e4\u05d9\u05dc\u05d5 \u05d9\u05d7\u05d9\u05d3\u05d5\u05ea ARC \u05de\u05d5\u05d8\u05e1\u05d5\u05ea \u05d5\u05d0\u05e1\u05e4\u05d5 \u05d0\u05ea \u05d4\u05e8\u05db\u05d9\u05d1\u05d9\u05dd \u05d4\u05d9\u05d9\u05d7\u05d5\u05d3\u05d9\u05d9\u05dd \u05e9\u05dc\u05d4\u05df.",
+          "hr": "Oborite zra\u010dne ARC jedinice i sakupite njihove jedinstvene komponente.",
+          "it": "Abbatti unit\u00e0 ARC aeree e raccogli i loro componenti unici.",
+          "ja": "\u7a7a\u4e2d\u306eARC\u30e6\u30cb\u30c3\u30c8\u3092\u6483\u589c\u3057\u3001\u305d\u306e\u30e6\u30cb\u30fc\u30af\u306a\u30b3\u30f3\u30dd\u30fc\u30cd\u30f3\u30c8\u3092\u96c6\u3081\u307e\u3059\u3002",
+          "kr": "\uacf5\uc911 ARC \uc720\ub2db\uc744 \uaca9\ucd94\ud558\uace0 \uace0\uc720\ud55c \uad6c\uc131 \uc694\uc18c\ub97c \uc218\uc9d1\ud558\uc138\uc694.",
+          "no": "Skyt ned luftb\u00e5rne ARC-enheter og samle deres unike komponenter.",
+          "pl": "Zestrzel powietrzne jednostki ARC i zbierz ich unikalne komponenty.",
+          "pt": "Derrube unidades ARC a\u00e9reas e colete seus componentes \u00fanicos.",
+          "pt-BR": "Derrube unidades ARC a\u00e9reas e colete seus componentes \u00fanicos.",
+          "ru": "\u0421\u0431\u0438\u0432\u0430\u0439\u0442\u0435 \u0432\u043e\u0437\u0434\u0443\u0448\u043d\u044b\u0435 \u044e\u043d\u0438\u0442\u044b ARC \u0438 \u0441\u043e\u0431\u0438\u0440\u0430\u0439\u0442\u0435 \u0438\u0445 \u0443\u043d\u0438\u043a\u0430\u043b\u044c\u043d\u044b\u0435 \u043a\u043e\u043c\u043f\u043e\u043d\u0435\u043d\u0442\u044b.",
+          "sr": "Oborite vazdu\u0161ne ARC jedinice i sakupite njihove jedinstvene komponente.",
+          "tr": "Havadaki ARC birimlerini d\u00fc\u015f\u00fcr\u00fcn ve benzersiz bile\u015fenlerini toplay\u0131n.",
+          "uk": "\u0417\u0431\u0438\u0432\u0430\u0439\u0442\u0435 \u043f\u043e\u0432\u0456\u0442\u0440\u044f\u043d\u0456 \u044e\u043d\u0456\u0442\u0438 ARC \u0442\u0430 \u0437\u0431\u0438\u0440\u0430\u0439\u0442\u0435 \u0457\u0445\u043d\u0456 \u0443\u043d\u0456\u043a\u0430\u043b\u044c\u043d\u0456 \u043a\u043e\u043c\u043f\u043e\u043d\u0435\u043d\u0442\u0438.",
+          "zh-CN": "\u51fb\u843d\u7a7a\u4e2dARC\u5355\u4f4d\u5e76\u6536\u96c6\u5176\u72ec\u7279\u7ec4\u4ef6\u3002",
+          "zh-TW": "\u64ca\u843d\u7a7a\u4e2dARC\u55ae\u4f4d\u4e26\u6536\u96c6\u5176\u7368\u7279\u7d44\u4ef6\u3002"
+        },
+        "phase": 2,
+        "requirementItemIds": [
+          {
+            "itemId": "spotter_relay",
+            "quantity": 10
+          },
+          {
+            "itemId": "expired_respirator",
+            "quantity": 3
+          },
+          {
+            "itemId": "wasp_driver",
+            "quantity": 20
+          },
+          {
+            "itemId": "hornet_driver",
+            "quantity": 15
+          }
+        ]
+      },
+      {
+        "name": {
+          "da": "Frygtelige Fjender",
+          "de": "Wilde Gegner",
+          "en": "Ferocious Foes",
+          "es": "Enemigos Feroces",
+          "fr": "Ennemis F\u00e9roces",
+          "he": "\u05d0\u05d5\u05d9\u05d1\u05d9\u05dd \u05e2\u05d6\u05d9\u05dd",
+          "hr": "\u017destoki Neprijatelji",
+          "it": "Nemici Feroci",
+          "ja": "\u7370\u731b\u306a\u6575",
+          "kr": "\uc0ac\ub098\uc6b4 \uc801",
+          "no": "Ville Fiender",
+          "pl": "Dzicy Wrogowie",
+          "pt": "Inimigos Ferozes",
+          "pt-BR": "Inimigos Ferozes",
+          "ru": "\u0421\u0432\u0438\u0440\u0435\u043f\u044b\u0435 \u0432\u0440\u0430\u0433\u0438",
+          "sr": "\u017destoki Neprijatelji",
+          "tr": "Vah\u015fi D\u00fc\u015fmanlar",
+          "uk": "\u041b\u044e\u0442i \u0432\u043e\u0440\u043e\u0433\u0438",
+          "zh-CN": "\u51f6\u731b\u654c\u4eba",
+          "zh-TW": "\u5147\u731b\u6575\u4eba"
+        },
+        "description": {
+          "da": "Overvind kraftfulde ARC-enheder og udtr\u00e6k deres avancerede teknologi.",
+          "de": "\u00dcberwinde m\u00e4chtige ARC-Einheiten und extrahiere ihre fortschrittliche Technologie.",
+          "en": "Overcome powerful ARC units and extract their advanced technology.",
+          "es": "Supera unidades ARC poderosas y extrae su tecnolog\u00eda avanzada.",
+          "fr": "Surmontez les puissantes unit\u00e9s ARC et extrayez leur technologie avanc\u00e9e.",
+          "he": "\u05d4\u05ea\u05d2\u05d1\u05e8\u05d5 \u05e2\u05dc \u05d9\u05d7\u05d9\u05d3\u05d5\u05ea ARC \u05d7\u05d6\u05e7\u05d5\u05ea \u05d5\u05d7\u05dc\u05e6\u05d5 \u05d0\u05ea \u05d4\u05d8\u05db\u05e0\u05d5\u05dc\u05d5\u05d2\u05d9\u05d4 \u05d4\u05de\u05ea\u05e7\u05d3\u05de\u05ea \u05e9\u05dc\u05d4\u05df.",
+          "hr": "Savladajte mo\u0107ne ARC jedinice i izvucite njihovu naprednu tehnologiju.",
+          "it": "Supera potenti unit\u00e0 ARC ed estrai la loro tecnologia avanzata.",
+          "ja": "\u5f37\u529b\u306aARC\u30e6\u30cb\u30c3\u30c8\u3092\u6253\u3061\u7834\u308a\u3001\u9ad8\u5ea6\u306a\u6280\u8853\u3092\u62bd\u51fa\u3057\u307e\u3059\u3002",
+          "kr": "\uac15\ub825\ud55c ARC \uc720\ub2db\uc744 \uadf9\ubcf5\ud558\uace0 \uace0\uae09 \uae30\uc220\uc744 \ucd94\ucd9c\ud558\uc138\uc694.",
+          "no": "Overvinne kraftige ARC-enheter og trekke ut deres avanserte teknologi.",
+          "pl": "Pokonaj pot\u0119\u017cne jednostki ARC i wydob\u0105d\u017a ich zaawansowan\u0105 technologi\u0119.",
+          "pt": "Supere unidades ARC poderosas e extraia sua tecnologia avan\u00e7ada.",
+          "pt-BR": "Supere unidades ARC poderosas e extraia sua tecnologia avan\u00e7ada.",
+          "ru": "\u041f\u0440\u0435\u043e\u0434\u043e\u043b\u0435\u0439\u0442\u0435 \u043c\u043e\u0449\u043d\u044b\u0435 \u044e\u043d\u0438\u0442\u044b ARC \u0438 \u0438\u0437\u0432\u043b\u0435\u043a\u0438\u0442\u0435 \u0438\u0445 \u043f\u0435\u0440\u0435\u0434\u043e\u0432\u0443\u044e \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u044e.",
+          "sr": "Savladajte mo\u0107ne ARC jedinice i izvucite njihovu naprednu tehnologiju.",
+          "tr": "G\u00fc\u00e7l\u00fc ARC birimlerini yenin ve geli\u015fmi\u015f teknolojilerini \u00e7\u0131kar\u0131n.",
+          "uk": "\u041f\u043e\u0434\u043e\u043b\u0430\u0439\u0442\u0435 \u043f\u043e\u0442\u0443\u0436\u043d\u0456 \u044e\u043d\u0456\u0442\u0438 ARC \u0442\u0430 \u0432\u0438\u0442\u044f\u0433\u043d\u0456\u0442\u044c \u0457\u0445\u043d\u044e \u043f\u0435\u0440\u0435\u0434\u043e\u0432\u0443 \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0456\u044e.",
+          "zh-CN": "\u514b\u670d\u5f3a\u5927\u7684ARC\u5355\u4f4d\u5e76\u63d0\u53d6\u5176\u5148\u8fdb\u6280\u672f\u3002",
+          "zh-TW": "\u514b\u670d\u5f37\u5927\u7684ARC\u55ae\u4f4d\u4e26\u63d0\u53d6\u5176\u5148\u9032\u6280\u8853\u3002"
+        },
+        "phase": 3,
+        "requirementItemIds": [
+          {
+            "itemId": "arc_performance_steel",
+            "quantity": 10
+          },
+          {
+            "itemId": "shredder_gyro",
+            "quantity": 5
+          },
+          {
+            "itemId": "leaper_pulse_unit",
+            "quantity": 10
+          },
+          {
+            "itemId": "bastion_cell",
+            "quantity": 5
+          }
+        ]
+      },
+      {
+        "name": {
+          "da": "Dominerende Farer",
+          "de": "Dominierende Gefahren",
+          "en": "Dominant Dangers",
+          "es": "Peligros Dominantes",
+          "fr": "Dangers Dominants",
+          "he": "\u05e1\u05db\u05e0\u05d5\u05ea \u05d3\u05d5\u05de\u05d9\u05e0\u05e0\u05d8\u05d9\u05d5\u05ea",
+          "hr": "Dominantne Opasnosti",
+          "it": "Pericoli Dominanti",
+          "ja": "\u652f\u914d\u7684\u306a\u5371\u967a",
+          "kr": "\uc9c0\ubc30\uc801\uc778 \uc704\ud5d8",
+          "no": "Dominerende Farer",
+          "pl": "Dominuj\u0105ce Zagro\u017cenia",
+          "pt": "Perigos Dominantes",
+          "pt-BR": "Perigos Dominantes",
+          "ru": "\u0414\u043e\u043c\u0438\u043d\u0438\u0440\u0443\u044e\u0449\u0438\u0435 \u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u0438",
+          "sr": "Dominantne Opasnosti",
+          "tr": "Bask\u0131n Tehlikeler",
+          "uk": "\u0414\u043e\u043c\u0456\u043d\u0443\u044e\u0447\u0456 \u043d\u0435\u0431\u0435\u0437\u043f\u0435\u043a\u0438",
+          "zh-CN": "\u4e3b\u5bfc\u5371\u9669",
+          "zh-TW": "\u4e3b\u5c0e\u5371\u96aa"
+        },
+        "description": {
+          "da": "Konfronter elite ARC-enheder og indsaml deres sj\u00e6ldne trof\u00e6er.",
+          "de": "Konfrontiere Elite-ARC-Einheiten und sammle ihre seltenen Troph\u00e4en.",
+          "en": "Confront elite ARC units and collect their rare trophies.",
+          "es": "Confronta unidades ARC de \u00e9lite y recolecta sus trofeos raros.",
+          "fr": "Affrontez les unit\u00e9s ARC d'\u00e9lite et collectez leurs troph\u00e9es rares.",
+          "he": "\u05d4\u05ea\u05e2\u05de\u05ea\u05d5 \u05e2\u05dd \u05d9\u05d7\u05d9\u05d3\u05d5\u05ea ARC \u05e2\u05d9\u05dc\u05d9\u05ea \u05d5\u05d0\u05e1\u05e4\u05d5 \u05d0\u05ea \u05d4\u05d2\u05d1\u05d9\u05e2\u05d9\u05dd \u05d4\u05e0\u05d3\u05d9\u05e8\u05d9\u05dd \u05e9\u05dc\u05d4\u05df.",
+          "hr": "Suo\u010dite se s elitnim ARC jedinicama i sakupite njihove rijetke trofeje.",
+          "it": "Affronta unit\u00e0 ARC d'\u00e9lite e raccogli i loro trofei rari.",
+          "ja": "\u30a8\u30ea\u30fc\u30c8ARC\u30e6\u30cb\u30c3\u30c8\u3068\u5bfe\u5cd9\u3057\u3001\u305d\u306e\u30ec\u30a2\u306a\u30c8\u30ed\u30d5\u30a3\u30fc\u3092\u96c6\u3081\u307e\u3059\u3002",
+          "kr": "\uc5d8\ub9ac\ud2b8 ARC \uc720\ub2db\uacfc \ub9de\uc11c\uace0 \ud76c\uadc0 \ud2b8\ub85c\ud53c\ub97c \uc218\uc9d1\ud558\uc138\uc694.",
+          "no": "Konfronter elite ARC-enheter og samle deres sjeldne trof\u00e9er.",
+          "pl": "Skonfrontuj si\u0119 z elitarnymi jednostkami ARC i zbierz ich rzadkie trofea.",
+          "pt": "Confronte unidades ARC de elite e colete seus trof\u00e9us raros.",
+          "pt-BR": "Confronte unidades ARC de elite e colete seus trof\u00e9us raros.",
+          "ru": "\u041f\u0440\u043e\u0442\u0438\u0432\u043e\u0441\u0442\u043e\u0439\u0442\u0435 \u044d\u043b\u0438\u0442\u043d\u044b\u043c \u044e\u043d\u0438\u0442\u0430\u043c ARC \u0438 \u0441\u043e\u0431\u0435\u0440\u0438\u0442\u0435 \u0438\u0445 \u0440\u0435\u0434\u043a\u0438\u0435 \u0442\u0440\u043e\u0444\u0435\u0438.",
+          "sr": "Suo\u010dite se sa elitnim ARC jedinicama i sakupite njihove retke trofeje.",
+          "tr": "Elit ARC birimleriyle y\u00fczle\u015fin ve nadir kupalar\u0131n\u0131 toplay\u0131n.",
+          "uk": "\u041f\u0440\u043e\u0442\u0438\u0441\u0442\u043e\u044f\u0439\u0442\u0435 \u0435\u043b\u0456\u0442\u043d\u0438\u043c \u044e\u043d\u0456\u0442\u0430\u043c ARC \u0442\u0430 \u0437\u0431\u0435\u0440\u0456\u0442\u044c \u0457\u0445\u043d\u0456 \u0440\u0456\u0434\u043a\u0456\u0441\u043d\u0456 \u0442\u0440\u043e\u0444\u0435\u0457.",
+          "zh-CN": "\u5bf9\u6297\u7cbe\u82f1ARC\u5355\u4f4d\u5e76\u6536\u96c6\u5176\u7a00\u6709\u6218\u5229\u54c1\u3002",
+          "zh-TW": "\u5c0d\u6297\u7cbe\u82f1ARC\u55ae\u4f4d\u4e26\u6536\u96c6\u5176\u7a00\u6709\u6230\u5229\u54c1\u3002"
+        },
+        "phase": 4,
+        "requirementItemIds": [
+          {
+            "itemId": "arc_synthetic_resin",
+            "quantity": 10
+          },
+          {
+            "itemId": "magnetic_accelerator",
+            "quantity": 10
+          },
+          {
+            "itemId": "rocketeer_driver",
+            "quantity": 8
+          },
+          {
+            "itemId": "queen_reactor",
+            "quantity": 3
+          }
+        ]
+      },
+      {
+        "name": {
+          "da": "Imponerende Behemoths",
+          "de": "Imposante Kolosse",
+          "en": "Imposing Behemoths",
+          "es": "Behemots Imponentes",
+          "fr": "B\u00e9h\u00e9moths Imposants",
+          "he": "\u05d1\u05d4\u05de\u05d5\u05ea \u05de\u05e8\u05e9\u05d9\u05de\u05d5\u05ea",
+          "hr": "Impozantni Divovi",
+          "it": "Behemoth Imponenti",
+          "ja": "\u5802\u3005\u305f\u308b\u5de8\u7363",
+          "kr": "\uc704\uc555\uc801\uc778 \uac70\uc218",
+          "no": "Imponerende Behemoths",
+          "pl": "Imponuj\u0105ce Behemoty",
+          "pt": "Behemoths Imponentes",
+          "pt-BR": "Behemoths Imponentes",
+          "ru": "\u0412\u043d\u0443\u0448\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0435 \u0431\u0435\u0433\u0435\u043c\u043e\u0442\u044b",
+          "sr": "Impozantni Divovi",
+          "tr": "Heybetli Dev Yarat\u0131klar",
+          "uk": "\u0412\u0440\u0430\u0436\u0430\u044e\u0447\u0456 \u0431\u0435\u0433\u0435\u043c\u043e\u0442\u0438",
+          "zh-CN": "\u4ee4\u4eba\u751f\u754f\u7684\u5de8\u517d",
+          "zh-TW": "\u4ee4\u4eba\u751f\u754f\u7684\u5de8\u7378"
+        },
+        "description": {
+          "da": "Besejr de mest frygtindgydende ARC-enheder og secure deres ultimative trof\u00e6er.",
+          "de": "Besiege die furchterregendsten ARC-Einheiten und sichere ihre ultimativen Troph\u00e4en.",
+          "en": "Defeat the most formidable ARC units and secure their ultimate trophies.",
+          "es": "Derrota las unidades ARC m\u00e1s formidables y asegura sus trofeos definitivos.",
+          "fr": "Vaincre les unit\u00e9s ARC les plus redoutables et s\u00e9curiser leurs troph\u00e9es ultimes.",
+          "he": "\u05d4\u05d1\u05d9\u05e1\u05d5 \u05d0\u05ea \u05d9\u05d7\u05d9\u05d3\u05d5\u05ea \u05d4-ARC \u05d4\u05d0\u05d9\u05de\u05ea\u05e0\u05d9\u05d5\u05ea \u05d1\u05d9\u05d5\u05ea\u05e8 \u05d5\u05d4\u05d1\u05d8\u05d9\u05d7\u05d5 \u05d0\u05ea \u05d4\u05d2\u05d1\u05d9\u05e2\u05d9\u05dd \u05d4\u05d0\u05d5\u05dc\u05d8\u05d9\u05de\u05d8\u05d9\u05d1\u05d9\u05d9\u05dd \u05e9\u05dc\u05d4\u05df.",
+          "hr": "Pobijedite najstra\u0161nije ARC jedinice i osigurajte njihove ultimativne trofeje.",
+          "it": "Sconfiggi le unit\u00e0 ARC pi\u00f9 formidabili e assicurati i loro trofei definitivi.",
+          "ja": "\u6700\u3082\u624b\u5f37\u3044ARC\u30e6\u30cb\u30c3\u30c8\u3092\u5012\u3057\u3001\u7a76\u6975\u306e\u30c8\u30ed\u30d5\u30a3\u30fc\u3092\u78ba\u4fdd\u3057\u307e\u3059\u3002",
+          "kr": "\uac00\uc7a5 \uac15\ub825\ud55c ARC \uc720\ub2db\uc744 \ubb3c\ub9ac\uce58\uace0 \uad81\uadf9\uc758 \ud2b8\ub85c\ud53c\ub97c \ud655\ubcf4\ud558\uc138\uc694.",
+          "no": "Beseir de mest formidable ARC-enhetene og sikre deres ultimate trof\u00e9er.",
+          "pl": "Pokonaj najbardziej gro\u017ane jednostki ARC i zdob\u0105d\u017a ich ostateczne trofea.",
+          "pt": "Derrote as unidades ARC mais formid\u00e1veis e garanta seus trof\u00e9us definitivos.",
+          "pt-BR": "Derrote as unidades ARC mais formid\u00e1veis e garanta seus trof\u00e9us definitivos.",
+          "ru": "\u041f\u043e\u0431\u0435\u0434\u0438\u0442\u0435 \u0441\u0430\u043c\u044b\u0435 \u0433\u0440\u043e\u0437\u043d\u044b\u0435 \u044e\u043d\u0438\u0442\u044b ARC \u0438 \u0437\u0430\u043f\u043e\u043b\u0443\u0447\u0438\u0442\u0435 \u0438\u0445 \u043e\u043a\u043e\u043d\u0447\u0430\u0442\u0435\u043b\u044c\u043d\u044b\u0435 \u0442\u0440\u043e\u0444\u0435\u0438.",
+          "sr": "Pobedite najstra\u0161nije ARC jedinice i osigurajte njihove ultimativne trofeje.",
+          "tr": "En zorlu ARC birimlerini yenin ve nihai kupalar\u0131n\u0131 g\u00fcvenceye al\u0131n.",
+          "uk": "\u041f\u0435\u0440\u0435\u043c\u043e\u0436\u0456\u0442\u044c \u043d\u0430\u0439\u0433\u0440\u0456\u0437\u043d\u0456\u0448\u0456 \u044e\u043d\u0456\u0442\u0438 ARC \u0442\u0430 \u0437\u0430\u0432\u043e\u043b\u043e\u0434\u0456\u0439\u0442\u0435 \u0457\u0445\u043d\u0456\u043c\u0438 \u043e\u0441\u0442\u0430\u0442\u043e\u0447\u043d\u0438\u043c\u0438 \u0442\u0440\u043e\u0444\u0435\u044f\u043c\u0438.",
+          "zh-CN": "\u51fb\u8d25\u6700\u5f3a\u5927\u7684ARC\u5355\u4f4d\u5e76\u83b7\u53d6\u5176\u7ec8\u6781\u6218\u5229\u54c1\u3002",
+          "zh-TW": "\u64ca\u6557\u6700\u5f37\u5927\u7684ARC\u55ae\u4f4d\u4e26\u7372\u53d6\u5176\u7d42\u6975\u6230\u5229\u54c1\u3002"
+        },
+        "phase": 5,
+        "requirementItemIds": [
+          {
+            "itemId": "exodus_modules",
+            "quantity": 5
+          },
+          {
+            "itemId": "geiger_counter",
+            "quantity": 3
+          },
+          {
+            "itemId": "bombardier_cell",
+            "quantity": 8
+          },
+          {
+            "itemId": "matriarch_reactor",
+            "quantity": 3
+          }
+        ]
+      }
+    ]
   }
 ]
