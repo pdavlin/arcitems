@@ -1997,7 +1997,8 @@
     "xp": 0,
     "previousQuestIds": [
       "ss10t",
-      "ss10s"
+      "ss10s",
+      "ss10u"
     ],
     "nextQuestIds": [
       "ss10z"
@@ -3234,7 +3235,8 @@
     ],
     "xp": 0,
     "previousQuestIds": [
-      "ss10x5"
+      "ss10x5",
+      "ss10v"
     ],
     "nextQuestIds": [
       "bombing_run"
@@ -6998,6 +7000,7 @@
     ],
     "xp": 0,
     "previousQuestIds": [
+      "12_snap_and_salvage",
       "groundbreaking"
     ],
     "nextQuestIds": [
@@ -7463,7 +7466,8 @@
     ],
     "xp": 0,
     "previousQuestIds": [
-      "ss10r"
+      "ss10r",
+      "ss8b"
     ],
     "nextQuestIds": [],
     "updatedAt": "01/13/2026"
