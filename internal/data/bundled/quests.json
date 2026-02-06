@@ -2971,10 +2971,16 @@
       "stella_montis"
     ],
     "trader": "Celeste",
+    "requiredItemIds": [
+      {
+        "itemId": "old_world_books",
+        "quantity": 1
+      }
+    ],
     "grantedItemIds": [],
     "description": {
       "da": "Rapporter om Stella Montis bliver ved med at str\u00f8mme ind, og det er ikke som noget, vi har set f\u00f8r. Der kan v\u00e6re optegnelser eller relikvier fra fortiden derinde, og hvis der er, vil jeg have dem.",
-      "de": "Wir kriegen Berichte \u00fcber Stella Montis rein und was ich da erfahre, ist v\u00f6llig neu. Da drinnen k\u00f6nnten Aufzeichnungen oder Relikte aus der Vergangenheit warten - und wenn das so ist, dann will ich sie haben.",
+      "de": "Wir kriegen Berichte \u00fcber Stella Montis rein und was ich da erfahre, ist v\u00f6llig neu. Da drinnen k\u00f6nnten Aufzeichnungen oder Relikte aus der Vergangenheit warten - und wenn det so ist, dann will ich sie haben.",
       "en": "Reports about Stella Montis keep coming in, and it's unlike anything we've seen before. There may be records or relics from the past in there, and if so, I want them.",
       "es": "Los informes sobre Stella Montis no dejan de llegar, y no se parece a nada que hayamos visto antes. Puede que haya registros o reliquias del pasado ah\u00ed dentro y, si es as\u00ed, las quiero.",
       "fr": "Les rapports sur Stella Montis continuent d'affluer, et c'est comme rien de ce que nous avons vu auparavant. Il pourrait y avoir des archives ou des reliques du pass\u00e9 l\u00e0-bas, et si c'est le cas, je les veux.",
@@ -11611,6 +11617,16 @@
       "stella_montis"
     ],
     "trader": "Shani",
+    "requiredItemIds": [
+      {
+        "itemId": "rotary_encoder",
+        "quantity": 1
+      },
+      {
+        "itemId": "ion_sputter",
+        "quantity": 1
+      }
+    ],
     "description": {
       "da": "Har du nogensinde lagt m\u00e6rke til de lysstriber, der farer over himlen?\n\nJeg har set for meget til at tro, at de er naturlige, men der skal mere end en fornemmelse til for at overbevise Celeste.",
       "de": "Hast du schon mal diese Lichtstreifen bemerkt, die \u00fcber den Himmel schie\u00dfen?\n\nIch habe zu viel gesehen, um zu glauben, dass sie nat\u00fcrlich sind, aber es braucht mehr als eine Ahnung, um Celeste zu \u00fcberzeugen.",
