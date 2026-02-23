@@ -2166,7 +2166,7 @@
       "sr": "Nakovanj Razdvaja\u010d",
       "tr": "\u00d6rs B\u00f6l\u00fcc\u00fc",
       "uk": "\u0420\u043e\u0437\u0434\u0456\u043b\u044e\u0432\u0430\u0447 \u041a\u043e\u0432\u0430\u0434\u043b\u0430",
-      "zh-CN": "\u94c1\u7827\u5206\u88c2\u5668",
+      "zh-CN": "\u94c1\u7827\u5206\u6d41\u5668",
       "zh-TW": "\u9435\u7827\u5206\u88c2\u5668"
     },
     "description": {
@@ -3161,7 +3161,7 @@
       "sr": "ARC termo obloga",
       "tr": "ARC Metal Kaplamas\u0131",
       "uk": "\u0422\u0435\u0440\u043c\u043e\u043f\u0456\u0434\u043a\u043b\u0430\u0434\u043a\u0430 ARC",
-      "zh-CN": "ARC\u70ed\u80fd\u886c\u91cc",
+      "zh-CN": "ARC\u9694\u70ed\u886c\u91cc",
       "zh-TW": "ARC\u71b1\u80fd\u896f\u88e1"
     },
     "description": {
@@ -4128,107 +4128,6 @@
     "updatedAt": "10/30/2025"
   },
   {
-    "id": "backpack_black_hiker_color",
-    "name": {
-      "da": "Rygs\u00e6k (sort vandrer-farve)",
-      "de": "Rucksack (Schwarze Wanderer-Farbe)",
-      "en": "Backpack (Black Hiker Color)",
-      "es": "Mochila (color excursionista negro)",
-      "fr": "Sac \u00e0 dos (couleur randonneur noir)",
-      "he": "\u05ea\u05d9\u05e7 \u05d2\u05d1 (\u05e6\u05d1\u05e2 \u05de\u05d8\u05d9\u05d9\u05dc \u05e9\u05d7\u05d5\u05e8)",
-      "hr": "Ruksak (Crna Planinarska Boja)",
-      "it": "Zaino (colore escursionista nero)",
-      "ja": "\u30d0\u30c3\u30af\u30d1\u30c3\u30af\uff08\u30d6\u30e9\u30c3\u30af\u30cf\u30a4\u30ab\u30fc\u30ab\u30e9\u30fc\uff09",
-      "ko-KR": "\ubc30\ub0ad (\ube14\ub799 \ud558\uc774\ucee4 \uceec\ub7ec)",
-      "no": "Ryggsekk (svart vandrer-farge)",
-      "pl": "Plecak (czarny kolor w\u0119drowca)",
-      "pt": "Mochila (cor caminhante preto)",
-      "pt-BR": "Mochila (Cor Excursionista Preta)",
-      "ru": "\u0420\u044e\u043a\u0437\u0430\u043a (\u0446\u0432\u0435\u0442 \u0447\u0435\u0440\u043d\u043e\u0433\u043e \u0442\u0443\u0440\u0438\u0441\u0442\u0430)",
-      "sr": "Ranac (Crna Planinarska Boja)",
-      "tr": "S\u0131rt \u00c7antas\u0131 (Siyah Y\u00fcr\u00fcy\u00fc\u015f\u00e7\u00fc Rengi)",
-      "uk": "\u0420\u044e\u043a\u0437\u0430\u043a (\u043a\u043e\u043b\u0456\u0440 \u0447\u043e\u0440\u043d\u043e\u0433\u043e \u0442\u0443\u0440\u0438\u0441\u0442\u0430)",
-      "zh-CN": "\u80cc\u5305\uff08\u9ed1\u8272\u5f92\u6b65\u8005\u914d\u8272\uff09",
-      "zh-TW": "\u80cc\u5305\uff08\u9ed1\u8272\u767b\u5c71\u5ba2\u914d\u8272\uff09"
-    },
-    "description": {
-      "da": "Kosmetisk rygs\u00e6k",
-      "de": "Deiner Sammlung wird eine neue Variante eines kosmetischen Gegenstands hinzugef\u00fcgt.",
-      "en": "Cosmetic Backpack",
-      "es": "Mochila cosm\u00e9tica",
-      "fr": "Sac \u00e0 dos cosm\u00e9tique",
-      "he": "\u05ea\u05d9\u05e7 \u05d2\u05d1 \u05e7\u05d5\u05e1\u05de\u05d8\u05d9",
-      "hr": "Kozmeti\u010dki Ruksak",
-      "it": "Zaino cosmetico",
-      "ja": "\u30b3\u30b9\u30e1\u30c6\u30a3\u30c3\u30af\u30d0\u30c3\u30af\u30d1\u30c3\u30af",
-      "ko-KR": "\ucf54\uc2a4\uba54\ud2f1 \ubc30\ub0ad",
-      "no": "Kosmetisk ryggsekk",
-      "pl": "Plecak kosmetyczny",
-      "pt": "Mochila cosm\u00e9tica",
-      "pt-BR": "Mochila Cosm\u00e9tica",
-      "ru": "\u041a\u043e\u0441\u043c\u0435\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0440\u044e\u043a\u0437\u0430\u043a",
-      "sr": "Kozmeti\u010dki Ranac",
-      "tr": "Kozmetik S\u0131rt \u00c7antas\u0131",
-      "uk": "\u041a\u043e\u0441\u043c\u0435\u0442\u0438\u0447\u043d\u0438\u0439 \u0440\u044e\u043a\u0437\u0430\u043a",
-      "zh-CN": "\u88c5\u9970\u80cc\u5305",
-      "zh-TW": "\u88dd\u98fe\u80cc\u5305"
-    },
-    "type": "Cosmetic",
-    "rarity": "Common",
-    "updatedAt": "10/30/2025"
-  },
-  {
-    "id": "banana",
-    "name": {
-      "da": "Banan",
-      "de": "Banane",
-      "en": "Banana",
-      "es": "Pl\u00e1tano",
-      "fr": "Banane",
-      "he": "\u05d1\u05e0\u05e0\u05d4",
-      "hr": "Banana",
-      "it": "Banana",
-      "ja": "\u30d0\u30ca\u30ca",
-      "ko-KR": "\ubc14\ub098\ub098",
-      "no": "Banan",
-      "pl": "Banan",
-      "pt": "Banana",
-      "pt-BR": "Banana",
-      "ru": "\u0411\u0430\u043d\u0430\u043d",
-      "sr": "Banana",
-      "tr": "Muz",
-      "uk": "\u0411\u0430\u043d\u0430\u043d",
-      "zh-CN": "\u9999\u8549",
-      "zh-TW": "\u9999\u8549"
-    },
-    "description": {
-      "da": "En ny kosmetisk genstand vil blive tilf\u00f8jet til din samling.",
-      "de": "Ein neuer kosmetischer Gegenstand wird deiner Sammlung hinzugef\u00fcgt.",
-      "en": "A new cosmetic will be added to your collection.",
-      "es": "Se a\u00f1adir\u00e1 un nuevo objeto est\u00e9tico a tu colecci\u00f3n.",
-      "fr": "Un nouvel objet cosm\u00e9tique sera ajout\u00e9 \u00e0 votre collection.",
-      "he": "\u05e4\u05e8\u05d9\u05d8 \u05e7\u05d5\u05e1\u05de\u05d8\u05d9 \u05d7\u05d3\u05e9 \u05d9\u05ea\u05d5\u05d5\u05e1\u05e3 \u05dc\u05d0\u05d5\u05e1\u05e3 \u05e9\u05dc\u05da.",
-      "hr": "Novi kozmeti\u010dki predmet bit \u0107e dodan u va\u0161u kolekciju.",
-      "it": "Un nuovo oggetto estetico verr\u00e0 aggiunto alla tua collezione.",
-      "ja": "\u65b0\u3057\u3044\u30b3\u30b9\u30e1\u30c6\u30a3\u30c3\u30af\u304c\u30b3\u30ec\u30af\u30b7\u30e7\u30f3\u306b\u8ffd\u52a0\u3055\u308c\u307e\u3059\u3002",
-      "ko-KR": "\uc0c8\ub85c\uc6b4 \ucf54\uc2a4\uba54\ud2f1\uc774 \uceec\ub809\uc158\uc5d0 \ucd94\uac00\ub429\ub2c8\ub2e4.",
-      "no": "Et nytt kosmetisk gjenstand vil bli lagt til samlingen din.",
-      "pl": "Nowy przedmiot kosmetyczny zostanie dodany do twojej kolekcji.",
-      "pt": "Um novo cosm\u00e9tico ser\u00e1 adicionado \u00e0 sua cole\u00e7\u00e3o.",
-      "pt-BR": "Um novo item cosm\u00e9tico ser\u00e1 adicionado \u00e0 sua cole\u00e7\u00e3o.",
-      "ru": "\u041d\u043e\u0432\u044b\u0439 \u043a\u043e\u0441\u043c\u0435\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043f\u0440\u0435\u0434\u043c\u0435\u0442 \u0431\u0443\u0434\u0435\u0442 \u0434\u043e\u0431\u0430\u0432\u043b\u0435\u043d \u0432 \u0432\u0430\u0448\u0443 \u043a\u043e\u043b\u043b\u0435\u043a\u0446\u0438\u044e.",
-      "sr": "Novi kozmeti\u010dki predmet bi\u0107e dodat u va\u0161u kolekciju.",
-      "tr": "Koleksiyonunuza yeni bir kozmetik eklenecek.",
-      "uk": "\u041d\u043e\u0432\u0438\u0439 \u043a\u043e\u0441\u043c\u0435\u0442\u0438\u0447\u043d\u0438\u0439 \u043f\u0440\u0435\u0434\u043c\u0435\u0442 \u0431\u0443\u0434\u0435 \u0434\u043e\u0434\u0430\u043d\u043e \u0434\u043e \u0432\u0430\u0448\u043e\u0457 \u043a\u043e\u043b\u0435\u043a\u0446\u0456\u0457.",
-      "zh-CN": "\u65b0\u7684\u5916\u89c2\u7269\u54c1\u5c06\u52a0\u5165\u4f60\u7684\u6536\u85cf\u3002",
-      "zh-TW": "\u65b0\u7684\u5916\u89c0\u7269\u54c1\u5c07\u52a0\u5165\u4f60\u7684\u6536\u85cf\u3002"
-    },
-    "type": "Backpack Charm",
-    "rarity": "Common",
-    "imageFilename": "https://cdn.arctracker.io/items/banana.png",
-    "updatedAt": "10/30/2025"
-  },
-  {
     "id": "bandage",
     "name": {
       "da": "Bandage",
@@ -4387,7 +4286,7 @@
       "sr": "Komplet za Barikadu",
       "tr": "Barikat Kiti",
       "uk": "\u041d\u0430\u0431\u0456\u0440 \u0431\u0430\u0440\u0438\u043a\u0430\u0434",
-      "zh-CN": "\u8def\u969c\u5957\u4ef6",
+      "zh-CN": "\u8def\u969c\u5de5\u5177",
       "zh-TW": "\u8def\u969c\u5957\u7d44"
     },
     "description": {
@@ -4500,7 +4399,7 @@
       "sr": "Nacrt za komplet barikade",
       "tr": "Barikat Kiti Tasla\u011f\u0131",
       "uk": "\u041a\u0440\u0435\u0441\u043b\u0435\u043d\u043d\u044f \u043d\u0430\u0431\u043e\u0440\u0443 \u0431\u0430\u0440\u0438\u043a\u0430\u0434",
-      "zh-CN": "\u8def\u969c\u5957\u4ef6\u84dd\u56fe",
+      "zh-CN": "\u8def\u969c\u5de5\u5177\u84dd\u56fe",
       "zh-TW": "\u8def\u969c\u5957\u7d44\u85cd\u5716"
     },
     "description": {
@@ -5752,7 +5651,7 @@
       "sr": "Vatrena Granata",
       "tr": "Alev Bombas\u0131",
       "uk": "\u0412\u043e\u0433\u043d\u044f\u043d\u0430 \u0433\u0440\u0430\u043d\u0430\u0442\u0430",
-      "zh-CN": "\u70c8\u7130\u624b\u69b4\u5f39",
+      "zh-CN": "\u706b\u7130\u624b\u96f7",
       "zh-TW": "\u70c8\u7130\u624b\u69b4\u5f48"
     },
     "description": {
@@ -5890,7 +5789,7 @@
       "sr": "Nacrt za vatrenu granatu",
       "tr": "Alev Bombas\u0131 Tasla\u011f\u0131",
       "uk": "\u041a\u0440\u0435\u0441\u043b\u0435\u043d\u043d\u044f \u0432\u043e\u0433\u043d\u044f\u043d\u043e\u0457 \u0433\u0440\u0430\u043d\u0430\u0442\u0438",
-      "zh-CN": "\u70c8\u7130\u624b\u69b4\u5f39\u84dd\u56fe",
+      "zh-CN": "\u706b\u7130\u624b\u96f7\u84dd\u56fe",
       "zh-TW": "\u70c8\u7130\u624b\u69b4\u5f48\u85cd\u5716"
     },
     "description": {
@@ -5943,7 +5842,7 @@
       "sr": "Zamka sa Vatrenom Granatom",
       "tr": "Lazer Tuza\u011f\u0131: Ate\u015f",
       "uk": "\u041f\u0430\u0441\u0442\u043a\u0430 \u0437 \u0432\u043e\u0433\u043d\u044f\u043d\u043e\u044e \u0433\u0440\u0430\u043d\u0430\u0442\u043e\u044e",
-      "zh-CN": "\u70c8\u7130\u624b\u69b4\u5f39\u9677\u9631",
+      "zh-CN": "\u706b\u7130\u624b\u96f7\u9677\u9631",
       "zh-TW": "\u70c8\u7130\u624b\u69b4\u5f48\u9677\u9631"
     },
     "description": {
@@ -6514,57 +6413,6 @@
     "stackSize": 1,
     "imageFilename": "https://cdn.arctracker.io/items/blue_light_stick_blueprint.png",
     "updatedAt": "11/04/2025"
-  },
-  {
-    "id": "blue_radio_renegade_color",
-    "name": {
-      "da": "Bl\u00e5 (Radio Renegade-farve)",
-      "de": "Blau (Radio Renegade-Farbe)",
-      "en": "Blue (Radio Renegade Color)",
-      "es": "Azul (color Radio Renegado)",
-      "fr": "Bleu (couleur Radio Ren\u00e9gat)",
-      "he": "\u05db\u05d7\u05d5\u05dc (\u05e6\u05d1\u05e2 Radio Renegade)",
-      "hr": "Plava (Radio Renegade boja)",
-      "it": "Blu (colore Radio Renegade)",
-      "ja": "\u30d6\u30eb\u30fc (Radio Renegade\u30ab\u30e9\u30fc)",
-      "ko-KR": "\ube14\ub8e8 (Radio Renegade \uc0c9\uc0c1)",
-      "no": "Bl\u00e5 (Radio Renegade-farge)",
-      "pl": "Niebieski (kolor Radio Renegade)",
-      "pt": "Azul (cor Radio Renegade)",
-      "pt-BR": "Azul (Cor de R\u00e1dio Renegado)",
-      "ru": "\u0421\u0438\u043d\u0438\u0439 (\u0446\u0432\u0435\u0442 Radio Renegade)",
-      "sr": "Plava (Radio Renegade boja)",
-      "tr": "Mavi (Radio Renegade Rengi)",
-      "uk": "\u0421\u0438\u043d\u0456\u0439 (\u043a\u043e\u043b\u0456\u0440 Radio Renegade)",
-      "zh-CN": "\u84dd\u8272\uff08Radio Renegade\u914d\u8272\uff09",
-      "zh-TW": "\u85cd\u8272\uff08Radio Renegade\u914d\u8272\uff09"
-    },
-    "description": {
-      "da": "En ny kosmetisk variant vil blive tilf\u00f8jet til din samling.",
-      "de": "Eine neue kosmetische Variante wird deiner Sammlung hinzugef\u00fcgt.",
-      "en": "A new cosmetic variant will be added to your collection.",
-      "es": "Se a\u00f1adir\u00e1 una nueva variante est\u00e9tica a tu colecci\u00f3n.",
-      "fr": "Un nouveau style cosm\u00e9tique sera ajout\u00e9 \u00e0 votre collection.",
-      "he": "\u05d2\u05e8\u05e1\u05d4 \u05e7\u05d5\u05e1\u05de\u05d8\u05d9\u05ea \u05d7\u05d3\u05e9\u05d4 \u05ea\u05ea\u05d5\u05d5\u05e1\u05e3 \u05dc\u05d0\u05d5\u05e1\u05e3 \u05e9\u05dc\u05da.",
-      "hr": "Nova kozmeti\u010dka varijanta bit \u0107e dodana u va\u0161u kolekciju.",
-      "it": "Una nuova variante estetica verr\u00e0 aggiunta alla tua collezione.",
-      "ja": "\u65b0\u3057\u3044\u30b3\u30b9\u30e1\u30c6\u30a3\u30c3\u30af\u30d0\u30ea\u30a2\u30f3\u30c8\u304c\u30b3\u30ec\u30af\u30b7\u30e7\u30f3\u306b\u8ffd\u52a0\u3055\u308c\u307e\u3059\u3002",
-      "ko-KR": "\uc0c8\ub85c\uc6b4 \ucf54\uc2a4\uba54\ud2f1 \ubcc0\ud615\uc774 \uceec\ub809\uc158\uc5d0 \ucd94\uac00\ub429\ub2c8\ub2e4.",
-      "no": "En ny kosmetisk variant vil bli lagt til samlingen din.",
-      "pl": "Nowy wariant kosmetyczny zostanie dodany do twojej kolekcji.",
-      "pt": "Uma nova variante cosm\u00e9tica ser\u00e1 adicionada \u00e0 sua cole\u00e7\u00e3o.",
-      "pt-BR": "Uma nova variante cosm\u00e9tica ser\u00e1 adicionada \u00e0 sua cole\u00e7\u00e3o.",
-      "ru": "\u041d\u043e\u0432\u044b\u0439 \u043a\u043e\u0441\u043c\u0435\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0432\u0430\u0440\u0438\u0430\u043d\u0442 \u0431\u0443\u0434\u0435\u0442 \u0434\u043e\u0431\u0430\u0432\u043b\u0435\u043d \u0432 \u0432\u0430\u0448\u0443 \u043a\u043e\u043b\u043b\u0435\u043a\u0446\u0438\u044e.",
-      "sr": "Nova kozmeti\u010dka varijanta bi\u0107e dodata u va\u0161u kolekciju.",
-      "tr": "Koleksiyonunuza yeni bir kozmetik varyant eklenecek.",
-      "uk": "\u041d\u043e\u0432\u0438\u0439 \u043a\u043e\u0441\u043c\u0435\u0442\u0438\u0447\u043d\u0438\u0439 \u0432\u0430\u0440\u0456\u0430\u043d\u0442 \u0431\u0443\u0434\u0435 \u0434\u043e\u0434\u0430\u043d\u043e \u0434\u043e \u0432\u0430\u0448\u043e\u0457 \u043a\u043e\u043b\u0435\u043a\u0446\u0456\u0457.",
-      "zh-CN": "\u65b0\u7684\u5916\u89c2\u53d8\u4f53\u5c06\u6dfb\u52a0\u5230\u4f60\u7684\u6536\u85cf\u4e2d\u3002",
-      "zh-TW": "\u65b0\u7684\u5916\u89c0\u8b8a\u9ad4\u5c07\u65b0\u589e\u81f3\u4f60\u7684\u6536\u85cf\u4e2d\u3002"
-    },
-    "type": "Cosmetic",
-    "rarity": "Common",
-    "imageFilename": "https://cdn.arctracker.io/items/blue_radio_renegade_color.png",
-    "updatedAt": "11/10/2025"
   },
   {
     "id": "bobcat_blueprint",
@@ -8132,7 +7980,7 @@
       "sr": "Bombarderska \u0107elija",
       "tr": "Bombard\u0131manc\u0131 H\u00fccresi",
       "uk": "\u041e\u0441\u0435\u0440\u0435\u0434\u043e\u043a \u0431\u043e\u043c\u0431\u0430\u0440\u0434\u0438\u0440\u0430",
-      "zh-CN": "\u8f70\u70b8\u8005\u7535\u6c60",
+      "zh-CN": "\u6295\u5f39\u624b\u7535\u6c60",
       "zh-TW": "\u8f5f\u70b8\u8005\u96fb\u6c60"
     },
     "description": {
@@ -8473,57 +8321,6 @@
     "updatedAt": "01/09/2026"
   },
   {
-    "id": "burgerboy",
-    "name": {
-      "da": "Burgerboy",
-      "de": "Burgerboy",
-      "en": "Burgerboy",
-      "es": "Burgerboy",
-      "fr": "Burgerboy",
-      "he": "\u05d1\u05d5\u05e8\u05d2\u05e8-\u05d1\u05d5\u05d9",
-      "hr": "Burgerboy",
-      "it": "Burgerboy",
-      "ja": "\u30d0\u30fc\u30ac\u30fc\u30dc\u30fc\u30a4",
-      "ko-KR": "\ubc84\uac70\ubcf4\uc774",
-      "no": "Burgerboy",
-      "pl": "Burgerboy",
-      "pt": "Burgerboy",
-      "pt-BR": "Burgerboy",
-      "ru": "\u0424\u0430\u043d\u0430\u0442 \u0431\u0443\u0440\u0433\u0435\u0440\u043e\u0432",
-      "sr": "Burgerboy",
-      "tr": "Burgerboy",
-      "uk": "\u0411\u0443\u0440\u0433\u0435\u0440\u0431\u043e\u0439",
-      "zh-CN": "\u6c49\u5821\u7537\u5b69",
-      "zh-TW": "\u6f22\u5821\u7537\u5b69"
-    },
-    "description": {
-      "da": "Et nyt kosmetisk element vil blive tilf\u00f8jet til din samling.",
-      "de": "Ein neues Kosmetikitem wird deiner Sammlung hinzugef\u00fcgt.",
-      "en": "A new cosmetic will be added to your collection.",
-      "es": "Se a\u00f1adir\u00e1 un nuevo cosm\u00e9tico a tu colecci\u00f3n.",
-      "fr": "Un nouveau cosm\u00e9tique sera ajout\u00e9 \u00e0 votre collection.",
-      "he": "\u05e4\u05e8\u05d9\u05d8 \u05e7\u05d5\u05e1\u05de\u05d8\u05d9 \u05d7\u05d3\u05e9 \u05d9\u05ea\u05d5\u05d5\u05e1\u05e3 \u05dc\u05d0\u05d5\u05e1\u05e3 \u05e9\u05dc\u05da.",
-      "hr": "Novi kozmeti\u010dki predmet bit \u0107e dodan u va\u0161u kolekciju.",
-      "it": "Un nuovo cosmetico verr\u00e0 aggiunto alla tua collezione.",
-      "ja": "\u65b0\u3057\u3044\u30b3\u30b9\u30e1\u30c6\u30a3\u30c3\u30af\u304c\u30b3\u30ec\u30af\u30b7\u30e7\u30f3\u306b\u8ffd\u52a0\u3055\u308c\u307e\u3059\u3002",
-      "ko-KR": "\uc0c8\ub85c\uc6b4 \ucf54\uc2a4\uba54\ud2f1\uc774 \uceec\ub809\uc158\uc5d0 \ucd94\uac00\ub429\ub2c8\ub2e4.",
-      "no": "Et nytt kosmetisk element vil bli lagt til samlingen din.",
-      "pl": "Nowy element kosmetyczny zostanie dodany do twojej kolekcji.",
-      "pt": "Um novo cosm\u00e9tico ser\u00e1 adicionado \u00e0 sua cole\u00e7\u00e3o.",
-      "pt-BR": "Um novo cosm\u00e9tico ser\u00e1 adicionado \u00e0 sua cole\u00e7\u00e3o.",
-      "ru": "\u041d\u043e\u0432\u044b\u0439 \u043a\u043e\u0441\u043c\u0435\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043f\u0440\u0435\u0434\u043c\u0435\u0442 \u0431\u0443\u0434\u0435\u0442 \u0434\u043e\u0431\u0430\u0432\u043b\u0435\u043d \u0432 \u0432\u0430\u0448\u0443 \u043a\u043e\u043b\u043b\u0435\u043a\u0446\u0438\u044e.",
-      "sr": "Novi kozmeti\u010dki predmet bi\u0107e dodat u va\u0161u kolekciju.",
-      "tr": "Koleksiyonunuza yeni bir kozmetik eklenecek.",
-      "uk": "\u041d\u043e\u0432\u0438\u0439 \u043a\u043e\u0441\u043c\u0435\u0442\u0438\u0447\u043d\u0438\u0439 \u043f\u0440\u0435\u0434\u043c\u0435\u0442 \u0431\u0443\u0434\u0435 \u0434\u043e\u0434\u0430\u043d\u043e \u0434\u043e \u0432\u0430\u0448\u043e\u0457 \u043a\u043e\u043b\u0435\u043a\u0446\u0456\u0457.",
-      "zh-CN": "\u65b0\u7684\u5916\u89c2\u5c06\u52a0\u5165\u60a8\u7684\u6536\u85cf\u3002",
-      "zh-TW": "\u65b0\u7684\u5916\u89c0\u5c07\u52a0\u5165\u60a8\u7684\u6536\u85cf\u3002"
-    },
-    "type": "Backpack Charm",
-    "rarity": "Common",
-    "imageFilename": "https://cdn.arctracker.io/items/burgerboy.png",
-    "updatedAt": "11/01/2025"
-  },
-  {
     "id": "buried_city_hospital_key",
     "name": {
       "da": "Begravet by hospital-n\u00f8gle",
@@ -8544,7 +8341,7 @@
       "sr": "Klju\u010d bolnice zakopanog grada",
       "tr": "G\u00f6m\u00fcl\u00fc \u015eehir Hastane Anahtar\u0131",
       "uk": "\u041a\u043b\u044e\u0447 \u0432\u0456\u0434 \u043b\u0456\u043a\u0430\u0440\u043d\u0456 \u041f\u043e\u0445\u043e\u0432\u0430\u043d\u043e\u0433\u043e \u043c\u0456\u0441\u0442\u0430",
-      "zh-CN": "\u57cb\u6ca1\u4e4b\u57ce\u533b\u9662\u94a5\u5319",
+      "zh-CN": "\u63a9\u57cb\u5e9f\u57ce\u533b\u9662\u94a5\u5319",
       "zh-TW": "\u57cb\u6c92\u4e4b\u57ce\u91ab\u9662\u9470\u5319"
     },
     "description": {
@@ -8598,7 +8395,7 @@
       "sr": "Pristupna kartica zaposlenog JKV-a zakopanog grada",
       "tr": "G\u00f6m\u00fcl\u00fc \u015eehir JKV \u00c7al\u0131\u015fan\u0131 Eri\u015fim Kart\u0131",
       "uk": "\u041a\u0430\u0440\u0442\u0430 \u0434\u043e\u0441\u0442\u0443\u043f\u0443 \u0441\u043f\u0456\u0432\u0440\u043e\u0431\u0456\u0442\u043d\u0438\u043a\u0430 JKV \u041f\u043e\u0445\u043e\u0432\u0430\u043d\u043e\u0433\u043e \u043c\u0456\u0441\u0442\u0430",
-      "zh-CN": "\u57cb\u6ca1\u4e4b\u57ceJKV\u5458\u5de5\u95e8\u7981\u5361",
+      "zh-CN": "\u63a9\u57cb\u5e9f\u57ceJKV\u5458\u5de5\u95e8\u7981\u5361",
       "zh-TW": "\u57cb\u6c92\u4e4b\u57ceJKV\u54e1\u5de5\u9580\u7981\u5361"
     },
     "description": {
@@ -8652,7 +8449,7 @@
       "sr": "Glavni Klju\u010d Stambenih Podru\u010dja Zakopanog Grada",
       "tr": "G\u00f6m\u00fcl\u00fc \u015eehir Konutu Ana Anahtar\u0131",
       "uk": "\u0413\u043e\u043b\u043e\u0432\u043d\u0438\u0439 \u043a\u043b\u044e\u0447 \u0432\u0456\u0434 \u0436\u0438\u0442\u043b\u043e\u0432\u0438\u0445 \u0440\u0430\u0439\u043e\u043d\u0456\u0432 \u041f\u043e\u0445\u043e\u0432\u0430\u043d\u043e\u0433\u043e \u043c\u0456\u0441\u0442\u0430",
-      "zh-CN": "\u57cb\u6ca1\u4e4b\u57ce\u4f4f\u5b85\u533a\u4e07\u80fd\u94a5\u5319",
+      "zh-CN": "\u63a9\u57cb\u5e9f\u57ce\u4f4f\u5b85\u533a\u4e07\u80fd\u94a5\u5319",
       "zh-TW": "\u57cb\u6c92\u4e4b\u57ce\u4f4f\u5b85\u5340\u842c\u80fd\u9470\u5319"
     },
     "description": {
@@ -8706,7 +8503,7 @@
       "sr": "Klju\u010d Gradske Ve\u0107nice Zakopanog Grada",
       "tr": "G\u00f6m\u00fcl\u00fc \u015eehir Belediye Binas\u0131 Anahtar\u0131",
       "uk": "\u041a\u043b\u044e\u0447 \u0432\u0456\u0434 \u0440\u0430\u0442\u0443\u0448\u0456 \u041f\u043e\u0445\u043e\u0432\u0430\u043d\u043e\u0433\u043e \u043c\u0456\u0441\u0442\u0430",
-      "zh-CN": "\u57cb\u6ca1\u4e4b\u57ce\u5e02\u653f\u5385\u94a5\u5319",
+      "zh-CN": "\u63a9\u57cb\u5e9f\u57ce\u5e02\u653f\u5385\u94a5\u5319",
       "zh-TW": "\u57cb\u6c92\u4e4b\u57ce\u5e02\u653f\u5ef3\u9470\u5319"
     },
     "description": {
@@ -9191,7 +8988,7 @@
       "sr": "Izgoreli ARC Sklopovi",
       "tr": "Yanm\u0131\u015f Arc Devresi",
       "uk": "\u0417\u0433\u043e\u0440\u0456\u043b\u0430 \u0441\u0445\u0435\u043c\u0430 Arc",
-      "zh-CN": "\u70e7\u6bc1\u7684Arc\u7535\u8def",
+      "zh-CN": "\u70e7\u6bc1\u7684ARC\u7ebf\u5708",
       "zh-TW": "\u71d2\u6bc0\u7684Arc\u96fb\u8def"
     },
     "description": {
@@ -9528,57 +9325,6 @@
     "updatedAt": "01/13/2026"
   },
   {
-    "id": "cans_backpack_attachment",
-    "name": {
-      "da": "D\u00e5ser rygs\u00e6k-tilbeh\u00f8r",
-      "de": "Dosen",
-      "en": "Cans Backpack Attachment",
-      "es": "Accesorio de mochila de latas",
-      "fr": "Accessoire de sac \u00e0 dos canettes",
-      "he": "\u05ea\u05d5\u05e1\u05e3 \u05e4\u05d7\u05d9\u05d5\u05ea \u05dc\u05ea\u05d9\u05e7",
-      "hr": "Dodatak za Ruksak s Limenkama",
-      "it": "Accessorio zaino lattine",
-      "ja": "\u7f36\u30d0\u30c3\u30af\u30d1\u30c3\u30af\u30a2\u30bf\u30c3\u30c1\u30e1\u30f3\u30c8",
-      "ko-KR": "\uce94 \ubc30\ub0ad \ubd80\ucc29\ubb3c",
-      "no": "Bokser ryggsekk-tilbeh\u00f8r",
-      "pl": "Dodatek do plecaka - puszki",
-      "pt": "Acess\u00f3rio de mochila de latas",
-      "pt-BR": "Acess\u00f3rio de Mochila de Latas",
-      "ru": "\u0411\u0430\u043d\u043a\u0438",
-      "sr": "Dodatak za Ranac sa Limenkama",
-      "tr": "Konserve S\u0131rt \u00c7antas\u0131 Eki",
-      "uk": "\u041d\u0430\u0432\u0456\u0441\u043d\u0456 \u0431\u0430\u043d\u043a\u0438 \u0434\u043b\u044f \u0440\u044e\u043a\u0437\u0430\u043a\u0430",
-      "zh-CN": "\u7f50\u5934\u80cc\u5305\u6302\u4ef6",
-      "zh-TW": "\u7f50\u982d\u80cc\u5305\u639b\u4ef6"
-    },
-    "description": {
-      "da": "Kosmetisk rygs\u00e6k-tilbeh\u00f8r",
-      "de": "Ein neuer kosmetischer Gegenstand wird deiner Sammlung hinzugef\u00fcgt.",
-      "en": "Cosmetic Backpack Attachment",
-      "es": "Accesorio de mochila cosm\u00e9tico",
-      "fr": "Accessoire de sac \u00e0 dos cosm\u00e9tique",
-      "he": "\u05ea\u05d5\u05e1\u05e3 \u05e7\u05d5\u05e1\u05de\u05d8\u05d9 \u05dc\u05ea\u05d9\u05e7",
-      "hr": "Kozmeti\u010dki Dodatak za Ruksak",
-      "it": "Accessorio zaino cosmetico",
-      "ja": "\u30b3\u30b9\u30e1\u30c6\u30a3\u30c3\u30af\u30d0\u30c3\u30af\u30d1\u30c3\u30af\u30a2\u30bf\u30c3\u30c1\u30e1\u30f3\u30c8",
-      "ko-KR": "\ucf54\uc2a4\uba54\ud2f1 \ubc30\ub0ad \ubd80\ucc29\ubb3c",
-      "no": "Kosmetisk ryggsekk-tilbeh\u00f8r",
-      "pl": "Kosmetyczny dodatek do plecaka",
-      "pt": "Acess\u00f3rio de mochila cosm\u00e9tico",
-      "pt-BR": "Acess\u00f3rio Cosm\u00e9tico para Mochila",
-      "ru": "\u041a\u043e\u0441\u043c\u0435\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0435 \u043d\u0430\u0432\u0435\u0441\u043d\u043e\u0435 \u0443\u043a\u0440\u0430\u0448\u0435\u043d\u0438\u0435 \u0434\u043b\u044f \u0440\u044e\u043a\u0437\u0430\u043a\u0430",
-      "sr": "Kozmeti\u010dki Dodatak za Ranac",
-      "tr": "Kozmetik S\u0131rt \u00c7antas\u0131 Eki",
-      "uk": "\u041a\u043e\u0441\u043c\u0435\u0442\u0438\u0447\u043d\u0435 \u043d\u0430\u0432\u0456\u0441\u043d\u0435 \u043f\u0440\u0438\u043a\u0440\u0430\u0448\u0435\u043d\u043d\u044f \u0434\u043b\u044f \u0440\u044e\u043a\u0437\u0430\u043a\u0430",
-      "zh-CN": "\u88c5\u9970\u80cc\u5305\u6302\u4ef6",
-      "zh-TW": "\u88dd\u98fe\u80cc\u5305\u639b\u4ef6"
-    },
-    "type": "Cosmetic",
-    "rarity": "Common",
-    "imageFilename": "https://cdn.arctracker.io/items/cans.png",
-    "updatedAt": "11/10/2025"
-  },
-  {
     "id": "cat_bed",
     "name": {
       "da": "Katteseng",
@@ -9599,7 +9345,7 @@
       "sr": "Ma\u010dji krevet",
       "tr": "Kedi Yata\u011f\u0131",
       "uk": "\u041a\u043e\u0442\u044f\u0447\u0435 \u043b\u0456\u0436\u043a\u043e",
-      "zh-CN": "\u732b\u5e8a",
+      "zh-CN": "\u732b\u7a9d",
       "zh-TW": "\u8c93\u5e8a"
     },
     "description": {
@@ -9685,57 +9431,6 @@
     "weightKg": 0.25,
     "imageFilename": "https://cdn.arctracker.io/items/celestes_journal.png",
     "updatedAt": "11/09/2025"
-  },
-  {
-    "id": "cheer",
-    "name": {
-      "da": "Tilr\u00e5b",
-      "de": "Jubel",
-      "en": "Cheer",
-      "es": "\u00c1nimo",
-      "fr": "Acclamation",
-      "he": "\u05e2\u05d9\u05d3\u05d5\u05d3",
-      "hr": "Bod\u0440enje",
-      "it": "Incitamento",
-      "ja": "\u5fdc\u63f4",
-      "ko-KR": "\uc751\uc6d0",
-      "no": "Heiarop",
-      "pl": "Doping",
-      "pt": "Comemora\u00e7\u00e3o",
-      "pt-BR": "Comemora\u00e7\u00e3o",
-      "ru": "\u041f\u0440\u0438\u0432\u0435\u0442\u0441\u0442\u0432\u0438\u0435",
-      "sr": "Bod\u0440enje",
-      "tr": "Tezah\u00fcrat",
-      "uk": "\u0412\u0456\u0442\u0430\u043d\u043d\u044f",
-      "zh-CN": "\u6b22\u547c",
-      "zh-TW": "\u6b61\u547c"
-    },
-    "description": {
-      "da": "Et nyt kosmetisk genstand vil blive tilf\u00f8jet til din samling.",
-      "de": "Ein neues Kosmetikitem wird deiner Sammlung hinzugef\u00fcgt.",
-      "en": "A new cosmetic will be added to your collection.",
-      "es": "Se a\u00f1adir\u00e1 un nuevo cosm\u00e9tico a tu colecci\u00f3n.",
-      "fr": "Un nouveau cosm\u00e9tique sera ajout\u00e9 \u00e0 votre collection.",
-      "he": "\u05e4\u05e8\u05d9\u05d8 \u05e7\u05d5\u05e1\u05de\u05d8\u05d9 \u05d7\u05d3\u05e9 \u05d9\u05ea\u05d5\u05d5\u05e1\u05e3 \u05dc\u05d0\u05d5\u05e1\u05e3 \u05e9\u05dc\u05da.",
-      "hr": "Novi kozmeti\u010dki predmet bit \u0107e dodan u va\u0161u kolekciju.",
-      "it": "Un nuovo cosmetico verr\u00e0 aggiunto alla tua collezione.",
-      "ja": "\u65b0\u3057\u3044\u30b3\u30b9\u30e1\u30c6\u30a3\u30c3\u30af\u304c\u30b3\u30ec\u30af\u30b7\u30e7\u30f3\u306b\u8ffd\u52a0\u3055\u308c\u307e\u3059\u3002",
-      "ko-KR": "\uc0c8\ub85c\uc6b4 \ucf54\uc2a4\uba54\ud2f1\uc774 \uceec\ub809\uc158\uc5d0 \ucd94\uac00\ub429\ub2c8\ub2e4.",
-      "no": "Et nytt kosmetisk gjenstand vil bli lagt til samlingen din.",
-      "pl": "Nowy przedmiot kosmetyczny zostanie dodany do twojej kolekcji.",
-      "pt": "Um novo cosm\u00e9tico ser\u00e1 adicionado \u00e0 sua cole\u00e7\u00e3o.",
-      "pt-BR": "Um novo cosm\u00e9tico ser\u00e1 adicionado \u00e0 sua cole\u00e7\u00e3o.",
-      "ru": "\u041d\u043e\u0432\u044b\u0439 \u043a\u043e\u0441\u043c\u0435\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043f\u0440\u0435\u0434\u043c\u0435\u0442 \u0431\u0443\u0434\u0435\u0442 \u0434\u043e\u0431\u0430\u0432\u043b\u0435\u043d \u0432 \u0432\u0430\u0448\u0443 \u043a\u043e\u043b\u043b\u0435\u043a\u0446\u0438\u044e.",
-      "sr": "Novi kozmeti\u010dki predmet bi\u0107e dodat u va\u0161u kolekciju.",
-      "tr": "Koleksiyonunuza yeni bir kozmetik eklenecek.",
-      "uk": "\u041d\u043e\u0432\u0438\u0439 \u043a\u043e\u0441\u043c\u0435\u0442\u0438\u0447\u043d\u0438\u0439 \u043f\u0440\u0435\u0434\u043c\u0435\u0442 \u0431\u0443\u0434\u0435 \u0434\u043e\u0434\u0430\u043d\u043e \u0434\u043e \u0432\u0430\u0448\u043e\u0457 \u043a\u043e\u043b\u0435\u043a\u0446\u0456\u0457.",
-      "zh-CN": "\u4e00\u4e2a\u65b0\u7684\u88c5\u9970\u54c1\u5c06\u88ab\u6dfb\u52a0\u5230\u4f60\u7684\u6536\u85cf\u4e2d\u3002",
-      "zh-TW": "\u4e00\u500b\u65b0\u7684\u88dd\u98fe\u54c1\u5c07\u88ab\u6dfb\u52a0\u5230\u4f60\u7684\u6536\u85cf\u4e2d\u3002"
-    },
-    "type": "Cosmetic",
-    "rarity": "Common",
-    "imageFilename": "https://cdn.arctracker.io/items/cheer.png",
-    "updatedAt": "01/13/2026"
   },
   {
     "id": "chemicals",
@@ -10478,7 +10173,7 @@
       "sr": "Borbeni Mk. 3 (Bocni)",
       "tr": "\u00c7at\u0131\u015fma Mod. 3 (Bask\u0131n)",
       "uk": "\u0411\u043e\u0439\u043e\u0432\u0438\u0439 Mk. 3 (\u0424\u043b\u0430\u043d\u0433\u043e\u0432\u0438\u0439)",
-      "zh-CN": "\u6218\u6597 Mk. 3\uff08\u4fa7\u7ffc\u578b\uff09",
+      "zh-CN": "\u6218\u6597 Mk. 3\uff08\u4fa7\u7ffc\u7a81\u51fb\uff09",
       "zh-TW": "\u6230\u9b25 Mk. 3\uff08\u5074\u7ffc\u578b\uff09"
     },
     "description": {
@@ -10737,7 +10432,7 @@
       "sr": "Borbeni Mk. 3 (Bocni) Nacrt",
       "tr": "\u00c7at\u0131\u015fma Mod. 3 (Bask\u0131n) Tasla\u011f\u0131",
       "uk": "\u041a\u0440\u0435\u0441\u043b\u0435\u043d\u043d\u044f \u0411\u043e\u0439\u043e\u0432\u0438\u0439 Mk. 3 (\u0424\u043b\u0430\u043d\u0433\u043e\u0432\u0438\u0439)",
-      "zh-CN": "\u6218\u6597 Mk. 3\uff08\u4fa7\u7ffc\u578b\uff09\u84dd\u56fe",
+      "zh-CN": "\u6218\u6597 Mk. 3\uff08\u4fa7\u7ffc\u7a81\u51fb\uff09\u84dd\u56fe",
       "zh-TW": "\u6230\u9b25 Mk. 3\uff08\u5074\u7ffc\u578b\uff09\u85cd\u5716"
     },
     "description": {
@@ -11892,7 +11587,7 @@
       "sr": "Klju\u010d Sobe Osoblja Brane",
       "tr": "Baraj Personel Odas\u0131 Anahtar\u0131",
       "uk": "\u041a\u043b\u044e\u0447 \u0432\u0456\u0434 \u043a\u0456\u043c\u043d\u0430\u0442\u0438 \u043f\u0435\u0440\u0441\u043e\u043d\u0430\u043b\u0443 \u0434\u0430\u043c\u0431\u0438",
-      "zh-CN": "\u6c34\u575d\u5458\u5de5\u5ba4\u94a5\u5319",
+      "zh-CN": "\u5927\u575d\u5458\u5de5\u5ba4\u94a5\u5319",
       "zh-TW": "\u6c34\u58e9\u54e1\u5de5\u5ba4\u9470\u5319"
     },
     "description": {
@@ -11946,7 +11641,7 @@
       "sr": "Klju\u010d Nadzora Brane",
       "tr": "Baraj G\u00f6zetleme Anahtar\u0131",
       "uk": "\u041a\u043b\u044e\u0447 \u0432\u0456\u0434 \u0441\u043f\u043e\u0441\u0442\u0435\u0440\u0435\u0436\u043d\u043e\u0433\u043e \u043f\u0443\u043d\u043a\u0442\u0443 \u0434\u0430\u043c\u0431\u0438",
-      "zh-CN": "\u6c34\u575d\u76d1\u63a7\u94a5\u5319",
+      "zh-CN": "\u5927\u575d\u76d1\u63a7\u94a5\u5319",
       "zh-TW": "\u6c34\u58e9\u76e3\u63a7\u9470\u5319"
     },
     "description": {
@@ -11999,7 +11694,7 @@
       "sr": "Klju\u010d za testni aneks brane",
       "tr": "Baraj Test Binas\u0131 Anahtar\u0131",
       "uk": "\u041a\u043b\u044e\u0447 \u0432\u0456\u0434 \u0432\u0438\u043f\u0440\u043e\u0431\u0443\u0432\u0430\u043b\u044c\u043d\u043e\u0457 \u043f\u0440\u0438\u0431\u0443\u0434\u043e\u0432\u0438 \u0434\u0430\u043c\u0431\u0438",
-      "zh-CN": "\u5927\u575d\u6d4b\u8bd5\u9644\u5c5e\u5efa\u7b51\u94a5\u5319",
+      "zh-CN": "\u5927\u575d\u6d4b\u8bd5\u9644\u697c\u94a5\u5319",
       "zh-TW": "\u6c34\u58e9\u6e2c\u8a66\u9644\u5c6c\u5efa\u7bc9\u9470\u5319"
     },
     "description": {
@@ -12052,7 +11747,7 @@
       "sr": "Klju\u010d pomo\u0107nih prostorija brane",
       "tr": "Baraj Tesis Anahtar\u0131",
       "uk": "\u041a\u043b\u044e\u0447 \u0432\u0456\u0434 \u043f\u0456\u0434\u0441\u043e\u0431\u043d\u0438\u0445 \u043f\u0440\u0438\u043c\u0456\u0449\u0435\u043d\u044c \u0434\u0430\u043c\u0431\u0438",
-      "zh-CN": "\u6c34\u575d\u8bbe\u65bd\u94a5\u5319",
+      "zh-CN": "\u5927\u575d\u8bbe\u65bd\u94a5\u5319",
       "zh-TW": "\u6c34\u58e9\u8a2d\u65bd\u9470\u5319"
     },
     "description": {
@@ -12351,7 +12046,7 @@
       "sr": "O\u0161te\u0107eni Hornet Pokreta\u010d",
       "tr": "Hasarl\u0131 Yaban Ar\u0131s\u0131 S\u00fcr\u00fcc\u00fcs\u00fc",
       "uk": "\u041f\u043e\u0448\u043a\u043e\u0434\u0436\u0435\u043d\u0438\u0439 \u0434\u0440\u0430\u0439\u0432\u0435\u0440 Hornet",
-      "zh-CN": "\u635f\u574f\u7684\u9ec4\u8702\u9a71\u52a8\u5668",
+      "zh-CN": "\u635f\u574f\u7684\u9ec4\u8702\u5f15\u64ce",
       "zh-TW": "\u640d\u58de\u7684\u9ec3\u8702\u9a45\u52d5\u5668"
     },
     "description": {
@@ -12412,7 +12107,7 @@
       "sr": "O\u0161te\u0107eni Rocketeer Pokreta\u010d",
       "tr": "Hasarl\u0131 Roket\u00e7i S\u00fcr\u00fcc\u00fcs\u00fc",
       "uk": "\u041f\u043e\u0448\u043a\u043e\u0434\u0436\u0435\u043d\u0438\u0439 \u0440\u0430\u043a\u0435\u0442\u043d\u0438\u0439 \u0434\u0440\u0430\u0439\u0432\u0435\u0440",
-      "zh-CN": "\u635f\u574f\u7684\u706b\u7bad\u624b\u9a71\u52a8\u5668",
+      "zh-CN": "\u635f\u574f\u7684\u706b\u7bad\u624b\u5f15\u64ce",
       "zh-TW": "\u640d\u58de\u7684\u706b\u7bad\u624b\u9a45\u52d5\u5668"
     },
     "description": {
@@ -12589,7 +12284,7 @@
       "sr": "O\u0161te\u0107eni Wasp pogon",
       "tr": "Hasarl\u0131 E\u015fek Ar\u0131s\u0131 S\u00fcr\u00fcc\u00fcs\u00fc",
       "uk": "\u041f\u043e\u0448\u043a\u043e\u0434\u0436\u0435\u043d\u0438\u0439 \u0434\u0440\u0430\u0439\u0432\u0435\u0440 Wasp",
-      "zh-CN": "\u635f\u574f\u7684\u9ec4\u8702\u9a71\u52a8\u5668",
+      "zh-CN": "\u635f\u574f\u7684\u9ec4\u8702\u5f15\u64ce",
       "zh-TW": "\u640d\u58de\u7684\u9ec3\u8702\u9a45\u52d5\u5668"
     },
     "description": {
@@ -12705,7 +12400,7 @@
       "sr": "Rok",
       "tr": "M\u00fchlet",
       "uk": "\u041a\u0456\u043d\u0446\u0435\u0432\u0438\u0439 \u0442\u0435\u0440\u043c\u0456\u043d",
-      "zh-CN": "\u6700\u540e\u671f\u9650",
+      "zh-CN": "\u6b7b\u7ebf",
       "zh-TW": "\u6700\u5f8c\u671f\u9650"
     },
     "description": {
@@ -12842,7 +12537,7 @@
       "sr": "Nacrt za Deadline",
       "tr": "M\u00fchlet Tasla\u011f\u0131",
       "uk": "\u041a\u0440\u0435\u0441\u043b\u0435\u043d\u043d\u044f Deadline",
-      "zh-CN": "\u6700\u540e\u671f\u9650\u84dd\u56fe",
+      "zh-CN": "\u6b7b\u7ebf\u84dd\u56fe",
       "zh-TW": "\u6700\u5f8c\u671f\u9650\u85cd\u5716"
     },
     "description": {
@@ -13552,7 +13247,7 @@
       "sr": "Izdr\u017eljiva Tkanina",
       "tr": "Dayan\u0131kl\u0131 Kuma\u015f",
       "uk": "\u041c\u0456\u0446\u043d\u0430 \u0442\u043a\u0430\u043d\u0438\u043d\u0430",
-      "zh-CN": "\u8010\u7528\u5e03\u6599",
+      "zh-CN": "\u8010\u78e8\u5e03\u6599",
       "zh-TW": "\u8010\u7528\u5e03\u6599"
     },
     "description": {
@@ -13803,7 +13498,7 @@
       "sr": "Izjedna\u010diva\u010d",
       "tr": "Dengeleyici",
       "uk": "\u0415\u043a\u0432\u0430\u043b\u0430\u0439\u0437\u0435\u0440",
-      "zh-CN": "\u5747\u8861\u8005",
+      "zh-CN": "\u5236\u88c1\u8005",
       "zh-TW": "\u5e73\u8861\u8005"
     },
     "description": {
@@ -13976,7 +13671,7 @@
       "sr": "Nacrt Izjedna\u010diva\u010da",
       "tr": "Dengeleyici Tasla\u011f\u0131",
       "uk": "\u041a\u0440\u0435\u0441\u043b\u0435\u043d\u043d\u044f \u0415\u043a\u0432\u0430\u043b\u0430\u0439\u0437\u0435\u0440\u0430",
-      "zh-CN": "\u5747\u8861\u8005\u84dd\u56fe",
+      "zh-CN": "\u5236\u88c1\u8005\u84dd\u56fe",
       "zh-TW": "\u5747\u8861\u8005\u85cd\u5716"
     },
     "description": {
@@ -14082,7 +13777,7 @@
       "sr": "Exodus Moduli",
       "tr": "Exodus Mod\u00fclleri",
       "uk": "\u041c\u043e\u0434\u0443\u043b\u0456 \u0412\u0438\u0445\u043e\u0434\u0443",
-      "zh-CN": "\u79bb\u6d4a\u6a21\u5757",
+      "zh-CN": "\u79bb\u5de2\u6a21\u5757",
       "zh-TW": "\u51fa\u57c3\u53ca\u6a21\u7d44"
     },
     "description": {
@@ -14361,7 +14056,7 @@
       "sr": "Eksplozivna smesa",
       "tr": "Patlay\u0131c\u0131 Bile\u015fi\u011fi ",
       "uk": "\u0412\u0438\u0431\u0443\u0445\u043e\u0432\u0430 \u0440\u0435\u0447\u043e\u0432\u0438\u043d\u0430",
-      "zh-CN": "\u7206\u70b8\u5316\u5408\u7269",
+      "zh-CN": "\u70b8\u836f\u6df7\u5408\u7269",
       "zh-TW": "\u7206\u70b8\u5316\u5408\u7269"
     },
     "description": {
@@ -16112,7 +15807,7 @@
       "sr": "Poznata Patka",
       "tr": "Tan\u0131d\u0131k \u00d6rdek",
       "uk": "\u0417\u043d\u0430\u0439\u043e\u043c\u0430 \u043a\u0430\u0447\u0435\u0447\u043a\u0430",
-      "zh-CN": "\u719f\u6089\u7684\u9e2d",
+      "zh-CN": "\u4f19\u4f34\u9e2d",
       "zh-TW": "\u719f\u6089\u7684\u9d28"
     },
     "description": {
@@ -18953,7 +18648,7 @@
       "sr": "Ne\u017ena Patka",
       "tr": "Hassas \u00d6rdek",
       "uk": "\u041d\u0456\u0436\u043d\u0430 \u043a\u0430\u0447\u0435\u0447\u043a\u0430",
-      "zh-CN": "\u6e29\u67d4\u9e2d",
+      "zh-CN": "\u6e29\u987a\u9e2d",
       "zh-TW": "\u6eab\u67d4\u9d28"
     },
     "description": {
@@ -19008,7 +18703,7 @@
       "sr": "Divizma",
       "tr": "S\u0131\u011f\u0131rkuyru\u011fu",
       "uk": "\u041a\u043e\u0440\u043e\u0432'\u044f\u043a \u0437\u0432\u0438\u0447\u0430\u0439\u043d\u0438\u0439",
-      "zh-CN": "\u6bdb\u854a\u82b1",
+      "zh-CN": "\u5927\u6bdb\u854a\u82b1",
       "zh-TW": "\u6bdb\u854a\u82b1"
     },
     "description": {
@@ -21063,7 +20758,7 @@
       "sr": "Str\u0161ljenov Pogon",
       "tr": "Yaban Ar\u0131s\u0131 S\u00fcr\u00fcc\u00fcs\u00fc",
       "uk": "\u0414\u0440\u0430\u0439\u0432\u0435\u0440 \u0448\u0435\u0440\u0448\u043d\u044f",
-      "zh-CN": "\u9ec4\u8702\u9a71\u52a8\u5668",
+      "zh-CN": "\u9ec4\u8702\u5f15\u64ce",
       "zh-TW": "\u9ec3\u8702\u9a45\u52d5\u5668"
     },
     "description": {
@@ -23576,7 +23271,7 @@
       "sr": "Nacrt za Jolt minu",
       "tr": "\u015eok May\u0131n\u0131 Tasla\u011f\u0131",
       "uk": "\u041a\u0440\u0435\u0441\u043b\u0435\u043d\u043d\u044f \u043c\u0456\u043d\u0438-\u043e\u0433\u043b\u0443\u0448\u0443\u0432\u0430\u0447\u0430",
-      "zh-CN": "\u9707\u8361\u5730\u96f7\u84dd\u56fe",
+      "zh-CN": "\u7535\u51fb\u5730\u96f7\u84dd\u56fe",
       "zh-TW": "\u9707\u76ea\u5730\u96f7\u85cd\u5716"
     },
     "description": {
@@ -23608,56 +23303,6 @@
     "stackSize": 1,
     "imageFilename": "https://cdn.arctracker.io/items/jolt_mine.png",
     "updatedAt": "01/13/2026"
-  },
-  {
-    "id": "junior_outfit",
-    "name": {
-      "da": "Junior-outfit",
-      "de": "Junior-Outfit",
-      "en": "Junior Outfit",
-      "es": "Atuendo junior",
-      "fr": "Tenue junior",
-      "he": "\u05ea\u05dc\u05d1\u05d5\u05e9\u05ea \u05d2'\u05d5\u05e0\u05d9\u05d5\u05e8",
-      "hr": "Junior Odijelo",
-      "it": "Completo junior",
-      "ja": "\u30b8\u30e5\u30cb\u30a2\u670d",
-      "ko-KR": "\uc8fc\ub2c8\uc5b4 \uc758\uc0c1",
-      "no": "Junior-antrekk",
-      "pl": "Str\u00f3j juniora",
-      "pt": "Roupa j\u00fanior",
-      "pt-BR": "Traje J\u00fanior",
-      "ru": "\u041a\u043e\u0441\u0442\u044e\u043c \u044e\u043d\u0438\u043e\u0440\u0430",
-      "sr": "Junior Odelo",
-      "tr": "Gen\u00e7 K\u0131yafeti",
-      "uk": "\u041a\u043e\u0441\u0442\u044e\u043c \u044e\u043d\u0456\u043e\u0440\u0430",
-      "zh-CN": "\u5c11\u5e74\u670d\u88c5",
-      "zh-TW": "\u5c11\u5e74\u670d\u88dd"
-    },
-    "description": {
-      "da": "Kosmetisk outfit",
-      "de": "Kosmetisches Outfit",
-      "en": "Cosmetic Outfit",
-      "es": "Atuendo cosm\u00e9tico",
-      "fr": "Tenue cosm\u00e9tique",
-      "he": "\u05ea\u05dc\u05d1\u05d5\u05e9\u05ea \u05e7\u05d5\u05e1\u05de\u05d8\u05d9\u05ea",
-      "hr": "Kozmeti\u010dko Odijelo",
-      "it": "Completo cosmetico",
-      "ja": "\u30b3\u30b9\u30e1\u30c6\u30a3\u30c3\u30af\u670d",
-      "ko-KR": "\ucf54\uc2a4\uba54\ud2f1 \uc758\uc0c1",
-      "no": "Kosmetisk antrekk",
-      "pl": "Str\u00f3j kosmetyczny",
-      "pt": "Roupa cosm\u00e9tica",
-      "pt-BR": "Traje Cosm\u00e9tico",
-      "ru": "\u041a\u043e\u0441\u043c\u0435\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043a\u043e\u0441\u0442\u044e\u043c",
-      "sr": "Kozmeti\u010dko Odelo",
-      "tr": "Kozmetik K\u0131yafet",
-      "uk": "\u041a\u043e\u0441\u043c\u0435\u0442\u0438\u0447\u043d\u0438\u0439 \u043a\u043e\u0441\u0442\u044e\u043c",
-      "zh-CN": "\u88c5\u9970\u670d\u88c5",
-      "zh-TW": "\u88dd\u98fe\u670d\u88dd"
-    },
-    "type": "Cosmetic",
-    "rarity": "Common",
-    "updatedAt": "10/30/2025"
   },
   {
     "id": "jupiter",
@@ -31044,7 +30689,7 @@
       "sr": "Bezbednosni kod Pilgrim's Peaka",
       "tr": "Pilgrim's Peak G\u00fcvenlik Kodu",
       "uk": "\u041a\u043e\u0434 \u0431\u0435\u0437\u043f\u0435\u043a\u0438 \u041f\u0456\u043b\u0433\u0440\u0456\u043c\u0441 \u041f\u0456\u043a",
-      "zh-CN": "\u671d\u5723\u8005\u4e4b\u5dc5\u5b89\u5168\u5bc6\u7801",
+      "zh-CN": "\u671d\u5723\u5cf0\u5b89\u5168\u7801",
       "zh-TW": "\u671d\u8056\u8005\u4e4b\u5dd4\u5b89\u5168\u5bc6\u78bc"
     },
     "description": {
@@ -31569,7 +31214,7 @@
       "sr": "Energetski Kabl",
       "tr": "G\u00fc\u00e7 Kablosu",
       "uk": "\u0421\u0438\u043b\u043e\u0432\u0438\u0439 \u043a\u0430\u0431\u0435\u043b\u044c",
-      "zh-CN": "\u96fb\u6e90\u7dda",
+      "zh-CN": "\u7535\u6e90\u7ebf",
       "zh-TW": "\u96fb\u529b\u96fb\u7e9c"
     },
     "description": {
@@ -32190,57 +31835,6 @@
     },
     "imageFilename": "https://cdn.arctracker.io/items/radio_relay.png",
     "updatedAt": "01/13/2026"
-  },
-  {
-    "id": "radio_renegade",
-    "name": {
-      "da": "Radiorenegat",
-      "de": "Radio-Rebell",
-      "en": "Radio Renegade",
-      "es": "Renegado de radio",
-      "fr": "Ren\u00e9gat Radio",
-      "he": "\u05e8\u05d3\u05d9\u05d5 \u05de\u05d5\u05e8\u05d3",
-      "hr": "Radio odmetnik",
-      "it": "Rinnegato radio",
-      "ja": "\u30e9\u30b8\u30aa\u30ec\u30cd\u30b2\u30fc\u30c9",
-      "ko-KR": "\ub77c\ub514\uc624 \ub808\ub2c8\uac8c\uc774\ub4dc",
-      "no": "Radiorenegat",
-      "pl": "Radiowy renegat",
-      "pt": "Renegado do r\u00e1dio",
-      "pt-BR": "Renegado do R\u00e1dio",
-      "ru": "\u0420\u0430\u0434\u0438\u043e-\u0440\u0435\u043d\u0435\u0433\u0430\u0442",
-      "sr": "Radio odmetnik",
-      "tr": "Radyo Asi",
-      "uk": "\u0420\u0430\u0434\u0456\u043e-\u0440\u0435\u043d\u0435\u0433\u0430\u0442",
-      "zh-CN": "\u65e0\u7ebf\u7535\u53db\u5f92",
-      "zh-TW": "\u7121\u7dda\u96fb\u53db\u5f92"
-    },
-    "description": {
-      "da": "Et nyt kosmetisk element vil blive tilf\u00f8jet til din samling.",
-      "de": "Ein neues Kosmetikitem wird deiner Sammlung hinzugef\u00fcgt.",
-      "en": "A new cosmetic will be added to your collection.",
-      "es": "Se a\u00f1adir\u00e1 un nuevo cosm\u00e9tico a tu colecci\u00f3n.",
-      "fr": "Un nouveau cosm\u00e9tique sera ajout\u00e9 \u00e0 votre collection.",
-      "he": "\u05e4\u05e8\u05d9\u05d8 \u05e7\u05d5\u05e1\u05de\u05d8\u05d9 \u05d7\u05d3\u05e9 \u05d9\u05ea\u05d5\u05d5\u05e1\u05e3 \u05dc\u05d0\u05d5\u05e1\u05e3 \u05e9\u05dc\u05da.",
-      "hr": "Novi kozmeti\u010dki predmet bit \u0107e dodan u va\u0161u kolekciju.",
-      "it": "Un nuovo cosmetico verr\u00e0 aggiunto alla tua collezione.",
-      "ja": "\u65b0\u3057\u3044\u30b3\u30b9\u30e1\u30c6\u30a3\u30c3\u30af\u304c\u30b3\u30ec\u30af\u30b7\u30e7\u30f3\u306b\u8ffd\u52a0\u3055\u308c\u307e\u3059\u3002",
-      "ko-KR": "\uc0c8\ub85c\uc6b4 \ucf54\uc2a4\uba54\ud2f1\uc774 \uceec\ub809\uc158\uc5d0 \ucd94\uac00\ub429\ub2c8\ub2e4.",
-      "no": "Et nytt kosmetisk element vil bli lagt til samlingen din.",
-      "pl": "Nowy element kosmetyczny zostanie dodany do twojej kolekcji.",
-      "pt": "Um novo cosm\u00e9tico ser\u00e1 adicionado \u00e0 sua cole\u00e7\u00e3o.",
-      "pt-BR": "Um novo item cosm\u00e9tico ser\u00e1 adicionado \u00e0 sua cole\u00e7\u00e3o.",
-      "ru": "\u041d\u043e\u0432\u044b\u0439 \u043a\u043e\u0441\u043c\u0435\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043f\u0440\u0435\u0434\u043c\u0435\u0442 \u0431\u0443\u0434\u0435\u0442 \u0434\u043e\u0431\u0430\u0432\u043b\u0435\u043d \u0432 \u0432\u0430\u0448\u0443 \u043a\u043e\u043b\u043b\u0435\u043a\u0446\u0438\u044e.",
-      "sr": "Novi kozmeti\u010dki predmet bi\u0107e dodat u va\u0161u kolekciju.",
-      "tr": "Koleksiyonunuza yeni bir kozmetik eklenecek.",
-      "uk": "\u041d\u043e\u0432\u0438\u0439 \u043a\u043e\u0441\u043c\u0435\u0442\u0438\u0447\u043d\u0438\u0439 \u043f\u0440\u0435\u0434\u043c\u0435\u0442 \u0431\u0443\u0434\u0435 \u0434\u043e\u0434\u0430\u043d\u043e \u0434\u043e \u0432\u0430\u0448\u043e\u0457 \u043a\u043e\u043b\u0435\u043a\u0446\u0456\u0457.",
-      "zh-CN": "\u65b0\u7684\u5916\u89c2\u5c06\u52a0\u5165\u60a8\u7684\u6536\u85cf\u3002",
-      "zh-TW": "\u65b0\u7684\u5916\u89c0\u5c07\u52a0\u5165\u60a8\u7684\u6536\u85cf\u3002"
-    },
-    "type": "Outfit",
-    "rarity": "Common",
-    "imageFilename": "https://cdn.arctracker.io/items/radio_renegade.png",
-    "updatedAt": "11/01/2025"
   },
   {
     "id": "raider_hatch_key",
@@ -34831,7 +34425,7 @@
       "sr": "Raketni pogon",
       "tr": "Roket\u00e7i S\u00fcr\u00fcc\u00fcs\u00fc",
       "uk": "\u0414\u0440\u0430\u0439\u0432\u0435\u0440 \u0440\u0430\u043a\u0435\u0442\u043d\u0438\u043a\u0430",
-      "zh-CN": "\u706b\u7bad\u5175\u9a71\u52a8\u5668",
+      "zh-CN": "\u706b\u7bad\u624b\u5f15\u64ce",
       "zh-TW": "\u706b\u7bad\u5175\u9a45\u52d5\u5668"
     },
     "description": {
@@ -37233,7 +36827,7 @@
       "sr": "Showstopper",
       "tr": "Efsane",
       "uk": "\u0428\u043e\u0443\u0441\u0442\u043e\u043f\u0435\u0440",
-      "zh-CN": "\u8868\u6f14\u7ec8\u7ed3\u8005",
+      "zh-CN": "\u8000\u773c\u660e\u661f",
       "zh-TW": "\u8868\u6f14\u7d42\u7d50\u8005"
     },
     "description": {
@@ -37372,7 +36966,7 @@
       "sr": "Showstopper Nacrt",
       "tr": "Efsane Tasla\u011f\u0131",
       "uk": "\u041a\u0440\u0435\u0441\u043b\u0435\u043d\u043d\u044f \u0428\u043e\u0443\u0441\u0442\u043e\u043f\u0435\u0440",
-      "zh-CN": "\u8868\u6f14\u7ec8\u7ed3\u8005 \u84dd\u56fe",
+      "zh-CN": "\u8000\u773c\u660e\u661f\u84dd\u56fe",
       "zh-TW": "\u8868\u6f14\u7d42\u7d50\u8005 \u85cd\u5716"
     },
     "description": {
@@ -38629,7 +38223,7 @@
       "sr": "Brza Kuka",
       "tr": "Kanca",
       "uk": "\u041a\u0430\u0440\u0430\u0431\u0456\u043d",
-      "zh-CN": "\u5feb\u6263\u94a9",
+      "zh-CN": "\u5b89\u5168\u94a9",
       "zh-TW": "\u6263\u9264\u85cd\u5716"
     },
     "description": {
@@ -38743,7 +38337,7 @@
       "sr": "Nacrt Snap Hook",
       "tr": "Kanca Tasla\u011f\u0131",
       "uk": "\u041a\u0440\u0435\u0441\u043b\u0435\u043d\u043d\u044f Snap Hook",
-      "zh-CN": "Snap Hook \u84dd\u56fe",
+      "zh-CN": "\u5b89\u5168\u94a9\u84dd\u56fe",
       "zh-TW": "Snap Hook \u85cd\u5716"
     },
     "description": {
@@ -38796,7 +38390,7 @@
       "sr": "Dojavljiva\u010d",
       "tr": "Muhbir Arac\u0131",
       "uk": "\u0421\u043a\u0430\u043d\u0435\u0440-\u0441\u0442\u0443\u043a\u0430\u0447",
-      "zh-CN": "\u544a\u5bc6\u626b\u63cf\u5668",
+      "zh-CN": "\u544a\u5bc6\u8005\u626b\u63cf\u5668",
       "zh-TW": "\u544a\u5bc6\u6383\u63cf\u5668"
     },
     "description": {
@@ -40082,7 +39676,7 @@
       "sr": "\u041a\u0459\u0443\u0447 \u0410\u0440\u0445\u0438\u0432\u0430 \u0421\u0442\u0435\u043b\u0430 \u041c\u043e\u043d\u0442\u0438\u0441",
       "tr": "Stella Montis Ar\u015fiv Anahtar\u0131",
       "uk": "\u041a\u043b\u044e\u0447 \u0432\u0456\u0434 \u0430\u0440\u0445\u0456\u0432\u0443 \u0421\u0442\u0435\u043b\u043b\u0430 \u041c\u043e\u043d\u0442\u0456\u0441",
-      "zh-CN": "\u661f\u5c71\u6863\u6848\u5ba4\u94a5\u5319",
+      "zh-CN": "\u661f\u8fb0\u5c71\u6863\u6848\u5ba4\u94a5\u5319",
       "zh-TW": "\u661f\u5c71\u6a94\u6848\u5ba4\u9470\u5319"
     },
     "description": {
@@ -40161,7 +39755,7 @@
       "sr": "\u0410\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0442\u0438\u0432\u043d\u0438 \u041a\u0459\u0443\u0447 \u041c\u043e\u043d\u0442\u0430\u0436\u0435 \u0421\u0442\u0435\u043b\u0430 \u041c\u043e\u043d\u0442\u0438\u0441",
       "tr": "Stella Montis Montaj Y\u00f6netici Anahtar\u0131",
       "uk": "\u0410\u0434\u043c\u0456\u043d\u0456\u0441\u0442\u0440\u0430\u0442\u0438\u0432\u043d\u0438\u0439 \u041a\u043b\u044e\u0447 \u0421\u043a\u043b\u0430\u0434\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u0426\u0435\u0445\u0443 \u0421\u0442\u0435\u043b\u043b\u0430 \u041c\u043e\u043d\u0442\u0456\u0441",
-      "zh-CN": "\u661f\u5c71\u7ec4\u88c5\u533a\u7ba1\u7406\u5458\u94a5\u5319",
+      "zh-CN": "\u661f\u8fb0\u5c71\u7ec4\u88c5\u5382\u7ba1\u7406\u533a\u94a5\u5319",
       "zh-TW": "\u661f\u5c71\u7d44\u88dd\u5340\u7ba1\u7406\u54e1\u9470\u5319"
     },
     "description": {
@@ -40214,7 +39808,7 @@
       "sr": "\u041a\u0459\u0443\u0447 \u041c\u0435\u0434\u0438\u0446\u0438\u043d\u0441\u043a\u043e\u0433 \u0421\u043a\u043b\u0430\u0434\u0438\u0448\u0442\u0430 \u0421\u0442\u0435\u043b\u0430 \u041c\u043e\u043d\u0442\u0438\u0441",
       "tr": "Stella Montis T\u0131bbi Depo Anahtar\u0131",
       "uk": "\u041a\u043b\u044e\u0447 \u0432\u0456\u0434 \u043c\u0435\u0434\u0438\u0447\u043d\u043e\u0433\u043e \u0441\u043a\u043b\u0430\u0434\u0443 \u0421\u0442\u0435\u043b\u043b\u0430 \u041c\u043e\u043d\u0442\u0456\u0441",
-      "zh-CN": "\u661f\u5c71\u533b\u7597\u50a8\u85cf\u5ba4\u94a5\u5319",
+      "zh-CN": "\u661f\u8fb0\u5c71\u533b\u7597\u4ed3\u5e93\u94a5\u5319",
       "zh-TW": "\u661f\u5c71\u91ab\u7642\u5132\u85cf\u5ba4\u9470\u5319"
     },
     "description": {
@@ -41353,7 +40947,7 @@
       "sr": "Punja\u010d Surge \u0160tita",
       "tr": "Seri Kalkan Doldurucu",
       "uk": "\u0417\u0430\u0440\u044f\u0434\u043d\u0438\u0439 \u043f\u0440\u0438\u0441\u0442\u0440\u0456\u0439 \u0456\u043c\u043f\u0443\u043b\u044c\u0441\u043d\u043e\u0433\u043e \u0449\u0438\u0442\u0430",
-      "zh-CN": "\u6fc0\u80fd\u62a4\u76fe\u5145\u80fd\u5668",
+      "zh-CN": "\u7206\u80fd\u62a4\u76fe\u5145\u80fd\u5668",
       "zh-TW": "\u6fc0\u80fd\u8b77\u76fe\u5145\u80fd\u5668"
     },
     "description": {
@@ -41466,7 +41060,7 @@
       "sr": "Trezor istra\u017eiva\u010da",
       "tr": "G\u00f6zetleyici Kasas\u0131",
       "uk": "\u0421\u0445\u043e\u0432\u0438\u0449\u0435 \u0433\u0435\u043e\u0434\u0435\u0437\u0438\u0441\u0442\u0430",
-      "zh-CN": "\u52d8\u6d4b\u8005\u4fdd\u9669\u5e93",
+      "zh-CN": "\u52d8\u6d4b\u5e08\u4fdd\u9669\u5e93",
       "zh-TW": "\u52d8\u6e2c\u8005\u4fdd\u96aa\u5eab"
     },
     "description": {
@@ -41926,7 +41520,7 @@
       "sr": "Takti\u010dki Mk. 3 (Odbrambeni)",
       "tr": "Taktiksel Mod. 3 (Savunma)",
       "uk": "\u0422\u0430\u043a\u0442\u0438\u0447\u043d\u0438\u0439 Mk. 3 (\u041e\u0431\u043e\u0440\u043e\u043d\u043d\u0438\u0439)",
-      "zh-CN": "\u6218\u672f\u578b Mk. 3\uff08\u9632\u5fa1\uff09",
+      "zh-CN": "\u6218\u672f\u578b Mk. 3\uff08\u9632\u5fa1\u578b\uff09",
       "zh-TW": "\u6230\u8853\u578b Mk. 3\uff08\u9632\u79a6\uff09"
     },
     "description": {
@@ -42065,7 +41659,7 @@
       "sr": "Takticki Mk. 3 (Odbrambeni) Nacrt",
       "tr": "Taktiksel Mod. 3 (Savunma) Tasla\u011f\u0131",
       "uk": "\u041a\u0440\u0435\u0441\u043b\u0435\u043d\u043d\u044f \u0422\u0430\u043a\u0442\u0438\u0447\u043d\u0438\u0439 Mk. 3 (\u041e\u0431\u043e\u0440\u043e\u043d\u043d\u0438\u0439)",
-      "zh-CN": "\u6218\u672f\u578b Mk. 3\uff08\u9632\u5fa1\uff09\u84dd\u56fe",
+      "zh-CN": "\u6218\u672f\u578b Mk. 3\uff08\u9632\u5fa1\u578b\uff09\u84dd\u56fe",
       "zh-TW": "\u6230\u8853\u578b Mk. 3\uff08\u9632\u79a6\uff09\u85cd\u5716"
     },
     "description": {
@@ -42118,7 +41712,7 @@
       "sr": "Takti\u010dki Mk. 3 (Le\u010denje)",
       "tr": "Taktiksel Mod. 3 (\u0130yile\u015ftirme)",
       "uk": "\u0422\u0430\u043a\u0442\u0438\u0447\u043d\u0438\u0439 Mk. 3 (\u041b\u0456\u043a\u0443\u0432\u0430\u043d\u043d\u044f)",
-      "zh-CN": "\u6218\u672f\u578b Mk. 3 (\u6cbb\u7597)",
+      "zh-CN": "\u6218\u672f\u578b Mk. 3 (\u6cbb\u7597\u578b)",
       "zh-TW": "\u6230\u8853\u578b Mk. 3 (\u6cbb\u7642)"
     },
     "description": {
@@ -42257,7 +41851,7 @@
       "sr": "Takti\u010dki Mk. 3 (Le\u010denje) Nacrt",
       "tr": "Taktiksel Mod. 3 (\u0130yile\u015ftirme) Tasla\u011f\u0131",
       "uk": "\u041a\u0440\u0435\u0441\u043b\u0435\u043d\u043d\u044f \u0442\u0430\u043a\u0442\u0438\u0447\u043d\u043e\u0433\u043e Mk. 3 (\u043b\u0456\u043a\u0443\u0432\u0430\u043d\u043d\u044f)",
-      "zh-CN": "\u6218\u672f Mk. 3\uff08\u6cbb\u7597\uff09\u84dd\u56fe",
+      "zh-CN": "\u6218\u672f Mk. 3\uff08\u6cbb\u7597\u578b\uff09\u84dd\u56fe",
       "zh-TW": "\u6230\u8853 Mk. 3\uff08\u6cbb\u7642\uff09\u85cd\u5716"
     },
     "description": {
@@ -42849,7 +42443,7 @@
       "sr": "Oluja Nacrt",
       "tr": "Bora Tasla\u011f\u0131",
       "uk": "\u041a\u0440\u0435\u0441\u043b\u0435\u043d\u043d\u044f \u0411\u0443\u0440\u044f",
-      "zh-CN": "\u66b4\u98ce \u84dd\u56fe",
+      "zh-CN": "\u98ce\u66b4\u84dd\u56fe",
       "zh-TW": "\u66b4\u98a8 \u85cd\u5716"
     },
     "description": {
@@ -46979,7 +46573,7 @@
       "sr": "Vita Injekcija",
       "tr": "Sa\u011fl\u0131k \u0130\u011fnesi",
       "uk": "\u0412\u0456\u0442\u0430-\u0456\u043d'\u0454\u043a\u0446\u0456\u044f",
-      "zh-CN": "\u6d3b\u529b\u6ce8\u5c04\u5242",
+      "zh-CN": "\u751f\u547d\u9488\u5242",
       "zh-TW": "\u6d3b\u529b\u6ce8\u5c04\u5291"
     },
     "description": {
@@ -47093,7 +46687,7 @@
       "sr": "Nacrt Vita Injekcije",
       "tr": "Sa\u011fl\u0131k \u0130\u011fnesi Tasla\u011f\u0131",
       "uk": "\u041a\u0440\u0435\u0441\u043b\u0435\u043d\u043d\u044f \u0412\u0456\u0442\u0430-\u0456\u043d'\u0454\u043a\u0446\u0456\u0457",
-      "zh-CN": "\u6d3b\u529b\u6ce8\u5c04\u5242\u84dd\u56fe",
+      "zh-CN": "\u751f\u547d\u9488\u5242\u84dd\u56fe",
       "zh-TW": "\u6d3b\u529b\u6ce8\u5c04\u5291\u85cd\u5716"
     },
     "description": {
@@ -47146,7 +46740,7 @@
       "sr": "Vita Sprej",
       "tr": "Sa\u011fl\u0131k Spreyi",
       "uk": "\u0412\u0456\u0442\u0430-\u0441\u043f\u0440\u0435\u0439",
-      "zh-CN": "\u6d3b\u529b\u55b7\u96fe",
+      "zh-CN": "\u751f\u547d\u55b7\u96fe",
       "zh-TW": "\u6d3b\u529b\u5674\u9727"
     },
     "description": {
@@ -48478,7 +48072,7 @@
       "sr": "Osinjak",
       "tr": "E\u015fek Ar\u0131s\u0131 S\u00fcr\u00fcc\u00fcs\u00fc",
       "uk": "\u041e\u0441\u0438\u043d\u0438\u0439 \u0434\u0440\u0430\u0439\u0432\u0435\u0440",
-      "zh-CN": "\u9ec4\u8702\u9a71\u52a8\u5668",
+      "zh-CN": "\u9ec4\u8702\u5f15\u64ce",
       "zh-TW": "\u9ec3\u8702\u9a45\u52d5\u5668"
     },
     "description": {
