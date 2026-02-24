@@ -4480,15 +4480,15 @@
     "type": "Recyclable",
     "rarity": "Epic",
     "foundIn": "ARC",
-    "value": 5000,
+    "value": 3000,
     "weightKg": 1,
     "stackSize": 3,
     "recyclesInto": {
-      "advanced_mechanical_components": 2,
-      "arc_alloy": 2
+      "advanced_mechanical_components": 1,
+      "arc_alloy": 3
     },
     "salvagesInto": {
-      "advanced_mechanical_components": 2
+      "advanced_mechanical_components": 1
     },
     "imageFilename": "https://cdn.arctracker.io/items/bastion_cell.png",
     "updatedAt": "01/13/2026"
@@ -10465,6 +10465,69 @@
     "updatedAt": "01/13/2026"
   },
   {
+    "id": "comet_igniter",
+    "name": {
+      "en": "Comet Igniter",
+      "de": "Kometenz\u00fcnder",
+      "pt": "Ignitor Cometa",
+      "zh-TW": "\u5f57\u661f\u9ede\u706b\u5668",
+      "fr": "Allumeur Com\u00e8te",
+      "zh-CN": "\u5f57\u661f\u70b9\u706b\u5668",
+      "es": "Encendedor de cometa",
+      "pl": "Zapalnik Komety",
+      "pt-BR": "Ignitor de Cometa",
+      "tr": "Kuyruklu Y\u0131ld\u0131z Ate\u015fleyicisi",
+      "kr": "\ucf54\uba67 \uc810\ud654\uae30",
+      "he": "\u05de\u05e6\u05ea \u05e9\u05d1\u05d9\u05d8",
+      "ja": "\u30b3\u30e1\u30c3\u30c8\u30fb\u30a4\u30b0\u30ca\u30a4\u30bf\u30fc",
+      "no": "Komettenner",
+      "da": "Komett\u00e6nder",
+      "hr": "Kometni upalja\u010d",
+      "uk": "\u0417\u0430\u043f\u0430\u043b\u044c\u043d\u0438\u043a \u00ab\u041a\u043e\u043c\u0435\u0442\u0430\u00bb",
+      "ru": "\u0412\u043e\u0441\u043f\u043b\u0430\u043c\u0435\u043d\u0438\u0442\u0435\u043b\u044c \u00ab\u041a\u043e\u043c\u0435\u0442\u0430\u00bb",
+      "sr": "Upalja\u010d Komete",
+      "it": "Accenditore Cometa"
+    },
+    "description": {
+      "en": "Can be recycled into crafting materials.",
+      "de": "Kann zu Herstellungsmaterialien recycelt werden.",
+      "pt": "Pode ser reciclado em materiais de fabrica\u00e7\u00e3o.",
+      "zh-TW": "\u53ef\u56de\u6536\u70ba\u88fd\u4f5c\u6750\u6599\u3002",
+      "fr": "Peut \u00eatre recycl\u00e9 en mat\u00e9riaux de fabrication.",
+      "zh-CN": "\u53ef\u56de\u6536\u4e3a\u5236\u4f5c\u6750\u6599\u3002",
+      "es": "Se puede reciclar para obtener materiales de fabricaci\u00f3n.",
+      "pl": "Mo\u017cna przetworzy\u0107 na materia\u0142y rzemie\u015blnicze.",
+      "pt-BR": "Pode ser reciclado em materiais de fabrica\u00e7\u00e3o.",
+      "tr": "\u00dcretim malzemelerine geri d\u00f6n\u00fc\u015ft\u00fcr\u00fclebilir.",
+      "kr": "\uc81c\uc791 \uc7ac\ub8cc\ub85c \uc7ac\ud65c\uc6a9\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4.",
+      "he": "\u05e0\u05d9\u05ea\u05df \u05dc\u05de\u05d9\u05d7\u05d6\u05d5\u05e8 \u05dc\u05d7\u05d5\u05de\u05e8\u05d9 \u05d9\u05e6\u05d9\u05e8\u05d4.",
+      "ja": "\u30ea\u30b5\u30a4\u30af\u30eb\u3057\u3066\u30af\u30e9\u30d5\u30c8\u7d20\u6750\u306b\u3067\u304d\u308b\u3002",
+      "no": "Kan gjenvinnes til materialer.",
+      "da": "Kan genbruges til fremstillingsmaterialer.",
+      "hr": "Mo\u017ee se reciklirati u materijale za izradu.",
+      "uk": "\u041c\u043e\u0436\u043d\u0430 \u043f\u0435\u0440\u0435\u0440\u043e\u0431\u0438\u0442\u0438 \u043d\u0430 \u043c\u0430\u0442\u0435\u0440\u0456\u0430\u043b\u0438 \u0434\u043b\u044f \u0432\u0438\u0433\u043e\u0442\u043e\u0432\u043b\u0435\u043d\u043d\u044f.",
+      "ru": "\u041c\u043e\u0436\u043d\u043e \u043f\u0435\u0440\u0435\u0440\u0430\u0431\u043e\u0442\u0430\u0442\u044c \u0432 \u043c\u0430\u0442\u0435\u0440\u0438\u0430\u043b\u044b \u0434\u043b\u044f \u043a\u0440\u0430\u0444\u0442\u0430.",
+      "sr": "Mo\u017ee se reciklirati u materijale za izradu.",
+      "it": "Pu\u00f2 essere riciclato in materiali per la creazione."
+    },
+    "type": "Recyclable",
+    "rarity": "Rare",
+    "foundIn": "ARC",
+    "value": 1000,
+    "weightKg": 1,
+    "stackSize": 3,
+    "recyclesInto": {
+      "arc_alloy": 2,
+      "crude_explosives": 2
+    },
+    "salvagesInto": {
+      "arc_alloy": 1,
+      "crude_explosives": 1
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/comet_igniter.png",
+    "updatedAt": "02/24/2026"
+  },
+  {
     "id": "compensator_i",
     "name": {
       "da": "Kompensator I",
@@ -13290,6 +13353,60 @@
     },
     "imageFilename": "https://cdn.arctracker.io/items/durable_cloth.png",
     "updatedAt": "01/09/2026"
+  },
+  {
+    "id": "dusty_film_reel",
+    "name": {
+      "en": "Dusty Film Reel",
+      "de": "Verstaubte Filmrolle",
+      "ja": "\u57c3\u3092\u304b\u3076\u3063\u305f\u30d5\u30a3\u30eb\u30e0\u30ea\u30fc\u30eb",
+      "kr": "\uba3c\uc9c0 \uc313\uc778 \ud544\ub984 \ub9b4",
+      "hr": "Pra\u0161njavi filmski kolut",
+      "zh-CN": "\u5e03\u6ee1\u7070\u5c18\u7684\u7535\u5f71\u80f6\u5377",
+      "pt-BR": "Rolo de Filme Empoeirado",
+      "no": "St\u00f8vete filmrull",
+      "es": "Rollo de pel\u00edcula polvoriento",
+      "zh-TW": "\u4f48\u6eff\u7070\u5875\u7684\u81a0\u5377",
+      "pt": "Rolo de Filme Empoeirado",
+      "da": "St\u00f8vet filmrulle",
+      "it": "Bobina di pellicola impolverata",
+      "he": "\u05e1\u05dc\u05d9\u05dc \u05e4\u05d9\u05dc\u05dd \u05de\u05d0\u05d5\u05d1\u05e7",
+      "ru": "\u041f\u044b\u043b\u044c\u043d\u0430\u044f \u043a\u0430\u0442\u0443\u0448\u043a\u0430 \u0441 \u043f\u043b\u0435\u043d\u043a\u043e\u0439",
+      "tr": "Tozlu Film Makaras\u0131",
+      "pl": "Zakurzona szpula filmowa",
+      "fr": "Bobine de film poussi\u00e9reuse",
+      "sr": "Pra\u0161njava filmska traka",
+      "uk": "\u0417\u0430\u043f\u0438\u043b\u044e\u0436\u0435\u043d\u0430 \u043a\u0456\u043d\u043e\u0431\u043e\u0431\u0456\u043d\u0430"
+    },
+    "description": {
+      "en": "An old film reel covered in dust. Might have been something worth watching.",
+      "de": "Eine alte, staubbedeckte Filmrolle. Vielleicht war etwas Sehenswertes darauf.",
+      "ja": "\u57c3\u306b\u8986\u308f\u308c\u305f\u53e4\u3044\u30d5\u30a3\u30eb\u30e0\u30ea\u30fc\u30eb\u3002\u898b\u308b\u4fa1\u5024\u306e\u3042\u308b\u3082\u306e\u3060\u3063\u305f\u304b\u3082\u3057\u308c\u306a\u3044\u3002",
+      "kr": "\uba3c\uc9c0\ub85c \ub4a4\ub36e\uc778 \uc624\ub798\ub41c \ud544\ub984 \ub9b4\uc785\ub2c8\ub2e4. \ubcfc\ub9cc\ud55c \uac00\uce58\uac00 \uc788\uc5c8\uc744\uc9c0\ub3c4 \ubaa8\ub985\ub2c8\ub2e4.",
+      "hr": "Stari filmski kolut prekriven pra\u0161inom. Mo\u017eda je na njemu bilo ne\u0161to vrijedno gledanja.",
+      "zh-CN": "\u4e00\u5377\u5e03\u6ee1\u7070\u5c18\u7684\u65e7\u7535\u5f71\u80f6\u5377\u3002\u4e5f\u8bb8\u66fe\u7ecf\u6709\u4e9b\u503c\u5f97\u4e00\u770b\u7684\u5185\u5bb9\u3002",
+      "pt-BR": "Um rolo de filme antigo coberto de poeira. Talvez fosse algo que valesse a pena assistir.",
+      "no": "En gammel filmrull dekket av st\u00f8v. Kunne ha v\u00e6rt noe verdt \u00e5 se.",
+      "es": "Un viejo rollo de pel\u00edcula cubierto de polvo. Podr\u00eda haber sido algo digno de ver.",
+      "zh-TW": "\u4e00\u5377\u4f48\u6eff\u7070\u5875\u7684\u820a\u81a0\u5377\u3002\u4e5f\u8a31\u88e1\u9762\u66fe\u6709\u4e9b\u503c\u5f97\u4e00\u770b\u7684\u5167\u5bb9\u3002",
+      "pt": "Um rolo de filme antigo coberto de poeira. Talvez fosse algo que valesse a pena assistir.",
+      "da": "En gammel filmrulle d\u00e6kket af st\u00f8v. M\u00e5ske var det noget, der var v\u00e6rd at se.",
+      "it": "Una vecchia bobina di pellicola coperta di polvere. Poteva essere qualcosa che valeva la pena guardare.",
+      "he": "\u05e1\u05dc\u05d9\u05dc \u05e4\u05d9\u05dc\u05dd \u05d9\u05e9\u05df \u05de\u05db\u05d5\u05e1\u05d4 \u05d1\u05d0\u05d1\u05e7. \u05d9\u05d9\u05ea\u05db\u05df \u05e9\u05d4\u05db\u05d9\u05dc \u05de\u05e9\u05d4\u05d5 \u05e9\u05e9\u05d5\u05d5\u05d4 \u05e6\u05e4\u05d9\u05d9\u05d4.",
+      "ru": "\u0421\u0442\u0430\u0440\u0430\u044f \u043a\u0430\u0442\u0443\u0448\u043a\u0430 \u0441 \u043f\u043b\u0435\u043d\u043a\u043e\u0439, \u043f\u043e\u043a\u0440\u044b\u0442\u0430\u044f \u043f\u044b\u043b\u044c\u044e. \u0412\u043e\u0437\u043c\u043e\u0436\u043d\u043e, \u043d\u0430 \u043d\u0435\u0439 \u0431\u044b\u043b\u043e \u0447\u0442\u043e-\u0442\u043e \u0441\u0442\u043e\u044f\u0449\u0435\u0435.",
+      "tr": "Tozla kapl\u0131 eski bir film makaras\u0131. Belki de izlemeye de\u011fer bir \u015feydi.",
+      "pl": "Stara szpula filmowa pokryta kurzem. Mo\u017ce by\u0142o na niej co\u015b wartego obejrzenia.",
+      "fr": "Une vieille bobine de film couverte de poussi\u00e8re. C'\u00e9tait peut-\u00eatre quelque chose qui valait la peine d'\u00eatre vu.",
+      "sr": "Stara filmska traka prekrivena pra\u0161inom. Mo\u017eda je na njoj bilo ne\u0161to vredno gledanja.",
+      "uk": "\u0421\u0442\u0430\u0440\u0430 \u043a\u0456\u043d\u043e\u0431\u043e\u0431\u0456\u043d\u0430, \u0432\u043a\u0440\u0438\u0442\u0430 \u043f\u0438\u043b\u043e\u043c. \u041c\u043e\u0436\u043b\u0438\u0432\u043e, \u0442\u0430\u043c \u0431\u0443\u043b\u043e \u0449\u043e\u0441\u044c \u0432\u0430\u0440\u0442\u0435 \u043f\u0435\u0440\u0435\u0433\u043b\u044f\u0434\u0443."
+    },
+    "type": "Trinket",
+    "rarity": "Common",
+    "value": 0,
+    "weightKg": 0,
+    "stackSize": 1,
+    "recyclesInto": {},
+    "updatedAt": "02/24/2026"
   },
   {
     "id": "electrical_components",
@@ -16958,7 +17075,7 @@
     },
     "recyclesInto": {
       "arc_alloy": 1,
-      "chemicals": 1
+      "crude_explosives": 1
     },
     "salvagesInto": {
       "arc_alloy": 1
@@ -17056,6 +17173,69 @@
     },
     "imageFilename": "https://cdn.arctracker.io/items/firecracker.png",
     "updatedAt": "12/16/2025"
+  },
+  {
+    "id": "firefly_burner",
+    "name": {
+      "en": "Firefly Burner",
+      "de": "Gl\u00fchw\u00fcrmchenbrenner",
+      "pt": "Queimador Vaga-lume",
+      "zh-TW": "\u87a2\u706b\u87f2\u71c3\u71d2\u5668",
+      "fr": "Br\u00fbleur Luciole",
+      "zh-CN": "\u8424\u706b\u866b\u71c3\u70e7\u5668",
+      "es": "Quemador de luci\u00e9rnaga",
+      "pl": "Palnik \u015awietlika",
+      "pt-BR": "Queimador Vagalume",
+      "tr": "Ate\u015f B\u00f6ce\u011fi Yak\u0131c\u0131s\u0131",
+      "kr": "\ud30c\uc774\uc5b4\ud50c\ub77c\uc774 \ubc84\ub108",
+      "he": "\u05de\u05d1\u05e2\u05e8 \u05d2\u05d7\u05dc\u05d9\u05dc\u05d9\u05ea",
+      "ja": "\u30d5\u30a1\u30a4\u30a2\u30d5\u30e9\u30a4\u30fb\u30d0\u30fc\u30ca\u30fc",
+      "no": "Ildfluebrenner",
+      "da": "Ildfluebr\u00e6nder",
+      "hr": "Plamenik krijesnice",
+      "uk": "\u041f\u0430\u043b\u044c\u043d\u0438\u043a \u00ab\u0421\u0432\u0456\u0442\u043b\u044f\u043a\u00bb",
+      "ru": "\u0413\u043e\u0440\u0435\u043b\u043a\u0430 \u00ab\u0421\u0432\u0435\u0442\u043b\u044f\u0447\u043e\u043a\u00bb",
+      "sr": "Gorionik Svica",
+      "it": "Bruciatore Lucciola"
+    },
+    "description": {
+      "en": "Can be recycled into crafting materials.",
+      "de": "Kann zu Herstellungsmaterialien recycelt werden.",
+      "pt": "Pode ser reciclado em materiais de fabrica\u00e7\u00e3o.",
+      "zh-TW": "\u53ef\u56de\u6536\u70ba\u88fd\u4f5c\u6750\u6599\u3002",
+      "fr": "Peut \u00eatre recycl\u00e9 en mat\u00e9riaux de fabrication.",
+      "zh-CN": "\u53ef\u56de\u6536\u4e3a\u5236\u4f5c\u6750\u6599\u3002",
+      "es": "Se puede reciclar para obtener materiales de fabricaci\u00f3n.",
+      "pl": "Mo\u017cna przetworzy\u0107 na materia\u0142y rzemie\u015blnicze.",
+      "pt-BR": "Pode ser reciclado em materiais de fabrica\u00e7\u00e3o.",
+      "tr": "\u00dcretim malzemelerine geri d\u00f6n\u00fc\u015ft\u00fcr\u00fclebilir.",
+      "kr": "\uc81c\uc791 \uc7ac\ub8cc\ub85c \uc7ac\ud65c\uc6a9\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4.",
+      "he": "\u05e0\u05d9\u05ea\u05df \u05dc\u05de\u05d9\u05d7\u05d6\u05d5\u05e8 \u05dc\u05d7\u05d5\u05de\u05e8\u05d9 \u05d9\u05e6\u05d9\u05e8\u05d4.",
+      "ja": "\u30ea\u30b5\u30a4\u30af\u30eb\u3057\u3066\u30af\u30e9\u30d5\u30c8\u7d20\u6750\u306b\u3067\u304d\u308b\u3002",
+      "no": "Kan gjenvinnes til materialer.",
+      "da": "Kan genbruges til fremstillingsmaterialer.",
+      "hr": "Mo\u017ee se reciklirati u materijale za izradu.",
+      "uk": "\u041c\u043e\u0436\u043d\u0430 \u043f\u0435\u0440\u0435\u0440\u043e\u0431\u0438\u0442\u0438 \u043d\u0430 \u043c\u0430\u0442\u0435\u0440\u0456\u0430\u043b\u0438 \u0434\u043b\u044f \u0432\u0438\u0433\u043e\u0442\u043e\u0432\u043b\u0435\u043d\u043d\u044f.",
+      "ru": "\u041c\u043e\u0436\u043d\u043e \u043f\u0435\u0440\u0435\u0440\u0430\u0431\u043e\u0442\u0430\u0442\u044c \u0432 \u043c\u0430\u0442\u0435\u0440\u0438\u0430\u043b\u044b \u0434\u043b\u044f \u043a\u0440\u0430\u0444\u0442\u0430.",
+      "sr": "Mo\u017ee se reciklirati u materijale za izradu.",
+      "it": "Pu\u00f2 essere riciclato in materiali per la creazione."
+    },
+    "type": "Recyclable",
+    "rarity": "Rare",
+    "foundIn": "ARC",
+    "value": 1000,
+    "weightKg": 0.75,
+    "stackSize": 3,
+    "recyclesInto": {
+      "arc_alloy": 2,
+      "crude_explosives": 2
+    },
+    "salvagesInto": {
+      "arc_alloy": 1,
+      "crude_explosives": 1
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/firefly_burner.png",
+    "updatedAt": "02/24/2026"
   },
   {
     "id": "fireworks_box",
@@ -20820,12 +21000,12 @@
     "type": "Recyclable",
     "rarity": "Rare",
     "foundIn": "ARC",
-    "value": 2000,
+    "value": 1000,
     "weightKg": 0.75,
     "stackSize": 3,
     "effects": {
       "ARC Stun Duration": {
-        "value": "10s",
+        "value": "7s",
         "da": "ARC-bed\u00f8velsesvarighed",
         "de": "ARC-Bet\u00e4ubungsdauer",
         "en": "ARC Stun Duration",
@@ -20895,11 +21075,11 @@
       }
     },
     "recyclesInto": {
-      "arc_alloy": 2,
-      "electrical_components": 2
+      "arc_alloy": 1,
+      "electrical_components": 1
     },
     "salvagesInto": {
-      "electrical_components": 2
+      "electrical_components": 1
     },
     "imageFilename": "https://cdn.arctracker.io/items/hornet_driver.png",
     "updatedAt": "01/13/2026",
@@ -31577,6 +31757,60 @@
     "updatedAt": "01/09/2026"
   },
   {
+    "id": "project_heartwood_blueprints",
+    "name": {
+      "en": "Project Heartwood Blueprints",
+      "de": "Projekt-Heartwood-Baupl\u00e4ne",
+      "ja": "\u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u30fb\u30cf\u30fc\u30c8\u30a6\u30c3\u30c9\u306e\u8a2d\u8a08\u56f3",
+      "kr": "\ud504\ub85c\uc81d\ud2b8 \ud558\ud2b8\uc6b0\ub4dc \uc124\uacc4\ub3c4",
+      "hr": "Nacrti za Projekt Heartwood",
+      "zh-CN": "\u201c\u82af\u6728\u8ba1\u5212\u201d\u84dd\u56fe",
+      "pt-BR": "Plantas do Projeto Heartwood",
+      "no": "Prosjekt Heartwood-tegninger",
+      "es": "Planos del Proyecto Heartwood",
+      "zh-TW": "\u5fc3\u6750\u8a08\u5283\u85cd\u5716",
+      "pt": "Plantas do Projeto Heartwood",
+      "da": "Projekt Heartwood-tegninger",
+      "it": "Schemi del Progetto Heartwood",
+      "he": "\u05e9\u05e8\u05d8\u05d5\u05d8\u05d9 \u05e4\u05e8\u05d5\u05d9\u05e7\u05d8 \u05d4\u05d0\u05e8\u05d8\u05d5\u05d5\u05d3",
+      "ru": "\u0427\u0435\u0440\u0442\u0435\u0436\u0438 \u043f\u0440\u043e\u0435\u043a\u0442\u0430 \u00ab\u0425\u0430\u0440\u0442\u0432\u0443\u0434\u00bb",
+      "tr": "Project Heartwood Planlar\u0131",
+      "pl": "Plany Projektu Heartwood",
+      "fr": "Plans du Projet Heartwood",
+      "sr": "Nacrti projekta Heartwood",
+      "uk": "\u041a\u0440\u0435\u0441\u043b\u0435\u043d\u043d\u044f \u043f\u0440\u043e\u0454\u043a\u0442\u0443 Heartwood"
+    },
+    "description": {
+      "en": "Faded blueprints for something called Project Heartwood. Whatever it was, it never got built.",
+      "de": "Verblasste Baupl\u00e4ne f\u00fcr etwas namens Projekt Heartwood. Was auch immer es war, es wurde nie gebaut.",
+      "ja": "\u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u30fb\u30cf\u30fc\u30c8\u30a6\u30c3\u30c9\u3068\u547c\u3070\u308c\u308b\u4f55\u304b\u306e\u8272\u3042\u305b\u305f\u8a2d\u8a08\u56f3\u3002\u305d\u306e\u6b63\u4f53\u306f\u4f55\u3067\u3042\u308c\u3001\u5efa\u9020\u3055\u308c\u308b\u3053\u3068\u306f\u306a\u304b\u3063\u305f\u3002",
+      "kr": "\ud504\ub85c\uc81d\ud2b8 \ud558\ud2b8\uc6b0\ub4dc\ub77c \ubd88\ub9ac\ub294 \ubb34\uc5b8\uac00\uc758 \ube5b\ubc14\ub79c \uc124\uacc4\ub3c4\uc785\ub2c8\ub2e4. \uadf8\uac8c \ubb34\uc5c7\uc774\uc5c8\ub4e0, \uacb0\ucf54 \ub9cc\ub4e4\uc5b4\uc9c0\uc9c0\ub294 \uc54a\uc558\uc2b5\ub2c8\ub2e4.",
+      "hr": "Izblijedjeli nacrti za ne\u0161to pod nazivom Projekt Heartwood. \u0160to god to bilo, nikad nije izgra\u0111eno.",
+      "zh-CN": "\u4e00\u9879\u540d\u4e3a\u201c\u82af\u6728\u8ba1\u5212\u201d\u7684\u892a\u8272\u84dd\u56fe\u3002\u65e0\u8bba\u90a3\u662f\u4ec0\u4e48\uff0c\u5b83\u4ece\u672a\u88ab\u5efa\u6210\u8fc7\u3002",
+      "pt-BR": "Plantas desbotadas de algo chamado Projeto Heartwood. Seja l\u00e1 o que fosse, nunca foi constru\u00eddo.",
+      "no": "Falmede tegninger av noe kalt Prosjekt Heartwood. Hva enn det var, ble det aldri bygget.",
+      "es": "Planos descoloridos de algo llamado Proyecto Heartwood. Fuera lo que fuera, nunca se construy\u00f3.",
+      "zh-TW": "\u4e00\u4efd\u540d\u70ba\u300c\u5fc3\u6750\u300d\u8a08\u5283\u7684\u892a\u8272\u85cd\u5716\u3002\u7121\u8ad6\u90a3\u662f\u4ec0\u9ebc\uff0c\u5b83\u5f9e\u672a\u88ab\u5efa\u9020\u51fa\u4f86\u3002",
+      "pt": "Plantas desbotadas de algo chamado Projeto Heartwood. O que quer que fosse, nunca foi constru\u00eddo.",
+      "da": "Falmede tegninger til noget kaldet Projekt Heartwood. Hvad end det var, blev det aldrig bygget.",
+      "it": "Schemi sbiaditi per qualcosa chiamato Progetto Heartwood. Qualsiasi cosa fosse, non \u00e8 mai stata costruita.",
+      "he": "\u05e9\u05e8\u05d8\u05d5\u05d8\u05d9\u05dd \u05d3\u05d4\u05d5\u05d9\u05d9\u05dd \u05dc\u05de\u05e9\u05d4\u05d5 \u05e9\u05e0\u05e7\u05e8\u05d0 \u05e4\u05e8\u05d5\u05d9\u05e7\u05d8 \u05d4\u05d0\u05e8\u05d8\u05d5\u05d5\u05d3. \u05de\u05d4 \u05e9\u05d6\u05d4 \u05dc\u05d0 \u05d4\u05d9\u05d4, \u05d6\u05d4 \u05de\u05e2\u05d5\u05dc\u05dd \u05dc\u05d0 \u05e0\u05d1\u05e0\u05d4.",
+      "ru": "\u0412\u044b\u0446\u0432\u0435\u0442\u0448\u0438\u0435 \u0447\u0435\u0440\u0442\u0435\u0436\u0438 \u0447\u0435\u0433\u043e-\u0442\u043e \u043f\u043e\u0434 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u0435\u043c \u043f\u0440\u043e\u0435\u043a\u0442 \u00ab\u0425\u0430\u0440\u0442\u0432\u0443\u0434\u00bb. \u0427\u0442\u043e \u0431\u044b \u044d\u0442\u043e \u043d\u0438 \u0431\u044b\u043b\u043e, \u043e\u043d\u043e \u0442\u0430\u043a \u0438 \u043d\u0435 \u0431\u044b\u043b\u043e \u043f\u043e\u0441\u0442\u0440\u043e\u0435\u043d\u043e.",
+      "tr": "Project Heartwood denen bir \u015feyin solmu\u015f planlar\u0131. Her ne idiyse, asla in\u015fa edilmemi\u015f.",
+      "pl": "Wyblak\u0142e plany czego\u015b zwanego Projektem Heartwood. Czymkolwiek to by\u0142o, nigdy nie zosta\u0142o zbudowane.",
+      "fr": "Des plans d\u00e9lav\u00e9s pour quelque chose appel\u00e9 Projet Heartwood. Quoi que ce f\u00fbt, cela n'a jamais \u00e9t\u00e9 construit.",
+      "sr": "Izbledeli nacrti za ne\u0161to \u0161to se zove projekat Heartwood. \u0160ta god da je to bilo, nikada nije izgra\u0111eno.",
+      "uk": "\u0412\u0438\u0446\u0432\u0456\u043b\u0456 \u043a\u0440\u0435\u0441\u043b\u0435\u043d\u043d\u044f \u0447\u043e\u0433\u043e\u0441\u044c \u043f\u0456\u0434 \u043d\u0430\u0437\u0432\u043e\u044e \u041f\u0440\u043e\u0454\u043a\u0442 Heartwood. \u0429\u043e \u0431 \u0446\u0435 \u043d\u0435 \u0431\u0443\u043b\u043e, \u0439\u043e\u0433\u043e \u0442\u0430\u043a \u0456 \u043d\u0435 \u0437\u0431\u0443\u0434\u0443\u0432\u0430\u043b\u0438."
+    },
+    "type": "Trinket",
+    "rarity": "Common",
+    "value": 0,
+    "weightKg": 0,
+    "stackSize": 1,
+    "recyclesInto": {},
+    "updatedAt": "02/24/2026"
+  },
+  {
     "id": "projector",
     "name": {
       "da": "Projektor",
@@ -31832,8 +32066,9 @@
     "type": "Recyclable",
     "rarity": "Legendary",
     "foundIn": "ARC",
-    "value": 13000,
+    "value": 11000,
     "weightKg": 10,
+    "stackSize": 1,
     "recyclesInto": {
       "magnetic_accelerator": 1,
       "power_rod": 1
@@ -36087,12 +36322,12 @@
     "type": "Recyclable",
     "rarity": "Rare",
     "foundIn": "ARC",
-    "value": 3000,
+    "value": 2000,
     "weightKg": 1,
     "stackSize": 3,
     "recyclesInto": {
       "arc_alloy": 2,
-      "mechanical_components": 3
+      "mechanical_components": 2
     },
     "salvagesInto": {
       "mechanical_components": 2
@@ -36987,13 +37222,13 @@
     },
     "type": "Quick Use",
     "rarity": "Rare",
-    "value": 2200,
+    "value": 2100,
     "weightKg": 0.4,
     "stackSize": 5,
     "blueprintLocked": true,
     "effects": {
       "ARC Stun Duration": {
-        "value": "10s",
+        "value": "7s",
         "da": "ARC bed\u00f8velsesvarighed",
         "de": "ARC-Bet\u00e4ubungsdauer",
         "en": "ARC Stun Duration",
@@ -37065,7 +37300,8 @@
     "craftBench": "explosives_bench",
     "stationLevelRequired": 3,
     "recipe": {
-      "advanced_electrical_components": 1,
+      "electrical_components": 1,
+      "hornet_driver": 1,
       "voltage_converter": 1
     },
     "recyclesInto": {
@@ -39068,12 +39304,15 @@
     "type": "Recyclable",
     "rarity": "Uncommon",
     "foundIn": "ARC",
-    "value": 2000,
+    "value": 1000,
     "weightKg": 1,
     "stackSize": 3,
     "recyclesInto": {
       "arc_alloy": 1,
-      "electrical_components": 2
+      "electrical_components": 1
+    },
+    "salvagesInto": {
+      "electrical_components": 1
     },
     "imageFilename": "https://cdn.arctracker.io/items/spotter_relay.png",
     "updatedAt": "10/31/2025"
@@ -41254,15 +41493,15 @@
     "type": "Recyclable",
     "rarity": "Rare",
     "foundIn": "ARC",
-    "value": 2000,
+    "value": 1000,
     "weightKg": 1,
     "stackSize": 3,
     "recyclesInto": {
-      "arc_alloy": 2,
-      "mechanical_components": 2
+      "arc_alloy": 1,
+      "mechanical_components": 1
     },
     "salvagesInto": {
-      "mechanical_components": 2
+      "mechanical_components": 1
     },
     "imageFilename": "https://cdn.arctracker.io/items/surveyor_vault.png",
     "updatedAt": "01/13/2026"
@@ -48266,7 +48505,7 @@
     "type": "Recyclable",
     "rarity": "Rare",
     "foundIn": "ARC",
-    "value": 1000,
+    "value": 640,
     "weightKg": 0.6,
     "stackSize": 3,
     "effects": {
@@ -48322,7 +48561,7 @@
       "electrical_components": 1
     },
     "salvagesInto": {
-      "electrical_components": 1
+      "arc_alloy": 2
     },
     "imageFilename": "https://cdn.arctracker.io/items/wasp_driver.png",
     "updatedAt": "01/13/2026",
