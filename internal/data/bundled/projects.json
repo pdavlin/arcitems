@@ -2499,7 +2499,7 @@
   },
   {
     "id": "weather_monitor_system_project",
-    "disabled": false,
+    "disabled": true,
     "name": {
       "da": "Vejroverv\u00e5gningssystem",
       "de": "Wetter\u00fcberwachungssystem",
@@ -2873,5 +2873,252 @@
     ],
     "endDate": 1774915200,
     "startDate": 1769126400
+  },
+  {
+    "id": "high_gain_antenna_project",
+    "disabled": false,
+    "name": {
+      "da": "H\u00f8jforst\u00e6rkningsantenne",
+      "de": "Hochleistungsantenne",
+      "en": "High-Gain Antenna",
+      "es": "Antena de alta ganancia",
+      "fr": "Antenne haute capacit\u00e9",
+      "he": "\u05d0\u05e0\u05d8\u05e0\u05d4 \u05d1\u05e2\u05dc\u05ea \u05d4\u05d2\u05d1\u05e8 \u05d2\u05d1\u05d5\u05d4",
+      "hr": "Antena visokog poja\u010danja",
+      "it": "Antenna ad alto guadagno",
+      "ja": "\u9ad8\u30b2\u30a4\u30f3\u30a2\u30f3\u30c6\u30ca",
+      "ko-KR": "\uace0\uc131\ub2a5 \uc548\ud14c\ub098",
+      "no": "H\u00f8yforsterkningsantenne",
+      "pl": "Antena o\u00a0du\u017cej mocy",
+      "pt": "Antena de Alto Ganho",
+      "pt-BR": "Antena de Alto Ganho",
+      "ru": "\u0410\u043d\u0442\u0435\u043d\u043d\u0430 \u0441 \u0432\u044b\u0441\u043e\u043a\u0438\u043c \u043a\u043e\u044d\u0444\u0444\u0438\u0446\u0438\u0435\u043d\u0442\u043e\u043c \u0443\u0441\u0438\u043b\u0435\u043d\u0438\u044f",
+      "sr": "Antena visokog poja\u010danja",
+      "tr": "Y\u00fcksek Kazan\u00e7l\u0131 Anten",
+      "uk": "\u0410\u043d\u0442\u0435\u043d\u0430 \u0437 \u0432\u0438\u0441\u043e\u043a\u0438\u043c \u043f\u0456\u0434\u0441\u0438\u043b\u0435\u043d\u043d\u044f\u043c",
+      "zh-CN": "\u9ad8\u589e\u76ca\u5929\u7ebf",
+      "zh-TW": "\u9ad8\u589e\u76ca\u5929\u7dda"
+    },
+    "description": {
+      "da": "N\u00e5r de placeres i \u00e5bne omr\u00e5der, kan disse parabolsk\u00e5le opfange fjerne signaler inden for en smal str\u00e5lebredde, hvilket kan hj\u00e6lpe med at triangulere oprindelsen af de bekymrende ARC-signaler, der for nylig blev rapporteret.",
+      "de": "Wenn man diese Parabolantennen in offenen Gebieten aufstellt, k\u00f6nnen sie Signale aus der Ferne mit einer schmalen Strahlbreite empfangen, was dabei helfen k\u00f6nnte, die Herkunft der k\u00fcrzlich gemeldeten st\u00f6renden ARC-Signale auszumachen.",
+      "en": "When placed in open areas, these parabolic dishes can pick up on distant signals within a narrow beamwidth, which may help triangulate the origins of the troubling ARC signals that were recently reported.",
+      "es": "Cuando se colocan en espacios abiertos, estas antenas parab\u00f3licas son capaces de captar se\u00f1ales lejanas dentro de un ancho de haz estrecho, lo que podr\u00eda ayudar a triangular el origen de las preocupantes se\u00f1ales de las ARC que se detectaron hace poco.",
+      "fr": "Lorsqu'elles sont plac\u00e9es dans des zones d\u00e9gag\u00e9es, ces antennes paraboliques peuvent capter des signaux lointains dans un faisceau limit\u00e9, ce qui peut aider a trianguler l'origine des signaux ARC perturbateurs r\u00e9cemment signal\u00e9s.",
+      "he": "\u05db\u05d0\u05e9\u05e8 \u05de\u05e6\u05d9\u05d1\u05d9\u05dd \u05d0\u05d5\u05ea\u05df \u05d1\u05d0\u05d6\u05d5\u05e8\u05d9\u05dd \u05e4\u05ea\u05d5\u05d7\u05d9\u05dd, \u05e6\u05dc\u05d7\u05d5\u05ea \u05e4\u05e8\u05d1\u05d5\u05dc\u05d9\u05d5\u05ea \u05d0\u05dc\u05d5 \u05de\u05e1\u05d5\u05d2\u05dc\u05d5\u05ea \u05dc\u05e7\u05dc\u05d5\u05d8 \u05d0\u05d5\u05ea\u05d5\u05ea \u05de\u05e8\u05d5\u05d7\u05e7\u05d9\u05dd \u05d1\u05ea\u05d5\u05da \u05e8\u05d5\u05d7\u05d1 \u05d0\u05dc\u05d5\u05de\u05d4 \u05e6\u05e8, \u05de\u05d4 \u05e9\u05e2\u05e9\u05d5\u05d9 \u05dc\u05e1\u05d9\u05d9\u05e2 \u05d1\u05d8\u05e8\u05d9\u05d0\u05e0\u05d2\u05d5\u05dc\u05e6\u05d9\u05d4 \u05e9\u05dc \u05de\u05e7\u05d5\u05e8\u05d5\u05ea \u05d0\u05d5\u05ea\u05d5\u05ea \u05d4\u2011ARC \u05d4\u05de\u05d8\u05e8\u05d9\u05d3\u05d9\u05dd \u05e9\u05d3\u05d5\u05d5\u05d7\u05d5 \u05dc\u05d0\u05d7\u05e8\u05d5\u05e0\u05d4.",
+      "hr": "Postavljene na otvorenim podru\u010djima, ove paraboli\u010dne antene mogu hvatati udaljene signale unutar uske \u0161irine snopa, \u0161to mo\u017ee pomo\u0107i u triangulaciji izvora zabrinjavaju\u0107ih ARC signala prijavljenih nedavno.",
+      "it": "Se collocate in aree aperte, queste antenne paraboliche possono captare segnali distanti entro una stretta larghezza di fascio, il che potrebbe aiutare a triangolare le origini dei preoccupanti segnali ARC rilevati di recente.",
+      "ja": "\u3053\u306e\u30d1\u30e9\u30dc\u30e9\u30a2\u30f3\u30c6\u30ca\u306f\u3001\u5e83\u3044\u5834\u6240\u306b\u8a2d\u7f6e\u3059\u308b\u3068\u3001\u9060\u65b9\u304b\u3089\u5c4a\u304f\u72ed\u3044\u30d3\u30fc\u30e0\u5e45\u306e\u30b7\u30b0\u30ca\u30eb\u3092\u30ad\u30e3\u30c3\u30c1\u3067\u304d\u308b\u3002\u3053\u308c\u3092\u4f7f\u3048\u3070\u3001\u6700\u8fd1\u5831\u544a\u3055\u308c\u3066\u3044\u308b\u4e0d\u7a4f\u306aARC\u30b7\u30b0\u30ca\u30eb\u306e\u51fa\u3069\u3053\u308d\u3092\u7279\u5b9a\u3067\u304d\u308b\u304b\u3082\u3057\u308c\u306a\u3044\u3002",
+      "ko-KR": "\uc774 \uc811\uc2dc\ud615 \uc548\ud14c\ub098\ub294 \uac1c\ud65c\uc9c0\uc5d0 \uc124\uce58\ud558\uba74 \uc881\uc740 \ube54\ud3ed\uc73c\ub85c \uba3c \uacf3\uc758 \uc2e0\ud638\ub97c \ud3ec\ucc29\ud560 \uc218 \uc788\uc73c\uba70, \ucd5c\uadfc \ubcf4\uace0\ub418\uc5b4 \ubd88\uc548\uc744 \uc57c\uae30\ud55c \uc544\ud06c \uc2e0\ud638\uc758 \uadfc\uc6d0\uc744 \uc0bc\uac01\uce21\ub7c9\ud558\ub294 \ub370 \ub3c4\uc6c0\uc774 \ub420 \uc218 \uc788\uc2b5\ub2c8\ub2e4.",
+      "no": "Plassert i \u00e5pne omr\u00e5der kan disse parabolske sk\u00e5lene fange opp fjerne signaler innenfor en smal str\u00e5lebredde, noe som kan hjelpe med \u00e5 triangulere opprinnelsen til de bekymringsfulle ARC\u2011signalene som nylig er raportert.",
+      "pl": "Umieszczone na otwartych przestrzeniach anteny paraboliczne mog\u0105 odbiera\u0107 dobiegaj\u0105ce z\u00a0daleka sygna\u0142y w\u00a0w\u0105skim zakresie pasma, co mo\u017ce pom\u00f3c w\u00a0namierzeniu \u017ar\u00f3de\u0142 zarejestrowanych niedawno niepokoj\u0105cych sygna\u0142\u00f3w ARC.",
+      "pt": "Quando instaladas em \u00e1reas abertas, essas antenas parab\u00f3licas conseguem captar sinais distantes dentro de um feixe estreito, podendo ajudar a triangular a origem dos sinais preocupantes da ARC relatados recentemente.",
+      "pt-BR": "Quando instaladas em \u00e1reas abertas, essas antenas parab\u00f3licas conseguem captar sinais distantes dentro de um feixe estreito, podendo ajudar a triangular a origem dos sinais preocupantes da ARC relatados recentemente.",
+      "ru": "\u042d\u0442\u0438 \u043f\u0430\u0440\u0430\u0431\u043e\u043b\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u0430\u043d\u0442\u0435\u043d\u043d\u044b \u0443\u0441\u0442\u0430\u043d\u0430\u0432\u043b\u0438\u0432\u0430\u044e\u0442\u0441\u044f \u043d\u0430 \u043e\u0442\u043a\u0440\u044b\u0442\u043e\u0439 \u043c\u0435\u0441\u0442\u043d\u043e\u0441\u0442\u0438. \u041e\u043d\u0438 \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u044b \u043f\u0440\u0438\u043d\u0438\u043c\u0430\u0442\u044c \u043e\u0442\u0434\u0430\u043b\u0435\u043d\u043d\u044b\u0435 \u0443\u0437\u043a\u043e\u043d\u0430\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u043d\u044b\u0435 \u0441\u0438\u0433\u043d\u0430\u043b\u044b, \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e, \u0441 \u0438\u0445 \u043f\u043e\u043c\u043e\u0449\u044c\u044e \u043f\u043e\u043b\u0443\u0447\u0438\u0442\u0441\u044f \u0432\u044b\u0447\u0438\u0441\u043b\u0438\u0442\u044c \u043a\u043e\u043e\u0440\u0434\u0438\u043d\u0430\u0442\u044b \u0438\u0441\u0442\u043e\u0447\u043d\u0438\u043a\u0430 \u0437\u043b\u043e\u0432\u0435\u0449\u0438\u0445 \u0441\u0438\u0433\u043d\u0430\u043b\u043e\u0432 ARC, \u043e \u043a\u043e\u0442\u043e\u0440\u044b\u0445 \u0432 \u043f\u043e\u0441\u043b\u0435\u0434\u043d\u0435\u0435 \u0432\u0440\u0435\u043c\u044f \u043c\u043d\u043e\u0433\u043e \u0433\u043e\u0432\u043e\u0440\u044f\u0442.",
+      "sr": "Kada se postave na otvorenom, ove paraboli\u010dne antene mogu hvatati udaljene signale u uskoj \u0161irini snopa, \u0161to mo\u017ee pomo\u0107i u triangulaciji izvora zabrinjavaju\u0107ih ARC signala koji su nedavno prijavljeni.",
+      "tr": "Bu parabolik antenler, a\u00e7\u0131k alanlara yerle\u015ftirildi\u011finde dar bir \u0131\u015f\u0131n geni\u015fli\u011fi i\u00e7inde uzaktaki sinyalleri alabilir. Bunlar, yak\u0131n zamanda bildirilen rahats\u0131z edici ARC sinyallerinin kayna\u011f\u0131n\u0131 saptamaya yard\u0131mc\u0131 olabilir.",
+      "uk": "\u0412\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0456 \u043d\u0430 \u0432\u0456\u0434\u043a\u0440\u0438\u0442\u0456\u0439 \u043c\u0456\u0441\u0446\u0435\u0432\u043e\u0441\u0442\u0456, \u0446\u0456 \u043f\u0430\u0440\u0430\u0431\u043e\u043b\u0456\u0447\u043d\u0456 \u0430\u043d\u0442\u0435\u043d\u0438 \u0437\u0434\u0430\u0442\u043d\u0456 \u0432\u043b\u043e\u0432\u043b\u044e\u0432\u0430\u0442\u0438 \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u0456 \u0441\u0438\u0433\u043d\u0430\u043b\u0438 \u0432 \u043c\u0435\u0436\u0430\u0445 \u0432\u0443\u0437\u044c\u043a\u043e\u0457 \u0448\u0438\u0440\u0438\u043d\u0438 \u043f\u0440\u043e\u043c\u0435\u043d\u044f, \u0449\u043e \u043c\u043e\u0436\u0435 \u0434\u043e\u043f\u043e\u043c\u043e\u0433\u0442\u0438 \u0442\u0440\u0456\u0430\u043d\u0433\u0443\u043b\u044f\u0446\u0456\u0454\u044e \u0432\u0438\u0437\u043d\u0430\u0447\u0438\u0442\u0438 \u0434\u0436\u0435\u0440\u0435\u043b\u0430 \u0442\u0440\u0438\u0432\u043e\u0436\u043d\u0438\u0445 \u0441\u0438\u0433\u043d\u0430\u043b\u0456\u0432 ARC, \u043f\u0440\u043e \u044f\u043a\u0456 \u043d\u0435\u0449\u043e\u0434\u0430\u0432\u043d\u043e \u043f\u043e\u0432\u0456\u0434\u043e\u043c\u043b\u044f\u043b\u0438.",
+      "zh-CN": "\u653e\u7f6e\u5728\u5f00\u9614\u533a\u57df\u65f6\uff0c\u8fd9\u4e9b\u629b\u7269\u9762\u5929\u7ebf\u53ef\u5728\u7a84\u6ce2\u675f\u9891\u6bb5\u5185\u63a5\u6536\u8fdc\u8ddd\u79bb\u4fe1\u53f7\uff0c\u52a9\u529b\u4e09\u89d2\u5b9a\u4f4d\u8fd1\u671f\u62a5\u544a\u7684\u5f02\u5e38ARC\u4fe1\u53f7\u6e90\u5934\u3002",
+      "zh-TW": "\u653e\u7f6e\u5728\u958b\u95ca\u5340\u57df\u6642\uff0c\u9019\u4e9b\u62cb\u7269\u9762\u5929\u7dda\u80fd\u5728\u7a84\u6ce2\u675f\u5bec\u5ea6\u5167\u63a5\u6536\u9060\u8ddd\u96e2\u8a0a\u865f\uff0c\u9019\u6216\u8a31\u80fd\u5e6b\u52a9\u6211\u5011\u5c0d\u8fd1\u671f\u56de\u5831\u7684\u7570\u5e38ARC\u8a0a\u865f\u4f86\u6e90\u9032\u884c\u4e09\u89d2\u5b9a\u4f4d\u3002"
+    },
+    "phases": [
+      {
+        "name": {
+          "da": "Robust sokkel",
+          "de": "Robuster Sockel",
+          "en": "Sturdy Base",
+          "es": "Base robusta",
+          "fr": "Base solide",
+          "he": "\u05d1\u05e1\u05d9\u05e1 \u05d9\u05e6\u05d9\u05d1",
+          "hr": "Robusno postolje",
+          "it": "Base solida",
+          "ja": "\u9811\u4e08\u306a\u57fa\u90e8",
+          "ko-KR": "\ud2bc\ud2bc\ud55c \ubc1b\uce68\ub300",
+          "no": "Solid sokkel",
+          "pl": "Wytrzyma\u0142a podstawa",
+          "pt": "Base Resistente",
+          "pt-BR": "Base Resistente",
+          "ru": "\u041a\u0440\u0435\u043f\u043a\u043e\u0435 \u043e\u0441\u043d\u043e\u0432\u0430\u043d\u0438\u0435",
+          "sr": "\u010cvrsto postolje",
+          "tr": "Sa\u011flam Taban",
+          "uk": "\u041c\u0456\u0446\u043d\u0430 \u043e\u0441\u043d\u043e\u0432\u0430",
+          "zh-CN": "\u575a\u56fa\u5e95\u5ea7",
+          "zh-TW": "\u7a69\u56fa\u57fa\u5730"
+        },
+        "description": {
+          "da": "Ekstra robust sokkel, der kan modst\u00e5 alt fra bidende vinde til pludselige skybrud. ",
+          "de": "Ein extra stabiler Sockel, der echt allem standh\u00e4lt, von eisigen Winden bis hin zu pl\u00f6tzlichen Wolkenbr\u00fcchen. ",
+          "en": "An extra-sturdy base that can withstand anything from bitter winds to sudden cloudbursts. ",
+          "es": "Una base m\u00e1s robusta capaz de resistir cualquier cosa, desde fuertes vientos hasta trombas de agua. ",
+          "fr": "Une base renforc\u00e9e, pr\u00eate \u00e0 encaisser vents violents et pluies soudaines. ",
+          "he": "\u05d1\u05e1\u05d9\u05e1 \u05de\u05d7\u05d5\u05d6\u05e7 \u05d1\u05de\u05d9\u05d5\u05d7\u05d3 \u05e9\u05d9\u05db\u05d5\u05dc \u05dc\u05e2\u05de\u05d5\u05d3 \u05d1\u05e8\u05d5\u05d7\u05d5\u05ea \u05e0\u05e9\u05d1\u05d5\u05ea \u05d5\u05d1\u05de\u05de\u05d8\u05e8\u05d9\u05dd \u05e4\u05ea\u05d0\u05d5\u05de\u05d9\u05d9\u05dd. ",
+          "hr": "Iznimno robusno postolje koje podnosi sve \u2013 od ledenih vjetrova do iznenadnih pljuskova. ",
+          "it": "Una base estremamente robusta in grado di resistere a tutto, dai venti gelidi ai nubifragi improvvisi. ",
+          "ja": "\u6fc0\u3057\u3044\u98a8\u3084\u8c6a\u96e8\u306b\u3082\u8010\u3048\u3046\u308b\u3001\u975e\u5e38\u306b\u9811\u4e08\u306a\u57fa\u90e8\u3002 ",
+          "ko-KR": "\ub9e4\uc11c\uc6b4 \ubc14\ub78c\ubd80\ud130 \uac11\uc791\uc2a4\ub7ec\uc6b4 \ud3ed\uc6b0\uae4c\uc9c0, \uc5b4\ub5a4 \ud658\uacbd\ub3c4 \uacac\ub38c \ub0b4\ub294 \ucd08\uac15\ub825 \ubc1b\uce68\ub300\uc785\ub2c8\ub2e4. ",
+          "no": "Ekstra solid sokkel som t\u00e5ler alt fra bitende vind til plutselige skybrudd. ",
+          "pl": "Wyj\u0105tkowo wytrzyma\u0142a podstawa, kt\u00f3ra zniesie ka\u017cde warunki \u2013 od silnego wiatru po oberwania chmury. ",
+          "pt": "Base super-resistente que aguenta desde as piores ventanias at\u00e9 os temporais mais s\u00fabitos. ",
+          "pt-BR": "Base super-resistente que aguenta desde as piores ventanias at\u00e9 os temporais mais s\u00fabitos. ",
+          "ru": "\u041e\u0447\u0435\u043d\u044c \u043a\u0440\u0435\u043f\u043a\u043e\u0435 \u043e\u0441\u043d\u043e\u0432\u0430\u043d\u0438\u0435, \u043a\u043e\u0442\u043e\u0440\u043e\u043c\u0443 \u043d\u0435 \u0441\u0442\u0440\u0430\u0448\u043d\u044b \u043d\u0438 \u043f\u0440\u043e\u043d\u0437\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0435 \u0432\u0435\u0442\u0440\u0430, \u043d\u0438 \u0432\u043d\u0435\u0437\u0430\u043f\u043d\u044b\u0435 \u043b\u0438\u0432\u043d\u0438 \u0441 \u0433\u0440\u043e\u0437\u043e\u0439. ",
+          "sr": "Izuzetno \u010dvrsto postolje koje podnosi sve \u2013 od o\u0161trih vetrova \u0434\u043e \u0438\u0437\u043d\u0435\u043d\u0430\u0434\u043d\u0438\u0445 \u043f\u0459\u0443\u0441\u043a\u043e\u0432\u0430. ",
+          "tr": "Sert r\u00fczg\u00e2rlardan ani sa\u011fanak ya\u011f\u0131\u015flara kadar her \u015feye dayanabilecek ekstra sa\u011flam bir taban. ",
+          "uk": "\u041d\u0430\u0434\u0437\u0432\u0438\u0447\u0430\u0439\u043d\u043e \u043c\u0456\u0446\u043d\u0430 \u043e\u0441\u043d\u043e\u0432\u0430, \u0449\u043e \u0432\u0438\u0442\u0440\u0438\u043c\u0443\u0454 \u0432\u0441\u0435 \u2014 \u0432\u0456\u0434 \u043f\u0440\u043e\u043d\u0438\u0437\u043b\u0438\u0432\u0438\u0445 \u0432\u0456\u0442\u0440\u0456\u0432 \u0434\u043e \u0440\u0430\u043f\u0442\u043e\u0432\u0438\u0445 \u0437\u043b\u0438\u0432. ",
+          "zh-CN": "\u8d85\u575a\u56fa\u5e95\u5ea7\uff0c\u53ef\u62b5\u5fa1\u72c2\u98ce\u9aa4\u96e8\u7b49\u4e00\u5207\u4fb5\u88ad\u3002 ",
+          "zh-TW": "\u8d85\u7a69\u56fa\u7684\u57fa\u5730\uff0c\u7121\u8ad6\u9762\u5c0d\u523a\u9aa8\u5bd2\u98a8\u6216\u9a5f\u964d\u66b4\u96e8\u7686\u80fd\u5f9e\u5bb9\u61c9\u5c0d\u3002 "
+        },
+        "phase": 1,
+        "requirementItemIds": [
+          {
+            "itemId": "arc_alloy",
+            "quantity": 50
+          },
+          {
+            "itemId": "arc_flex_rubber",
+            "quantity": 10
+          },
+          {
+            "itemId": "arc_performance_steel",
+            "quantity": 10
+          },
+          {
+            "itemId": "advanced_arc_powercell",
+            "quantity": 15
+          }
+        ]
+      },
+      {
+        "name": {
+          "da": "Datalogger",
+          "de": "Datenlogger",
+          "en": "Data Logger",
+          "es": "Registrador de datos",
+          "fr": "Enregistreur de donn\u00e9es",
+          "he": "\u05e8\u05e9\u05dd \u05e0\u05ea\u05d5\u05e0\u05d9\u05dd",
+          "hr": "Zapisnik podataka",
+          "it": "Registratore dati",
+          "ja": "\u30c7\u30fc\u30bf\u30ed\u30ac\u30fc",
+          "ko-KR": "\ub370\uc774\ud130 \uae30\ub85d\uae30",
+          "no": "Datalogger",
+          "pl": "Rejestr danych",
+          "pt": "Registrador de Dados",
+          "pt-BR": "Registrador de Dados",
+          "ru": "\u0420\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u043e\u0440 \u0434\u0430\u043d\u043d\u044b\u0445",
+          "sr": "Zapisiva\u010d podataka",
+          "tr": "Veri Kaydedici",
+          "uk": "\u0420\u0435\u0454\u0441\u0442\u0440\u0430\u0442\u043e\u0440 \u0434\u0430\u043d\u0438\u0445",
+          "zh-CN": "\u6570\u636e\u8bb0\u5f55\u4eea",
+          "zh-TW": "\u8cc7\u6599\u8a18\u9304\u5668"
+        },
+        "description": {
+          "da": "Lukket kredsl\u00f8bsgr\u00e6nseflade til at overv\u00e5ge og analysere distribuerede datapunkter over tid. ",
+          "de": "Eine Schnittstelle mit geschlossenem Regelkreis, um verteilte Datenpunkte \u00fcber einen l\u00e4ngeren Zeitraum zu \u00fcberwachen und zu analysieren. ",
+          "en": "A closed-circuit interface to monitor and analyze distributed data points over time. ",
+          "es": "Una interfaz de circuito cerrado que sirve para monitorizar y analizar puntos de datos distribuidos a lo largo del tiempo. ",
+          "fr": "Interface en circuit ferm\u00e9 permettant de suivre et d'analyser des points de donn\u00e9es distribu\u00e9s au fil du temps. ",
+          "he": "\u05de\u05de\u05e9\u05e7 \u05d1\u05de\u05e2\u05d2\u05dc \u05e1\u05d2\u05d5\u05e8 \u05dc\u05e0\u05d9\u05d8\u05d5\u05e8 \u05d5\u05e0\u05d9\u05ea\u05d5\u05d7 \u05e9\u05dc \u05e0\u05e7\u05d5\u05d3\u05d5\u05ea \u05e0\u05ea\u05d5\u05e0\u05d9\u05dd \u05de\u05d1\u05d5\u05d6\u05e8\u05d5\u05ea \u05dc\u05d0\u05d5\u05e8\u05da \u05d6\u05de\u05df. ",
+          "hr": "Su\u010delje zatvorenog kruga za nadzor i analizu distribuiranih podatkovnih to\u010daka kroz vrijeme. ",
+          "it": "Un'interfaccia a circuito chiuso per monitorare e analizzare punti di dati distribuiti nel tempo. ",
+          "ja": "\u9577\u671f\u9593\u3001\u30c7\u30fc\u30bf\u30dd\u30a4\u30f3\u30c8\u3092\u76e3\u8996\u30fb\u5206\u6790\u3059\u308b\u305f\u3081\u306e\u9589\u56de\u8def\u30a4\u30f3\u30bf\u30fc\u30d5\u30a7\u30fc\u30b9\u3002 ",
+          "ko-KR": "\ubd84\uc0b0\ub41c \ub370\uc774\ud130 \uc9c0\uc810\uc744 \uc9c0\uc18d\uc801\uc73c\ub85c \ubaa8\ub2c8\ud130\ub9c1\ud558\uace0 \ubd84\uc11d\ud558\uae30 \uc704\ud55c \ud3d0\uc1c4 \ud68c\ub85c\ud615 \uc778\ud130\ud398\uc774\uc2a4\uc785\ub2c8\ub2e4. ",
+          "no": "Grensesnitt i lukket krets for \u00e5 overv\u00e5ke og analysere distribuerte datapunkter over tid. ",
+          "pl": "Zamkni\u0119ty interfejs do monitorowania i\u00a0analizowania rozproszonych punkt\u00f3w danych w\u00a0czasie. ",
+          "pt": "Interface de circuito fechado para monitorar e analisar pontos de dados distribu\u00eddos ao longo do tempo. ",
+          "pt-BR": "Interface de circuito fechado para monitorar e analisar pontos de dados distribu\u00eddos ao longo do tempo. ",
+          "ru": "\u0417\u0430\u043c\u043a\u043d\u0443\u0442\u0430\u044f \u0441\u0438\u0441\u0442\u0435\u043c\u0430 \u0434\u043b\u044f \u043e\u0442\u0441\u043b\u0435\u0436\u0438\u0432\u0430\u043d\u0438\u044f \u0438 \u0430\u043d\u0430\u043b\u0438\u0437\u0430 \u043f\u0435\u0440\u0435\u0434\u0430\u0432\u0430\u0435\u043c\u044b\u0445 \u0434\u0430\u043d\u043d\u044b\u0445. ",
+          "sr": "Interfejs zatvorenog kola za nadzor i analizu distribuiranih ta\u010daka podataka tokom vremena. ",
+          "tr": "Zaman i\u00e7inde da\u011f\u0131t\u0131lm\u0131\u015f veri noktalar\u0131n\u0131 izlemek ve analiz etmek i\u00e7in kullan\u0131lan kapal\u0131 devre aray\u00fcz\u00fc. ",
+          "uk": "\u0406\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441 \u0437\u0430\u043c\u043a\u043d\u0435\u043d\u043e\u0433\u043e \u043a\u043e\u043d\u0442\u0443\u0440\u0443 \u0434\u043b\u044f \u043c\u043e\u043d\u0456\u0442\u043e\u0440\u0438\u043d\u0433\u0443 \u0442\u0430 \u0430\u043d\u0430\u043b\u0456\u0437\u0443 \u0440\u043e\u0437\u043f\u043e\u0434\u0456\u043b\u0435\u043d\u0438\u0445 \u0442\u043e\u0447\u043e\u043a \u0434\u0430\u043d\u0438\u0445 \u0437 \u043f\u043b\u0438\u043d\u043e\u043c \u0447\u0430\u0441\u0443. ",
+          "zh-CN": "\u7528\u4e8e\u957f\u671f\u76d1\u6d4b\u548c\u5206\u6790\u5206\u5e03\u5f0f\u6570\u636e\u70b9\u7684\u95ed\u8def\u63a5\u53e3\u3002 ",
+          "zh-TW": "\u7528\u65bc\u76e3\u63a7\u53ca\u5206\u6790\u5206\u6563\u8cc7\u6599\u9ede\u96a8\u6642\u9593\u8b8a\u5316\u60c5\u5f62\u7684\u9589\u8def\u4ecb\u9762\u3002 "
+        },
+        "phase": 2,
+        "requirementItemIds": [
+          {
+            "itemId": "arc_coolant",
+            "quantity": 15
+          },
+          {
+            "itemId": "arc_thermo_lining",
+            "quantity": 15
+          },
+          {
+            "itemId": "vaporizer_regulator",
+            "quantity": 4
+          },
+          {
+            "itemId": "assessor_matrix",
+            "quantity": 6
+          }
+        ]
+      },
+      {
+        "name": {
+          "da": "Parabolantenne",
+          "de": "Parabolantenne",
+          "en": "Parabolic Dish",
+          "es": "Antena parab\u00f3lica",
+          "fr": "Antenne parabolique",
+          "he": "\u05e6\u05dc\u05d7\u05ea \u05e4\u05e8\u05d1\u05d5\u05dc\u05d9\u05ea",
+          "hr": "Paraboli\u010dna antena",
+          "it": "Antenna parabolica",
+          "ja": "\u30d1\u30e9\u30dc\u30e9\u30a2\u30f3\u30c6\u30ca",
+          "ko-KR": "\uc811\uc2dc\ud615 \uc548\ud14c\ub098",
+          "no": "Parabolantenne",
+          "pl": "Antena paraboliczna",
+          "pt": "Antena Parab\u00f3lica",
+          "pt-BR": "Antena Parab\u00f3lica",
+          "ru": "\u041f\u0430\u0440\u0430\u0431\u043e\u043b\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u0430\u043d\u0442\u0435\u043d\u043d\u0430",
+          "sr": "Paraboli\u010dna antena",
+          "tr": "Parabolik Anten",
+          "uk": "\u041f\u0430\u0440\u0430\u0431\u043e\u043b\u0456\u0447\u043d\u0430 \u0430\u043d\u0442\u0435\u043d\u0430",
+          "zh-CN": "\u629b\u7269\u9762\u5929\u7ebf",
+          "zh-TW": "\u62cb\u7269\u9762\u5929\u7dda"
+        },
+        "description": {
+          "da": "Specialbygget parabolantenne designet til at opfange fjerne signaler selv under de mest stormfulde forhold.",
+          "de": "Eine speziell angefertigte Parabolantenne, die auch bei st\u00fcrmischem Wetter Signale aus gro\u00dfer Entfernung empfangen kann.",
+          "en": "A custom-built parabolic dish designed to capture distant signals in even the most stormy of conditions.",
+          "es": "Una antena parab\u00f3lica hecha a medida para captar se\u00f1ales lejanas, incluso en condiciones de tormenta.",
+          "fr": "Une antenne parabolique construite sur mesure, con\u00e7ue pour capter des signaux lointains m\u00eame dans les conditions les plus orageuses.",
+          "he": "\u05e6\u05dc\u05d7\u05ea \u05e4\u05e8\u05d1\u05d5\u05dc\u05d9\u05ea \u05d9\u05d9\u05e2\u05d5\u05d3\u05d9\u05ea, \u05e9\u05ea\u05d5\u05db\u05e0\u05e0\u05d4 \u05dc\u05e7\u05dc\u05d5\u05d8 \u05d0\u05d5\u05ea\u05d5\u05ea \u05de\u05e8\u05d5\u05d7\u05e7\u05d9\u05dd \u05d2\u05dd \u05d1\u05ea\u05e0\u05d0\u05d9\u05dd \u05e1\u05d5\u05e2\u05e8\u05d9\u05dd \u05d1\u05de\u05d9\u05d5\u05d7\u05d3.",
+          "hr": "Prilago\u0111ena paraboli\u010dna antena osmi\u0161ljena \u0437\u0430 hvatanje udaljenih signala \u010dak i u najolujnijim uvjetima.",
+          "it": "Un'antenna parabolica personalizzata progettata per catturare segnali distanti anche nelle condizioni meteorologiche pi\u00f9 avverse.",
+          "ja": "\u30ab\u30b9\u30bf\u30e0\u306e\u30d1\u30e9\u30dc\u30e9\u30a2\u30f3\u30c6\u30ca\u3002\u3069\u3093\u306a\u60aa\u5929\u5019\u4e0b\u3067\u3082\u3001\u9060\u65b9\u306e\u30b7\u30b0\u30ca\u30eb\u3092\u30ad\u30e3\u30c3\u30c1\u3067\u304d\u308b\u3002",
+          "ko-KR": "\ud3ed\ud48d \uc18d\uc5d0\uc11c\ub3c4 \uc6d0\uac70\ub9ac \uc2e0\ud638\ub97c \ud3ec\ucc29\ud560 \uc218 \uc788\ub3c4\ub85d \ud2b9\ubcc4 \uc81c\uc791\ub41c \uc811\uc2dc\ud615 \uc548\ud14c\ub098\uc785\ub2c8\ub2e4.",
+          "no": "Egendesignet parabolantenne laget for \u00e5 fange opp fjerne signaler selv i de mest stormfulle forholdene.",
+          "pl": "Niestandardowa antena paraboliczna, kt\u00f3ra ma na celu przechwytywanie odleg\u0142ych sygna\u0142\u00f3w w\u00a0najgorszych warunkach atmosferycznych.",
+          "pt": "Antena parab\u00f3lica feita sob medida para captar sinais distantes mesmo em condi\u00e7\u00f5es tempestuosas.",
+          "pt-BR": "Antena parab\u00f3lica feita sob medida para captar sinais distantes mesmo em condi\u00e7\u00f5es tempestuosas.",
+          "ru": "\u041f\u0430\u0440\u0430\u0431\u043e\u043b\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u0430\u043d\u0442\u0435\u043d\u043d\u0430, \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0430\u043d\u043d\u0430\u044f \u0441\u043f\u0435\u0446\u0438\u0430\u043b\u044c\u043d\u043e \u0434\u043b\u044f \u0437\u0430\u0445\u0432\u0430\u0442\u0430 \u043e\u0442\u0434\u0430\u043b\u0435\u043d\u043d\u044b\u0445 \u0441\u0438\u0433\u043d\u0430\u043b\u043e\u0432 \u0434\u0430\u0436\u0435 \u0432 \u0441\u0430\u043c\u044b\u0445 \u0442\u044f\u0436\u0435\u043b\u044b\u0445 \u043f\u043e\u0433\u043e\u0434\u043d\u044b\u0445 \u0443\u0441\u043b\u043e\u0432\u0438\u044f\u0445.",
+          "sr": "Prilago\u0111ena paraboli\u010dna antena namenjena za hvatanje udaljenih signala \u010dak i u najolujnijim uslovima.",
+          "tr": "En f\u0131rt\u0131nal\u0131 hava ko\u015fullar\u0131nda bile uzaktaki sinyalleri yakalamak i\u00e7in \u00f6zel olarak tasarlanm\u0131\u015f parabolik anten.",
+          "uk": "\u0421\u043f\u0435\u0446\u0456\u0430\u043b\u044c\u043d\u043e \u0432\u0438\u0433\u043e\u0442\u043e\u0432\u043b\u0435\u043d\u0430 \u043f\u0430\u0440\u0430\u0431\u043e\u043b\u0456\u0447\u043d\u0430 \u0430\u043d\u0442\u0435\u043d\u0430, \u0441\u0442\u0432\u043e\u0440\u0435\u043d\u0430 \u0434\u043b\u044f \u043f\u0440\u0438\u0439\u043c\u0430\u043d\u043d\u044f \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u0438\u0445 \u0441\u0438\u0433\u043d\u0430\u043b\u0456\u0432 \u043d\u0430\u0432\u0456\u0442\u044c \u0437\u0430 \u043d\u0430\u0439\u0431\u0456\u043b\u044c\u0448 \u0431\u0443\u0440\u0435\u0432\u0456\u0439\u043d\u0438\u0445 \u0443\u043c\u043e\u0432.",
+          "zh-CN": "\u7279\u5236\u629b\u7269\u9762\u5929\u7ebf\uff0c\u5373\u4fbf\u5728\u66b4\u96e8\u5929\u6c14\u4e5f\u80fd\u6355\u6349\u8fdc\u8ddd\u79bb\u4fe1\u53f7\u3002",
+          "zh-TW": "\u7279\u88fd\u7684\u62cb\u7269\u9762\u5929\u7dda\uff0c\u5373\u4f7f\u9762\u5c0d\u6700\u60e1\u52a3\u7684\u5929\u6c23\u4e5f\u80fd\u63a5\u6536\u9060\u8ddd\u96e2\u8a0a\u865f\u3002"
+        },
+        "phase": 3,
+        "requirementItemIds": [
+          {
+            "itemId": "surveyor_vault",
+            "quantity": 10
+          },
+          {
+            "itemId": "arc_synthetic_resin",
+            "quantity": 20
+          },
+          {
+            "itemId": "vaporizer_regulator",
+            "quantity": 15
+          },
+          {
+            "itemId": "assessor_matrix",
+            "quantity": 18
+          }
+        ]
+      }
+    ],
+    "endDate": 1777248000,
+    "startDate": 1770940800
   }
 ]
