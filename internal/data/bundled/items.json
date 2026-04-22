@@ -42,7 +42,7 @@
       "sr": "Akusti\u010dna gitara na kojoj se mo\u017ee svirati, koristi se za privla\u010denje ARC-ove pa\u017enje i impresioniranje drugih Rajdera.",
       "tr": "ARC'nin dikkatini \u00e7ekmek ve di\u011fer Raider'lar\u0131 etkilemek i\u00e7in kullan\u0131lan, \u00e7al\u0131nabilir bir akustik gitar.",
       "uk": "\u0413\u0440\u0430\u043b\u044c\u043d\u0430 \u0430\u043a\u0443\u0441\u0442\u0438\u0447\u043d\u0430 \u0433\u0456\u0442\u0430\u0440\u0430, \u0449\u043e\u0431 \u043f\u0440\u0438\u0432\u0435\u0440\u043d\u0443\u0442\u0438 \u0443\u0432\u0430\u0433\u0443 ARC \u0456 \u0432\u0440\u0430\u0437\u0438\u0442\u0438 \u0456\u043d\u0448\u0438\u0445 \u0440\u0435\u0439\u0434\u0435\u0440\u0456\u0432.",
-      "zh-CN": "\u4e00\u628a\u80fd\u6f14\u594f\u7684\u539f\u58f0\u5409\u4ed6\uff0c\u5373\u53ef\u7528\u4e8e\u5f15\u8d77ARC\u7684\u6ce8\u610f\uff0c\u4e5f\u80fd\u8ba9\u5176\u4ed6\u5947\u88ad\u8005\u522e\u76ee\u76f8\u770b\u3002",
+      "zh-CN": "\u4e00\u628a\u80fd\u6f14\u594f\u7684\u539f\u58f0\u5409\u4ed6\uff0c\u65e2\u53ef\u7528\u4e8e\u5f15\u8d77ARC\u7684\u6ce8\u610f\uff0c\u4e5f\u80fd\u8ba9\u5176\u4ed6\u5947\u88ad\u8005\u522e\u76ee\u76f8\u770b\u3002",
       "zh-TW": "\u4e00\u628a\u53ef\u5f48\u594f\u7684\u6728\u5409\u4ed6\uff0c\u7528\u4f86\u5438\u5f15ARC\u7684\u6ce8\u610f\u4e26\u8b93\u5176\u4ed6\u63a0\u596a\u8005\u522e\u76ee\u76f8\u770b\u3002"
     },
     "type": "Quick Use",
@@ -332,7 +332,7 @@
       "sr": "Koristi se za izradu \u0161irokog spektra predmeta. Mo\u017ee se reciklirati u materijale za izradu. Koristi se za izradu: Tactical Mk. 3 (Defensive), Combat Mk. 3 (Flanking), Combat Mk. 3 (Aggressive), Looting Mk. 3 (Cautious), Tactical Mk. 3 (Healing)",
       "tr": "Geni\u015f bir yelpazede e\u015fya \u00fcretmek i\u00e7in kullan\u0131l\u0131r. \u00dcretim malzemelerine geri d\u00f6n\u00fc\u015ft\u00fcr\u00fclebilir. \u015eunlar\u0131 \u00fcretmek i\u00e7in kullan\u0131l\u0131r: Taktik Mk. 3 (Savunma), Sava\u015f Mk. 3 (Ku\u015fatma), Sava\u015f Mk. 3 (Sald\u0131rgan), Ya\u011fma Mk. 3 (\u0130htiyatl\u0131), Taktik Mk. 3 (\u0130yile\u015ftirme)",
       "uk": "\u0412\u0438\u043a\u043e\u0440\u0438\u0441\u0442\u043e\u0432\u0443\u0454\u0442\u044c\u0441\u044f \u0434\u043b\u044f \u0441\u0442\u0432\u043e\u0440\u0435\u043d\u043d\u044f \u0448\u0438\u0440\u043e\u043a\u043e\u0433\u043e \u0441\u043f\u0435\u043a\u0442\u0440\u0443 \u043f\u0440\u0435\u0434\u043c\u0435\u0442\u0456\u0432. \u041c\u043e\u0436\u043d\u0430 \u043f\u0435\u0440\u0435\u0440\u043e\u0431\u0438\u0442\u0438 \u043d\u0430 \u043c\u0430\u0442\u0435\u0440\u0456\u0430\u043b\u0438 \u0434\u043b\u044f \u043a\u0440\u0430\u0444\u0442\u0443. \u0412\u0438\u043a\u043e\u0440\u0438\u0441\u0442\u043e\u0432\u0443\u0454\u0442\u044c\u0441\u044f \u0434\u043b\u044f \u0441\u0442\u0432\u043e\u0440\u0435\u043d\u043d\u044f: \u0422\u0430\u043a\u0442\u0438\u0447\u043d\u0438\u0439 Mk. 3 (\u0417\u0430\u0445\u0438\u0441\u043d\u0438\u0439), \u0411\u043e\u0439\u043e\u0432\u0438\u0439 Mk. 3 (\u0424\u043b\u0430\u043d\u0433\u043e\u0432\u0438\u0439), \u0411\u043e\u0439\u043e\u0432\u0438\u0439 Mk. 3 (\u0410\u0433\u0440\u0435\u0441\u0438\u0432\u043d\u0438\u0439), \u041c\u0430\u0440\u043e\u0434\u0435\u0440\u0441\u044c\u043a\u0438\u0439 Mk. 3 (\u041e\u0431\u0435\u0440\u0435\u0436\u043d\u0438\u0439), \u0422\u0430\u043a\u0442\u0438\u0447\u043d\u0438\u0439 Mk. 3 (\u041b\u0456\u043a\u0443\u0432\u0430\u043b\u044c\u043d\u0438\u0439)",
-      "zh-CN": "\u7528\u4e8e\u5236\u4f5c\u5404\u79cd\u7269\u54c1\u3002\u53ef\u56de\u6536\u4e3a\u5236\u4f5c\u6750\u6599\u3002\u7528\u4e8e\u5236\u4f5c:\u5947\u88ad\u8005\u6697\u95e8\u94a5\u5319\uff0c\u5149\u7535\u6597\u7bf7\uff0c\u8000\u773c\u660e\u661f\uff0c\u6218\u672fMk.3(\u9632\u5fa1\u578b)\uff0c\u6218\u6597Mk.3(\u4fa7\u7ffc\u7a81\u51fb)",
+      "zh-CN": "\u7528\u4e8e\u5236\u4f5c\u5404\u79cd\u7269\u54c1\u3002\u53ef\u56de\u6536\u4e3a\u5236\u4f5c\u6750\u6599\u3002\u7528\u4e8e\u5236\u4f5c:\u5947\u88ad\u8005\u6697\u95e8\u94a5\u5319\uff0c\u5149\u7535\u6597\u7bf7\uff0c\u8000\u773c\u660e\u661f\uff0c\u6218\u6597Mk.3(\u4fa7\u7ffc\u7a81\u51fb),\u6218\u6597Mk.3(\u8fdb\u653b\u578b)\uff0c\u641c\u522eMk.3(\u8c28\u614e\u578b)\uff0c\u6218\u672fMk.3(\u6062\u590d\u578b)\uff0c\u6218\u672fMk.3(\u9632\u5fa1\u578b)",
       "zh-TW": "\u7528\u4f86\u88fd\u4f5c\u591a\u7a2e\u7269\u54c1\u3002\u53ef\u56de\u6536\u6210\u88fd\u4f5c\u6750\u6599\u3002\u7528\u4f86\u88fd\u4f5c:\u6230\u8853\u7b2c3\u578b(\u9632\u79a6),\u6230\u9b25\u7b2c3\u578b(\u5074\u64ca),\u6230\u9b25\u7b2c3\u578b(\u7a4d\u6975),\u641c\u522e\u7b2c3\u578b(\u8b39\u614e),\u6230\u8853\u7b2c3\u578b(\u6cbb\u7642)"
     },
     "type": "Refined Material",
@@ -448,7 +448,7 @@
       "sr": "Agava",
       "tr": "Agave",
       "uk": "\u0410\u0433\u0430\u0432\u0430",
-      "zh-CN": "\u9f99\u820c\u5170",
+      "zh-CN": "\u9f99\u820c\u5170\u53f6",
       "zh-TW": "\u9f8d\u820c\u862d"
     },
     "description": {
@@ -1566,7 +1566,7 @@
     "id": "anvil_i",
     "name": {
       "da": "Ambolt I",
-      "de": "Anvil I",
+      "de": "Amboss I",
       "en": "Anvil I",
       "es": "Yunque I",
       "fr": "Enclume I",
@@ -2299,7 +2299,7 @@
       "en": "Anvil IV",
       "es": "Yunque IV",
       "fr": "Enclume IV",
-      "he": "\u05d0\u05e0\u05d5\u05d5\u05d9\u05dc IV",
+      "he": "\u05d0\u05e0\u05d1\u05d9\u05dc IV",
       "hr": "Nakovanj IV",
       "it": "Incudine IV",
       "ja": "\u30a2\u30f3\u30f4\u30a3\u30eb IV",
@@ -2700,7 +2700,7 @@
       "sr": "Eksperimentalno ARC zrakasto oruzje pokretano Matriarch reaktorom.",
       "tr": "Matriarch Reaktoru ile calisan deneysel bir ARC isin silahi.",
       "uk": "\u0415\u043a\u0441\u043f\u0435\u0440\u0438\u043c\u0435\u043d\u0442\u0430\u043b\u044c\u043d\u0430 \u043f\u0440\u043e\u043c\u0435\u043d\u0435\u0432\u0430 \u0437\u0431\u0440\u043e\u044f ARC, \u0449\u043e \u043f\u0440\u0430\u0446\u044e\u0454 \u043d\u0430 \u0440\u0435\u0430\u043a\u0442\u043e\u0440\u0456 \u041c\u0430\u0442\u0440\u0456\u0430\u0440\u0445\u0430.",
-      "zh-CN": "\u80fd\u53d1\u5c04\u9ad8\u901f\u80fd\u91cf\u5f39\u3002\u7531\u65cf\u957f\u53cd\u5e94\u5806\u4f9b\u7535\u7684\u5b9e\u9a8c\u6027ARC\u5149\u675f\u6b66\u5668\u3002",
+      "zh-CN": "\u80fd\u53d1\u5c04\u9ad8\u901f\u80fd\u91cf\u5f39\u3002\u7531\u65cf\u6bcd\u53cd\u5e94\u5806\u4f9b\u7535\u7684\u5b9e\u9a8c\u6027ARC\u5149\u675f\u6b66\u5668\u3002",
       "zh-TW": "\u7531\u65cf\u9577\u53cd\u61c9\u7210\u4f9b\u96fb\u7684\u5be6\u9a57\u6027ARC\u5149\u675f\u6b66\u5668\u3002"
     },
     "type": "Special",
@@ -2889,7 +2889,7 @@
       "sr": "Eksperimentalno ARC zrakasto oruzje pokretano Matriarch reaktorom.",
       "tr": "Matriarch Reaktoru ile calisan deneysel bir ARC isin silahi.",
       "uk": "\u0415\u043a\u0441\u043f\u0435\u0440\u0438\u043c\u0435\u043d\u0442\u0430\u043b\u044c\u043d\u0430 \u043f\u0440\u043e\u043c\u0435\u043d\u0435\u0432\u0430 \u0437\u0431\u0440\u043e\u044f ARC, \u0449\u043e \u043f\u0440\u0430\u0446\u044e\u0454 \u043d\u0430 \u0440\u0435\u0430\u043a\u0442\u043e\u0440\u0456 \u041c\u0430\u0442\u0440\u0456\u0430\u0440\u0445\u0430.",
-      "zh-CN": "\u80fd\u53d1\u5c04\u9ad8\u901f\u80fd\u91cf\u5f39\u3002\u7531\u65cf\u957f\u53cd\u5e94\u5806\u4f9b\u7535\u7684\u5b9e\u9a8c\u6027ARC\u5149\u675f\u6b66\u5668\u3002",
+      "zh-CN": "\u80fd\u53d1\u5c04\u9ad8\u901f\u80fd\u91cf\u5f39\u3002\u7531\u65cf\u6bcd\u53cd\u5e94\u5806\u4f9b\u7535\u7684\u5b9e\u9a8c\u6027ARC\u5149\u675f\u6b66\u5668\u3002",
       "zh-TW": "\u7531\u65cf\u9577\u53cd\u61c9\u7210\u4f9b\u96fb\u7684\u5be6\u9a57\u6027ARC\u5149\u675f\u6b66\u5668\u3002"
     },
     "type": "Blueprint",
@@ -2944,7 +2944,7 @@
       "sr": "Suncem dozrela kajsija. Mo\u017ee se konzumirati za malu koli\u010dinu izdr\u017eljivosti.",
       "tr": "G\u00fcne\u015fte olgunla\u015fm\u0131\u015f bir kay\u0131s\u0131. K\u00fc\u00e7\u00fck miktarda dayan\u0131kl\u0131l\u0131k i\u00e7in t\u00fcketilebilir.",
       "uk": "\u0421\u0442\u0438\u0433\u043b\u0438\u0439 \u0430\u0431\u0440\u0438\u043a\u043e\u0441. \u041c\u043e\u0436\u043d\u0430 \u0432\u0436\u0438\u0442\u0438 \u0434\u043b\u044f \u0432\u0456\u0434\u043d\u043e\u0432\u043b\u0435\u043d\u043d\u044f \u043d\u0435\u0432\u0435\u043b\u0438\u043a\u043e\u0457 \u043a\u0456\u043b\u044c\u043a\u043e\u0441\u0442\u0456 \u0432\u0438\u0442\u0440\u0438\u0432\u0430\u043b\u043e\u0441\u0442\u0456.",
-      "zh-CN": "\u9633\u5149\u6210\u719f\u7684\u674f\u3002\u53ef\u98df\u7528\u4ee5\u6062\u590d\u5c11\u91cf\u8010\u529b\u3002",
+      "zh-CN": "\u5728\u9633\u5149\u4e0b\u81ea\u7136\u6210\u719f\u7684\u674f\u5b50\u3002\u98df\u7528\u540e\u53ef\u6062\u590d\u5c11\u91cf\u8010\u529b\u3002",
       "zh-TW": "\u967d\u5149\u6210\u719f\u7684\u674f\u6843\u3002\u53ef\u98df\u7528\u4ee5\u6062\u5fa9\u5c11\u91cf\u8010\u529b\u3002"
     },
     "type": "Nature",
@@ -4702,7 +4702,7 @@
       "hr": "Assessor Matrix",
       "it": "Assessor Matrix",
       "ja": "Assessor Matrix",
-      "ko-KR": "Assessor Matrix",
+      "ko-KR": "\uc5b4\uc138\uc11c \ub9e4\ud2b8\ub9ad\uc2a4",
       "no": "Assessor Matrix",
       "pl": "Assessor Matrix",
       "pt": "Assessor Matrix",
@@ -5158,7 +5158,7 @@
       "sr": "Bastion \u0107elija",
       "tr": "Bur\u00e7 H\u00fccresi",
       "uk": "\u041a\u043e\u043c\u0456\u0440\u043a\u0430 \u0431\u0430\u0441\u0442\u0456\u043e\u043d\u0443",
-      "zh-CN": "\u5821\u5792\u7535\u6c60",
+      "zh-CN": "\u201c\u5821\u5792\u201d\u7535\u6c60",
       "zh-TW": "\u5821\u58d8\u96fb\u6c60"
     },
     "description": {
@@ -5573,9 +5573,9 @@
       "ru": "\u0411\u0435\u0442\u0442\u0438\u043d\u0430 II",
       "sr": "Bettina II",
       "tr": "Bettina II",
-      "uk": "Bettina II",
+      "uk": "\u0411\u0435\u0442\u0442\u0456\u043d\u0430 II",
       "zh-CN": "\u8d1d\u8482\u5a1c II",
-      "zh-TW": "Bettina II"
+      "zh-TW": "\u8c9d\u8482\u5a1c II"
     },
     "description": {
       "da": "Har lav skudfrekvens og h\u00f8j skadeeffekt.",
@@ -5841,9 +5841,9 @@
       "ru": "\u0411\u0435\u0442\u0442\u0438\u043d\u0430 III",
       "sr": "Bettina III",
       "tr": "Bettina III",
-      "uk": "Bettina III",
+      "uk": "\u0411\u0435\u0442\u0442\u0456\u043d\u0430 III",
       "zh-CN": "\u8d1d\u8482\u5a1c III",
-      "zh-TW": "Bettina III"
+      "zh-TW": "\u8c9d\u8482\u5a1c III"
     },
     "description": {
       "da": "Har lav skudfrekvens og h\u00f8j skadeeffekt.",
@@ -6109,9 +6109,9 @@
       "ru": "\u0411\u0435\u0442\u0442\u0438\u043d\u0430 IV",
       "sr": "Bettina IV",
       "tr": "Bettina IV",
-      "uk": "Bettina IV",
+      "uk": "\u0411\u0435\u0442\u0442\u0456\u043d\u0430 IV",
       "zh-CN": "\u8d1d\u8482\u5a1c IV",
-      "zh-TW": "Bettina IV"
+      "zh-TW": "\u8c9d\u8482\u5a1c IV"
     },
     "description": {
       "da": "Har lav skudfrekvens og h\u00f8j skadeeffekt.",
@@ -6440,7 +6440,7 @@
       "sr": "Dvogled",
       "tr": "D\u00fcrb\u00fcn",
       "uk": "\u0411\u0456\u043d\u043e\u043a\u043b\u044c",
-      "zh-CN": "\u53cc\u7b52\u671b\u8fdc\u955c",
+      "zh-CN": "\u671b\u8fdc\u955c",
       "zh-TW": "\u96d9\u7b52\u671b\u9060\u93e1"
     },
     "description": {
@@ -6763,7 +6763,7 @@
       "sr": "Laserska \u017eica zamka koja detonira Vatrenu Granatu.",
       "tr": "Bir Alev Bombas\u0131n\u0131 patlatan lazer tuzak teli.",
       "uk": "\u041b\u0430\u0437\u0435\u0440\u043d\u0430 \u0440\u043e\u0437\u0442\u044f\u0436\u043a\u0430, \u0449\u043e \u043f\u0456\u0434\u0440\u0438\u0432\u0430\u0454 \u0432\u043e\u0433\u043d\u044f\u043d\u0443 \u0433\u0440\u0430\u043d\u0430\u0442\u0443.",
-      "zh-CN": "\u5f15\u7206\u70c8\u7130\u624b\u69b4\u5f39\u7684\u6fc0\u5149\u7eca\u7ebf\u3002",
+      "zh-CN": "\u6fc0\u5149\u9677\u9631\uff1a\u5f3a\u5149(\u706b\u7130)\u3002",
       "zh-TW": "\u5f15\u7206\u70c8\u7130\u624b\u69b4\u5f48\u7684\u96f7\u5c04\u7d46\u7dda\u3002"
     },
     "type": "Quick Use",
@@ -9148,7 +9148,7 @@
       "sr": "Zadivljuju\u0107a Sne\u017ena Kugla",
       "tr": "Nefes Kesici Kar K\u00fcresi",
       "uk": "\u0417\u0430\u0445\u043e\u043f\u043b\u044e\u044e\u0447\u0438\u0439 \u0441\u043d\u0456\u0436\u043d\u0438\u0439 \u0448\u0430\u0440",
-      "zh-CN": "\u4ee4\u4eba\u60ca\u53f9\u7684\u96ea\u7403",
+      "zh-CN": "\u60ca\u8273\u7684\u96ea\u82b1\u73bb\u7483\u7403",
       "zh-TW": "\u4ee4\u4eba\u9a5a\u5606\u7684\u96ea\u7403"
     },
     "description": {
@@ -9170,7 +9170,7 @@
       "sr": "Zavist svakog Speranzanca. Dokaz da je ovaj svet nekada bio \u017eivahan i \u010daroban.",
       "tr": "Her Speranzal\u0131n\u0131n imrendi\u011fi \u015fey. Bu d\u00fcnyan\u0131n bir zamanlar geli\u015fen ve b\u00fcy\u00fcl\u00fc oldu\u011funun kan\u0131t\u0131.",
       "uk": "\u041f\u0440\u0435\u0434\u043c\u0435\u0442 \u0437\u0430\u0437\u0434\u0440\u043e\u0441\u0442\u0456 \u043a\u043e\u0436\u043d\u043e\u0433\u043e \u0441\u043f\u0435\u0440\u0430\u043d\u0437\u0430\u043d\u0446\u044f. \u0414\u043e\u043a\u0430\u0437 \u0442\u043e\u0433\u043e, \u0449\u043e \u0446\u0435\u0439 \u0441\u0432\u0456\u0442 \u043a\u043e\u043b\u0438\u0441\u044c \u043f\u0440\u043e\u0446\u0432\u0456\u0442\u0430\u0432 \u0456 \u0431\u0443\u0432 \u0447\u0430\u0440\u0456\u0432\u043d\u0438\u043c.",
-      "zh-CN": "\u6bcf\u4e2a\u65af\u4f69\u5170\u8d5e\u4eba\u90fd\u7fa1\u6155\u7684\u7269\u54c1\u3002\u8bc1\u660e\u8fd9\u4e2a\u4e16\u754c\u66fe\u7ecf\u7e41\u8363\u4e14\u5145\u6ee1\u9b54\u529b\u3002",
+      "zh-CN": "\u8fd9\u4e1c\u897f\u4f1a\u8ba9\u6bcf\u4e2a\u65af\u4f69\u5170\u624e\u4eba\u90fd\u7fa1\u6155\u4e0d\u5df2\u3002\u5b83\u66fe\u8bc1\u660e\u4e86\u8fd9\u4e2a\u4e16\u754c\u66fe\u7ecf\u662f\u90a3\u6837\u751f\u673a\u52c3\u52c3\u3001\u65e0\u6bd4\u5947\u5999\u3002",
       "zh-TW": "\u6bcf\u500b\u65af\u4f69\u862d\u8d0a\u4eba\u90fd\u7fa8\u6155\u7684\u7269\u54c1\u3002\u8b49\u660e\u9019\u500b\u4e16\u754c\u66fe\u7d93\u7e41\u69ae\u4e14\u5145\u6eff\u9b54\u529b\u3002"
     },
     "type": "Trinket",
@@ -10473,7 +10473,7 @@
       "sr": "Sve\u0107ne bobice",
       "tr": "Mum Meyveleri",
       "uk": "\u0421\u0432\u0456\u0447\u043a\u043e\u0432\u0456 \u044f\u0433\u043e\u0434\u0438",
-      "zh-CN": "\u8721\u8393",
+      "zh-CN": "\u70db\u8393",
       "zh-TW": "\u881f\u8393"
     },
     "description": {
@@ -10532,7 +10532,7 @@
       "sr": "Kanister",
       "tr": "Kaps\u00fcl",
       "uk": "\u041a\u0430\u043d\u0456\u0441\u0442\u0440\u0430",
-      "zh-CN": "\u7f50\u5b50",
+      "zh-CN": "\u5c0f\u7f50",
       "zh-TW": "\u7f50\u5b50"
     },
     "description": {
@@ -10596,7 +10596,7 @@
       "hr": "Canto Nacrt",
       "it": "Canto Progetto",
       "ja": "Canto \u8a2d\u8a08\u56f3",
-      "ko-KR": "Canto \uccad\uc0ac\uc9c4",
+      "ko-KR": "\uce78\ud1a0 \uc124\uacc4\ub3c4",
       "no": "Canto Tegning",
       "pl": "Canto Schemat",
       "pt": "Esquema de Canto",
@@ -10650,7 +10650,7 @@
       "hr": "Canto I",
       "it": "Canto I",
       "ja": "Canto I",
-      "ko-KR": "Canto I",
+      "ko-KR": "\uce78\ud1a0 I",
       "no": "Canto I",
       "pl": "Canto I",
       "pt": "Canto I",
@@ -10719,7 +10719,7 @@
       "hr": "Canto II",
       "it": "Canto II",
       "ja": "Canto II",
-      "ko-KR": "Canto II",
+      "ko-KR": "\uce78\ud1a0 II",
       "no": "Canto II",
       "pl": "Canto II",
       "pt": "Canto II",
@@ -10784,7 +10784,7 @@
       "hr": "Canto III",
       "it": "Canto III",
       "ja": "Canto III",
-      "ko-KR": "Canto III",
+      "ko-KR": "\uce78\ud1a0 III",
       "no": "Canto III",
       "pl": "Canto III",
       "pt": "Canto III",
@@ -10849,7 +10849,7 @@
       "hr": "Canto IV",
       "it": "Canto IV",
       "ja": "Canto IV",
-      "ko-KR": "Canto IV",
+      "ko-KR": "\uce78\ud1a0 IV",
       "no": "Canto IV",
       "pl": "Canto IV",
       "pt": "Canto IV",
@@ -11006,10 +11006,11 @@
     },
     "type": "Trinket",
     "rarity": "Common",
+    "value": 100,
     "weightKg": 0.25,
     "stackSize": 1,
     "imageFilename": "https://cdn.arctracker.io/items/celestes_journal.png",
-    "updatedAt": "02/24/2026",
+    "updatedAt": "04/14/2026",
     "addedIn": "base"
   },
   {
@@ -11153,7 +11154,7 @@
       "sr": "Borbeni Mk. 1",
       "tr": "\u00c7at\u0131\u015fma Mod. 1",
       "uk": "\u0411\u043e\u0439\u043e\u0432\u0438\u0439 Mk. 1",
-      "zh-CN": "\u6218\u6597\u578b Mk. 1",
+      "zh-CN": "\u6218\u6597 Mk. 1",
       "zh-TW": "\u6230\u9b25\u578b Mk. 1"
     },
     "description": {
@@ -11311,7 +11312,7 @@
       "sr": "Borbeni Mk. 2",
       "tr": "\u00c7at\u0131\u015fma Mod. 2",
       "uk": "\u0411\u043e\u0439\u043e\u0432\u0438\u0439 Mk. 2",
-      "zh-CN": "\u6218\u6597\u578b Mk. 2",
+      "zh-CN": "\u6218\u6597 Mk. 2",
       "zh-TW": "\u6230\u9b25\u578b Mk. 2"
     },
     "description": {
@@ -12761,7 +12762,7 @@
       "sr": "Koristi se za izradu naprednog oru\u017eja. Koristi se za izradu: Equalizer, Jupiter",
       "tr": "Geli\u015fmi\u015f silahlar \u00fcretmek i\u00e7in kullan\u0131l\u0131r. \u00dcretilebilir: Equalizer, Jupiter",
       "uk": "\u0412\u0438\u043a\u043e\u0440\u0438\u0441\u0442\u043e\u0432\u0443\u0454\u0442\u044c\u0441\u044f \u0434\u043b\u044f \u0441\u0442\u0432\u043e\u0440\u0435\u043d\u043d\u044f \u043f\u0440\u043e\u0441\u0443\u043d\u0443\u0442\u043e\u0457 \u0437\u0431\u0440\u043e\u0457. \u0412\u0438\u043a\u043e\u0440\u0438\u0441\u0442\u043e\u0432\u0443\u0454\u0442\u044c\u0441\u044f \u0434\u043b\u044f \u043a\u0440\u0430\u0444\u0442\u0443: Equalizer, Jupiter",
-      "zh-CN": "\u7528\u4e8e\u5236\u4f5c\u9ad8\u7ea7\u6b66\u5668\u3002\u53ef\u5236\u4f5c\uff1aEqualizer\u3001Jupiter",
+      "zh-CN": "\u7528\u4e8e\u5236\u4f5c\u9ad8\u7ea7\u6b66\u5668\u3002\u53ef\u5236\u4f5c\uff1a\u5236\u88c1\u8005\u3001\u6728\u661f",
       "zh-TW": "\u7528\u65bc\u88fd\u4f5c\u9ad8\u7d1a\u6b66\u5668\u3002\u53ef\u88fd\u4f5c\uff1aEqualizer\u3001Jupiter"
     },
     "type": "Topside Material",
@@ -13755,7 +13756,7 @@
       "sr": "\u041e\u0448\u0442\u0435\u045b\u0435\u043d\u0438 \u0431\u0430\u0446\u0430\u0447 \u0432\u0430\u0442\u0440\u0435\u043d\u0438\u0445 \u043b\u043e\u043f\u0442\u0438",
       "tr": "Hasarl\u0131 Ate\u015f Topu Yak\u0131c\u0131",
       "uk": "\u041f\u043e\u0448\u043a\u043e\u0434\u0436\u0435\u043d\u0438\u0439 \u0432\u043e\u0433\u043d\u044f\u043d\u0438\u0439 \u043f\u0430\u043b\u0430\u0447",
-      "zh-CN": "\u635f\u574f\u7684\u706b\u7403\u71c3\u70e7\u5668",
+      "zh-CN": "\u635f\u574f\u7684\u706b\u7403\u71c3\u70e7\u7089",
       "zh-TW": "\u640d\u58de\u7684\u706b\u7403\u71c3\u71d2\u5668"
     },
     "description": {
@@ -14060,7 +14061,7 @@
       "sr": "O\u0161te\u0107ena Mahuna Krpelja",
       "tr": "Hasarl\u0131 Kene Kozas\u0131",
       "uk": "\u041f\u043e\u0448\u043a\u043e\u0434\u0436\u0435\u043d\u0430 \u043a\u0430\u043f\u0441\u0443\u043b\u0430 \u043a\u043b\u0456\u0449\u0430",
-      "zh-CN": "\u635f\u574f\u7684\u8731\u866b\u835a",
+      "zh-CN": "\u635f\u574f\u7684\u201c\u8df3\u86a4\u201d\u6536\u7eb3\u4ed3",
       "zh-TW": "\u640d\u58de\u7684\u8731\u87f2\u83a2"
     },
     "description": {
@@ -14206,7 +14207,7 @@
       "sr": "Neki Rajderi je koriste za ve\u017ebanje spretnosti. Drugi jednostavno vole da bacaju stvari u druge stvari.",
       "tr": "Baz\u0131 Ak\u0131nc\u0131lar beceri geli\u015ftirmek i\u00e7in kullan\u0131r. Di\u011ferleri sadece bir \u015feyleri ba\u015fka \u015feylere f\u0131rlatmay\u0131 sever.",
       "uk": "\u0414\u0435\u044f\u043a\u0456 \u0420\u0435\u0439\u0434\u0435\u0440\u0438 \u0432\u0438\u043a\u043e\u0440\u0438\u0441\u0442\u043e\u0432\u0443\u044e\u0442\u044c \u0457\u0457 \u0434\u043b\u044f \u0442\u0440\u0435\u043d\u0443\u0432\u0430\u043d\u043d\u044f \u0441\u043f\u0440\u0438\u0442\u043d\u043e\u0441\u0442\u0456. \u0406\u043d\u0448\u0456 \u043f\u0440\u043e\u0441\u0442\u043e \u043b\u044e\u0431\u043b\u044f\u0442\u044c \u043a\u0438\u0434\u0430\u0442\u0438 \u0440\u0435\u0447\u0456 \u0432 \u0456\u043d\u0448\u0456 \u0440\u0435\u0447\u0456.",
-      "zh-CN": "\u6709\u4e9b\u63a0\u593a\u8005\u7528\u5b83\u6765\u7ec3\u4e60\u7075\u5de7\u5ea6\u3002\u5176\u4ed6\u4eba\u53ea\u662f\u559c\u6b22\u628a\u4e1c\u897f\u6254\u5411\u5176\u4ed6\u4e1c\u897f\u3002",
+      "zh-CN": "\u6709\u4e9b\u5947\u88ad\u8005\u7528\u5b83\u6765\u7ec3\u4e60\u7075\u5de7\u5ea6\u3002\u5176\u4ed6\u4eba\u53ea\u662f\u559c\u6b22\u628a\u4e1c\u897f\u6254\u5411\u5176\u4ed6\u4e1c\u897f\u3002",
       "zh-TW": "\u6709\u4e9b\u63a0\u596a\u8005\u7528\u5b83\u4f86\u7df4\u7fd2\u9748\u5de7\u5ea6\u3002\u5176\u4ed6\u4eba\u53ea\u662f\u559c\u6b61\u628a\u6771\u897f\u6254\u5411\u5176\u4ed6\u6771\u897f\u3002"
     },
     "type": "Trinket",
@@ -14414,7 +14415,7 @@
       "sr": "Otklju\u010dava mogu\u0107nost izrade Deadline mina na klupi za eksplozive.",
       "tr": "Patlay\u0131c\u0131 tezgah\u0131nda Deadline may\u0131nlar\u0131 \u00fcretme olana\u011f\u0131n\u0131 a\u00e7ar.",
       "uk": "\u0420\u043e\u0437\u0431\u043b\u043e\u043a\u043e\u0432\u0443\u0454 \u043c\u043e\u0436\u043b\u0438\u0432\u0456\u0441\u0442\u044c \u0441\u0442\u0432\u043e\u0440\u044e\u0432\u0430\u0442\u0438 \u043c\u0456\u043d\u0438 Deadline \u043d\u0430 \u0432\u0435\u0440\u0441\u0442\u0430\u043a\u0443 \u0432\u0438\u0431\u0443\u0445\u0456\u0432\u043a\u0438.",
-      "zh-CN": "\u89e3\u9501\u5728\u7206\u70b8\u7269\u5de5\u4f5c\u53f0\u5236\u9020\u6700\u540e\u671f\u9650\u5730\u96f7\u7684\u80fd\u529b\u3002",
+      "zh-CN": "\u89e3\u9501\u5728\u7206\u70b8\u7269\u5de5\u4f5c\u53f0\u5236\u9020\u6b7b\u7ebf\u7684\u80fd\u529b\u3002",
       "zh-TW": "\u89e3\u9396\u5728\u7206\u88c2\u7269\u5de5\u4f5c\u53f0\u88fd\u4f5c\u6700\u5f8c\u671f\u9650\u5730\u96f7\u7684\u80fd\u529b\u3002"
     },
     "type": "Blueprint",
@@ -14447,7 +14448,7 @@
       "sr": "Defibrilator",
       "tr": "\u015eok Cihaz\u0131",
       "uk": "\u0414\u0435\u0444\u0456\u0431\u0440\u0438\u043b\u044f\u0442\u043e\u0440",
-      "zh-CN": "\u9664\u98a4\u5668",
+      "zh-CN": "\u590d\u82cf\u5242\uff08\u9664\u98a4\u5668\uff09",
       "zh-TW": "\u9664\u986b\u5668"
     },
     "description": {
@@ -14469,7 +14470,7 @@
       "sr": "Injekcija koja brzo o\u017eivljava oborene plja\u010dka\u0161e i obnavlja deo zdravlja.",
       "tr": "Yere d\u00fc\u015fm\u00fc\u015f ak\u0131nc\u0131lar\u0131 h\u0131zl\u0131ca canland\u0131ran ve biraz sa\u011fl\u0131k kazand\u0131ran bir enjeksiyon.",
       "uk": "\u0406\u043d'\u0454\u043a\u0446\u0456\u044f, \u044f\u043a\u0430 \u0448\u0432\u0438\u0434\u043a\u043e \u043f\u0456\u0434\u043d\u0456\u043c\u0430\u0454 \u0437\u0431\u0438\u0442\u0438\u0445 \u0440\u0435\u0439\u0434\u0435\u0440\u0456\u0432 \u0456 \u0432\u0456\u0434\u043d\u043e\u0432\u043b\u044e\u0454 \u0447\u0430\u0441\u0442\u0438\u043d\u0443 \u0437\u0434\u043e\u0440\u043e\u0432'\u044f.",
-      "zh-CN": "\u80fd\u5feb\u901f\u590d\u82cf\u5012\u5730\u7684\u63a0\u593a\u8005\u5e76\u6062\u590d\u90e8\u5206\u751f\u547d\u503c\u7684\u6ce8\u5c04\u5242\u3002",
+      "zh-CN": "\u4e00\u79cd\u6ce8\u5c04\u5242\uff0c\u53ef\u4ee5\u7528\u4e8e\u5feb\u901f\u6551\u63f4\u5012\u5730\u7684\u5947\u88ad\u8005\u5e76\u6062\u590d\u90e8\u5206\u751f\u547d\u503c\u3002",
       "zh-TW": "\u80fd\u5feb\u901f\u5fa9\u7526\u5012\u5730\u7684\u63a0\u596a\u8005\u4e26\u6062\u5fa9\u90e8\u5206\u751f\u547d\u503c\u7684\u6ce8\u5c04\u5291\u3002"
     },
     "type": "Quick Use",
@@ -14573,7 +14574,7 @@
       "sr": "Nacrt za Defibrilator",
       "tr": "\u015eok Cihaz\u0131 Tasla\u011f\u0131",
       "uk": "\u041a\u0440\u0435\u0441\u043b\u0435\u043d\u043d\u044f \u0434\u0435\u0444\u0456\u0431\u0440\u0438\u043b\u044f\u0442\u043e\u0440\u0430",
-      "zh-CN": "\u9664\u98a4\u5668\u84dd\u56fe",
+      "zh-CN": "\u590d\u82cf\u5242\u84dd\u56fe\uff08\u9664\u98a4\u5668\u84dd\u56fe\uff09",
       "zh-TW": "\u9664\u986b\u5668\u85cd\u5716"
     },
     "description": {
@@ -14595,7 +14596,7 @@
       "sr": "Injekcija koja brzo o\u017eivljava oborene plja\u010dka\u0161e i obnavlja deo zdravlja.",
       "tr": "Yere d\u00fc\u015fm\u00fc\u015f ak\u0131nc\u0131lar\u0131 h\u0131zl\u0131ca canland\u0131ran ve biraz sa\u011fl\u0131k kazand\u0131ran bir enjeksiyon.",
       "uk": "\u0406\u043d'\u0454\u043a\u0446\u0456\u044f, \u044f\u043a\u0430 \u0448\u0432\u0438\u0434\u043a\u043e \u043f\u0456\u0434\u043d\u0456\u043c\u0430\u0454 \u0437\u0431\u0438\u0442\u0438\u0445 \u0440\u0435\u0439\u0434\u0435\u0440\u0456\u0432 \u0456 \u0432\u0456\u0434\u043d\u043e\u0432\u043b\u044e\u0454 \u0447\u0430\u0441\u0442\u0438\u043d\u0443 \u0437\u0434\u043e\u0440\u043e\u0432'\u044f.",
-      "zh-CN": "\u80fd\u5feb\u901f\u590d\u82cf\u5012\u5730\u7684\u63a0\u593a\u8005\u5e76\u6062\u590d\u90e8\u5206\u751f\u547d\u503c\u7684\u6ce8\u5c04\u5242\u3002",
+      "zh-CN": "\u4e00\u79cd\u6ce8\u5c04\u5242\uff0c\u53ef\u4ee5\u7528\u4e8e\u5feb\u901f\u6551\u63f4\u5012\u5730\u7684\u5947\u88ad\u8005\u5e76\u6062\u590d\u90e8\u5206\u751f\u547d\u503c\u3002",
       "zh-TW": "\u80fd\u5feb\u901f\u5fa9\u7526\u5012\u5730\u7684\u63a0\u596a\u8005\u4e26\u6062\u5fa9\u90e8\u5206\u751f\u547d\u503c\u7684\u6ce8\u5c04\u5291\u3002"
     },
     "type": "Blueprint",
@@ -14842,11 +14843,11 @@
     },
     "type": "Trinket",
     "rarity": "Common",
-    "value": 0,
+    "value": 100,
     "weightKg": 0.5,
     "stackSize": 1,
     "questItem": true,
-    "updatedAt": "03/31/2026",
+    "updatedAt": "04/14/2026",
     "addedIn": "1.22"
   },
   {
@@ -14924,7 +14925,7 @@
       "hr": "Dolabra",
       "it": "Dolabra",
       "ja": "Dolabra",
-      "ko-KR": "Dolabra",
+      "ko-KR": "\ub3cc\ub77c\ube0c\ub77c",
       "no": "Dolabra",
       "pl": "Dolabra",
       "pt": "Dolabra",
@@ -14993,7 +14994,7 @@
       "hr": "Dolabra Nacrt",
       "it": "Dolabra Progetto",
       "ja": "Dolabra \u8a2d\u8a08\u56f3",
-      "ko-KR": "Dolabra \uccad\uc0ac\uc9c4",
+      "ko-KR": "\ub3cc\ub77c\ube0c\ub77c \uc124\uacc4\ub3c4",
       "no": "Dolabra Tegning",
       "pl": "Dolabra Schemat",
       "pt": "Esquema de Dolabra",
@@ -15111,7 +15112,7 @@
       "sr": "Blokator Vrata",
       "tr": "Kap\u0131 Engeli",
       "uk": "\u0411\u043b\u043e\u043a\u0443\u0432\u0430\u0447 \u0434\u0432\u0435\u0440\u0435\u0439",
-      "zh-CN": "\u95e8\u9501",
+      "zh-CN": "\u963b\u95e8\u5668",
       "zh-TW": "\u9580\u9396"
     },
     "description": {
@@ -15133,7 +15134,7 @@
       "sr": "Mehanizam za zaklju\u010davanje koji se mo\u017ee postaviti na velika metalna vrata kako bi se ograni\u010dio pristup.",
       "tr": "Eri\u015fimi s\u0131n\u0131rlamak i\u00e7in b\u00fcy\u00fck metal kap\u0131lara yerle\u015ftirilebilen bir kilitleme mekanizmas\u0131.",
       "uk": "\u0417\u0430\u043c\u0438\u043a\u0430\u044e\u0447\u0438\u0439 \u043c\u0435\u0445\u0430\u043d\u0456\u0437\u043c, \u044f\u043a\u0438\u0439 \u043c\u043e\u0436\u043d\u0430 \u0432\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0438 \u043d\u0430 \u0432\u0435\u043b\u0438\u043a\u0456 \u043c\u0435\u0442\u0430\u043b\u0435\u0432\u0456 \u0434\u0432\u0435\u0440\u0456 \u0434\u043b\u044f \u043e\u0431\u043c\u0435\u0436\u0435\u043d\u043d\u044f \u0434\u043e\u0441\u0442\u0443\u043f\u0443.",
-      "zh-CN": "\u53ef\u5b89\u88c5\u5728\u5927\u578b\u91d1\u5c5e\u95e8\u4e0a\u4ee5\u9650\u5236\u8fdb\u5165\u7684\u9501\u5b9a\u673a\u5236\u3002",
+      "zh-CN": "\u4e00\u79cd\u9501\u5b9a\u88c5\u7f6e\uff0c\u53ef\u4ee5\u5b89\u88c5\u5728\u5927\u578b\u91d1\u5c5e\u95e8\u4e0a\uff0c\u9650\u5236\u4ed6\u4eba\u4f7f\u7528\u8fd9\u6247\u95e8\u3002",
       "zh-TW": "\u53ef\u5b89\u88dd\u5728\u5927\u578b\u91d1\u5c6c\u9580\u4e0a\u4ee5\u9650\u5236\u9032\u5165\u7684\u9396\u5b9a\u6a5f\u5236\u3002"
     },
     "type": "Quick Use",
@@ -15251,7 +15252,7 @@
       "sr": "Lepljiva Traka",
       "tr": "Koli Band\u0131",
       "uk": "\u041a\u043b\u0435\u0439\u043a\u0430 \u0441\u0442\u0440\u0456\u0447\u043a\u0430",
-      "zh-CN": "\u5f3a\u529b\u80f6\u5e26",
+      "zh-CN": "\u80f6\u5e26",
       "zh-TW": "\u5f37\u529b\u81a0\u5e36"
     },
     "description": {
@@ -15418,10 +15419,10 @@
     },
     "type": "Trinket",
     "rarity": "Common",
-    "value": 0,
+    "value": 100,
     "weightKg": 0,
     "stackSize": 1,
-    "updatedAt": "03/17/2026",
+    "updatedAt": "04/14/2026",
     "addedIn": "1.17"
   },
   {
@@ -15467,7 +15468,7 @@
       "sr": "Koristi se za izradu \u0161irokog spektra predmeta. Mo\u017ee se reciklirati u materijale za izradu. Koristi se za izradu: Tactical Mk. 2, Combat Mk. 2, Looting Mk. 2, Surge Shield Recharger, Lure Granata",
       "tr": "\u00c7ok \u00e7e\u015fitli e\u015fyalar \u00fcretmek i\u00e7in kullan\u0131l\u0131r. \u00dcretim malzemelerine geri d\u00f6n\u00fc\u015ft\u00fcr\u00fclebilir. \u00dcretim i\u00e7in kullan\u0131l\u0131r: Tactical Mk. 2, Combat Mk. 2, Looting Mk. 2, Surge Kalkan \u015earj Cihaz\u0131, Yem Bombas\u0131",
       "uk": "\u0412\u0438\u043a\u043e\u0440\u0438\u0441\u0442\u043e\u0432\u0443\u0454\u0442\u044c\u0441\u044f \u0434\u043b\u044f \u0441\u0442\u0432\u043e\u0440\u0435\u043d\u043d\u044f \u0448\u0438\u0440\u043e\u043a\u043e\u0433\u043e \u0441\u043f\u0435\u043a\u0442\u0440\u0443 \u043f\u0440\u0435\u0434\u043c\u0435\u0442\u0456\u0432. \u041c\u043e\u0436\u043d\u0430 \u043f\u0435\u0440\u0435\u0440\u043e\u0431\u0438\u0442\u0438 \u043d\u0430 \u043c\u0430\u0442\u0435\u0440\u0456\u0430\u043b\u0438 \u0434\u043b\u044f \u043a\u0440\u0430\u0444\u0442\u0443. \u0412\u0438\u043a\u043e\u0440\u0438\u0441\u0442\u043e\u0432\u0443\u0454\u0442\u044c\u0441\u044f \u0434\u043b\u044f \u0441\u0442\u0432\u043e\u0440\u0435\u043d\u043d\u044f: Tactical Mk. 2, Combat Mk. 2, Looting Mk. 2, \u043f\u0435\u0440\u0435\u0437\u0430\u0440\u044f\u0434\u043d\u0438\u043a \u0435\u043d\u0435\u0440\u0433\u043e\u0449\u0438\u0442\u0430 Surge, \u0433\u0440\u0430\u043d\u0430\u0442\u0430-\u043f\u0440\u0438\u043c\u0430\u043d\u043a\u0430",
-      "zh-CN": "\u7528\u4e8e\u5236\u4f5c\u5404\u79cd\u7269\u54c1\u3002\u53ef\u56de\u6536\u4e3a\u5236\u4f5c\u6750\u6599\u3002\u7528\u4e8e\u5236\u4f5c\uff1aTactical Mk. 2\u3001Combat Mk. 2\u3001Looting Mk. 2\u3001\u6fc0\u589e\u62a4\u76fe\u5145\u80fd\u5668\u3001\u8bf1\u9975\u624b\u69b4\u5f39",
+      "zh-CN": "\u7528\u4e8e\u5236\u4f5c\u5404\u79cd\u7269\u54c1\u3002\u53ef\u56de\u6536\u4e3a\u5236\u4f5c\u6750\u6599\u3002\u7528\u4e8e\u5236\u4f5c\uff1aTactical Mk. 2\u3001Combat Mk. 2\u3001Looting Mk. 2\u3001\u6fc0\u589e\u62a4\u76fe\u5145\u80fd\u5668\u3001\u8bf1\u6355\u624b\u96f7",
       "zh-TW": "\u7528\u65bc\u88fd\u4f5c\u5404\u7a2e\u7269\u54c1\u3002\u53ef\u56de\u6536\u70ba\u88fd\u4f5c\u6750\u6599\u3002\u7528\u65bc\u88fd\u4f5c\uff1aTactical Mk. 2\u3001Combat Mk. 2\u3001Looting Mk. 2\u3001\u6fc0\u589e\u8b77\u76fe\u5145\u80fd\u5668\u3001\u8a98\u990c\u624b\u69b4\u5f48"
     },
     "type": "Refined Material",
@@ -15570,7 +15571,7 @@
       "sr": "\u0415\u043d\u0435\u0440\u0433\u0435\u0442\u0441\u043a\u0430 \u043a\u043e\u043f\u0447\u0430",
       "tr": "Enerji \u015earj\u00f6r\u00fc",
       "uk": "\u0415\u043d\u0435\u0440\u0433\u0435\u0442\u0438\u0447\u043d\u0438\u0439 \u0437\u0430\u0442\u0438\u0441\u043a\u0430\u0447",
-      "zh-CN": "\u80fd\u91cf\u5939",
+      "zh-CN": "\u80fd\u91cf\u5f39\u5323",
       "zh-TW": "\u80fd\u91cf\u593e"
     },
     "description": {
@@ -15592,7 +15593,7 @@
       "sr": "Kompatibilno sa: Equalizer, Jupiter",
       "tr": "Uyumlu silahlar: Equalizer, Jupiter",
       "uk": "\u0421\u0443\u043c\u0456\u0441\u043d\u043e \u0437: Equalizer, Jupiter",
-      "zh-CN": "\u517c\u5bb9\u6b66\u5668\uff1aEqualizer\u3001Jupiter",
+      "zh-CN": "\u517c\u5bb9\u6b66\u5668\uff1a\u5236\u88c1\u8005\u3001\u6728\u661f",
       "zh-TW": "\u76f8\u5bb9\u6b66\u5668\uff1aEqualizer\u3001Jupiter"
     },
     "type": "Ammunition",
@@ -15881,12 +15882,12 @@
     },
     "type": "Trinket",
     "rarity": "Common",
-    "value": 0,
+    "value": 100,
     "weightKg": 0.5,
     "stackSize": 1,
     "questItem": true,
     "imageFilename": "https://cdn.arctracker.io/items/espresso_machine_parts.png",
-    "updatedAt": "02/23/2026",
+    "updatedAt": "04/14/2026",
     "addedIn": "base"
   },
   {
@@ -15937,11 +15938,12 @@
     },
     "type": "Trinket",
     "rarity": "Common",
+    "value": 100,
     "weightKg": 0.25,
     "stackSize": 1,
     "questItem": true,
     "imageFilename": "https://cdn.arctracker.io/items/esr_analyzer.png",
-    "updatedAt": "02/24/2026",
+    "updatedAt": "04/14/2026",
     "addedIn": "base"
   },
   {
@@ -16066,11 +16068,12 @@
     },
     "type": "Trinket",
     "rarity": "Common",
+    "value": 100,
     "weightKg": 0.25,
     "stackSize": 1,
     "questItem": true,
     "imageFilename": "https://cdn.arctracker.io/items/experimental_seed_sample.png",
-    "updatedAt": "02/24/2026",
+    "updatedAt": "04/14/2026",
     "addedIn": "base"
   },
   {
@@ -16283,7 +16286,7 @@
       "sr": "Koristi se za izradu eksploziva. Koristi se za izradu: Wolfpack, Eksplozivna mina, Blaze granata, Te\u0161ka Fuze granata",
       "tr": "Patlay\u0131c\u0131 \u00fcretmek i\u00e7in kullan\u0131l\u0131r. \u00dcretilebilir: Wolfpack, Patlay\u0131c\u0131 May\u0131n, Alev Bombas\u0131, A\u011f\u0131r F\u00fcnye Bombas\u0131",
       "uk": "\u0412\u0438\u043a\u043e\u0440\u0438\u0441\u0442\u043e\u0432\u0443\u0454\u0442\u044c\u0441\u044f \u0434\u043b\u044f \u0441\u0442\u0432\u043e\u0440\u0435\u043d\u043d\u044f \u0432\u0438\u0431\u0443\u0445\u0456\u0432\u043a\u0438. \u0412\u0438\u043a\u043e\u0440\u0438\u0441\u0442\u043e\u0432\u0443\u0454\u0442\u044c\u0441\u044f \u0434\u043b\u044f \u0441\u0442\u0432\u043e\u0440\u0435\u043d\u043d\u044f: Wolfpack, \u0432\u0438\u0431\u0443\u0445\u043e\u0432\u0430 \u043c\u0456\u043d\u0430, \u0432\u043e\u0433\u043d\u044f\u043d\u0430 \u0433\u0440\u0430\u043d\u0430\u0442\u0430, \u0432\u0430\u0436\u043a\u0430 \u0433\u0440\u0430\u043d\u0430\u0442\u0430 \u0437 \u0437\u0430\u043f\u0430\u043b\u043e\u043c",
-      "zh-CN": "\u7528\u4e8e\u5236\u4f5c\u7206\u70b8\u7269\u3002\u53ef\u5236\u4f5c\uff1aWolfpack\u3001\u7206\u70b8\u5730\u96f7\u3001\u70c8\u7130\u624b\u69b4\u5f39\u3001\u91cd\u578b\u5f15\u4fe1\u624b\u69b4\u5f39",
+      "zh-CN": "\u7528\u4e8e\u5236\u4f5c\u7206\u70b8\u7269\u3002\u53ef\u5236\u4f5c\uff1aWolfpack\u3001\u7206\u70b8\u5730\u96f7\u3001\u706b\u7130\u624b\u96f7\u3001\u91cd\u578b\u5f15\u4fe1\u624b\u69b4\u5f39",
       "zh-TW": "\u7528\u65bc\u88fd\u4f5c\u7206\u88c2\u7269\u3002\u53ef\u88fd\u4f5c\uff1aWolfpack\u3001\u7206\u70b8\u5730\u96f7\u3001\u70c8\u7130\u624b\u69b4\u5f48\u3001\u91cd\u578b\u5f15\u4fe1\u624b\u69b4\u5f48"
     },
     "type": "Refined Material",
@@ -16688,7 +16691,7 @@
       "sr": "Produ\u017eeni Laki Okvir I",
       "tr": "Uzat\u0131lm\u0131\u015f Hafif \u015earj\u00f6r I",
       "uk": "\u0420\u043e\u0437\u0448\u0438\u0440\u0435\u043d\u0438\u0439 \u043b\u0435\u0433\u043a\u0438\u0439 \u043c\u0430\u0433\u0430\u0437\u0438\u043d I",
-      "zh-CN": "\u5ef6\u957f\u8f7b\u578b\u5f39\u5323 I",
+      "zh-CN": "\u8f7b\u578b\u6269\u5bb9\u5f39\u5323 I",
       "zh-TW": "\u5ef6\u9577\u8f15\u578b\u5f48\u5323 I"
     },
     "description": {
@@ -16798,7 +16801,7 @@
       "sr": "Produ\u017eeni laki okvir II",
       "tr": "Uzat\u0131lm\u0131\u015f Hafif \u015earj\u00f6r II",
       "uk": "\u0420\u043e\u0437\u0448\u0438\u0440\u0435\u043d\u0438\u0439 \u043b\u0435\u0433\u043a\u0438\u0439 \u043c\u0430\u0433\u0430\u0437\u0438\u043d II",
-      "zh-CN": "\u5ef6\u957f\u8f7b\u578b\u5f39\u5323 II",
+      "zh-CN": "\u8f7b\u578b\u6269\u5bb9\u5f39\u5323 II",
       "zh-TW": "\u5ef6\u9577\u8f15\u578b\u5f48\u5323 II"
     },
     "description": {
@@ -16918,7 +16921,7 @@
       "sr": "Produzeni laki okvir II Nacrt",
       "tr": "Uzat\u0131lm\u0131\u015f Hafif \u015earj\u00f6r II Tasla\u011f\u0131",
       "uk": "\u041a\u0440\u0435\u0441\u043b\u0435\u043d\u043d\u044f \u0420\u043e\u0437\u0448\u0438\u0440\u0435\u043d\u0438\u0439 \u043b\u0435\u0433\u043a\u0438\u0439 \u043c\u0430\u0433\u0430\u0437\u0438\u043d II",
-      "zh-CN": "\u5ef6\u957f\u8f7b\u578b\u5f39\u5323 II \u84dd\u56fe",
+      "zh-CN": "\u8f7b\u578b\u6269\u5bb9\u5f39\u5323 II \u84dd\u56fe",
       "zh-TW": "\u5ef6\u9577\u8f15\u578b\u5f48\u5323 II \u85cd\u5716"
     },
     "description": {
@@ -16973,7 +16976,7 @@
       "sr": "Produ\u017eeni laki spremnik III",
       "tr": "Uzat\u0131lm\u0131\u015f Hafif \u015earj\u00f6r III",
       "uk": "\u0420\u043e\u0437\u0448\u0438\u0440\u0435\u043d\u0438\u0439 \u043b\u0435\u0433\u043a\u0438\u0439 \u043c\u0430\u0433\u0430\u0437\u0438\u043d III",
-      "zh-CN": "\u5ef6\u957f\u8f7b\u578b\u5f39\u5323 III",
+      "zh-CN": "\u8f7b\u578b\u6269\u5bb9\u5f39\u5323 III",
       "zh-TW": "\u5ef6\u9577\u8f15\u578b\u5f48\u5323 III"
     },
     "description": {
@@ -17074,7 +17077,7 @@
       "sr": "Produzeni laki spremnik III Nacrt",
       "tr": "Uzat\u0131lm\u0131\u015f Hafif \u015earj\u00f6r III Tasla\u011f\u0131",
       "uk": "\u041a\u0440\u0435\u0441\u043b\u0435\u043d\u043d\u044f \u0420\u043e\u0437\u0448\u0438\u0440\u0435\u043d\u0438\u0439 \u043b\u0435\u0433\u043a\u0438\u0439 \u043c\u0430\u0433\u0430\u0437\u0438\u043d III",
-      "zh-CN": "\u5ef6\u957f\u8f7b\u578b\u5f39\u5323 III \u84dd\u56fe",
+      "zh-CN": "\u8f7b\u578b\u6269\u5bb9\u5f39\u5323 III \u84dd\u56fe",
       "zh-TW": "\u5ef6\u9577\u8f15\u578b\u5f48\u5323 III \u85cd\u5716"
     },
     "description": {
@@ -17129,7 +17132,7 @@
       "sr": "Produ\u017eeni srednji okvir I",
       "tr": "Uzat\u0131lm\u0131\u015f Orta \u015earj\u00f6r I",
       "uk": "\u0420\u043e\u0437\u0448\u0438\u0440\u0435\u043d\u0438\u0439 \u0441\u0435\u0440\u0435\u0434\u043d\u0456\u0439 \u043c\u0430\u0433\u0430\u0437\u0438\u043d I",
-      "zh-CN": "\u5ef6\u957f\u4e2d\u578b\u5f39\u5323 I",
+      "zh-CN": "\u4e2d\u578b\u6269\u5bb9\u5f39\u5323 I",
       "zh-TW": "\u5ef6\u9577\u4e2d\u578b\u5f48\u5323 I"
     },
     "description": {
@@ -17240,7 +17243,7 @@
       "sr": "Produ\u017eeni srednji okvir II",
       "tr": "Uzat\u0131lm\u0131\u015f Orta \u015earj\u00f6r II",
       "uk": "\u0420\u043e\u0437\u0448\u0438\u0440\u0435\u043d\u0438\u0439 \u0441\u0435\u0440\u0435\u0434\u043d\u0456\u0439 \u043c\u0430\u0433\u0430\u0437\u0438\u043d II",
-      "zh-CN": "\u5ef6\u957f\u4e2d\u578b\u5f39\u5323 II",
+      "zh-CN": "\u4e2d\u578b\u6269\u5bb9\u5f39\u5323 II",
       "zh-TW": "\u5ef6\u9577\u4e2d\u578b\u5f48\u5323 II"
     },
     "description": {
@@ -17352,7 +17355,7 @@
       "sr": "Nacrt za Pro\u0161ireni Srednji Spremnik II",
       "tr": "Uzat\u0131lm\u0131\u015f Orta \u015earj\u00f6r II Tasla\u011f\u0131",
       "uk": "\u041a\u0440\u0435\u0441\u043b\u0435\u043d\u043d\u044f \u0440\u043e\u0437\u0448\u0438\u0440\u0435\u043d\u043e\u0433\u043e \u0441\u0435\u0440\u0435\u0434\u043d\u044c\u043e\u0433\u043e \u043c\u0430\u0433\u0430\u0437\u0438\u043d\u0443 II",
-      "zh-CN": "\u5ef6\u957f\u4e2d\u578b\u5f39\u5323II\u84dd\u56fe",
+      "zh-CN": "\u4e2d\u578b\u6269\u5bb9\u5f39\u5323II\u84dd\u56fe",
       "zh-TW": "\u5ef6\u9577\u4e2d\u578b\u5f48\u5323II\u85cd\u5716"
     },
     "description": {
@@ -17407,7 +17410,7 @@
       "sr": "Produ\u017eeni Srednji Spremnik III",
       "tr": "Uzat\u0131lm\u0131\u015f Orta \u015earj\u00f6r III",
       "uk": "\u0420\u043e\u0437\u0448\u0438\u0440\u0435\u043d\u0438\u0439 \u0441\u0435\u0440\u0435\u0434\u043d\u0456\u0439 \u043c\u0430\u0433\u0430\u0437\u0438\u043d III",
-      "zh-CN": "\u5ef6\u957f\u4e2d\u578b\u5f39\u5323 III",
+      "zh-CN": "\u4e2d\u578b\u6269\u5bb9\u5f39\u5323 III",
       "zh-TW": "\u5ef6\u9577\u4e2d\u578b\u5f48\u5323 III"
     },
     "description": {
@@ -17509,7 +17512,7 @@
       "sr": "Nacrt za produ\u017eeni srednji spremnik III",
       "tr": "Uzat\u0131lm\u0131\u015f Orta \u015earj\u00f6r III Tasla\u011f\u0131",
       "uk": "\u041a\u0440\u0435\u0441\u043b\u0435\u043d\u043d\u044f \u0440\u043e\u0437\u0448\u0438\u0440\u0435\u043d\u043e\u0433\u043e \u0441\u0435\u0440\u0435\u0434\u043d\u044c\u043e\u0433\u043e \u043c\u0430\u0433\u0430\u0437\u0438\u043d\u0443 III",
-      "zh-CN": "\u5ef6\u957f\u4e2d\u578b\u5f39\u5323III\u84dd\u56fe",
+      "zh-CN": "\u4e2d\u578b\u6269\u5bb9\u5f39\u5323III\u84dd\u56fe",
       "zh-TW": "\u5ef6\u9577\u4e2d\u578b\u5f48\u5323III\u85cd\u5716"
     },
     "description": {
@@ -17589,7 +17592,7 @@
       "sr": "Produ\u017eeni Sa\u010dmarski Spremnik I",
       "tr": "Uzat\u0131lm\u0131\u015f Av T\u00fcfe\u011fi \u015earj\u00f6r\u00fc I",
       "uk": "\u0420\u043e\u0437\u0448\u0438\u0440\u0435\u043d\u0438\u0439 \u043c\u0430\u0433\u0430\u0437\u0438\u043d \u0434\u043b\u044f \u0434\u0440\u043e\u0431\u043e\u0432\u0438\u043a\u0430 I",
-      "zh-CN": "\u5ef6\u957f\u9730\u5f39\u67aa\u5f39\u5323 I",
+      "zh-CN": "\u9730\u5f39\u67aa\u6269\u5bb9\u5f39\u5323 I",
       "zh-TW": "\u5ef6\u9577\u9730\u5f48\u69cd\u5f48\u5323 I"
     },
     "description": {
@@ -17696,7 +17699,7 @@
       "sr": "Produ\u017eeni sa\u010dmarni okvir II",
       "tr": "Uzat\u0131lm\u0131\u015f Av T\u00fcfe\u011fi \u015earj\u00f6r\u00fc II",
       "uk": "\u0420\u043e\u0437\u0448\u0438\u0440\u0435\u043d\u0438\u0439 \u043c\u0430\u0433\u0430\u0437\u0438\u043d \u0434\u043b\u044f \u0434\u0440\u043e\u0431\u043e\u0432\u0438\u043a\u0430 II",
-      "zh-CN": "\u5ef6\u957f\u9730\u5f39\u67aa\u5f39\u5323 II",
+      "zh-CN": "\u9730\u5f39\u67aa\u6269\u5bb9\u5f39\u5323 II",
       "zh-TW": "\u5ef6\u9577\u9730\u5f48\u69cd\u5f48\u5323 II"
     },
     "description": {
@@ -17794,7 +17797,7 @@
       "sr": "Nacrt za produ\u017eeni sacmarski okvir II",
       "tr": "Uzat\u0131lm\u0131\u015f Av T\u00fcfe\u011fi \u015earj\u00f6r\u00fc II Tasla\u011f\u0131",
       "uk": "\u041a\u0440\u0435\u0441\u043b\u0435\u043d\u043d\u044f \u0440\u043e\u0437\u0448\u0438\u0440\u0435\u043d\u043e\u0433\u043e \u043c\u0430\u0433\u0430\u0437\u0438\u043d\u0443 \u0434\u043b\u044f \u0434\u0440\u043e\u0431\u043e\u0432\u0438\u043a\u0430 II",
-      "zh-CN": "\u5ef6\u957f\u9730\u5f39\u67aa\u5f39\u5323 II \u84dd\u56fe",
+      "zh-CN": "\u9730\u5f39\u67aa\u6269\u5bb9\u5f39\u5323 II \u84dd\u56fe",
       "zh-TW": "\u5ef6\u9577\u9730\u5f48\u69cd\u5f48\u5323 II \u85cd\u5716"
     },
     "description": {
@@ -17849,7 +17852,7 @@
       "sr": "Produ\u017eeni \u0161ar\u017eer za sa\u010dmaru III",
       "tr": "Uzat\u0131lm\u0131\u015f Av T\u00fcfe\u011fi \u015earj\u00f6r\u00fc III",
       "uk": "\u0420\u043e\u0437\u0448\u0438\u0440\u0435\u043d\u0438\u0439 \u043c\u0430\u0433\u0430\u0437\u0438\u043d \u0434\u043b\u044f \u0434\u0440\u043e\u0431\u043e\u0432\u0438\u043a\u0430 III",
-      "zh-CN": "\u6269\u5c55\u9730\u5f39\u67aa\u5f39\u5323 III",
+      "zh-CN": "\u9730\u5f39\u67aa\u6269\u5bb9\u5f39\u5323 III",
       "zh-TW": "\u64f4\u5c55\u9730\u5f48\u69cd\u5f48\u5323 III"
     },
     "description": {
@@ -17947,7 +17950,7 @@
       "sr": "Produ\u017eeni \u0161ar\u017eer za sa\u010dmaru III Nacrt",
       "tr": "Uzat\u0131lm\u0131\u015f Av T\u00fcfe\u011fi \u015earj\u00f6r\u00fc III Tasla\u011f\u0131",
       "uk": "\u041a\u0440\u0435\u0441\u043b\u0435\u043d\u043d\u044f \u0440\u043e\u0437\u0448\u0438\u0440\u0435\u043d\u043e\u0433\u043e \u043c\u0430\u0433\u0430\u0437\u0438\u043d\u0443 \u0434\u043b\u044f \u0434\u0440\u043e\u0431\u043e\u0432\u0438\u043a\u0430 III",
-      "zh-CN": "\u6269\u5c55\u9730\u5f39\u67aa\u5f39\u5323 III \u84dd\u56fe",
+      "zh-CN": "\u9730\u5f39\u67aa\u6269\u5bb9\u5f39\u5323 III \u84dd\u56fe",
       "zh-TW": "\u64f4\u5c55\u9730\u5f48\u69cd\u5f48\u5323 III \u85cd\u5716"
     },
     "description": {
@@ -18235,7 +18238,7 @@
       "en": "Ferro I",
       "es": "Ferro I",
       "fr": "Ferro I",
-      "he": "Ferro I",
+      "he": "\u05e4\u05e8\u05d5 I",
       "hr": "Ferro I",
       "it": "Ferro I",
       "ja": "\u30d5\u30a7\u30ed I",
@@ -19385,7 +19388,7 @@
       "sr": "Vatrena Kugla",
       "tr": "Ate\u015f Topu Yak\u0131c\u0131",
       "uk": "\u0412\u043e\u0433\u043d\u044f\u043d\u0430 \u043a\u0443\u043b\u044f",
-      "zh-CN": "\u706b\u7403\u71c3\u70e7\u5668",
+      "zh-CN": "\u706b\u7403\u71c3\u70e7\u7089",
       "zh-TW": "\u706b\u7403\u71c3\u71d2\u5668"
     },
     "description": {
@@ -19842,11 +19845,12 @@
     },
     "type": "Trinket",
     "rarity": "Common",
+    "value": 100,
     "weightKg": 0.25,
     "stackSize": 1,
     "questItem": true,
     "imageFilename": "https://cdn.arctracker.io/items/first_wave_compass.png",
-    "updatedAt": "02/24/2026",
+    "updatedAt": "04/14/2026",
     "addedIn": "base"
   },
   {
@@ -19897,11 +19901,12 @@
     },
     "type": "Trinket",
     "rarity": "Common",
+    "value": 100,
     "weightKg": 0.25,
     "stackSize": 1,
     "questItem": true,
     "imageFilename": "https://cdn.arctracker.io/items/first_wave_rations.png",
-    "updatedAt": "02/24/2026",
+    "updatedAt": "04/14/2026",
     "addedIn": "base"
   },
   {
@@ -19952,11 +19957,12 @@
     },
     "type": "Trinket",
     "rarity": "Common",
+    "value": 100,
     "weightKg": 0.25,
     "stackSize": 1,
     "questItem": true,
     "imageFilename": "https://cdn.arctracker.io/items/first_wave_tape.png",
-    "updatedAt": "02/24/2026",
+    "updatedAt": "04/14/2026",
     "addedIn": "base"
   },
   {
@@ -19980,7 +19986,7 @@
       "sr": "Plamen Sprej",
       "tr": "Alev P\u00fcsk\u00fcrt\u00fcc\u00fc",
       "uk": "\u0412\u043e\u0433\u043d\u044f\u043d\u0438\u0439 \u0440\u043e\u0437\u043f\u0438\u043b\u044e\u0432\u0430\u0447",
-      "zh-CN": "\u706b\u7130\u55b7\u5c04\u5668",
+      "zh-CN": "\u706b\u7130\u55b7\u6d82",
       "zh-TW": "\u706b\u7130\u5674\u5c04\u5668"
     },
     "description": {
@@ -20245,11 +20251,11 @@
     },
     "type": "Trinket",
     "rarity": "Common",
-    "value": 0,
+    "value": 100,
     "weightKg": 0.25,
     "stackSize": 1,
     "imageFilename": "https://cdn.arctracker.io/items/flushing_terminal_key.png",
-    "updatedAt": "01/13/2026",
+    "updatedAt": "04/14/2026",
     "addedIn": "1.1"
   },
   {
@@ -20335,7 +20341,7 @@
       "sr": "Besplatno pobolj\u0161anje opreme",
       "tr": "\u00dccretsiz Te\u00e7hizat Y\u00fckseltici",
       "uk": "\u0411\u0435\u0437\u043a\u043e\u0448\u0442\u043e\u0432\u043d\u0435 \u043f\u043e\u043a\u0440\u0430\u0449\u0435\u043d\u043d\u044f \u0441\u043f\u043e\u0440\u044f\u0434\u0436\u0435\u043d\u043d\u044f",
-      "zh-CN": "\u514d\u8d39\u88c5\u5907\u589e\u5f3a",
+      "zh-CN": "\u514d\u8d39\u914d\u88c5\u5f3a\u5316",
       "zh-TW": "\u514d\u8cbb\u88dd\u5099\u589e\u5f37"
     },
     "description": {
@@ -20357,7 +20363,7 @@
       "sr": "Osnovno pobolj\u0161anje za po\u010detni\u010dke Raidere, nudi malo vi\u0161e prostora u rancu i nosivosti.",
       "tr": "Acemi Ak\u0131nc\u0131lar i\u00e7in temel g\u00fc\u00e7lendirme, biraz daha fazla s\u0131rt \u00e7antas\u0131 alan\u0131 ve ta\u015f\u0131ma kapasitesi sunar.",
       "uk": "\u0411\u0430\u0437\u043e\u0432\u0435 \u043f\u043e\u043a\u0440\u0430\u0449\u0435\u043d\u043d\u044f \u0434\u043b\u044f \u043d\u043e\u0432\u0430\u0447\u043a\u0456\u0432-\u0440\u0435\u0439\u0434\u0435\u0440\u0456\u0432, \u0449\u043e \u043d\u0430\u0434\u0430\u0454 \u0442\u0440\u043e\u0445\u0438 \u0431\u0456\u043b\u044c\u0448\u0435 \u043c\u0456\u0441\u0446\u044f \u0432 \u0440\u044e\u043a\u0437\u0430\u043a\u0443 \u0442\u0430 \u0432\u0430\u043d\u0442\u0430\u0436\u043e\u043f\u0456\u0434\u0439\u043e\u043c\u043d\u043e\u0441\u0442\u0456.",
-      "zh-CN": "\u65b0\u624b\u63a0\u593a\u8005\u7684\u57fa\u7840\u589e\u5f3a\uff0c\u63d0\u4f9b\u7a0d\u591a\u7684\u80cc\u5305\u7a7a\u95f4\u548c\u8d1f\u91cd\u80fd\u529b\u3002",
+      "zh-CN": "\u65b0\u624b\u5947\u88ad\u8005\u7684\u57fa\u7840\u589e\u5f3a\uff0c\u63d0\u4f9b\u7a0d\u591a\u7684\u80cc\u5305\u7a7a\u95f4\u548c\u8d1f\u91cd\u80fd\u529b\u3002",
       "zh-TW": "\u65b0\u624b\u63a0\u596a\u8005\u7684\u57fa\u790e\u589e\u5f37\uff0c\u63d0\u4f9b\u7a0d\u591a\u7684\u80cc\u5305\u7a7a\u9593\u548c\u8ca0\u91cd\u80fd\u529b\u3002"
     },
     "type": "Augment",
@@ -20825,7 +20831,7 @@
       "sr": "Granata koja pri udaru ispu\u0161ta dugotrajni otrovni oblak, iscrpljuju\u0107i izdr\u017eljivost svih plja\u010dka\u0161a unutar svog podru\u010dja dejstva.",
       "tr": "\u00c7arpma an\u0131nda kal\u0131c\u0131 zehirli bir bulut yayan ve etki alan\u0131ndaki t\u00fcm Ak\u0131nc\u0131lar\u0131n dayan\u0131kl\u0131l\u0131\u011f\u0131n\u0131 t\u00fcketen bir bomba.",
       "uk": "\u0413\u0440\u0430\u043d\u0430\u0442\u0430, \u044f\u043a\u0430 \u043f\u0440\u0438 \u0443\u0434\u0430\u0440\u0456 \u0432\u0438\u043f\u0443\u0441\u043a\u0430\u0454 \u0441\u0442\u0456\u0439\u043a\u0443 \u0442\u043e\u043a\u0441\u0438\u0447\u043d\u0443 \u0445\u043c\u0430\u0440\u0443, \u0449\u043e \u0432\u0438\u0441\u043d\u0430\u0436\u0443\u0454 \u0432\u0438\u0442\u0440\u0438\u0432\u0430\u043b\u0456\u0441\u0442\u044c \u0443\u0441\u0456\u0445 \u0440\u0435\u0439\u0434\u0435\u0440\u0456\u0432 \u0443 \u0437\u043e\u043d\u0456 \u0443\u0440\u0430\u0436\u0435\u043d\u043d\u044f.",
-      "zh-CN": "\u649e\u51fb\u65f6\u91ca\u653e\u6301\u7eed\u6027\u6bd2\u4e91\uff0c\u6d88\u8017\u6548\u679c\u8303\u56f4\u5185\u6240\u6709\u63a0\u593a\u8005\u8010\u529b\u7684\u624b\u96f7\u3002",
+      "zh-CN": "\u649e\u51fb\u65f6\u91ca\u653e\u6301\u7eed\u6027\u6bd2\u4e91\uff0c\u6d88\u8017\u6548\u679c\u8303\u56f4\u5185\u6240\u6709\u5947\u88ad\u8005\u8010\u529b\u7684\u624b\u96f7\u3002",
       "zh-TW": "\u649e\u64ca\u6642\u91cb\u653e\u6301\u7e8c\u6027\u6bd2\u96f2\uff0c\u6d88\u8017\u6548\u679c\u7bc4\u570d\u5167\u6240\u6709\u63a0\u596a\u8005\u8010\u529b\u7684\u624b\u69b4\u5f48\u3002"
     },
     "type": "Quick Use",
@@ -20953,7 +20959,7 @@
       "sr": "Zamka sa Gasnom Granatom",
       "tr": "Lazer Tuza\u011f\u0131: Gaz",
       "uk": "\u041f\u0430\u0441\u0442\u043a\u0430 \u0437 \u0433\u0430\u0437\u043e\u0432\u043e\u044e \u0433\u0440\u0430\u043d\u0430\u0442\u043e\u044e",
-      "zh-CN": "\u6bd2\u6c14\u624b\u69b4\u5f39\u9677\u9631",
+      "zh-CN": "\u6bd2\u6c14\u624b\u96f7\u9677\u9631",
       "zh-TW": "\u6bd2\u6c23\u624b\u69b4\u5f48\u9677\u9631"
     },
     "description": {
@@ -20975,7 +20981,7 @@
       "sr": "Laserska \u017eica zamka koja detonira Gasnu Granatu.",
       "tr": "Bir Gaz Bombas\u0131n\u0131 patlatan lazer tuzak teli.",
       "uk": "\u041b\u0430\u0437\u0435\u0440\u043d\u0430 \u0440\u043e\u0437\u0442\u044f\u0436\u043a\u0430, \u0449\u043e \u043f\u0456\u0434\u0440\u0438\u0432\u0430\u0454 \u0433\u0430\u0437\u043e\u0432\u0443 \u0433\u0440\u0430\u043d\u0430\u0442\u0443.",
-      "zh-CN": "\u5f15\u7206\u6bd2\u6c14\u624b\u69b4\u5f39\u7684\u6fc0\u5149\u7eca\u7ebf\u3002",
+      "zh-CN": "\u6fc0\u5149\u9677\u9631\uff1a\u6bd2\u6c14\u3002",
       "zh-TW": "\u5f15\u7206\u6bd2\u6c23\u624b\u69b4\u5f48\u7684\u96f7\u5c04\u7d46\u7dda\u3002"
     },
     "type": "Quick Use",
@@ -21088,7 +21094,7 @@
       "sr": "Gasna mina",
       "tr": "S\u0131\u00e7rama May\u0131n\u0131: Enerji Azalt\u0131c\u0131",
       "uk": "\u0413\u0430\u0437\u043e\u0432\u0430 \u043c\u0456\u043d\u0430",
-      "zh-CN": "\u6bd2\u6c14\u5730\u96f7",
+      "zh-CN": "\u8df3\u96f7\uff1a\u6301\u7eed\u6d41\u5931\u8010\u529b\uff08\u8df3\u96f7\uff1a\u6bd2\u6c14\uff09",
       "zh-TW": "\u6bd2\u6c23\u5730\u96f7"
     },
     "description": {
@@ -21236,7 +21242,7 @@
       "sr": "Gasna mina Nacrt",
       "tr": "S\u0131\u00e7rama May\u0131n\u0131: Enerji Azalt\u0131c\u0131 Tasla\u011f\u0131",
       "uk": "\u041a\u0440\u0435\u0441\u043b\u0435\u043d\u043d\u044f \u0413\u0430\u0437\u043e\u0432\u0430 \u043c\u0456\u043d\u0430",
-      "zh-CN": "\u6bd2\u6c14\u5730\u96f7 \u84dd\u56fe",
+      "zh-CN": "\u8df3\u96f7\uff1a\u6301\u7eed\u6d41\u5931\u8010\u529b \u84dd\u56fe\uff08\u8df3\u96f7\uff1a\u6bd2\u6c14 \u84dd\u56fe\uff09",
       "zh-TW": "\u6bd2\u6c23\u5730\u96f7 \u85cd\u5716"
     },
     "description": {
@@ -22152,7 +22158,7 @@
       "en": "Hairpin III",
       "es": "Horquilla III",
       "fr": "\u00c9pingle III",
-      "he": "\u05e1\u05d9\u05db\u05ea \u05e8\u05d0\u05e9 III",
+      "he": "\u05d4\u05d9\u05d9\u05e8\u05e4\u05d9\u05df III",
       "hr": "Ukosnica III",
       "it": "Tornante III",
       "ja": "\u30d8\u30a2\u30d4\u30f3 III",
@@ -22419,7 +22425,7 @@
       "en": "Hairpin IV",
       "es": "Horquilla IV",
       "fr": "\u00c9pingleIV",
-      "he": "\u05e1\u05d9\u05db\u05ea \u05e8\u05d0\u05e9 IV",
+      "he": "\u05d4\u05d9\u05d9\u05e8\u05e4\u05d9\u05df IV",
       "hr": "Ukosnica IV",
       "it": "Tornante IV",
       "ja": "\u30d8\u30a2\u30d4\u30f3 IV",
@@ -22836,7 +22842,7 @@
       "sr": "Te\u0161ka Granata sa Upalja\u010dem",
       "tr": "A\u011f\u0131r F\u00fcnye Bombas\u0131",
       "uk": "\u0412\u0430\u0436\u043a\u0430 \u0433\u0440\u0430\u043d\u0430\u0442\u0430 \u0437 \u0437\u0430\u043f\u0430\u043b\u043e\u043c",
-      "zh-CN": "\u91cd\u578b\u5b9a\u65f6\u624b\u69b4\u5f39",
+      "zh-CN": "\u91cd\u578b\u5f15\u4fe1\u624b\u96f7",
       "zh-TW": "\u91cd\u578b\u5b9a\u6642\u624b\u69b4\u5f48"
     },
     "description": {
@@ -23290,7 +23296,7 @@
       "sr": "Improvizovana medicinska stavka koja postepeno obnavlja zdravlje tokom vremena.",
       "tr": "Zamanla yava\u015f yava\u015f sa\u011fl\u0131k yenileyen do\u011fa\u00e7lama bir t\u0131bbi e\u015fya.",
       "uk": "\u0406\u043c\u043f\u0440\u043e\u0432\u0456\u0437\u043e\u0432\u0430\u043d\u0438\u0439 \u043c\u0435\u0434\u0438\u0447\u043d\u0438\u0439 \u043f\u0440\u0435\u0434\u043c\u0435\u0442, \u044f\u043a\u0438\u0439 \u043f\u043e\u0441\u0442\u0443\u043f\u043e\u0432\u043e \u0432\u0456\u0434\u043d\u043e\u0432\u043b\u044e\u0454 \u0437\u0434\u043e\u0440\u043e\u0432'\u044f \u0437 \u0447\u0430\u0441\u043e\u043c.",
-      "zh-CN": "\u4e00\u79cd\u4e34\u65f6\u533b\u7597\u7269\u54c1\uff0c\u53ef\u968f\u65f6\u95f4\u9010\u6e10\u6062\u590d\u751f\u547d\u503c\u3002",
+      "zh-CN": "\u4e00\u79cd\u7b80\u6613\u533b\u7597\u7269\u54c1\uff0c\u80fd\u5728\u4e00\u6bb5\u65f6\u95f4\u5185\u9010\u6e10\u6062\u590d\u751f\u547d\u503c\u3002",
       "zh-TW": "\u4e00\u7a2e\u81e8\u6642\u91ab\u7642\u7269\u54c1\uff0c\u53ef\u96a8\u6642\u9593\u9010\u6f38\u6062\u5fa9\u751f\u547d\u503c\u3002"
     },
     "type": "Quick Use",
@@ -23668,7 +23674,7 @@
         "sr": "Trajanje Omamljivanja Plja\u010dka\u0161a",
         "tr": "Ak\u0131nc\u0131 Sersemletme S\u00fcresi",
         "uk": "\u0422\u0440\u0438\u0432\u0430\u043b\u0456\u0441\u0442\u044c \u043f\u0440\u0438\u0433\u043e\u043b\u043e\u043c\u0448\u0435\u043d\u043d\u044f \u0440\u0435\u0439\u0434\u0435\u0440\u0430",
-        "zh-CN": "\u63a0\u593a\u8005\u51fb\u6655\u6301\u7eed\u65f6\u95f4",
+        "zh-CN": "\u5947\u88ad\u8005\u51fb\u6655\u6301\u7eed\u65f6\u95f4",
         "zh-TW": "\u63a0\u596a\u8005\u64ca\u6688\u6301\u7e8c\u6642\u9593"
       }
     },
@@ -23804,26 +23810,26 @@
   {
     "id": "hullcracker_i",
     "name": {
-      "da": "Hullcracker I",
+      "da": "Skrogknuser I",
       "de": "H\u00fcllenbrecher I",
       "en": "Hullcracker I",
-      "es": "Partecascos I",
+      "es": "Rompe Cascos I",
       "fr": "Brise-fuselage I",
-      "he": "Hullcracker I",
-      "hr": "Hullcracker I",
+      "he": "\u05d4\u05d5\u05dc\u05e7\u05e8\u05d0\u05e7\u05e8 I",
+      "hr": "Loma\u010d Trupa I",
       "it": "Spaccascudi I",
       "ja": "\u30cf\u30eb\u30af\u30e9\u30c3\u30ab\u30fc I",
       "ko-KR": "\ud5d0\ud06c\ub798\ucee4 I",
-      "no": "Hullcracker I",
-      "pl": "Hullcracker I",
-      "pt": "Hullcracker I",
+      "no": "Skrogknuser I",
+      "pl": "\u0141amacz Kad\u0142ub\u00f3w I",
+      "pt": "Quebra-cascos I",
       "pt-BR": "Quebra-Casco I",
       "ru": "\u0412\u0437\u043b\u043e\u043c\u0449\u0438\u043a \u043a\u043e\u0440\u043f\u0443\u0441\u043e\u0432 I",
-      "sr": "Hullcracker I",
+      "sr": "Loma\u010d Trupa I",
       "tr": "Kabukk\u0131ran I",
-      "uk": "Hullcracker I",
+      "uk": "\u041a\u043e\u0440\u043f\u0443\u0441\u043e\u043b\u043e\u043c I",
       "zh-CN": "\u88c2\u7532\u8005 I",
-      "zh-TW": "Hullcracker I"
+      "zh-TW": "\u7834\u6bbc\u8005 I"
     },
     "description": {
       "da": "Affyrer eksplosive projektiler, der kun detonerer ved tr\u00e6f p\u00e5 ARC.",
@@ -24033,7 +24039,7 @@
       "en": "Hullcracker II",
       "es": "Rompe Cascos II",
       "fr": "Brise-fuselage II",
-      "he": "Hullcracker II",
+      "he": "\u05d4\u05d5\u05dc\u05e7\u05e8\u05d0\u05e7\u05e8 II",
       "hr": "Loma\u010d Trupa II",
       "it": "Spaccascudi II",
       "ja": "\u30cf\u30eb\u30af\u30e9\u30c3\u30ab\u30fc II",
@@ -24272,7 +24278,7 @@
       "en": "Hullcracker III",
       "es": "Rompe Cascos III",
       "fr": "Brise-fuselage III",
-      "he": "Hullcracker III",
+      "he": "\u05d4\u05d5\u05dc\u05e7\u05e8\u05d0\u05e7\u05e8 III",
       "hr": "Loma\u010d Trupa III",
       "it": "Spaccascudi III",
       "ja": "\u30cf\u30eb\u30af\u30e9\u30c3\u30ab\u30fc III",
@@ -24519,7 +24525,7 @@
       "no": "Skrogknuser IV",
       "pl": "\u0141amacz Kad\u0142ub\u00f3w IV",
       "pt": "Quebra-cascos IV",
-      "pt-BR": "Quebra-Cascos IV",
+      "pt-BR": "Quebra-Casco IV",
       "ru": "\u0412\u0437\u043b\u043e\u043c\u0449\u0438\u043a \u043a\u043e\u0440\u043f\u0443\u0441\u043e\u0432 IV",
       "sr": "Loma\u010d Trupa IV",
       "tr": "Kabukk\u0131ran IV",
@@ -24929,7 +24935,7 @@
       "en": "Il Toro I",
       "es": "Il Toro I",
       "fr": "Il Toro I",
-      "he": "Il Toro I",
+      "he": "\u05d0\u05d9\u05dc \u05d8\u05d5\u05e8\u05d5 I",
       "hr": "Il Toro I",
       "it": "Il Toro I",
       "ja": "\u30a4\u30eb\u30fb\u30c8\u30fc\u30ed I",
@@ -25416,7 +25422,7 @@
       "pl": "Il Toro III",
       "pt": "Il Toro III",
       "pt-BR": "Il Toro III",
-      "ru": "Il Toro III",
+      "ru": "\u042d\u043b\u044c-\u0422\u043e\u0440\u043e III",
       "sr": "Il Toro III",
       "tr": "Il Toro III",
       "uk": "Il Toro III",
@@ -25666,7 +25672,7 @@
       "pl": "Il Toro IV",
       "pt": "Il Toro IV",
       "pt-BR": "Il Toro IV",
-      "ru": "Il Toro IV",
+      "ru": "\u042d\u043b\u044c-\u0422\u043e\u0440\u043e IV",
       "sr": "Il Toro IV",
       "tr": "Il Toro IV",
       "uk": "Il Toro IV",
@@ -26331,7 +26337,7 @@
         "sr": "Trajanje Omamljivanja Plja\u010dka\u0161a",
         "tr": "Ak\u0131nc\u0131 Sersemletme S\u00fcresi",
         "uk": "\u0422\u0440\u0438\u0432\u0430\u043b\u0456\u0441\u0442\u044c \u043e\u0433\u043b\u0443\u0448\u0435\u043d\u043d\u044f \u0440\u0435\u0439\u0434\u0435\u0440\u0430",
-        "zh-CN": "\u63a0\u593a\u8005\u7729\u6655\u6301\u7eed\u65f6\u95f4",
+        "zh-CN": "\u5947\u88ad\u8005\u7729\u6655\u6301\u7eed\u65f6\u95f4",
         "zh-TW": "\u63a0\u596a\u8005\u6688\u7729\u6301\u7e8c\u6642\u9593"
       }
     },
@@ -26680,7 +26686,7 @@
       "en": "Kettle I",
       "es": "Caldero I",
       "fr": "Fondoir I",
-      "he": "\u05e7\u05d0\u05d8\u05dc I",
+      "he": "\u05e7\u05d8\u05dc I",
       "hr": "Kettle I",
       "it": "Stormo I",
       "ja": "\u30b1\u30c8\u30eb I",
@@ -27041,9 +27047,9 @@
       "ru": "\u0427\u0430\u0439\u043d\u0438\u043a III",
       "sr": "Kettle III",
       "tr": "Is\u0131t\u0131c\u0131 III",
-      "uk": "Kettle III",
+      "uk": "\u0427\u0430\u0439\u043d\u0438\u043a III",
       "zh-CN": "\u6c34\u58f6 III",
-      "zh-TW": "Kettle III"
+      "zh-TW": "\u6c34\u58fa III"
     },
     "description": {
       "da": "Hurtig og pr\u00e6cis, men har lav kuglehastighed og tager lang tid at genoplade.",
@@ -27294,9 +27300,9 @@
       "ru": "\u0427\u0430\u0439\u043d\u0438\u043a IV",
       "sr": "Kettle IV",
       "tr": "Is\u0131t\u0131c\u0131 IV",
-      "uk": "Kettle IV",
+      "uk": "\u0427\u0430\u0439\u043d\u0438\u043a IV",
       "zh-CN": "\u6c34\u58f6 IV",
-      "zh-TW": "Kettle IV"
+      "zh-TW": "\u6c34\u58fa IV"
     },
     "description": {
       "da": "Hurtig og pr\u00e6cis, men har lav kuglehastighed og tager lang tid at genoplade.",
@@ -28089,11 +28095,11 @@
     },
     "type": "Trinket",
     "rarity": "Common",
-    "value": 0,
+    "value": 100,
     "weightKg": 0.5,
     "stackSize": 1,
     "questItem": true,
-    "updatedAt": "03/17/2026",
+    "updatedAt": "04/14/2026",
     "addedIn": "base"
   },
   {
@@ -28144,10 +28150,11 @@
     },
     "type": "Trinket",
     "rarity": "Common",
+    "value": 100,
     "weightKg": 0.25,
     "stackSize": 1,
     "imageFilename": "https://cdn.arctracker.io/items/lidar_scanner.png",
-    "updatedAt": "02/24/2026",
+    "updatedAt": "04/14/2026",
     "addedIn": "base"
   },
   {
@@ -28438,7 +28445,7 @@
       "sr": "Laka Udarna Granata",
       "tr": "Hafif Darbe Bombas\u0131",
       "uk": "\u041b\u0435\u0433\u043a\u0430 \u0443\u0434\u0430\u0440\u043d\u0430 \u0433\u0440\u0430\u043d\u0430\u0442\u0430",
-      "zh-CN": "\u8f7b\u578b\u51b2\u51fb\u624b\u69b4\u5f39",
+      "zh-CN": "\u8f7b\u578b\u51b2\u51fb\u624b\u96f7",
       "zh-TW": "\u8f15\u578b\u885d\u64ca\u624b\u69b4\u5f48"
     },
     "description": {
@@ -28460,7 +28467,7 @@
       "sr": "Granata koja detonira pri udaru, nanose\u0107i eksplozivnu \u0161tetu u malom radijusu.",
       "tr": "\u00c7arpma an\u0131nda patlayan ve k\u00fc\u00e7\u00fck bir yar\u0131\u00e7apta patlay\u0131c\u0131 hasar veren bomba.",
       "uk": "\u0413\u0440\u0430\u043d\u0430\u0442\u0430, \u0449\u043e \u0432\u0438\u0431\u0443\u0445\u0430\u0454 \u043f\u0440\u0438 \u0443\u0434\u0430\u0440\u0456, \u0437\u0430\u0432\u0434\u0430\u044e\u0447\u0438 \u0432\u0438\u0431\u0443\u0445\u043e\u0432\u043e\u0457 \u0448\u043a\u043e\u0434\u0438 \u0432 \u043d\u0435\u0432\u0435\u043b\u0438\u043a\u043e\u043c\u0443 \u0440\u0430\u0434\u0456\u0443\u0441\u0456.",
-      "zh-CN": "\u4e00\u79cd\u649e\u51fb\u65f6\u5f15\u7206\u7684\u624b\u69b4\u5f39\uff0c\u5728\u5c0f\u8303\u56f4\u5185\u9020\u6210\u7206\u70b8\u4f24\u5bb3\u3002",
+      "zh-CN": "\u906d\u53d7\u649e\u51fb\u5373\u4f1a\u7206\u70b8\u7684\u624b\u96f7\uff0c\u4f1a\u5728\u5c0f\u8303\u56f4\u5185\u9020\u6210\u7206\u70b8\u4f24\u5bb3\u3002",
       "zh-TW": "\u4e00\u7a2e\u649e\u64ca\u6642\u5f15\u7206\u7684\u624b\u69b4\u5f48\uff0c\u5728\u5c0f\u7bc4\u570d\u5167\u9020\u6210\u7206\u70b8\u50b7\u5bb3\u3002"
     },
     "type": "Quick Use",
@@ -28723,7 +28730,7 @@
       "sr": "Lagana Kundak",
       "tr": "Hafif Dip\u00e7ik",
       "uk": "\u041f\u043e\u043b\u0435\u0433\u0448\u0435\u043d\u0438\u0439 \u043f\u0440\u0438\u043a\u043b\u0430\u0434",
-      "zh-CN": "\u8f7b\u91cf\u67aa\u6258",
+      "zh-CN": "\u8f7b\u578b\u67aa\u6258",
       "zh-TW": "\u8f15\u91cf\u69cd\u6258"
     },
     "description": {
@@ -28925,7 +28932,7 @@
       "sr": "Nacrt za lagani kundak",
       "tr": "Hafif Dip\u00e7ik Tasla\u011f\u0131",
       "uk": "\u041a\u0440\u0435\u0441\u043b\u0435\u043d\u043d\u044f \u043f\u043e\u043b\u0435\u0433\u0448\u0435\u043d\u043e\u0433\u043e \u043f\u0440\u0438\u043a\u043b\u0430\u0434\u0430",
-      "zh-CN": "\u8f7b\u91cf\u67aa\u6258\u84dd\u56fe",
+      "zh-CN": "\u8f7b\u578b\u67aa\u6258\u84dd\u56fe",
       "zh-TW": "\u8f15\u91cf\u69cd\u6258\u85cd\u5716"
     },
     "description": {
@@ -28980,7 +28987,7 @@
       "sr": "Mala dimna granata",
       "tr": "K\u00fc\u00e7\u00fck Sis Bombas\u0131",
       "uk": "\u041c\u0430\u043b\u0430 \u0434\u0438\u043c\u043e\u0432\u0430 \u0433\u0440\u0430\u043d\u0430\u0442\u0430",
-      "zh-CN": "\u5c0f\u578b\u70df\u96fe\u5f39",
+      "zh-CN": "\u5c0f\u578b\u70df\u96fe\u624b\u96f7",
       "zh-TW": "\u5c0f\u578b\u7159\u9727\u5f48"
     },
     "description": {
@@ -29002,7 +29009,7 @@
       "sr": "Granata koja stvara gust ali mali oblak dima pri udaru, blokiraju\u0107i vidljivost od ARC-a i drugih Rajdera.",
       "tr": "\u00c7arpma an\u0131nda kal\u0131n ama k\u00fc\u00e7\u00fck bir duman bulutu olu\u015fturarak ARC ve di\u011fer Ak\u0131nc\u0131lar\u0131n g\u00f6r\u00fc\u015f\u00fcn\u00fc engelleyen bomba.",
       "uk": "\u0413\u0440\u0430\u043d\u0430\u0442\u0430, \u044f\u043a\u0430 \u0441\u0442\u0432\u043e\u0440\u044e\u0454 \u0433\u0443\u0441\u0442\u0443, \u0430\u043b\u0435 \u043d\u0435\u0432\u0435\u043b\u0438\u043a\u0443 \u0445\u043c\u0430\u0440\u0443 \u0434\u0438\u043c\u0443 \u043f\u0440\u0438 \u0443\u0434\u0430\u0440\u0456, \u0431\u043b\u043e\u043a\u0443\u044e\u0447\u0438 \u0432\u0438\u0434\u0438\u043c\u0456\u0441\u0442\u044c \u0434\u043b\u044f ARC \u0442\u0430 \u0456\u043d\u0448\u0438\u0445 \u0420\u0435\u0439\u0434\u0435\u0440\u0456\u0432.",
-      "zh-CN": "\u7740\u5f39\u65f6\u4ea7\u751f\u6d53\u5bc6\u4f46\u8303\u56f4\u8f83\u5c0f\u7684\u70df\u96fe\uff0c\u963b\u6321ARC\u548c\u5176\u4ed6\u63a0\u593a\u8005\u7684\u89c6\u7ebf\u3002",
+      "zh-CN": "\u7740\u5f39\u65f6\u4ea7\u751f\u6d53\u5bc6\u4f46\u8303\u56f4\u8f83\u5c0f\u7684\u70df\u96fe\uff0c\u963b\u6321ARC\u548c\u5176\u4ed6\u5947\u88ad\u8005\u7684\u89c6\u7ebf\u3002",
       "zh-TW": "\u8457\u5f48\u6642\u7522\u751f\u6fc3\u5bc6\u4f46\u7bc4\u570d\u8f03\u5c0f\u7684\u7159\u9727\uff0c\u963b\u64cbARC\u548c\u5176\u4ed6\u63a0\u596a\u8005\u7684\u8996\u7dda\u3002"
     },
     "type": "Quick Use",
@@ -29099,7 +29106,7 @@
       "sr": "Plja\u010dkanje Mk. 1",
       "tr": "Ya\u011fmalama Mod. 1",
       "uk": "\u041c\u0430\u0440\u043e\u0434\u0435\u0440\u0441\u0442\u0432\u043e Mk. 1",
-      "zh-CN": "\u63a0\u593a Mk. 1",
+      "zh-CN": "\u641c\u522e Mk. 1",
       "zh-TW": "\u63a0\u596a Mk. 1"
     },
     "description": {
@@ -29260,7 +29267,7 @@
       "sr": "Plja\u010dkanje Mk. 2",
       "tr": "Ya\u011fmalama Mod. 2",
       "uk": "\u041c\u0430\u0440\u043e\u0434\u0435\u0440\u0441\u0442\u0432\u043e Mk. 2",
-      "zh-CN": "\u63a0\u593a Mk. 2",
+      "zh-CN": "\u641c\u522e Mk. 2",
       "zh-TW": "\u63a0\u596a Mk. 2"
     },
     "description": {
@@ -29424,7 +29431,7 @@
       "sr": "Plja\u010dkanje Mk. 3 (Oprezno)",
       "tr": "Ya\u011fmalama Mod. 3 (Dikkatli)",
       "uk": "\u041c\u0430\u0440\u043e\u0434\u0435\u0440\u0441\u0442\u0432\u043e Mk. 3 (\u041e\u0431\u0435\u0440\u0435\u0436\u043d\u0435)",
-      "zh-CN": "\u63a0\u593a Mk. 3 (\u8c28\u614e)",
+      "zh-CN": "\u641c\u522e Mk. 3 (\u8c28\u614e)",
       "zh-TW": "\u63a0\u596a Mk. 3 (\u8b39\u614e)"
     },
     "description": {
@@ -29568,7 +29575,7 @@
       "sr": "Plja\u010dkanje Mk. 3 (\u010cuvar)",
       "tr": "Ya\u011fmalama Mod.3 (Koruyucu)",
       "uk": "\u041c\u0430\u0440\u043e\u0434\u0435\u0440\u0441\u0442\u0432\u043e Mk. 3 (\u041e\u0445\u043e\u0440\u043e\u043d\u0435\u0446\u044c)",
-      "zh-CN": "\u63a0\u593a Mk. 3 (\u5b88\u62a4\u8005)",
+      "zh-CN": "\u641c\u522e Mk. 3 (\u5b88\u62a4\u8005)",
       "zh-TW": "\u63a0\u596a Mk. 3 (\u5b88\u8b77\u8005)"
     },
     "description": {
@@ -29708,7 +29715,7 @@
       "sr": "Nacrt za sakupljanje Mk. 3 (\u010cuvar)",
       "tr": "Ya\u011fmalama Mod.3 (Koruyucu) Tasla\u011f\u0131",
       "uk": "\u041a\u0440\u0435\u0441\u043b\u0435\u043d\u043d\u044f: \u0417\u0431\u0438\u0440\u0430\u043d\u043d\u044f \u041c\u043a. 3 (\u0417\u0431\u0435\u0440\u0456\u0433\u0430\u0447)",
-      "zh-CN": "\u641c\u522e Mk. 3 (\u4fdd\u7ba1\u8005) \u84dd\u56fe",
+      "zh-CN": "\u641c\u522e Mk. 3 (\u5b88\u62a4\u8005) \u84dd\u56fe",
       "zh-TW": "\u641c\u522e Mk. 3 (\u4fdd\u7ba1\u8005) \u85cd\u5716"
     },
     "description": {
@@ -29763,7 +29770,7 @@
       "sr": "Plja\u010dka\u0161ki Mk. 3 (Pre\u017eiveli)",
       "tr": "Ya\u011fmalama Mod.3 (Hayatta Kalan)",
       "uk": "\u041c\u0430\u0440\u043e\u0434\u0435\u0440\u0441\u044c\u043a\u0438\u0439 Mk. 3 (\u0432\u0438\u0436\u0438\u043b\u0438\u0439)",
-      "zh-CN": "\u63a0\u593a Mk. 3\uff08\u5e78\u5b58\u8005\uff09",
+      "zh-CN": "\u641c\u522e Mk. 3\uff08\u751f\u5b58\u578b\uff09",
       "zh-TW": "\u63a0\u596a Mk. 3\uff08\u5016\u5b58\u8005\uff09"
     },
     "description": {
@@ -29908,7 +29915,7 @@
       "sr": "Plja\u010dka\u0161ki Mk. 3 (Pre\u017eiveli) Nacrt",
       "tr": "Ya\u011fmalama Mod.3 (Hayatta Kalan) Tasla\u011f\u0131",
       "uk": "\u041a\u0440\u0435\u0441\u043b\u0435\u043d\u043d\u044f \u043c\u0430\u0440\u043e\u0434\u0435\u0440\u0441\u044c\u043a\u043e\u0433\u043e Mk. 3 (\u0432\u0438\u0436\u0438\u043b\u0438\u0439)",
-      "zh-CN": "\u63a0\u593a Mk. 3\uff08\u5e78\u5b58\u8005\uff09\u84dd\u56fe",
+      "zh-CN": "\u641c\u522e Mk. 3\uff08\u751f\u5b58\u578b\uff09\u84dd\u56fe",
       "zh-TW": "\u63a0\u596a Mk. 3\uff08\u5016\u5b58\u8005\uff09\u85cd\u5716"
     },
     "description": {
@@ -29962,7 +29969,7 @@
       "sr": "Granata mamac",
       "tr": "Yem Bombas\u0131",
       "uk": "\u041f\u0440\u0438\u043d\u0430\u0434\u043d\u0430 \u0433\u0440\u0430\u043d\u0430\u0442\u0430",
-      "zh-CN": "\u8bf1\u9975\u624b\u69b4\u5f39",
+      "zh-CN": "\u8bf1\u6355\u624b\u96f7",
       "zh-TW": "\u8a98\u990c\u624b\u69b4\u5f48"
     },
     "description": {
@@ -30030,7 +30037,7 @@
       "sr": "Nacrt Mamac Granate",
       "tr": "Yem Bombas\u0131 Tasla\u011f\u0131",
       "uk": "\u041a\u0440\u0435\u0441\u043b\u0435\u043d\u043d\u044f \u0433\u0440\u0430\u043d\u0430\u0442\u0438-\u043f\u0440\u0438\u043d\u0430\u0434\u0438",
-      "zh-CN": "\u8bf1\u9975\u624b\u69b4\u5f39\u84dd\u56fe",
+      "zh-CN": "\u8bf1\u6355\u624b\u96f7\u84dd\u56fe",
       "zh-TW": "\u8a98\u990c\u624b\u69b4\u5f48\u85cd\u5716"
     },
     "description": {
@@ -30085,7 +30092,7 @@
       "sr": "Zamka sa mamac granatom",
       "tr": "Lazer Tuza\u011f\u0131: Yem",
       "uk": "\u041f\u0430\u0441\u0442\u043a\u0430 \u0437 \u043f\u0440\u0438\u043d\u0430\u0434\u043d\u043e\u044e \u0433\u0440\u0430\u043d\u0430\u0442\u043e\u044e",
-      "zh-CN": "\u8bf1\u9975\u624b\u69b4\u5f39\u9677\u9631",
+      "zh-CN": "\u8bf1\u6355\u624b\u96f7\u9677\u9631",
       "zh-TW": "\u8a98\u990c\u624b\u69b4\u5f48\u9677\u9631"
     },
     "description": {
@@ -30107,7 +30114,7 @@
       "sr": "Laserska \u017eica zamka koja detonira mamac granatu.",
       "tr": "Bir Yem Bombas\u0131n\u0131 patlatan lazer tuzak teli.",
       "uk": "\u041b\u0430\u0437\u0435\u0440\u043d\u0430 \u0440\u043e\u0437\u0442\u044f\u0436\u043a\u0430, \u044f\u043a\u0430 \u0434\u0435\u0442\u043e\u043d\u0443\u0454 \u043f\u0440\u0438\u043d\u0430\u0434\u043d\u0443 \u0433\u0440\u0430\u043d\u0430\u0442\u0443.",
-      "zh-CN": "\u5f15\u7206\u8bf1\u9975\u624b\u69b4\u5f39\u7684\u6fc0\u5149\u7eca\u7ebf\u3002",
+      "zh-CN": "\u6fc0\u5149\u9677\u9631\uff1a\u8bf1\u6355\u3002",
       "zh-TW": "\u5f15\u7206\u8a98\u990c\u624b\u69b4\u5f48\u7684\u96f7\u5c04\u7d46\u7dda\u3002"
     },
     "type": "Quick Use",
@@ -30292,7 +30299,7 @@
       "sr": "Koristi se za izradu naprednog oru\u017eja. Koristi se za izradu: Tempest, Equalizer, Vulcano, Jupiter, Hullcracker",
       "tr": "Geli\u015fmi\u015f silahlar \u00fcretmek i\u00e7in kullan\u0131l\u0131r. \u00dcretilebilir: Tempest, Equalizer, Vulcano, Jupiter, Hullcracker",
       "uk": "\u0412\u0438\u043a\u043e\u0440\u0438\u0441\u0442\u043e\u0432\u0443\u0454\u0442\u044c\u0441\u044f \u0434\u043b\u044f \u0441\u0442\u0432\u043e\u0440\u0435\u043d\u043d\u044f \u043f\u0440\u043e\u0441\u0443\u043d\u0443\u0442\u043e\u0457 \u0437\u0431\u0440\u043e\u0457. \u0412\u0438\u043a\u043e\u0440\u0438\u0441\u0442\u043e\u0432\u0443\u0454\u0442\u044c\u0441\u044f \u0434\u043b\u044f \u0441\u0442\u0432\u043e\u0440\u0435\u043d\u043d\u044f: Tempest, Equalizer, Vulcano, Jupiter, Hullcracker",
-      "zh-CN": "\u7528\u4e8e\u5236\u4f5c\u9ad8\u7ea7\u6b66\u5668\u3002\u53ef\u5236\u4f5c\uff1aTempest\u3001Equalizer\u3001Vulcano\u3001Jupiter\u3001Hullcracker",
+      "zh-CN": "\u7528\u4e8e\u5236\u4f5c\u9ad8\u7ea7\u6b66\u5668\u3002\u53ef\u5236\u4f5c\uff1aTempest\u3001\u5236\u88c1\u8005\u3001Vulcano\u3001\u6728\u661f\u3001Hullcracker",
       "zh-TW": "\u7528\u65bc\u88fd\u4f5c\u9ad8\u7d1a\u6b66\u5668\u3002\u53ef\u88fd\u4f5c\uff1aTempest\u3001Equalizer\u3001Vulcano\u3001Jupiter\u3001Hullcracker"
     },
     "type": "Refined Material",
@@ -30407,12 +30414,12 @@
     },
     "type": "Trinket",
     "rarity": "Common",
-    "value": 0,
+    "value": 100,
     "weightKg": 0.5,
     "stackSize": 1,
     "questItem": true,
     "imageFilename": "https://cdn.arctracker.io/items/major_aivas_mementos.png",
-    "updatedAt": "03/17/2026",
+    "updatedAt": "04/14/2026",
     "addedIn": "base"
   },
   {
@@ -30463,6 +30470,7 @@
     },
     "type": "Trinket",
     "rarity": "Common",
+    "value": 100,
     "weightKg": 0.25,
     "stackSize": 1,
     "effects": {
@@ -30491,7 +30499,7 @@
       }
     },
     "imageFilename": "https://cdn.arctracker.io/items/major_aivas_patch.png",
-    "updatedAt": "02/24/2026",
+    "updatedAt": "04/14/2026",
     "addedIn": "base"
   },
   {
@@ -30515,7 +30523,7 @@
       "sr": "Matrijarhalni Reaktor",
       "tr": "Mader\u015fah Reakt\u00f6r\u00fc",
       "uk": "\u0420\u0435\u0430\u043a\u0442\u043e\u0440 \u041c\u0430\u0442\u0440\u0456\u0430\u0440\u0445\u0430",
-      "zh-CN": "\u6bcd\u5de2\u53cd\u5e94\u5806",
+      "zh-CN": "\u201c\u65cf\u6bcd\u201d\u53cd\u5e94\u5806",
       "zh-TW": "\u6bcd\u5de2\u53cd\u61c9\u7210"
     },
     "description": {
@@ -30599,7 +30607,7 @@
       "sr": "Koristi se za pravljenje \u0161irokog spektra predmeta. Mo\u017ee se reciklirati u materijale za pravljenje. Koristi se za pravljenje: Il Toro, Burletta, Anvil, Muzzle Brake II, Extended Medium Mag II",
       "tr": "\u00c7ok \u00e7e\u015fitli e\u015fyalar\u0131 \u00fcretmek i\u00e7in kullan\u0131l\u0131r. \u00dcretim malzemelerine geri d\u00f6n\u00fc\u015ft\u00fcr\u00fclebilir. \u00dcretim i\u00e7in kullan\u0131l\u0131r: Il Toro, Burletta, Anvil, Namlu Freni II, Uzat\u0131lm\u0131\u015f Orta \u015earj\u00f6r II",
       "uk": "\u0412\u0438\u043a\u043e\u0440\u0438\u0441\u0442\u043e\u0432\u0443\u0454\u0442\u044c\u0441\u044f \u0434\u043b\u044f \u0441\u0442\u0432\u043e\u0440\u0435\u043d\u043d\u044f \u0448\u0438\u0440\u043e\u043a\u043e\u0433\u043e \u0441\u043f\u0435\u043a\u0442\u0440\u0443 \u043f\u0440\u0435\u0434\u043c\u0435\u0442\u0456\u0432. \u041c\u043e\u0436\u043d\u0430 \u043f\u0435\u0440\u0435\u0440\u043e\u0431\u0438\u0442\u0438 \u043d\u0430 \u043c\u0430\u0442\u0435\u0440\u0456\u0430\u043b\u0438 \u0434\u043b\u044f \u043a\u0440\u0430\u0444\u0442\u0443. \u0412\u0438\u043a\u043e\u0440\u0438\u0441\u0442\u043e\u0432\u0443\u0454\u0442\u044c\u0441\u044f \u0434\u043b\u044f \u0441\u0442\u0432\u043e\u0440\u0435\u043d\u043d\u044f: Il Toro, Burletta, Anvil, \u0434\u0443\u043b\u044c\u043d\u0438\u0439 \u0433\u0430\u043b\u044c\u043c\u043e II, \u0440\u043e\u0437\u0448\u0438\u0440\u0435\u043d\u0438\u0439 \u0441\u0435\u0440\u0435\u0434\u043d\u0456\u0439 \u043c\u0430\u0433\u0430\u0437\u0438\u043d II",
-      "zh-CN": "\u7528\u4e8e\u5236\u4f5c\u5404\u79cd\u7269\u54c1\u3002\u53ef\u56de\u6536\u6210\u5236\u4f5c\u6750\u6599\u3002\u7528\u4e8e\u5236\u4f5c\uff1aIl Toro\u3001Burletta\u3001Anvil\u3001\u67aa\u53e3\u5236\u9000\u5668II\u3001\u5ef6\u957f\u4e2d\u578b\u5f39\u5323II",
+      "zh-CN": "\u7528\u4e8e\u5236\u4f5c\u5404\u79cd\u7269\u54c1\u3002\u53ef\u56de\u6536\u6210\u5236\u4f5c\u6750\u6599\u3002\u7528\u4e8e\u5236\u4f5c\uff1aIl Toro\u3001Burletta\u3001Anvil\u3001\u67aa\u53e3\u5236\u9000\u5668II\u3001\u4e2d\u578b\u6269\u5bb9\u5f39\u5323II",
       "zh-TW": "\u7528\u65bc\u88fd\u4f5c\u5404\u7a2e\u7269\u54c1\u3002\u53ef\u56de\u6536\u6210\u88fd\u4f5c\u6750\u6599\u3002\u7528\u65bc\u88fd\u4f5c\uff1aIl Toro\u3001Burletta\u3001Anvil\u3001\u69cd\u53e3\u5236\u9000\u5668II\u3001\u5ef6\u9577\u4e2d\u578b\u5f48\u5323II"
     },
     "type": "Refined Material",
@@ -31290,7 +31298,7 @@
       "sr": "Komponente za modove",
       "tr": "Mod Bile\u015fenleri",
       "uk": "\u041a\u043e\u043c\u043f\u043e\u043d\u0435\u043d\u0442\u0438 \u043c\u043e\u0434\u0438\u0444\u0456\u043a\u0430\u0446\u0456\u0439",
-      "zh-CN": "\u6539\u88c5\u7ec4\u4ef6",
+      "zh-CN": "\u6539\u88c5\u96f6\u4ef6",
       "zh-TW": "\u6539\u88dd\u7d44\u4ef6"
     },
     "description": {
@@ -31312,7 +31320,7 @@
       "sr": "Koristi se za izradu modova za oru\u017eje. Mo\u017ee se reciklirati u materijale za izradu. Koristi se za izradu: Lagana kundak, Sa\u010dmarica choke III, Pro\u0161ireni okvir za sa\u010dmaricu III, Podstavljeni kundak, Kompenzator III",
       "tr": "Silah modlar\u0131 \u00fcretmek i\u00e7in kullan\u0131l\u0131r. \u00dcretim malzemelerine geri d\u00f6n\u00fc\u015ft\u00fcr\u00fclebilir. \u00dcretilebilir: Hafif Dip\u00e7ik, Av T\u00fcfe\u011fi Choke III, Uzat\u0131lm\u0131\u015f Av T\u00fcfe\u011fi \u015earj\u00f6r\u00fc III, Yast\u0131kl\u0131 Dip\u00e7ik, Kompansat\u00f6r III",
       "uk": "\u0412\u0438\u043a\u043e\u0440\u0438\u0441\u0442\u043e\u0432\u0443\u0454\u0442\u044c\u0441\u044f \u0434\u043b\u044f \u0441\u0442\u0432\u043e\u0440\u0435\u043d\u043d\u044f \u043c\u043e\u0434\u0438\u0444\u0456\u043a\u0430\u0446\u0456\u0439 \u0437\u0431\u0440\u043e\u0457. \u041c\u043e\u0436\u043d\u0430 \u043f\u0435\u0440\u0435\u0440\u043e\u0431\u0438\u0442\u0438 \u043d\u0430 \u043c\u0430\u0442\u0435\u0440\u0456\u0430\u043b\u0438 \u0434\u043b\u044f \u043a\u0440\u0430\u0444\u0442\u0443. \u0412\u0438\u043a\u043e\u0440\u0438\u0441\u0442\u043e\u0432\u0443\u0454\u0442\u044c\u0441\u044f \u0434\u043b\u044f \u0441\u0442\u0432\u043e\u0440\u0435\u043d\u043d\u044f: \u043f\u043e\u043b\u0435\u0433\u0448\u0435\u043d\u0438\u0439 \u043f\u0440\u0438\u043a\u043b\u0430\u0434, \u0434\u0443\u043b\u044c\u043d\u0435 \u0437\u0432\u0443\u0436\u0435\u043d\u043d\u044f \u0434\u043b\u044f \u0434\u0440\u043e\u0431\u043e\u0432\u0438\u043a\u0430 III, \u0440\u043e\u0437\u0448\u0438\u0440\u0435\u043d\u0438\u0439 \u043c\u0430\u0433\u0430\u0437\u0438\u043d \u0434\u043b\u044f \u0434\u0440\u043e\u0431\u043e\u0432\u0438\u043a\u0430 III, \u043c'\u044f\u043a\u0438\u0439 \u043f\u0440\u0438\u043a\u043b\u0430\u0434, \u043a\u043e\u043c\u043f\u0435\u043d\u0441\u0430\u0442\u043e\u0440 III",
-      "zh-CN": "\u7528\u4e8e\u5236\u4f5c\u6b66\u5668\u6539\u88c5\u3002\u53ef\u56de\u6536\u4e3a\u5236\u4f5c\u6750\u6599\u3002\u53ef\u5236\u4f5c\uff1a\u8f7b\u91cf\u5316\u67aa\u6258\u3001\u9730\u5f39\u67aa\u6536\u675f\u5668 III\u3001\u5ef6\u957f\u9730\u5f39\u67aa\u5f39\u5323 III\u3001\u8f6f\u57ab\u67aa\u6258\u3001\u8865\u507f\u5668 III",
+      "zh-CN": "\u7528\u4e8e\u5236\u4f5c\u6b66\u5668\u6539\u88c5\u3002\u53ef\u56de\u6536\u4e3a\u5236\u4f5c\u6750\u6599\u3002\u53ef\u5236\u4f5c\uff1a\u8f7b\u578b\u67aa\u6258\u3001\u9730\u5f39\u67aa\u6536\u675f\u5668 III\u3001\u9730\u5f39\u67aa\u6269\u5bb9\u5f39\u5323 III\u3001\u51cf\u9707\u67aa\u6258\u3001\u8865\u507f\u5668 III",
       "zh-TW": "\u7528\u65bc\u88fd\u4f5c\u6b66\u5668\u6539\u88dd\u3002\u53ef\u56de\u6536\u70ba\u88fd\u4f5c\u6750\u6599\u3002\u53ef\u88fd\u4f5c\uff1a\u8f15\u91cf\u5316\u69cd\u6258\u3001\u9730\u5f48\u69cd\u6536\u675f\u5668 III\u3001\u5ef6\u9577\u9730\u5f48\u69cd\u5f48\u5323 III\u3001\u8edf\u588a\u69cd\u6258\u3001\u88dc\u511f\u5668 III"
     },
     "type": "Refined Material",
@@ -31386,11 +31394,12 @@
     },
     "type": "Trinket",
     "rarity": "Common",
+    "value": 100,
     "weightKg": 0.25,
     "stackSize": 1,
     "questItem": true,
     "imageFilename": "https://cdn.arctracker.io/items/moisture_meter.png",
-    "updatedAt": "02/24/2026",
+    "updatedAt": "04/14/2026",
     "addedIn": "1.7"
   },
   {
@@ -32423,7 +32432,7 @@
       "sr": "Zvu\u010dni alarm",
       "tr": "Yaygarac\u0131",
       "uk": "\u0428\u0443\u043c\u043e\u0432\u0438\u043a",
-      "zh-CN": "\u566a\u97f3\u5236\u9020\u5668",
+      "zh-CN": "\u53d1\u58f0\u5668",
       "zh-TW": "\u566a\u97f3\u88fd\u9020\u5668"
     },
     "description": {
@@ -32445,7 +32454,7 @@
       "sr": "Postavljivi senzor blizine koji aktivira alarm kada se otkriju neprijateljski Rajderi.",
       "tr": "D\u00fc\u015fman ak\u0131nc\u0131lar tespit edildi\u011finde alarm \u00e7alan konu\u015fland\u0131r\u0131labilir yak\u0131nl\u0131k sens\u00f6r\u00fc.",
       "uk": "\u0412\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u044e\u0432\u0430\u043d\u0438\u0439 \u0434\u0430\u0442\u0447\u0438\u043a \u043d\u0430\u0431\u043b\u0438\u0436\u0435\u043d\u043d\u044f, \u044f\u043a\u0438\u0439 \u043f\u043e\u0434\u0430\u0454 \u0441\u0438\u0433\u043d\u0430\u043b \u0442\u0440\u0438\u0432\u043e\u0433\u0438 \u043f\u0440\u0438 \u0432\u0438\u044f\u0432\u043b\u0435\u043d\u043d\u0456\u0432\u043e\u0440\u043e\u0436\u0438\u0445 \u0440\u0435\u0439\u0434\u0435\u0440\u0456\u0432.",
-      "zh-CN": "\u53ef\u90e8\u7f72\u7684\u63a5\u8fd1\u4f20\u611f\u5668\uff0c\u4fa6\u6d4b\u5230\u654c\u65b9\u63a0\u593a\u8005\u65f6\u4f1a\u53d1\u51fa\u8b66\u62a5\u3002",
+      "zh-CN": "\u53ef\u90e8\u7f72\u7684\u63a5\u8fd1\u4f20\u611f\u5668\uff0c\u4fa6\u6d4b\u5230\u654c\u65b9\u5947\u88ad\u8005\u65f6\u4f1a\u53d1\u51fa\u8b66\u62a5\u3002",
       "zh-TW": "\u53ef\u90e8\u7f72\u7684\u63a5\u8fd1\u611f\u61c9\u5668\uff0c\u5075\u6e2c\u5230\u6575\u65b9\u63a0\u596a\u8005\u6642\u6703\u767c\u51fa\u8b66\u5831\u3002"
     },
     "type": "Quick Use",
@@ -32636,11 +32645,12 @@
     },
     "type": "Trinket",
     "rarity": "Common",
+    "value": 100,
     "weightKg": 0.25,
     "stackSize": 1,
     "questItem": true,
     "imageFilename": "https://cdn.arctracker.io/items/nutrient_meter.png",
-    "updatedAt": "02/24/2026",
+    "updatedAt": "04/14/2026",
     "addedIn": "1.7"
   },
   {
@@ -32691,11 +32701,11 @@
     },
     "type": "Trinket",
     "rarity": "Common",
-    "value": 0,
+    "value": 100,
     "weightKg": 0.5,
     "stackSize": 1,
     "questItem": true,
-    "updatedAt": "03/31/2026",
+    "updatedAt": "04/14/2026",
     "addedIn": "1.22"
   },
   {
@@ -32741,7 +32751,7 @@
       "sr": "Koristi se za izradu oru\u017eja i eksploziva. Mo\u017ee se reciklirati u hemikalije. Koristi se za izradu: Renegade, Eksplozivna Smesa, Blaze Granata",
       "tr": "Silah ve patlay\u0131c\u0131 \u00fcretmek i\u00e7in kullan\u0131l\u0131r. Kimyasallara geri d\u00f6n\u00fc\u015ft\u00fcr\u00fclebilir. \u00dcretim i\u00e7in kullan\u0131l\u0131r: Renegade, Patlay\u0131c\u0131 Bile\u015fik, Alev Bombas\u0131",
       "uk": "\u0412\u0438\u043a\u043e\u0440\u0438\u0441\u0442\u043e\u0432\u0443\u0454\u0442\u044c\u0441\u044f \u0434\u043b\u044f \u0441\u0442\u0432\u043e\u0440\u0435\u043d\u043d\u044f \u0437\u0431\u0440\u043e\u0457 \u0442\u0430 \u0432\u0438\u0431\u0443\u0445\u0456\u0432\u043a\u0438. \u041c\u043e\u0436\u043d\u0430 \u043f\u0435\u0440\u0435\u0440\u043e\u0431\u0438\u0442\u0438 \u043d\u0430 \u0445\u0456\u043c\u0456\u043a\u0430\u0442\u0438. \u0412\u0438\u043a\u043e\u0440\u0438\u0441\u0442\u043e\u0432\u0443\u0454\u0442\u044c\u0441\u044f \u0434\u043b\u044f \u0441\u0442\u0432\u043e\u0440\u0435\u043d\u043d\u044f: Renegade, \u0432\u0438\u0431\u0443\u0445\u043e\u0432\u0430 \u0441\u0443\u043c\u0456\u0448, \u0432\u043e\u0433\u043d\u044f\u043d\u0430 \u0433\u0440\u0430\u043d\u0430\u0442\u0430",
-      "zh-CN": "\u7528\u4e8e\u5236\u4f5c\u6b66\u5668\u548c\u7206\u70b8\u7269\u3002\u53ef\u56de\u6536\u4e3a\u5316\u5b66\u54c1\u3002\u7528\u4e8e\u5236\u4f5c\uff1aRenegade\u3001\u7206\u70b8\u5316\u5408\u7269\u3001\u70c8\u7130\u624b\u69b4\u5f39",
+      "zh-CN": "\u7528\u4e8e\u5236\u4f5c\u6b66\u5668\u548c\u7206\u70b8\u7269\u3002\u53ef\u56de\u6536\u4e3a\u5316\u5b66\u54c1\u3002\u7528\u4e8e\u5236\u4f5c\uff1aRenegade\u3001\u7206\u70b8\u5316\u5408\u7269\u3001\u706b\u7130\u624b\u96f7",
       "zh-TW": "\u7528\u65bc\u88fd\u4f5c\u6b66\u5668\u548c\u7206\u88c2\u7269\u3002\u53ef\u56de\u6536\u70ba\u5316\u5b78\u54c1\u3002\u7528\u65bc\u88fd\u4f5c\uff1aRenegade\u3001\u7206\u70b8\u5316\u5408\u7269\u3001\u70c8\u7130\u624b\u69b4\u5f48"
     },
     "type": "Topside Material",
@@ -32819,11 +32829,11 @@
     },
     "type": "Trinket",
     "rarity": "Common",
-    "value": 0,
+    "value": 100,
     "weightKg": 0.25,
     "stackSize": 1,
     "imageFilename": "https://cdn.arctracker.io/items/old_world_books.png",
-    "updatedAt": "02/05/2026",
+    "updatedAt": "04/14/2026",
     "addedIn": "1.1"
   },
   {
@@ -33264,7 +33274,7 @@
       "ru": "\u042f\u0441\u0442\u0440\u0435\u0431 II",
       "sr": "Osprey II",
       "tr": "Kartal II",
-      "uk": "Osprey II",
+      "uk": "\u041e\u0441\u043f\u0440\u0435\u0439 II",
       "zh-CN": "\u9c7c\u9e70 II",
       "zh-TW": "\u9b5a\u9df9 II"
     },
@@ -33566,7 +33576,7 @@
       "ru": "\u042f\u0441\u0442\u0440\u0435\u0431 III",
       "sr": "Osprey III",
       "tr": "Kartal III",
-      "uk": "Osprey III",
+      "uk": "\u041e\u0441\u043f\u0440\u0435\u0439 III",
       "zh-CN": "\u9c7c\u9e70 III",
       "zh-TW": "\u9b5a\u9df9 III"
     },
@@ -33868,7 +33878,7 @@
       "ru": "\u042f\u0441\u0442\u0440\u0435\u0431 IV",
       "sr": "Osprey IV",
       "tr": "Kartal IV",
-      "uk": "Osprey IV",
+      "uk": "\u041e\u0441\u043f\u0440\u0435\u0439 IV",
       "zh-CN": "\u9c7c\u9e70 IV",
       "zh-TW": "\u9b5a\u9df9 IV"
     },
@@ -34170,7 +34180,7 @@
       "sr": "Podstavljeno kundak",
       "tr": "Yast\u0131kl\u0131 Dip\u00e7ik",
       "uk": "\u041c'\u044f\u043a\u0438\u0439 \u043f\u0440\u0438\u043a\u043b\u0430\u0434",
-      "zh-CN": "\u8f6f\u57ab\u67aa\u6258",
+      "zh-CN": "\u51cf\u9707\u67aa\u6258",
       "zh-TW": "\u8edf\u588a\u69cd\u6258"
     },
     "description": {
@@ -34406,7 +34416,7 @@
       "sr": "Nacrt: Podstavljeno kundak",
       "tr": "Yast\u0131kl\u0131 Dip\u00e7ik Tasla\u011f\u0131",
       "uk": "\u041a\u0440\u0435\u0441\u043b\u0435\u043d\u043d\u044f: \u041c'\u044f\u043a\u0438\u0439 \u043f\u0440\u0438\u043a\u043b\u0430\u0434",
-      "zh-CN": "\u8f6f\u57ab\u67aa\u6258\u84dd\u56fe",
+      "zh-CN": "\u51cf\u9707\u67aa\u6258\u84dd\u56fe",
       "zh-TW": "\u8edf\u588a\u69cd\u6258\u85cd\u5716"
     },
     "description": {
@@ -34748,7 +34758,7 @@
       "sr": "Koristi se za izradu \u0161irokog spektra predmeta. Koristi se za izradu: Ukosnica, Laki \u0161tit, Plja\u010dkanje Mk. 1, Laka udarna granata, Produ\u017eeni \u0161ar\u017eer za sa\u010dmaru I",
       "tr": "Geni\u015f bir yelpazede e\u015fya \u00fcretmek i\u00e7in kullan\u0131l\u0131r. \u00dcretmek i\u00e7in kullan\u0131l\u0131r: Sa\u00e7 Tokas\u0131, Hafif Kalkan, Ya\u011fmalama Mk. 1, Hafif Darbe Bombas\u0131, Geni\u015fletilmi\u015f Av T\u00fcfe\u011fi \u015earj\u00f6r\u00fc I",
       "uk": "\u0412\u0438\u043a\u043e\u0440\u0438\u0441\u0442\u043e\u0432\u0443\u0454\u0442\u044c\u0441\u044f \u0434\u043b\u044f \u0441\u0442\u0432\u043e\u0440\u0435\u043d\u043d\u044f \u0448\u0438\u0440\u043e\u043a\u043e\u0433\u043e \u0441\u043f\u0435\u043a\u0442\u0440\u0443 \u043f\u0440\u0435\u0434\u043c\u0435\u0442\u0456\u0432. \u0412\u0438\u043a\u043e\u0440\u0438\u0441\u0442\u043e\u0432\u0443\u0454\u0442\u044c\u0441\u044f \u0434\u043b\u044f \u0441\u0442\u0432\u043e\u0440\u0435\u043d\u043d\u044f: \u0428\u043f\u0438\u043b\u044c\u043a\u0430, \u041b\u0435\u0433\u043a\u0438\u0439 \u0449\u0438\u0442, \u041c\u0430\u0440\u043e\u0434\u0435\u0440\u0441\u0442\u0432\u043e Mk. 1, \u041b\u0435\u0433\u043a\u0430 \u0443\u0434\u0430\u0440\u043d\u0430 \u0433\u0440\u0430\u043d\u0430\u0442\u0430, \u0420\u043e\u0437\u0448\u0438\u0440\u0435\u043d\u0438\u0439 \u043c\u0430\u0433\u0430\u0437\u0438\u043d \u0434\u043b\u044f \u0434\u0440\u043e\u0431\u043e\u0432\u0438\u043a\u0430 I",
-      "zh-CN": "\u7528\u4e8e\u5236\u4f5c\u5404\u79cd\u7269\u54c1\u3002\u53ef\u5236\u4f5c\uff1a\u53d1\u5939\u3001\u8f7b\u578b\u62a4\u76fe\u3001\u63a0\u593a Mk. 1\u3001\u8f7b\u578b\u51b2\u51fb\u624b\u69b4\u5f39\u3001\u9730\u5f39\u67aa\u6269\u5bb9\u5f39\u5323 I",
+      "zh-CN": "\u7528\u4e8e\u5236\u4f5c\u5404\u79cd\u7269\u54c1\u3002\u53ef\u5236\u4f5c\uff1a\u53d1\u5939\u3001\u8f7b\u578b\u62a4\u76fe\u3001\u63a0\u593a Mk. 1\u3001\u8f7b\u578b\u51b2\u51fb\u624b\u96f7\u3001\u9730\u5f39\u67aa\u6269\u5bb9\u5f39\u5323 I",
       "zh-TW": "\u7528\u65bc\u88fd\u4f5c\u5404\u7a2e\u7269\u54c1\u3002\u53ef\u88fd\u4f5c\uff1a\u9aee\u593e\u3001\u8f15\u578b\u8b77\u76fe\u3001\u63a0\u596a Mk. 1\u3001\u8f15\u578b\u885d\u64ca\u624b\u69b4\u5f48\u3001\u9730\u5f48\u69cd\u64f4\u5145\u5f48\u5323 I"
     },
     "type": "Basic Material",
@@ -34909,7 +34919,7 @@
       "sr": "Pop Okida\u010d",
       "tr": "Ani Tetik",
       "uk": "\u041f\u043e\u043f-\u0442\u0440\u0438\u0433\u0435\u0440",
-      "zh-CN": "\u5f39\u51fa\u6273\u673a",
+      "zh-CN": "\u201c\u7206\u7206\u201d\u89e6\u53d1\u5668",
       "zh-TW": "\u5f48\u51fa\u6273\u6a5f"
     },
     "description": {
@@ -35040,12 +35050,12 @@
     },
     "type": "Trinket",
     "rarity": "Common",
-    "value": 0,
+    "value": 100,
     "weightKg": 0.5,
     "stackSize": 1,
     "questItem": true,
     "imageFilename": "https://cdn.arctracker.io/items/possibly_toxic_plant.png",
-    "updatedAt": "03/17/2026",
+    "updatedAt": "04/14/2026",
     "addedIn": "base"
   },
   {
@@ -35244,7 +35254,7 @@
       "sr": "Energetski Kabl",
       "tr": "G\u00fc\u00e7 Kablosu",
       "uk": "\u0421\u0438\u043b\u043e\u0432\u0438\u0439 \u043a\u0430\u0431\u0435\u043b\u044c",
-      "zh-CN": "\u7535\u6e90\u7ebf",
+      "zh-CN": "\u8f93\u7535\u7ebf",
       "zh-TW": "\u96fb\u529b\u96fb\u7e9c"
     },
     "description": {
@@ -35306,7 +35316,7 @@
       "sr": "Energetska \u0160ipka",
       "tr": "G\u00fc\u00e7 Ba\u011flant\u0131s\u0131",
       "uk": "\u0415\u043d\u0435\u0440\u0433\u0435\u0442\u0438\u0447\u043d\u0438\u0439 \u0441\u0442\u0440\u0438\u0436\u0435\u043d\u044c",
-      "zh-CN": "\u80fd\u91cf\u68d2",
+      "zh-CN": "\u80fd\u91cf\u7ba1\uff08\u7535\u68cd\uff09",
       "zh-TW": "\u80fd\u91cf\u68d2"
     },
     "description": {
@@ -35328,7 +35338,7 @@
       "sr": "Koristi se u izradi. Koristi se za izradu: Te\u0161ki \u0160tit, Brza Kuka",
       "tr": "\u00dcretimde kullan\u0131l\u0131r. \u00dcretimde kullan\u0131l\u0131r: A\u011f\u0131r Kalkan, Mandal Kancas\u0131",
       "uk": "\u0412\u0438\u043a\u043e\u0440\u0438\u0441\u0442\u043e\u0432\u0443\u0454\u0442\u044c\u0441\u044f \u0443 \u0441\u0442\u0432\u043e\u0440\u0435\u043d\u043d\u0456 \u043f\u0440\u0435\u0434\u043c\u0435\u0442\u0456\u0432. \u0412\u0438\u043a\u043e\u0440\u0438\u0441\u0442\u043e\u0432\u0443\u0454\u0442\u044c\u0441\u044f \u0434\u043b\u044f \u0441\u0442\u0432\u043e\u0440\u0435\u043d\u043d\u044f: \u0432\u0430\u0436\u043a\u0438\u0439 \u0449\u0438\u0442, \u043a\u0430\u0440\u0430\u0431\u0456\u043d",
-      "zh-CN": "\u7528\u4e8e\u5236\u4f5c\u3002\u7528\u4e8e\u5236\u4f5c\uff1a\u91cd\u578b\u62a4\u76fe\u3001\u5feb\u6263\u94a9",
+      "zh-CN": "\u7528\u4e8e\u5236\u4f5c\u3002\u7528\u4e8e\u5236\u4f5c\uff1a\u91cd\u578b\u62a4\u76fe\u3001\u5b89\u5168\u94a9",
       "zh-TW": "\u7528\u65bc\u88fd\u4f5c\u3002\u7528\u65bc\u88fd\u4f5c\uff1a\u91cd\u578b\u8b77\u76fe\u3001\u5feb\u6263\u9264"
     },
     "type": "Refined Material",
@@ -35375,7 +35385,7 @@
       "sr": "Opuncija",
       "tr": "Dikenli Armut",
       "uk": "\u041e\u043f\u0443\u043d\u0446\u0456\u044f",
-      "zh-CN": "\u4ed9\u4eba\u638c\u679c",
+      "zh-CN": "\u4ed9\u4eba\u679c\uff08\u4ed9\u4eba\u638c\u679c\uff09",
       "zh-TW": "\u4ed9\u4eba\u638c\u679c"
     },
     "description": {
@@ -35538,10 +35548,10 @@
     },
     "type": "Trinket",
     "rarity": "Common",
-    "value": 0,
+    "value": 100,
     "weightKg": 0,
     "stackSize": 1,
-    "updatedAt": "03/17/2026",
+    "updatedAt": "04/14/2026",
     "addedIn": "1.17"
   },
   {
@@ -35628,7 +35638,7 @@
       "sr": "Pulsna mina",
       "tr": "S\u0131\u00e7rama May\u0131n\u0131: \u0130tici",
       "uk": "\u0406\u043c\u043f\u0443\u043b\u044c\u0441\u043d\u0430 \u043c\u0456\u043d\u0430",
-      "zh-CN": "\u8109\u51b2\u5730\u96f7",
+      "zh-CN": "\u8df3\u96f7\uff1a\u51b2\u51fb",
       "zh-TW": "\u8108\u885d\u5730\u96f7"
     },
     "description": {
@@ -35732,7 +35742,7 @@
       "sr": "Nacrt za pulsnu minu",
       "tr": "S\u0131\u00e7rama May\u0131n\u0131: \u0130tici Tasla\u011f\u0131",
       "uk": "\u041a\u0440\u0435\u0441\u043b\u0435\u043d\u043d\u044f \u0456\u043c\u043f\u0443\u043b\u044c\u0441\u043d\u043e\u0457 \u043c\u0456\u043d\u0438",
-      "zh-CN": "\u8109\u51b2\u5730\u96f7\u84dd\u56fe",
+      "zh-CN": "\u8df3\u96f7\uff1a\u51b2\u51fb\u84dd\u56fe",
       "zh-TW": "\u8108\u885d\u5730\u96f7\u85cd\u5716"
     },
     "description": {
@@ -35787,7 +35797,7 @@
       "sr": "Kralji\u010din Reaktor",
       "tr": "Krali\u00e7e Reakt\u00f6r\u00fc",
       "uk": "\u0420\u0435\u0430\u043a\u0442\u043e\u0440 \u043a\u043e\u0440\u043e\u043b\u0435\u0432\u0438",
-      "zh-CN": "\u5973\u738b\u53cd\u5e94\u5806",
+      "zh-CN": "\u201c\u5973\u738b\u201d\u53cd\u5e94\u5806",
       "zh-TW": "\u5973\u738b\u53cd\u61c9\u7210"
     },
     "description": {
@@ -35977,7 +35987,7 @@
       "sr": "Klju\u010d Rejderskog Otvora",
       "tr": "Raider Ge\u00e7idi Anahtar\u0131",
       "uk": "\u041a\u043b\u044e\u0447 \u0432\u0456\u0434 \u043b\u044e\u043a\u0430 \u0440\u0435\u0439\u0434\u0435\u0440\u0430",
-      "zh-CN": "\u63a0\u593a\u8005\u8231\u95e8\u94a5\u5319",
+      "zh-CN": "\u5947\u88ad\u8005\u6697\u95e8\u94a5\u5319",
       "zh-TW": "\u63a0\u596a\u8005\u8259\u9580\u9470\u5319"
     },
     "description": {
@@ -35999,7 +36009,7 @@
       "sr": "Otklju\u010dava Rejderski Otvor.",
       "tr": "Bir Ak\u0131nc\u0131 Ambar Kapa\u011f\u0131n\u0131 a\u00e7ar.",
       "uk": "\u0412\u0456\u0434\u043a\u0440\u0438\u0432\u0430\u0454 \u043b\u044e\u043a \u0440\u0435\u0439\u0434\u0435\u0440\u0430.",
-      "zh-CN": "\u89e3\u9501\u63a0\u593a\u8005\u8231\u95e8\u3002",
+      "zh-CN": "\u89e3\u9501\u4e00\u9053\u5947\u88ad\u8005\u6697\u95e8\u3002",
       "zh-TW": "\u89e3\u9396\u63a0\u596a\u8005\u8259\u9580\u3002"
     },
     "type": "Key",
@@ -36052,7 +36062,7 @@
       "sr": "Bezbednosni kod Raider's Refugea",
       "tr": "Raider's Refuge G\u00fcvenlik Kodu",
       "uk": "\u041a\u043e\u0434 \u0431\u0435\u0437\u043f\u0435\u043a\u0438 \u041f\u0440\u0438\u0442\u0443\u043b\u043a\u0443 \u0420\u0435\u0439\u0434\u0435\u0440\u0456\u0432",
-      "zh-CN": "\u7a81\u88ad\u8005\u907f\u96be\u6240\u5b89\u5168\u5bc6\u7801",
+      "zh-CN": "\u5947\u88ad\u8005\u907f\u96be\u6240\u5b89\u5168\u5bc6\u7801",
       "zh-TW": "\u7a81\u8972\u8005\u907f\u96e3\u6240\u5b89\u5168\u5bc6\u78bc"
     },
     "description": {
@@ -36074,7 +36084,7 @@
       "sr": "Jedan od \u010detiri bezbednosna koda potrebna za otklju\u010davanje zaklju\u010danih vrata na Blue Gateu. Prona\u0111en na Raider's Refugeu.",
       "tr": "Blue Gate'teki Kilitli Kap\u0131y\u0131 a\u00e7mak i\u00e7in gereken d\u00f6rt g\u00fcvenlik kodundan biri. Raider's Refuge'da bulunur.",
       "uk": "\u041e\u0434\u0438\u043d \u0456\u0437 \u0447\u043e\u0442\u0438\u0440\u044c\u043e\u0445 \u043a\u043e\u0434\u0456\u0432 \u0431\u0435\u0437\u043f\u0435\u043a\u0438, \u043d\u0435\u043e\u0431\u0445\u0456\u0434\u043d\u0438\u0445 \u0434\u043b\u044f \u0432\u0456\u0434\u043a\u0440\u0438\u0442\u0442\u044f \u0437\u0430\u043c\u043a\u043d\u0435\u043d\u0438\u0445 \u0432\u043e\u0440\u0456\u0442 \u043d\u0430 \u0411\u043b\u044e \u0413\u0435\u0439\u0442. \u0417\u043d\u0430\u0439\u0434\u0435\u043d\u043e \u0432 \u041f\u0440\u0438\u0442\u0443\u043b\u043a\u0443 \u0420\u0435\u0439\u0434\u0435\u0440\u0456\u0432.",
-      "zh-CN": "\u89e3\u9501\u84dd\u95e8\u4e0a\u9501\u5927\u95e8\u6240\u9700\u7684\u56db\u4e2a\u5b89\u5168\u5bc6\u7801\u4e4b\u4e00\u3002\u5728\u7a81\u88ad\u8005\u907f\u96be\u6240\u627e\u5230\u3002",
+      "zh-CN": "\u89e3\u9501\u84dd\u95e8\u4e0a\u9501\u5927\u95e8\u6240\u9700\u7684\u56db\u4e2a\u5b89\u5168\u5bc6\u7801\u4e4b\u4e00\u3002\u5728\u5947\u88ad\u8005\u907f\u96be\u6240\u627e\u5230\u3002",
       "zh-TW": "\u89e3\u9396\u85cd\u9580\u4e0a\u9396\u5927\u9580\u6240\u9700\u7684\u56db\u500b\u5b89\u5168\u5bc6\u78bc\u4e4b\u4e00\u3002\u5728\u7a81\u8972\u8005\u907f\u96e3\u6240\u627e\u5230\u3002"
     },
     "type": "Key",
@@ -36129,7 +36139,7 @@
       "sr": "Jeftina ofanzivna opcija, ali se mora puniti po 2 metka odjednom.",
       "tr": "Ucuz bir sald\u0131r\u0131 se\u00e7ene\u011fi, ancak ayn\u0131 anda 2 mermi \u015farj edilmeli.",
       "uk": "\u0414\u0435\u0448\u0435\u0432\u0438\u0439 \u043d\u0430\u0441\u0442\u0443\u043f\u0430\u043b\u044c\u043d\u0438\u0439 \u0432\u0430\u0440\u0456\u0430\u043d\u0442, \u0430\u043b\u0435 \u043f\u0435\u0440\u0435\u0437\u0430\u0440\u044f\u0434\u0436\u0430\u0454\u0442\u044c\u0441\u044f \u043f\u043e 2 \u043f\u0430\u0442\u0440\u043e\u043d\u0438 \u0437\u0430 \u0440\u0430\u0437.",
-      "zh-CN": "\u4fbf\u5b9c\u7684\u653b\u51fb\u9009\u62e9\uff0c\u4f46\u6bcf\u6b21\u53ea\u80fd\u88c5\u586b2\u53d1\u5b50\u5f39\u3002",
+      "zh-CN": "\u6027\u4ef7\u6bd4\u8f83\u9ad8\uff0c\u4f46\u6bcf\u6b21\u53ea\u80fd\u88c5\u586b\u4e24\u53d1\u5b50\u5f39\u3002",
       "zh-TW": "\u4fbf\u5b9c\u7684\u653b\u64ca\u9078\u64c7\uff0c\u4f46\u6bcf\u6b21\u53ea\u80fd\u88dd\u586b2\u767c\u5b50\u5f48\u3002"
     },
     "type": "Assault Rifle",
@@ -36351,7 +36361,7 @@
       "sr": "Potpuno automatska juri\u0161na pu\u0161ka. Jeftina ofanzivna opcija, ali se mora puniti po 2 metka odjednom.",
       "tr": "Tam otomatik sald\u0131r\u0131 t\u00fcfe\u011fi. Ucuz bir sald\u0131r\u0131 se\u00e7ene\u011fi, ancak her seferinde 2 mermi doldurulmal\u0131d\u0131r.",
       "uk": "\u041f\u043e\u0432\u043d\u0456\u0441\u0442\u044e \u0430\u0432\u0442\u043e\u043c\u0430\u0442\u0438\u0447\u043d\u0430 \u0448\u0442\u0443\u0440\u043c\u043e\u0432\u0430 \u0433\u0432\u0438\u043d\u0442\u0456\u0432\u043a\u0430. \u0414\u0435\u0448\u0435\u0432\u0438\u0439 \u043d\u0430\u0441\u0442\u0443\u043f\u0430\u043b\u044c\u043d\u0438\u0439 \u0432\u0430\u0440\u0456\u0430\u043d\u0442, \u0430\u043b\u0435 \u043f\u0435\u0440\u0435\u0437\u0430\u0440\u044f\u0434\u0436\u0430\u0454\u0442\u044c\u0441\u044f \u043f\u043e 2 \u043f\u0430\u0442\u0440\u043e\u043d\u0438 \u0437\u0430 \u0440\u0430\u0437.",
-      "zh-CN": "\u5168\u81ea\u52a8\u7a81\u51fb\u6b65\u67aa\u3002\u5ec9\u4ef7\u7684\u8fdb\u653b\u9009\u62e9\uff0c\u4f46\u6bcf\u6b21\u53ea\u80fd\u88c5\u586b2\u53d1\u5b50\u5f39\u3002",
+      "zh-CN": "\u6027\u4ef7\u6bd4\u8f83\u9ad8\uff0c\u4f46\u6bcf\u6b21\u53ea\u80fd\u88c5\u586b\u4e24\u53d1\u5b50\u5f39\u3002",
       "zh-TW": "\u5168\u81ea\u52d5\u7a81\u64ca\u6b65\u69cd\u3002\u4fbf\u5b9c\u7684\u9032\u653b\u9078\u64c7\uff0c\u4f46\u6bcf\u6b21\u53ea\u80fd\u88dd\u586b2\u767c\u5b50\u5f48\u3002"
     },
     "type": "Assault Rifle",
@@ -36578,7 +36588,7 @@
       "sr": "Jeftina ofanzivna opcija, ali se mora puniti po 2 metka odjednom.",
       "tr": "Ucuz bir sald\u0131r\u0131 se\u00e7ene\u011fi, ancak ayn\u0131 anda 2 mermi \u015farj edilmeli.",
       "uk": "\u0414\u0435\u0448\u0435\u0432\u0438\u0439 \u0432\u0430\u0440\u0456\u0430\u043d\u0442 \u0434\u043b\u044f \u0430\u0442\u0430\u043a\u0438, \u0430\u043b\u0435 \u043f\u0435\u0440\u0435\u0437\u0430\u0440\u044f\u0434\u0436\u0430\u0454\u0442\u044c\u0441\u044f \u043f\u043e 2 \u043a\u0443\u043b\u0456 \u0437\u0430 \u0440\u0430\u0437.",
-      "zh-CN": "\u4fbf\u5b9c\u7684\u653b\u51fb\u9009\u9879\uff0c\u4f46\u6bcf\u6b21\u53ea\u80fd\u88c5\u586b2\u53d1\u5b50\u5f39\u3002",
+      "zh-CN": "\u6027\u4ef7\u6bd4\u8f83\u9ad8\uff0c\u4f46\u6bcf\u6b21\u53ea\u80fd\u88c5\u586b\u4e24\u53d1\u5b50\u5f39\u3002",
       "zh-TW": "\u4fbf\u5b9c\u7684\u653b\u64ca\u9078\u9805\uff0c\u4f46\u6bcf\u6b21\u53ea\u80fd\u88dd\u586b2\u767c\u5b50\u5f48\u3002"
     },
     "type": "Assault Rifle",
@@ -36797,7 +36807,7 @@
       "pl": "Rattler IV",
       "pt": "Rattler IV",
       "pt-BR": "Matraca IV",
-      "ru": "Rattler IV",
+      "ru": "\u0422\u0440\u0435\u0449\u0435\u0442\u043a\u0430 IV",
       "sr": "Rattler IV",
       "tr": "\u00c7\u0131ng\u0131rak IV",
       "uk": "Rattler IV",
@@ -36823,7 +36833,7 @@
       "sr": "Potpuno automatska juri\u0161na pu\u0161ka. Jeftina ofanzivna opcija, ali se mora puniti po 2 metka odjednom.",
       "tr": "Tam otomatik sald\u0131r\u0131 t\u00fcfe\u011fi. Ucuz bir sald\u0131r\u0131 se\u00e7ene\u011fi, ancak her seferinde 2 mermi doldurulmal\u0131d\u0131r.",
       "uk": "\u041f\u043e\u0432\u043d\u0456\u0441\u0442\u044e \u0430\u0432\u0442\u043e\u043c\u0430\u0442\u0438\u0447\u043d\u0430 \u0448\u0442\u0443\u0440\u043c\u043e\u0432\u0430 \u0433\u0432\u0438\u043d\u0442\u0456\u0432\u043a\u0430. \u0414\u0435\u0448\u0435\u0432\u0438\u0439 \u043d\u0430\u0441\u0442\u0443\u043f\u0430\u043b\u044c\u043d\u0438\u0439 \u0432\u0430\u0440\u0456\u0430\u043d\u0442, \u0430\u043b\u0435 \u043f\u0435\u0440\u0435\u0437\u0430\u0440\u044f\u0434\u0436\u0430\u0454\u0442\u044c\u0441\u044f \u043f\u043e 2 \u043f\u0430\u0442\u0440\u043e\u043d\u0438 \u0437\u0430 \u0440\u0430\u0437.",
-      "zh-CN": "\u5168\u81ea\u52a8\u7a81\u51fb\u6b65\u67aa\u3002\u5ec9\u4ef7\u7684\u8fdb\u653b\u9009\u62e9\uff0c\u4f46\u6bcf\u6b21\u53ea\u80fd\u88c5\u586b2\u53d1\u5b50\u5f39\u3002",
+      "zh-CN": "\u6027\u4ef7\u6bd4\u8f83\u9ad8\uff0c\u4f46\u6bcf\u6b21\u53ea\u80fd\u88c5\u586b\u4e24\u53d1\u5b50\u5f39\u3002",
       "zh-TW": "\u5168\u81ea\u52d5\u7a81\u64ca\u6b65\u69cd\u3002\u4fbf\u5b9c\u7684\u9032\u653b\u9078\u64c7\uff0c\u4f46\u6bcf\u6b21\u53ea\u80fd\u88dd\u586b2\u767c\u5b50\u5f48\u3002"
     },
     "type": "Assault Rifle",
@@ -37028,7 +37038,7 @@
       "sr": "Blok flauta",
       "tr": "\u00c7al\u0131nabilen Fl\u00fct",
       "uk": "\u0411\u043b\u043e\u043a\u0444\u043b\u0435\u0439\u0442\u0430",
-      "zh-CN": "\u7ad6\u7b1b",
+      "zh-CN": "\u53ef\u6f14\u594f\u957f\u7b1b",
       "zh-TW": "\u76f4\u7b1b"
     },
     "description": {
@@ -37050,7 +37060,7 @@
       "sr": "Blok flauta koja se mo\u017ee svirati da privu\u010de pa\u017enju ARC-a i impresionira druge Rejdere.",
       "tr": "ARC'nin dikkatini \u00e7ekmek ve di\u011fer Ak\u0131nc\u0131lar\u0131 etkilemek i\u00e7in kullan\u0131lan \u00e7al\u0131nabilir bir blok fl\u00fct.",
       "uk": "\u0411\u043b\u043e\u043a\u0444\u043b\u0435\u0439\u0442\u0430, \u043d\u0430 \u044f\u043a\u0456\u0439 \u043c\u043e\u0436\u043d\u0430 \u0433\u0440\u0430\u0442\u0438, \u0449\u043e\u0431 \u043f\u0440\u0438\u0432\u0435\u0440\u043d\u0443\u0442\u0438 \u0443\u0432\u0430\u0433\u0443 ARC \u0442\u0430 \u0441\u043f\u0440\u0430\u0432\u0438\u0442\u0438 \u0432\u0440\u0430\u0436\u0435\u043d\u043d\u044f \u043d\u0430 \u0456\u043d\u0448\u0438\u0445 \u0420\u0435\u0439\u0434\u0435\u0440\u0456\u0432.",
-      "zh-CN": "\u4e00\u652f\u53ef\u6f14\u594f\u7684\u7ad6\u7b1b\uff0c\u7528\u4e8e\u5438\u5f15ARC\u7684\u6ce8\u610f\u5e76\u7ed9\u5176\u4ed6\u63a0\u593a\u8005\u7559\u4e0b\u6df1\u523b\u5370\u8c61\u3002",
+      "zh-CN": "\u4e00\u652f\u53ef\u6f14\u594f\u7684\u957f\u7b1b\uff0c\u7528\u6765\u5438\u5f15ARC\uff0c\u6216\u8005\u6253\u52a8\u5176\u4ed6\u5947\u88ad\u8005\u3002",
       "zh-TW": "\u4e00\u652f\u53ef\u6f14\u594f\u7684\u76f4\u7b1b\uff0c\u7528\u65bc\u5438\u5f15ARC\u7684\u6ce8\u610f\u4e26\u7d66\u5176\u4ed6\u63a0\u596a\u8005\u7559\u4e0b\u6df1\u523b\u5370\u8c61\u3002"
     },
     "type": "Quick Use",
@@ -37377,7 +37387,7 @@
       "sr": "Bezbednosni kod Reinforced Receptiona",
       "tr": "Reinforced Reception G\u00fcvenlik Kodu",
       "uk": "\u041a\u043e\u0434 \u0431\u0435\u0437\u043f\u0435\u043a\u0438 \u0423\u043a\u0440\u0456\u043f\u043b\u0435\u043d\u043e\u0457 \u0420\u0435\u0446\u0435\u043f\u0446\u0456\u0457",
-      "zh-CN": "\u52a0\u56fa\u63a5\u5f85\u5904\u5b89\u5168\u5bc6\u7801",
+      "zh-CN": "\u52a0\u56fa\u524d\u53f0\u5b89\u5168\u5bc6\u7801",
       "zh-TW": "\u52a0\u56fa\u63a5\u5f85\u8655\u5b89\u5168\u5bc6\u78bc"
     },
     "description": {
@@ -37399,7 +37409,7 @@
       "sr": "Jedan od \u010detiri bezbednosna koda potrebna za otklju\u010davanje zaklju\u010danih vrata na Blue Gateu. Prona\u0111en na Reinforced Receptionu.",
       "tr": "Blue Gate'teki Kilitli Kap\u0131y\u0131 a\u00e7mak i\u00e7in gereken d\u00f6rt g\u00fcvenlik kodundan biri. Reinforced Reception'da bulunur.",
       "uk": "\u041e\u0434\u0438\u043d \u0456\u0437 \u0447\u043e\u0442\u0438\u0440\u044c\u043e\u0445 \u043a\u043e\u0434\u0456\u0432 \u0431\u0435\u0437\u043f\u0435\u043a\u0438, \u043d\u0435\u043e\u0431\u0445\u0456\u0434\u043d\u0438\u0445 \u0434\u043b\u044f \u0432\u0456\u0434\u043a\u0440\u0438\u0442\u0442\u044f \u0437\u0430\u043c\u043a\u043d\u0435\u043d\u0438\u0445 \u0432\u043e\u0440\u0456\u0442 \u043d\u0430 \u0411\u043b\u044e \u0413\u0435\u0439\u0442. \u0417\u043d\u0430\u0439\u0434\u0435\u043d\u043e \u0432 \u0423\u043a\u0440\u0456\u043f\u043b\u0435\u043d\u0456\u0439 \u0420\u0435\u0446\u0435\u043f\u0446\u0456\u0457.",
-      "zh-CN": "\u89e3\u9501\u84dd\u95e8\u4e0a\u9501\u5927\u95e8\u6240\u9700\u7684\u56db\u4e2a\u5b89\u5168\u5bc6\u7801\u4e4b\u4e00\u3002\u5728\u52a0\u56fa\u63a5\u5f85\u5904\u627e\u5230\u3002",
+      "zh-CN": "\u89e3\u9501\u84dd\u95e8\u4e0a\u9501\u5927\u95e8\u6240\u9700\u7684\u56db\u4e2a\u5b89\u5168\u5bc6\u7801\u4e4b\u4e00\u3002\u5728\u52a0\u56fa\u524d\u53f0\u627e\u5230\u3002",
       "zh-TW": "\u89e3\u9396\u85cd\u9580\u4e0a\u9396\u5927\u9580\u6240\u9700\u7684\u56db\u500b\u5b89\u5168\u5bc6\u78bc\u4e4b\u4e00\u3002\u5728\u52a0\u56fa\u63a5\u5f85\u8655\u627e\u5230\u3002"
     },
     "type": "Key",
@@ -37495,7 +37505,7 @@
       "sr": "Dal\u0458inska Raider Raketa",
       "tr": "Kumandal\u0131 Raider Fi\u015fe\u011fi",
       "uk": "\u0414\u0438\u0441\u0442\u0430\u043d\u0446\u0456\u0439\u043d\u0430 \u0441\u0438\u0433\u043d\u0430\u043b\u044c\u043d\u0430 \u0440\u0430\u043a\u0435\u0442\u0430 \u0440\u0435\u0439\u0434\u0435\u0440\u0430",
-      "zh-CN": "\u8fdc\u7a0b\u63a0\u593a\u8005\u4fe1\u53f7\u5f39",
+      "zh-CN": "\u8fdc\u7a0b\u5947\u88ad\u8005\u4fe1\u53f7\u5f39",
       "zh-TW": "\u9060\u7a0b\u63a0\u596a\u8005\u4fe1\u865f\u5f48"
     },
     "description": {
@@ -37517,7 +37527,7 @@
       "sr": "Ure\u0111aj za postavljanje koji, kada se ru\u010dno aktivira, ispaljuje Raider raketu za pomo\u0107.",
       "tr": "Manuel olarak tetiklendi\u011finde Ak\u0131nc\u0131 Tehlike \u0130\u015faret Fi\u015fe\u011fi f\u0131rlat\u0131lan konu\u015fland\u0131r\u0131labilir bir cihaz.",
       "uk": "\u041f\u0440\u0438\u0441\u0442\u0440\u0456\u0439, \u044f\u043a\u0438\u0439 \u043f\u0440\u0438 \u0440\u0443\u0447\u043d\u0456\u0439 \u0430\u043a\u0442\u0438\u0432\u0430\u0446\u0456\u0457 \u0437\u0430\u043f\u0443\u0441\u043a\u0430\u0454 \u0441\u0438\u0433\u043d\u0430\u043b\u044c\u043d\u0443 \u0440\u0430\u043a\u0435\u0442\u0443 \u043b\u0438\u0445\u0430 \u0440\u0435\u0439\u0434\u0435\u0440\u0430.",
-      "zh-CN": "\u4e00\u4e2a\u53ef\u90e8\u7f72\u7684\u88c5\u7f6e\uff0c\u624b\u52a8\u89e6\u53d1\u65f6\u4f1a\u53d1\u5c04\u63a0\u593a\u8005\u6c42\u6551\u4fe1\u53f7\u5f39\u3002",
+      "zh-CN": "\u4e00\u4e2a\u53ef\u90e8\u7f72\u7684\u88c5\u7f6e\uff0c\u624b\u52a8\u89e6\u53d1\u65f6\u4f1a\u53d1\u5c04\u5947\u88ad\u8005\u6c42\u6551\u4fe1\u53f7\u5f39\u3002",
       "zh-TW": "\u4e00\u500b\u53ef\u90e8\u7f72\u7684\u88dd\u7f6e\uff0c\u624b\u52d5\u89f8\u767c\u6642\u6703\u767c\u5c04\u63a0\u596a\u8005\u6c42\u6551\u4fe1\u865f\u5f48\u3002"
     },
     "type": "Quick Use",
@@ -37573,7 +37583,7 @@
       "sr": "Nacrt Daljinske Raider Rakete",
       "tr": "Kumandal\u0131 Raider Fi\u015fe\u011fi Tasla\u011f\u0131",
       "uk": "\u041a\u0440\u0435\u0441\u043b\u0435\u043d\u043d\u044f \u0434\u0438\u0441\u0442\u0430\u043d\u0446\u0456\u0439\u043d\u043e\u0457 \u0441\u0438\u0433\u043d\u0430\u043b\u044c\u043d\u043e\u0457 \u0440\u0430\u043a\u0435\u0442\u0438 \u0440\u0435\u0439\u0434\u0435\u0440\u0430",
-      "zh-CN": "\u8fdc\u7a0b\u63a0\u593a\u8005\u4fe1\u53f7\u5f39\u84dd\u56fe",
+      "zh-CN": "\u8fdc\u7a0b\u5947\u88ad\u8005\u4fe1\u53f7\u5f39\u84dd\u56fe",
       "zh-TW": "\u9060\u7a0b\u63a0\u596a\u8005\u4fe1\u865f\u5f48\u85cd\u5716"
     },
     "description": {
@@ -37595,7 +37605,7 @@
       "sr": "Ure\u0111aj za postavljanje koji, kada se ru\u010dno aktivira, ispaljuje Raider raketu za pomo\u0107.",
       "tr": "Manuel olarak tetiklendi\u011finde Ak\u0131nc\u0131 Tehlike \u0130\u015faret Fi\u015fe\u011fi f\u0131rlat\u0131lan konu\u015fland\u0131r\u0131labilir bir cihaz.",
       "uk": "\u041f\u0440\u0438\u0441\u0442\u0440\u0456\u0439, \u044f\u043a\u0438\u0439 \u043f\u0440\u0438 \u0440\u0443\u0447\u043d\u0456\u0439 \u0430\u043a\u0442\u0438\u0432\u0430\u0446\u0456\u0457 \u0437\u0430\u043f\u0443\u0441\u043a\u0430\u0454 \u0441\u0438\u0433\u043d\u0430\u043b\u044c\u043d\u0443 \u0440\u0430\u043a\u0435\u0442\u0443 \u043b\u0438\u0445\u0430 \u0440\u0435\u0439\u0434\u0435\u0440\u0430.",
-      "zh-CN": "\u4e00\u4e2a\u53ef\u90e8\u7f72\u7684\u88c5\u7f6e\uff0c\u624b\u52a8\u89e6\u53d1\u65f6\u4f1a\u53d1\u5c04\u63a0\u593a\u8005\u6c42\u6551\u4fe1\u53f7\u5f39\u3002",
+      "zh-CN": "\u4e00\u4e2a\u53ef\u90e8\u7f72\u7684\u88c5\u7f6e\uff0c\u624b\u52a8\u89e6\u53d1\u65f6\u4f1a\u53d1\u5c04\u5947\u88ad\u8005\u6c42\u6551\u4fe1\u53f7\u5f39\u3002",
       "zh-TW": "\u4e00\u500b\u53ef\u90e8\u7f72\u7684\u88dd\u7f6e\uff0c\u624b\u52d5\u89f8\u767c\u6642\u6703\u767c\u5c04\u63a0\u596a\u8005\u6c42\u6551\u4fe1\u865f\u5f48\u3002"
     },
     "type": "Blueprint",
@@ -37625,7 +37635,7 @@
       "pt": "Renegade I",
       "pt-BR": "Renegado I",
       "ru": "\u0420\u0435\u043d\u0435\u0433\u0430\u0442 I",
-      "sr": "Renegade I",
+      "sr": "\u0420\u0435\u043d\u0435\u0433\u0430\u0442 I",
       "tr": "Ka\u00e7ak I",
       "uk": "\u0420\u0435\u043d\u0435\u0433\u0430\u0442 I",
       "zh-CN": "\u53db\u9006 I",
@@ -37855,10 +37865,10 @@
       "pl": "Renegade II",
       "pt": "Renegade II",
       "pt-BR": "Renegado II",
-      "ru": "Renegade II",
-      "sr": "Renegade II",
+      "ru": "\u0420\u0435\u043d\u0435\u0433\u0430\u0442 II",
+      "sr": "\u0420\u0435\u043d\u0435\u0433\u0430\u0442 II",
       "tr": "Ka\u00e7ak II",
-      "uk": "Renegade II",
+      "uk": "\u0420\u0435\u043d\u0435\u0433\u0430\u0442 II",
       "zh-CN": "\u53db\u9006 II",
       "zh-TW": "\u53db\u5f92 II"
     },
@@ -38130,7 +38140,7 @@
       "tr": "Ka\u00e7ak III",
       "uk": "\u0420\u0435\u043d\u0435\u0433\u0430\u0442 III",
       "zh-CN": "\u53db\u9006 III",
-      "zh-TW": "\u53db\u9006\u8005 III"
+      "zh-TW": "\u53db\u5f92 III"
     },
     "description": {
       "da": "Lever-action kampriffel med h\u00f8j skadeeffekt, pr\u00e6cision og hovedskudsskade.",
@@ -38400,7 +38410,7 @@
       "tr": "Ka\u00e7ak IV",
       "uk": "\u0420\u0435\u043d\u0435\u0433\u0430\u0442 IV",
       "zh-CN": "\u53db\u9006 IV",
-      "zh-TW": "\u53db\u9006\u8005 IV"
+      "zh-TW": "\u53db\u5f92 IV"
     },
     "description": {
       "da": "Lever-action kampriffel med h\u00f8j skadeeffekt, pr\u00e6cision og hovedskudsskade.",
@@ -38795,7 +38805,7 @@
       "sr": "Iscepan sigurnosni prsluk",
       "tr": "Y\u0131rt\u0131k G\u00fcvenlik Yele\u011fi",
       "uk": "\u0420\u043e\u0437\u0456\u0440\u0432\u0430\u043d\u0438\u0439 \u0441\u0438\u0433\u043d\u0430\u043b\u044c\u043d\u0438\u0439 \u0436\u0438\u043b\u0435\u0442",
-      "zh-CN": "\u7834\u635f\u7684\u5b89\u5168\u80cc\u5fc3",
+      "zh-CN": "\u6495\u574f\u7684\u5b89\u5168\u80cc\u5fc3",
       "zh-TW": "\u7834\u640d\u7684\u5b89\u5168\u80cc\u5fc3"
     },
     "description": {
@@ -39045,7 +39055,7 @@
       "sr": "U\u017ee",
       "tr": "\u0130p",
       "uk": "\u041c\u043e\u0442\u0443\u0437\u043a\u0430",
-      "zh-CN": "\u7ef3\u7d22",
+      "zh-CN": "\u7ef3\u5b50",
       "zh-TW": "\u7e69\u7d22"
     },
     "description": {
@@ -39857,7 +39867,7 @@
       "sr": "Zahr\u0111ali Vijci",
       "tr": "Pasl\u0131 C\u0131vatalar",
       "uk": "\u0406\u0440\u0436\u0430\u0432\u0456 \u0431\u043e\u043b\u0442\u0438",
-      "zh-CN": "\u751f\u9508\u87ba\u6813",
+      "zh-CN": "\u751f\u9508\u7684\u87ba\u6813",
       "zh-TW": "\u751f\u93fd\u87ba\u6813"
     },
     "description": {
@@ -40260,11 +40270,11 @@
     },
     "type": "Trinket",
     "rarity": "Common",
-    "value": 0,
+    "value": 100,
     "weightKg": 0.5,
     "stackSize": 1,
     "questItem": true,
-    "updatedAt": "03/31/2026",
+    "updatedAt": "04/14/2026",
     "addedIn": "1.22"
   },
   {
@@ -40315,11 +40325,11 @@
     },
     "type": "Trinket",
     "rarity": "Common",
-    "value": 0,
+    "value": 100,
     "weightKg": 0.5,
     "stackSize": 1,
     "questItem": true,
-    "updatedAt": "03/31/2026",
+    "updatedAt": "04/14/2026",
     "addedIn": "1.22"
   },
   {
@@ -40343,7 +40353,7 @@
       "sr": "Traga\u010dka granata",
       "tr": "G\u00fcd\u00fcml\u00fc Bomba",
       "uk": "\u0421\u0430\u043c\u043e\u043d\u0430\u0432\u0456\u0434\u043d\u0430 \u0433\u0440\u0430\u043d\u0430\u0442\u0430",
-      "zh-CN": "\u8ffd\u8e2a\u624b\u69b4\u5f39",
+      "zh-CN": "\u8ffd\u8e2a\u624b\u96f7",
       "zh-TW": "\u8ffd\u8e64\u624b\u69b4\u5f48"
     },
     "description": {
@@ -40365,7 +40375,7 @@
       "sr": "Granata sa navo\u0111enjem koja cilja jedan obli\u017enji ARC i nanosi eksplozivnu \u0161tetu pri udaru.",
       "tr": "Yak\u0131ndaki tek bir ARC'yi hedef alan ve \u00e7arpma an\u0131nda patlay\u0131c\u0131 hasar veren g\u00fcd\u00fcml\u00fc bomba.",
       "uk": "\u0421\u0430\u043c\u043e\u043d\u0430\u0432\u0456\u0434\u043d\u0430 \u0433\u0440\u0430\u043d\u0430\u0442\u0430, \u044f\u043a\u0430 \u043d\u0430\u0432\u043e\u0434\u0438\u0442\u044c\u0441\u044f \u043d\u0430 \u043e\u0434\u043d\u043e\u0433\u043e \u043d\u0430\u0439\u0431\u043b\u0438\u0436\u0447\u043e\u0433\u043e ARC \u0456 \u0437\u0430\u0432\u0434\u0430\u0454 \u0432\u0438\u0431\u0443\u0445\u043e\u0432\u043e\u0457 \u0448\u043a\u043e\u0434\u0438 \u043f\u0440\u0438 \u0432\u043b\u0443\u0447\u0435\u043d\u043d\u0456.",
-      "zh-CN": "\u4e00\u79cd\u8ffd\u8e2a\u624b\u69b4\u5f39\uff0c\u9501\u5b9a\u9644\u8fd1\u5355\u4e2aARC\u5e76\u5728\u649e\u51fb\u65f6\u9020\u6210\u7206\u70b8\u4f24\u5bb3\u3002",
+      "zh-CN": "\u4e00\u679a\u8ffd\u8e2a\u624b\u96f7\uff0c\u9501\u5b9a\u9644\u8fd1\u5355\u4e2aARC\u5e76\u5728\u649e\u51fb\u65f6\u9020\u6210\u7206\u70b8\u4f24\u5bb3\u3002",
       "zh-TW": "\u4e00\u7a2e\u8ffd\u8e64\u624b\u69b4\u5f48\uff0c\u9396\u5b9a\u9644\u8fd1\u55ae\u500bARC\u4e26\u5728\u649e\u64ca\u6642\u9020\u6210\u7206\u70b8\u50b7\u5bb3\u3002"
     },
     "type": "Quick Use",
@@ -40470,7 +40480,7 @@
       "sr": "Nacrt Traga\u010dke granate",
       "tr": "G\u00fcd\u00fcml\u00fc Bomba Tasla\u011f\u0131",
       "uk": "\u041a\u0440\u0435\u0441\u043b\u0435\u043d\u043d\u044f \u0441\u0430\u043c\u043e\u043d\u0430\u0432\u0456\u0434\u043d\u043e\u0457 \u0433\u0440\u0430\u043d\u0430\u0442\u0438",
-      "zh-CN": "\u8ffd\u8e2a\u624b\u69b4\u5f39\u84dd\u56fe",
+      "zh-CN": "\u8ffd\u8e2a\u624b\u96f7\u84dd\u56fe",
       "zh-TW": "\u8ffd\u8e64\u624b\u69b4\u5f48\u85cd\u5716"
     },
     "description": {
@@ -40492,7 +40502,7 @@
       "sr": "Otklju\u010dava nacrt izrade za Traga\u010dku granatu.",
       "tr": "\u0130zleyici Bomba i\u00e7in \u00fcretim plan\u0131n\u0131 a\u00e7ar.",
       "uk": "\u0412\u0456\u0434\u043a\u0440\u0438\u0432\u0430\u0454 \u043a\u0440\u0435\u0441\u043b\u0435\u043d\u043d\u044f \u0434\u043b\u044f \u0441\u0442\u0432\u043e\u0440\u0435\u043d\u043d\u044f \u0421\u0430\u043c\u043e\u043d\u0430\u0432\u0456\u0434\u043d\u043e\u0457 \u0433\u0440\u0430\u043d\u0430\u0442\u0438.",
-      "zh-CN": "\u89e3\u9501\u8ffd\u8e2a\u624b\u69b4\u5f39\u7684\u5236\u4f5c\u84dd\u56fe\u3002",
+      "zh-CN": "\u89e3\u9501\u8ffd\u8e2a\u624b\u96f7\u7684\u5236\u4f5c\u84dd\u56fe\u3002",
       "zh-TW": "\u89e3\u9396\u8ffd\u8e64\u624b\u69b4\u5f48\u7684\u88fd\u4f5c\u85cd\u5716\u3002"
     },
     "type": "Blueprint",
@@ -40547,7 +40557,7 @@
       "sr": "Koristi se za izradu. Koristi se za izradu: Wolfpack, Eksplozivna mina, Klju\u010d za Raider otvor, Granata za ozna\u010davanje",
       "tr": "\u00dcretimde kullan\u0131l\u0131r. \u00dcretilebilir: Wolfpack, Patlay\u0131c\u0131 May\u0131n, Ya\u011fmac\u0131 Ambar Kapa\u011f\u0131 Anahtar\u0131, \u0130\u015faretleme Bombas\u0131",
       "uk": "\u0412\u0438\u043a\u043e\u0440\u0438\u0441\u0442\u043e\u0432\u0443\u0454\u0442\u044c\u0441\u044f \u0432 \u043a\u0440\u0430\u0444\u0442\u0456. \u0412\u0438\u043a\u043e\u0440\u0438\u0441\u0442\u043e\u0432\u0443\u0454\u0442\u044c\u0441\u044f \u0434\u043b\u044f \u0441\u0442\u0432\u043e\u0440\u0435\u043d\u043d\u044f: \u0417\u0433\u0440\u0430\u044f \u0432\u043e\u0432\u043a\u0456\u0432, \u0412\u0438\u0431\u0443\u0445\u043e\u0432\u0430 \u043c\u0456\u043d\u0430, \u041a\u043b\u044e\u0447 \u0432\u0456\u0434 \u043b\u044e\u043a\u0430 \u0440\u0435\u0439\u0434\u0435\u0440\u0456\u0432, \u041c\u0430\u0440\u043a\u0443\u0432\u0430\u043b\u044c\u043d\u0430 \u0433\u0440\u0430\u043d\u0430\u0442\u0430",
-      "zh-CN": "\u7528\u4e8e\u5236\u4f5c\u3002\u53ef\u5236\u4f5c\uff1a\u72fc\u7fa4\u3001\u7206\u70b8\u5730\u96f7\u3001\u63a0\u593a\u8005\u8231\u53e3\u94a5\u5319\u3001\u6807\u8bb0\u624b\u69b4\u5f39",
+      "zh-CN": "\u7528\u4e8e\u5236\u4f5c\u3002\u53ef\u5236\u4f5c\uff1a\u72fc\u7fa4\u3001\u7206\u70b8\u5730\u96f7\u3001\u5947\u88ad\u8005\u6697\u95e8\u94a5\u5319\u3001\u6807\u8bb0\u624b\u69b4\u5f39",
       "zh-TW": "\u7528\u65bc\u88fd\u4f5c\u3002\u53ef\u88fd\u4f5c\uff1a\u72fc\u7fa4\u3001\u7206\u70b8\u5730\u96f7\u3001\u63a0\u596a\u8005\u8259\u53e3\u9470\u5319\u3001\u6a19\u8a18\u624b\u69b4\u5f48"
     },
     "type": "Topside Material",
@@ -40599,7 +40609,7 @@
       "sr": "Stra\u017earsko jezgro za paljbu",
       "tr": "N\u00f6bet\u00e7i Ate\u015fleme \u00c7ekirde\u011fi",
       "uk": "\u0412\u043e\u0433\u043d\u0435\u0432\u0435 \u044f\u0434\u0440\u043e \u0432\u0430\u0440\u0442\u043e\u0432\u043e\u0433\u043e",
-      "zh-CN": "\u54e8\u5175\u5c04\u51fb\u6838\u5fc3",
+      "zh-CN": "\u54e8\u5175\u6838\u5fc3",
       "zh-TW": "\u54e8\u5175\u5c04\u64ca\u6838\u5fc3"
     },
     "description": {
@@ -40662,7 +40672,7 @@
       "sr": "Shaker",
       "tr": "Marakas",
       "uk": "\u0428\u0435\u0439\u043a\u0435\u0440",
-      "zh-CN": "\u6c99\u94c3",
+      "zh-CN": "\u6447\u94c3",
       "zh-TW": "\u6c99\u9234"
     },
     "description": {
@@ -40684,7 +40694,7 @@
       "sr": "Ritmi\u010dki instrument koji se koristi za privla\u010denje pa\u017enje ARC-a i impresioniranje drugih Raidera.",
       "tr": "ARC'nin dikkatini \u00e7ekmek ve di\u011fer Ak\u0131nc\u0131lar\u0131 etkilemek i\u00e7in kullan\u0131lan ritmik bir enstr\u00fcman.",
       "uk": "\u0420\u0438\u0442\u043c\u0456\u0447\u043d\u0438\u0439 \u0456\u043d\u0441\u0442\u0440\u0443\u043c\u0435\u043d\u0442, \u044f\u043a\u0438\u0439 \u0432\u0438\u043a\u043e\u0440\u0438\u0441\u0442\u043e\u0432\u0443\u0454\u0442\u044c\u0441\u044f \u0434\u043b\u044f \u043f\u0440\u0438\u0432\u0435\u0440\u043d\u0435\u043d\u043d\u044f \u0443\u0432\u0430\u0433\u0438 ARC \u0442\u0430 \u0432\u0440\u0430\u0436\u0435\u043d\u043d\u044f \u0456\u043d\u0448\u0438\u0445 \u0420\u0435\u0439\u0434\u0435\u0440\u0456\u0432.",
-      "zh-CN": "\u4e00\u79cd\u8282\u594f\u4e50\u5668\uff0c\u7528\u4e8e\u5438\u5f15ARC\u7684\u6ce8\u610f\u5e76\u7ed9\u5176\u4ed6\u63a0\u593a\u8005\u7559\u4e0b\u6df1\u523b\u5370\u8c61\u3002",
+      "zh-CN": "\u4e00\u79cd\u8282\u594f\u4e50\u5668\uff0c\u7528\u4e8e\u5438\u5f15ARC\u7684\u6ce8\u610f\u5e76\u7ed9\u5176\u4ed6\u5947\u88ad\u8005\u7559\u4e0b\u6df1\u523b\u5370\u8c61\u3002",
       "zh-TW": "\u4e00\u7a2e\u7bc0\u594f\u6a02\u5668\uff0c\u7528\u65bc\u5438\u5f15ARC\u7684\u6ce8\u610f\u4e26\u7d66\u5176\u4ed6\u63a0\u596a\u8005\u7559\u4e0b\u6df1\u523b\u5370\u8c61\u3002"
     },
     "type": "Quick Use",
@@ -41688,7 +41698,7 @@
         "sr": "Trajanje Rejder Omamljivanja",
         "tr": "Ak\u0131nc\u0131 Sersemletme S\u00fcresi",
         "uk": "\u0422\u0440\u0438\u0432\u0430\u043b\u0456\u0441\u0442\u044c \u043e\u0433\u043b\u0443\u0448\u0435\u043d\u043d\u044f \u0440\u0435\u0439\u0434\u0435\u0440\u0430",
-        "zh-CN": "\u63a0\u593a\u8005\u6655\u7729\u6301\u7eed\u65f6\u95f4",
+        "zh-CN": "\u5947\u88ad\u8005\u6655\u7729\u6301\u7eed\u65f6\u95f4",
         "zh-TW": "\u63a0\u596a\u8005\u6688\u7729\u6301\u7e8c\u6642\u9593"
       }
     },
@@ -41786,7 +41796,7 @@
       "sr": "\u0160rapnel Granata",
       "tr": "\u015earapnel Bombas\u0131",
       "uk": "\u041e\u0441\u043a\u043e\u043b\u043a\u043e\u0432\u0430 \u0433\u0440\u0430\u043d\u0430\u0442\u0430",
-      "zh-CN": "\u7834\u7247\u624b\u69b4\u5f39",
+      "zh-CN": "\u788e\u7247\u624b\u96f7",
       "zh-TW": "\u7834\u7247\u624b\u69b4\u5f48"
     },
     "description": {
@@ -42629,7 +42639,7 @@
       "sr": "Dimna granata",
       "tr": "Sis Bombas\u0131",
       "uk": "\u0414\u0438\u043c\u043e\u0432\u0430 \u0433\u0440\u0430\u043d\u0430\u0442\u0430",
-      "zh-CN": "\u70df\u96fe\u5f39",
+      "zh-CN": "\u70df\u96fe\u624b\u96f7",
       "zh-TW": "\u7159\u9727\u5f48"
     },
     "description": {
@@ -42651,7 +42661,7 @@
       "sr": "Granata koja stvara dugotrajan oblak dima pri udaru, blokiraju\u0107i vidljivost ARC-u i drugim Raiderima.",
       "tr": "\u00c7arpma an\u0131nda kal\u0131c\u0131 bir duman bulutu olu\u015fturarak ARC ve di\u011fer Ak\u0131nc\u0131lar\u0131n g\u00f6r\u00fc\u015f\u00fcn\u00fc engelleyen bomba.",
       "uk": "\u0413\u0440\u0430\u043d\u0430\u0442\u0430, \u0449\u043e \u0441\u0442\u0432\u043e\u0440\u044e\u0454 \u043f\u0440\u0438 \u0443\u0434\u0430\u0440\u0456 \u0445\u043c\u0430\u0440\u0443 \u0434\u0438\u043c\u0443, \u044f\u043a\u0430 \u0431\u043b\u043e\u043a\u0443\u0454 \u0432\u0438\u0434\u0438\u043c\u0456\u0441\u0442\u044c \u0434\u043b\u044f ARC \u0442\u0430 \u0456\u043d\u0448\u0438\u0445 \u0440\u0435\u0439\u0434\u0435\u0440\u0456\u0432.",
-      "zh-CN": "\u649e\u51fb\u65f6\u4ea7\u751f\u6301\u7eed\u70df\u96fe\u4e91\uff0c\u963b\u6321 ARC \u548c\u5176\u4ed6\u63a0\u593a\u8005\u7684\u89c6\u7ebf\u3002",
+      "zh-CN": "\u649e\u51fb\u65f6\u4ea7\u751f\u6301\u7eed\u70df\u96fe\u4e91\uff0c\u963b\u6321 ARC \u548c\u5176\u4ed6\u5947\u88ad\u8005\u7684\u89c6\u7ebf\u3002",
       "zh-TW": "\u649e\u64ca\u6642\u7522\u751f\u6301\u7e8c\u7159\u9727\u96f2\uff0c\u963b\u64cb ARC \u548c\u5176\u4ed6\u63a0\u596a\u8005\u7684\u8996\u7dda\u3002"
     },
     "type": "Quick Use",
@@ -42757,7 +42767,7 @@
       "sr": "Dimna granata Nacrt",
       "tr": "Sis Bombas\u0131 Tasla\u011f\u0131",
       "uk": "\u041a\u0440\u0435\u0441\u043b\u0435\u043d\u043d\u044f \u0414\u0438\u043c\u043e\u0432\u0430 \u0433\u0440\u0430\u043d\u0430\u0442\u0430",
-      "zh-CN": "\u70df\u96fe\u5f39 \u84dd\u56fe",
+      "zh-CN": "\u70df\u96fe\u624b\u96f7 \u84dd\u56fe",
       "zh-TW": "\u7159\u9727\u5f48 \u85cd\u5716"
     },
     "description": {
@@ -42779,7 +42789,7 @@
       "sr": "Granata koja stvara dugotrajan oblak dima pri udaru, blokirajuci vidljivost ARC-u i drugim Raiderima.",
       "tr": "Carpma aninda kalici bir duman bulutu olusturarak ARC ve diger Akincilarin gorusunu engelleyen bomba.",
       "uk": "\u0413\u0440\u0430\u043d\u0430\u0442\u0430, \u0449\u043e \u0441\u0442\u0432\u043e\u0440\u044e\u0454 \u043f\u0440\u0438 \u0443\u0434\u0430\u0440\u0456 \u0445\u043c\u0430\u0440\u0443 \u0434\u0438\u043c\u0443, \u044f\u043a\u0430 \u0431\u043b\u043e\u043a\u0443\u0454 \u0432\u0438\u0434\u0438\u043c\u0456\u0441\u0442\u044c \u0434\u043b\u044f ARC \u0442\u0430 \u0456\u043d\u0448\u0438\u0445 \u0440\u0435\u0439\u0434\u0435\u0440\u0456\u0432.",
-      "zh-CN": "\u649e\u51fb\u65f6\u4ea7\u751f\u6301\u7eed\u70df\u96fe\u4e91\uff0c\u963b\u6321 ARC \u548c\u5176\u4ed6\u63a0\u593a\u8005\u7684\u89c6\u7ebf\u3002",
+      "zh-CN": "\u649e\u51fb\u65f6\u4ea7\u751f\u6301\u7eed\u70df\u96fe\u4e91\uff0c\u963b\u6321 ARC \u548c\u5176\u4ed6\u5947\u88ad\u8005\u7684\u89c6\u7ebf\u3002",
       "zh-TW": "\u649e\u64ca\u6642\u7522\u751f\u6301\u7e8c\u7159\u9727\u96f2\uff0c\u963b\u64cb ARC \u548c\u5176\u4ed6\u63a0\u596a\u8005\u7684\u8996\u7dda\u3002"
     },
     "type": "Blueprint",
@@ -42812,7 +42822,7 @@
       "sr": "Zamka sa dimnom granatom",
       "tr": "Lazer Tuza\u011f\u0131: Sis",
       "uk": "\u041f\u0430\u0441\u0442\u043a\u0430 \u0437 \u0434\u0438\u043c\u043e\u0432\u043e\u044e \u0433\u0440\u0430\u043d\u0430\u0442\u043e\u044e",
-      "zh-CN": "\u70df\u96fe\u624b\u69b4\u5f39\u9677\u9631",
+      "zh-CN": "\u70df\u96fe\u624b\u96f7\u9677\u9631",
       "zh-TW": "\u7159\u9727\u624b\u69b4\u5f48\u9677\u9631"
     },
     "description": {
@@ -42834,7 +42844,7 @@
       "sr": "Laserska \u017eica zamka koja aktivira dimnu granatu.",
       "tr": "Sis Bombas\u0131n\u0131 patlatacak lazer tuzak teli.",
       "uk": "\u041b\u0430\u0437\u0435\u0440\u043d\u0430 \u0440\u043e\u0437\u0442\u044f\u0436\u043a\u0430, \u044f\u043a\u0430 \u043f\u0456\u0434\u0440\u0438\u0432\u0430\u0454 \u0434\u0438\u043c\u043e\u0432\u0443 \u0433\u0440\u0430\u043d\u0430\u0442\u0443.",
-      "zh-CN": "\u5f15\u7206\u70df\u96fe\u624b\u69b4\u5f39\u7684\u6fc0\u5149\u7eca\u7ebf\u3002",
+      "zh-CN": "\u6fc0\u5149\u9677\u9631\uff1a\u70df\u96fe\u3002",
       "zh-TW": "\u5f15\u7206\u7159\u9727\u624b\u69b4\u5f48\u7684\u96f7\u5c04\u7d46\u7dda\u3002"
     },
     "type": "Quick Use",
@@ -42924,7 +42934,7 @@
       "sr": "Snap eksplozivna granata",
       "tr": "Seri Patlama Bombas\u0131",
       "uk": "\u0413\u0440\u0430\u043d\u0430\u0442\u0430 \u0437 \u043b\u0438\u043f\u0443\u0447\u043a\u043e\u044e",
-      "zh-CN": "\u7c98\u9644\u7206\u7834\u624b\u96f7",
+      "zh-CN": "\u95ea\u7206\u624b\u96f7",
       "zh-TW": "\u9ecf\u9644\u7206\u7834\u624b\u69b4\u5f48"
     },
     "description": {
@@ -43569,7 +43579,7 @@
       "sr": "Komponenta zvu\u010dnika",
       "tr": "Hoparl\u00f6r Bile\u015feni",
       "uk": "\u041a\u043e\u043c\u043f\u043e\u043d\u0435\u043d\u0442 \u0434\u0438\u043d\u0430\u043c\u0456\u043a\u0430",
-      "zh-CN": "\u626c\u58f0\u5668\u7ec4\u4ef6",
+      "zh-CN": "\u626c\u58f0\u5668\u96f6\u4ef6",
       "zh-TW": "\u63da\u8072\u5668\u7d44\u4ef6"
     },
     "description": {
@@ -43591,7 +43601,7 @@
       "sr": "Koristi se za izradu. Koristi se za izradu: Granata mamac, Fotoelektri\u010dni pla\u0161t",
       "tr": "\u00dcretimde kullan\u0131l\u0131r. \u00dcretilebilir: Yem Bombas\u0131, Fotoelektrik Pelerin",
       "uk": "\u0412\u0438\u043a\u043e\u0440\u0438\u0441\u0442\u043e\u0432\u0443\u0454\u0442\u044c\u0441\u044f \u0432 \u043a\u0440\u0430\u0444\u0442\u0456. \u0412\u0438\u043a\u043e\u0440\u0438\u0441\u0442\u043e\u0432\u0443\u0454\u0442\u044c\u0441\u044f \u0434\u043b\u044f \u0441\u0442\u0432\u043e\u0440\u0435\u043d\u043d\u044f: \u0413\u0440\u0430\u043d\u0430\u0442\u0430-\u043f\u0440\u0438\u043d\u0430\u0434\u0430, \u0424\u043e\u0442\u043e\u0435\u043b\u0435\u043a\u0442\u0440\u0438\u0447\u043d\u0438\u0439 \u043f\u043b\u0430\u0449",
-      "zh-CN": "\u7528\u4e8e\u5236\u4f5c\u3002\u53ef\u5236\u4f5c\uff1a\u8bf1\u9975\u624b\u69b4\u5f39\u3001\u5149\u7535\u6597\u7bf7",
+      "zh-CN": "\u7528\u4e8e\u5236\u4f5c\u3002\u53ef\u5236\u4f5c\uff1a\u8bf1\u6355\u624b\u96f7\u3001\u5149\u7535\u6597\u7bf7",
       "zh-TW": "\u7528\u65bc\u88fd\u4f5c\u3002\u53ef\u88fd\u4f5c\uff1a\u8a98\u990c\u624b\u69b4\u5f48\u3001\u5149\u96fb\u6597\u7bf7"
     },
     "type": "Topside Material",
@@ -44495,12 +44505,12 @@
     },
     "type": "Trinket",
     "rarity": "Common",
-    "value": 0,
+    "value": 100,
     "weightKg": 0.5,
     "stackSize": 1,
     "questItem": true,
     "imageFilename": "https://cdn.arctracker.io/items/stack_of_movie_tapes.png",
-    "updatedAt": "02/23/2026",
+    "updatedAt": "04/14/2026",
     "addedIn": "1.13"
   },
   {
@@ -44602,7 +44612,7 @@
       "sr": "Koristi se za izradu \u0161irokog spektra predmeta. Mo\u017ee se reciklirati u materijale za izradu. Koristi se za izradu: Produ\u017eeni \u0161ar\u017eer za sa\u010dmaru I, Produ\u017eeni srednji \u0161ar\u017eer I, Produ\u017eeni laki \u0161ar\u017eer I, Torrente, Produ\u017eeni srednji \u0161ar\u017eer II",
       "tr": "Geni\u015f bir yelpazede e\u015fya \u00fcretmek i\u00e7in kullan\u0131l\u0131r. \u00dcretim malzemelerine geri d\u00f6n\u00fc\u015ft\u00fcr\u00fclebilir. \u00dcretilebilir: Uzat\u0131lm\u0131\u015f Av T\u00fcfe\u011fi \u015earj\u00f6r\u00fc I, Uzat\u0131lm\u0131\u015f Orta \u015earj\u00f6r I, Uzat\u0131lm\u0131\u015f Hafif \u015earj\u00f6r I, Torrente, Uzat\u0131lm\u0131\u015f Orta \u015earj\u00f6r II",
       "uk": "\u0412\u0438\u043a\u043e\u0440\u0438\u0441\u0442\u043e\u0432\u0443\u0454\u0442\u044c\u0441\u044f \u0434\u043b\u044f \u0441\u0442\u0432\u043e\u0440\u0435\u043d\u043d\u044f \u0448\u0438\u0440\u043e\u043a\u043e\u0433\u043e \u0441\u043f\u0435\u043a\u0442\u0440\u0443 \u043f\u0440\u0435\u0434\u043c\u0435\u0442\u0456\u0432. \u041c\u043e\u0436\u043d\u0430 \u043f\u0435\u0440\u0435\u0440\u043e\u0431\u0438\u0442\u0438 \u0432 \u043c\u0430\u0442\u0435\u0440\u0456\u0430\u043b\u0438 \u0434\u043b\u044f \u043a\u0440\u0430\u0444\u0442\u0443. \u0412\u0438\u043a\u043e\u0440\u0438\u0441\u0442\u043e\u0432\u0443\u0454\u0442\u044c\u0441\u044f \u0434\u043b\u044f \u0441\u0442\u0432\u043e\u0440\u0435\u043d\u043d\u044f: \u0420\u043e\u0437\u0448\u0438\u0440\u0435\u043d\u0438\u0439 \u043c\u0430\u0433\u0430\u0437\u0438\u043d \u0434\u043b\u044f \u0434\u0440\u043e\u0431\u043e\u0432\u0438\u043a\u0430 I, \u0420\u043e\u0437\u0448\u0438\u0440\u0435\u043d\u0438\u0439 \u0441\u0435\u0440\u0435\u0434\u043d\u0456\u0439 \u043c\u0430\u0433\u0430\u0437\u0438\u043d I, \u0420\u043e\u0437\u0448\u0438\u0440\u0435\u043d\u0438\u0439 \u043b\u0435\u0433\u043a\u0438\u0439 \u043c\u0430\u0433\u0430\u0437\u0438\u043d I, \u0422\u043e\u0440\u0440\u0435\u043d\u0442\u0435, \u0420\u043e\u0437\u0448\u0438\u0440\u0435\u043d\u0438\u0439 \u0441\u0435\u0440\u0435\u0434\u043d\u0456\u0439 \u043c\u0430\u0433\u0430\u0437\u0438\u043d II",
-      "zh-CN": "\u7528\u4e8e\u5236\u4f5c\u5404\u79cd\u7269\u54c1\u3002\u53ef\u56de\u6536\u4e3a\u5236\u4f5c\u6750\u6599\u3002\u53ef\u5236\u4f5c\uff1a\u5ef6\u957f\u9730\u5f39\u67aa\u5f39\u5323 I\u3001\u5ef6\u957f\u4e2d\u578b\u5f39\u5323 I\u3001\u5ef6\u957f\u8f7b\u578b\u5f39\u5323 I\u3001\u6258\u4f26\u7279\u3001\u5ef6\u957f\u4e2d\u578b\u5f39\u5323 II",
+      "zh-CN": "\u7528\u4e8e\u5236\u4f5c\u5404\u79cd\u7269\u54c1\u3002\u53ef\u56de\u6536\u4e3a\u5236\u4f5c\u6750\u6599\u3002\u53ef\u5236\u4f5c\uff1a\u9730\u5f39\u67aa\u6269\u5bb9\u5f39\u5323 I\u3001\u4e2d\u578b\u6269\u5bb9\u5f39\u5323 I\u3001\u8f7b\u578b\u6269\u5bb9\u5f39\u5323 I\u3001\u5954\u6d41\u3001\u4e2d\u578b\u6269\u5bb9\u5f39\u5323 II",
       "zh-TW": "\u7528\u65bc\u88fd\u4f5c\u5404\u7a2e\u7269\u54c1\u3002\u53ef\u56de\u6536\u70ba\u88fd\u4f5c\u6750\u6599\u3002\u53ef\u88fd\u4f5c\uff1a\u5ef6\u9577\u9730\u5f48\u69cd\u5f48\u5323 I\u3001\u5ef6\u9577\u4e2d\u578b\u5f48\u5323 I\u3001\u5ef6\u9577\u8f15\u578b\u5f48\u5323 I\u3001\u6258\u502b\u7279\u3001\u5ef6\u9577\u4e2d\u578b\u5f48\u5323 II"
     },
     "type": "Topside Material",
@@ -44945,7 +44955,7 @@
       "sr": "Medicinski predmet koji postepeno obnavlja veliku koli\u010dinu zdravlja tokom vremena.",
       "tr": "Zamanla b\u00fcy\u00fck miktarda sa\u011fl\u0131k puan\u0131n\u0131 kademeli olarak geri kazand\u0131ran bir t\u0131bbi e\u015fya.",
       "uk": "\u041c\u0435\u0434\u0438\u0447\u043d\u0438\u0439 \u043f\u0440\u0435\u0434\u043c\u0435\u0442, \u044f\u043a\u0438\u0439 \u043f\u043e\u0441\u0442\u0443\u043f\u043e\u0432\u043e \u0432\u0456\u0434\u043d\u043e\u0432\u043b\u044e\u0454 \u0432\u0435\u043b\u0438\u043a\u0443 \u043a\u0456\u043b\u044c\u043a\u0456\u0441\u0442\u044c \u0437\u0434\u043e\u0440\u043e\u0432'\u044f \u0437 \u0447\u0430\u0441\u043e\u043c.",
-      "zh-CN": "\u4e00\u79cd\u533b\u7597\u7269\u54c1\uff0c\u53ef\u968f\u65f6\u95f4\u9010\u6e10\u6062\u590d\u5927\u91cf\u751f\u547d\u503c\u3002",
+      "zh-CN": "\u4e00\u79cd\u533b\u7597\u7269\u54c1\uff0c\u80fd\u5728\u4e00\u6bb5\u65f6\u95f4\u5185\u9010\u6e10\u6062\u590d\u5927\u91cf\u751f\u547d\u503c\u3002",
       "zh-TW": "\u4e00\u7a2e\u91ab\u7642\u7269\u54c1\uff0c\u53ef\u96a8\u6642\u9593\u9010\u6f38\u6062\u5fa9\u5927\u91cf\u751f\u547d\u503c\u3002"
     },
     "type": "Quick Use",
@@ -46129,7 +46139,7 @@
       "hr": "Surge Coil",
       "it": "Surge Coil",
       "ja": "Surge Coil",
-      "ko-KR": "Surge Coil",
+      "ko-KR": "\uc11c\uc9c0 \ucf54\uc77c",
       "no": "Surge Coil",
       "pl": "Surge Coil",
       "pt": "Surge Coil",
@@ -46198,7 +46208,7 @@
       "hr": "Surge Coil Nacrt",
       "it": "Surge Coil Progetto",
       "ja": "Surge Coil \u8a2d\u8a08\u56f3",
-      "ko-KR": "Surge Coil \uccad\uc0ac\uc9c4",
+      "ko-KR": "\uc11c\uc9c0 \ucf54\uc77c \uc124\uacc4\ub3c4",
       "no": "Surge Coil Tegning",
       "pl": "Surge Coil Schemat",
       "pt": "Esquema de Surge Coil",
@@ -46395,7 +46405,7 @@
       "sr": "Trezor istra\u017eiva\u010da",
       "tr": "G\u00f6zetleyici Kasas\u0131",
       "uk": "\u0421\u0445\u043e\u0432\u0438\u0449\u0435 \u0433\u0435\u043e\u0434\u0435\u0437\u0438\u0441\u0442\u0430",
-      "zh-CN": "\u52d8\u6d4b\u5e08\u4fdd\u9669\u5e93",
+      "zh-CN": "\u201c\u52d8\u6d4b\u5e08\u201d\u4fdd\u9669\u5e93",
       "zh-TW": "\u52d8\u6e2c\u8005\u4fdd\u96aa\u5eab"
     },
     "description": {
@@ -46606,7 +46616,7 @@
       "sr": "Takti\u010dki Mk. 1",
       "tr": "Taktiksel Mod. 1",
       "uk": "\u0422\u0430\u043a\u0442\u0438\u0447\u043d\u0438\u0439 Mk. 1",
-      "zh-CN": "\u6218\u672f\u578b Mk. 1",
+      "zh-CN": "\u6218\u672f Mk. 1",
       "zh-TW": "\u6230\u8853\u578b Mk. 1"
     },
     "description": {
@@ -46764,7 +46774,7 @@
       "sr": "Takti\u010dki Mk. 2",
       "tr": "Taktiksel Mod. 2",
       "uk": "\u0422\u0430\u043a\u0442\u0438\u0447\u043d\u0438\u0439 Mk. 2",
-      "zh-CN": "\u6218\u672f\u578b Mk. 2",
+      "zh-CN": "\u6218\u672f Mk. 2",
       "zh-TW": "\u6230\u8853\u578b Mk. 2"
     },
     "description": {
@@ -47328,7 +47338,7 @@
       "sr": "Takti\u010dki Mk. 3 (O\u017eivljavanje)",
       "tr": "Taktiksel Mod. 3 (Diriltici)",
       "uk": "\u0422\u0430\u043a\u0442\u0438\u0447\u043d\u0438\u0439 Mk. 3 (\u0412\u0456\u0434\u0440\u043e\u0434\u0436\u0435\u043d\u043d\u044f)",
-      "zh-CN": "\u6218\u672f\u578b Mk. 3 (\u590d\u6d3b)",
+      "zh-CN": "\u6218\u672f\u578b Mk. 3 (\u590d\u82cf)",
       "zh-TW": "\u6230\u8853\u578b Mk. 3 (\u5fa9\u6d3b)"
     },
     "description": {
@@ -47468,7 +47478,7 @@
       "sr": "Takti\u010dki nacrt Mk. 3 (O\u017eivljavanje)",
       "tr": "Taktiksel Mod. 3 (Diriltici) Tasla\u011f\u0131",
       "uk": "\u041a\u0440\u0435\u0441\u043b\u0435\u043d\u043d\u044f: \u0422\u0430\u043a\u0442\u0438\u043a\u0430 \u041c\u043a. 3 (\u0420\u0435\u0430\u043d\u0456\u043c\u0430\u0446\u0456\u044f)",
-      "zh-CN": "\u6218\u672f Mk. 3 (\u6551\u63f4) \u84dd\u56fe",
+      "zh-CN": "\u6218\u672f Mk. 3 (\u590d\u82cf) \u84dd\u56fe",
       "zh-TW": "\u6230\u8853 Mk. 3 (\u5fa9\u7526) \u85cd\u5716"
     },
     "description": {
@@ -47662,7 +47672,7 @@
       "sr": "Granata koja detonira nakon odlaganja, oznacavajuci Razbojnike i ARC neprijatelje u podrucju.",
       "tr": "Gecikmeli olarak patlayan ve bir alandaki Akincilar\u0131 ve ARC dusmanlarini isaretleyen bomba.",
       "uk": "\u0413\u0440\u0430\u043d\u0430\u0442\u0430, \u0449\u043e \u0432\u0438\u0431\u0443\u0445\u0430\u0454 \u0456\u0437 \u0437\u0430\u0442\u0440\u0438\u043c\u043a\u043e\u044e \u0442\u0430 \u043c\u0430\u0440\u043a\u0443\u0454 \u0440\u0435\u0439\u0434\u0435\u0440\u0456\u0432 \u0456 \u0432\u043e\u0440\u043e\u0433\u0456\u0432 ARC \u0432 \u043e\u0431\u043b\u0430\u0441\u0442\u0456.",
-      "zh-CN": "\u5ef6\u8fdf\u5f15\u7206\u7684\u624b\u69b4\u5f39\uff0c\u80fd\u6807\u8bb0\u533a\u57df\u5185\u7684\u63a0\u593a\u8005\u548cARC\u654c\u4eba\u3002",
+      "zh-CN": "\u5ef6\u8fdf\u5f15\u7206\u7684\u624b\u69b4\u5f39\uff0c\u80fd\u6807\u8bb0\u533a\u57df\u5185\u7684\u5947\u88ad\u8005\u548cARC\u654c\u4eba\u3002",
       "zh-TW": "\u5ef6\u9072\u5f15\u7206\u7684\u624b\u69b4\u5f48\uff0c\u80fd\u6a19\u8a18\u5340\u57df\u5167\u7684\u63a0\u596a\u8005\u548cARC\u6575\u4eba\u3002"
     },
     "type": "Blueprint",
@@ -49016,7 +49026,7 @@
       "sr": "Krpeljeva Mahuna",
       "tr": "Kene Kozas\u0131",
       "uk": "\u041a\u0430\u043f\u0441\u0443\u043b\u0430 \u043a\u043b\u0456\u0449\u0430",
-      "zh-CN": "\u8731\u866b\u835a",
+      "zh-CN": "\u201c\u8df3\u86a4\u201d\u6536\u7eb3\u4ed3",
       "zh-TW": "\u8731\u87f2\u83a2"
     },
     "description": {
@@ -49302,7 +49312,7 @@
       "en": "Torrente I",
       "es": "Torrente I",
       "fr": "Torrente I",
-      "he": "Torrente I",
+      "he": "\u05d8\u05d5\u05e8\u05e0\u05d8\u05d4 I",
       "hr": "Torrente I",
       "it": "Torrente I",
       "ja": "\u30c8\u30ec\u30f3\u30c6 I",
@@ -50441,7 +50451,7 @@
       "sr": "Daljinska Granata",
       "tr": "Tetikleme Bombas\u0131",
       "uk": "\u041a\u0435\u0440\u043e\u0432\u0430\u043d\u0430 \u0433\u0440\u0430\u043d\u0430\u0442\u0430",
-      "zh-CN": "\u9065\u63a7\u624b\u96f7",
+      "zh-CN": "\u89e6\u53d1\u5f0f\u624b\u96f7",
       "zh-TW": "\u9059\u63a7\u624b\u69b4\u5f48"
     },
     "description": {
@@ -50558,7 +50568,7 @@
       "sr": "Nacrt Trigger Nade",
       "tr": "Tetikleme Bombas\u0131 Tasla\u011f\u0131",
       "uk": "\u041a\u0440\u0435\u0441\u043b\u0435\u043d\u043d\u044f \u0442\u0440\u0438\u0433\u0435\u0440\u043d\u043e\u0457 \u0433\u0440\u0430\u043d\u0430\u0442\u0438",
-      "zh-CN": "\u89e6\u53d1\u624b\u69b4\u5f39\u84dd\u56fe",
+      "zh-CN": "\u89e6\u53d1\u5f0f\u624b\u96f7\u84dd\u56fe",
       "zh-TW": "\u89f8\u767c\u624b\u69b4\u5f48\u85cd\u5716"
     },
     "description": {
@@ -50731,7 +50741,7 @@
       "sr": "Neupotrebljivo oru\u017eje",
       "tr": "Kullan\u0131lamaz Haldeki Silah",
       "uk": "\u041d\u0435\u043f\u0440\u0438\u0434\u0430\u0442\u043d\u0430 \u0437\u0431\u0440\u043e\u044f",
-      "zh-CN": "\u65e0\u6cd5\u4f7f\u7528\u7684\u6b66\u5668",
+      "zh-CN": "\u4e0d\u582a\u7528\u7684\u6b66\u5668",
       "zh-TW": "\u7121\u6cd5\u4f7f\u7528\u7684\u6b66\u5668"
     },
     "description": {
@@ -50785,7 +50795,7 @@
       "hr": "Vaporizer Regulator",
       "it": "Vaporizer Regulator",
       "ja": "Vaporizer Regulator",
-      "ko-KR": "Vaporizer Regulator",
+      "ko-KR": "\ubca0\uc774\ud37c\ub77c\uc774\uc800 \uc870\uc808\uae30",
       "no": "Vaporizer Regulator",
       "pl": "Vaporizer Regulator",
       "pt": "Vaporizer Regulator",
@@ -51470,7 +51480,7 @@
       "pl": "Venator III",
       "pt": "Venator III",
       "pt-BR": "Venator III",
-      "ru": "Venator III",
+      "ru": "\u041e\u0445\u043e\u0442\u043d\u0438\u043a III",
       "sr": "Venator III",
       "tr": "Avc\u0131 III",
       "uk": "Venator III",
@@ -52497,7 +52507,7 @@
       "sr": "Veoma udoban jastuk",
       "tr": "\u00c7ok Rahat Yast\u0131k",
       "uk": "\u0414\u0443\u0436\u0435 \u0437\u0440\u0443\u0447\u043d\u0430 \u043f\u043e\u0434\u0443\u0448\u043a\u0430",
-      "zh-CN": "\u975e\u5e38\u8212\u9002\u7684\u6795\u5934",
+      "zh-CN": "\u6781\u4e3a\u8212\u9002\u7684\u6795\u5934",
       "zh-TW": "\u975e\u5e38\u8212\u9069\u7684\u6795\u982d"
     },
     "description": {
@@ -52519,7 +52529,7 @@
       "sr": "Zavist svakog plja\u010dka\u0161a. Kao spavanje na posebno ergonomskom oblaku.",
       "tr": "Her Raider'in hayali. Ergonomik bir bulutta uyuyormu\u015f hissi verir.",
       "uk": "\u0417\u0430\u0437\u0434\u0440\u0456\u0441\u0442\u044c \u043a\u043e\u0436\u043d\u043e\u0433\u043e \u0420\u0435\u0439\u0434\u0435\u0440\u0430. \u041d\u0430\u0447\u0435 \u0441\u043f\u0430\u0442\u0438 \u043d\u0430 \u043e\u0441\u043e\u0431\u043b\u0438\u0432\u043e ergonom\u0456\u0447\u043d\u0456\u0439 \u0445\u043c\u0430\u0440\u0456.",
-      "zh-CN": "\u6bcf\u4e2a\u63a0\u593a\u8005\u7684\u7fa1\u6155\u5bf9\u8c61\u3002\u5c31\u50cf\u7761\u5728\u7279\u522b\u7b26\u5408\u4eba\u4f53\u5de5\u5b66\u7684\u4e91\u4e0a\u3002",
+      "zh-CN": "\u6bcf\u4e2a\u5947\u88ad\u8005\u7684\u68a6\u60f3\u3002\u8111\u888b\u5c31\u50cf\u8eba\u5728\u4e00\u7247\u7279\u522b\u7b26\u5408\u4eba\u4f53\u5de5\u7a0b\u5b66\u7684\u4e91\u6735\u4e0a\u4e00\u6837\u3002",
       "zh-TW": "\u6bcf\u500b\u63a0\u596a\u8005\u7684\u7fa8\u6155\u5c0d\u8c61\u3002\u5c31\u50cf\u7761\u5728\u7279\u5225\u7b26\u5408\u4eba\u9ad4\u5de5\u5b78\u7684\u96f2\u4e0a\u3002"
     },
     "type": "Trinket",
@@ -52725,7 +52735,7 @@
       "sr": "Vita Sprej",
       "tr": "Sa\u011fl\u0131k Spreyi",
       "uk": "\u0412\u0456\u0442\u0430-\u0441\u043f\u0440\u0435\u0439",
-      "zh-CN": "\u751f\u547d\u55b7\u96fe",
+      "zh-CN": "\u8865\u6c34\u55b7\u96fe",
       "zh-TW": "\u6d3b\u529b\u5674\u9727"
     },
     "description": {
@@ -52747,7 +52757,7 @@
       "sr": "Medicinski predmet koji kontinuirano obnavlja zdravlje tokom kori\u0161\u0107enja. Mo\u017ee se koristiti na sebi ili saveznicima.",
       "tr": "Kullan\u0131ld\u0131\u011f\u0131 s\u00fcre boyunca can\u0131 devaml\u0131 olarak yenileyen bir t\u0131bbi e\u015fya. Kendin veya m\u00fcttefiklerin i\u00e7in kullanabilirsin.",
       "uk": "\u041c\u0435\u0434\u0438\u0447\u043d\u0438\u0439 \u043f\u0440\u0435\u0434\u043c\u0435\u0442, \u0449\u043e \u0431\u0435\u0437\u043f\u0435\u0440\u0435\u0440\u0432\u043d\u043e \u0432\u0456\u0434\u043d\u043e\u0432\u043b\u044e\u0454 \u0437\u0434\u043e\u0440\u043e\u0432'\u044f \u043f\u0456\u0434 \u0447\u0430\u0441 \u0432\u0438\u043a\u043e\u0440\u0438\u0441\u0442\u0430\u043d\u043d\u044f. \u041c\u043e\u0436\u043d\u0430 \u0432\u0438\u043a\u043e\u0440\u0438\u0441\u0442\u043e\u0432\u0443\u0432\u0430\u0442\u0438 \u043d\u0430 \u0441\u043e\u0431\u0456 \u0430\u0431\u043e \u0441\u043e\u044e\u0437\u043d\u0438\u043a\u0430\u0445.",
-      "zh-CN": "\u4f7f\u7528\u671f\u95f4\u6301\u7eed\u6062\u590d\u751f\u547d\u503c\u7684\u533b\u7597\u7269\u54c1\u3002\u53ef\u7528\u4e8e\u81ea\u5df1\u6216\u961f\u53cb\u3002",
+      "zh-CN": "\u4e00\u79cd\u533b\u7597\u7269\u54c1\uff0c\u5728\u4f7f\u7528\u8fc7\u7a0b\u4e2d\u4e0d\u65ad\u6062\u590d\u751f\u547d\u503c\u3002\u53ef\u4ee5\u5bf9\u81ea\u5df1\u6216\u76df\u53cb\u4f7f\u7528\u3002",
       "zh-TW": "\u4f7f\u7528\u671f\u9593\u6301\u7e8c\u6062\u5fa9\u751f\u547d\u503c\u7684\u91ab\u7642\u7269\u54c1\u3002\u53ef\u7528\u65bc\u81ea\u5df1\u6216\u968a\u53cb\u3002"
     },
     "type": "Quick Use",
@@ -52871,7 +52881,7 @@
       "sr": "Nacrt za Vita sprej",
       "tr": "Sa\u011fl\u0131k Spreyi Tasla\u011f\u0131",
       "uk": "\u041a\u0440\u0435\u0441\u043b\u0435\u043d\u043d\u044f \u0412\u0456\u0442\u0430-\u0441\u043f\u0440\u0435\u044e",
-      "zh-CN": "\u751f\u547d\u55b7\u96fe\u84dd\u56fe",
+      "zh-CN": "\u8865\u6c34\u55b7\u96fe\u84dd\u56fe",
       "zh-TW": "\u751f\u547d\u5674\u9727\u85cd\u5716"
     },
     "description": {
@@ -52893,7 +52903,7 @@
       "sr": "Medicinski predmet koji kontinuirano obnavlja zdravlje tokom upotrebe. Mo\u017ee se koristiti na sebi ili saveznicima.",
       "tr": "Kullan\u0131ld\u0131\u011f\u0131 s\u00fcre boyunca can\u0131 devaml\u0131 olarak yenileyen bir t\u0131bbi e\u015fya. Kendin veya m\u00fcttefiklerin i\u00e7in kullanabilirsin.",
       "uk": "\u041c\u0435\u0434\u0438\u0447\u043d\u0438\u0439 \u043f\u0440\u0435\u0434\u043c\u0435\u0442, \u044f\u043a\u0438\u0439 \u0431\u0435\u0437\u043f\u0435\u0440\u0435\u0440\u0432\u043d\u043e \u0432\u0456\u0434\u043d\u043e\u0432\u043b\u044e\u0454 \u0437\u0434\u043e\u0440\u043e\u0432'\u044f \u043f\u0456\u0434 \u0447\u0430\u0441 \u0432\u0438\u043a\u043e\u0440\u0438\u0441\u0442\u0430\u043d\u043d\u044f. \u041c\u043e\u0436\u043d\u0430 \u0432\u0438\u043a\u043e\u0440\u0438\u0441\u0442\u043e\u0432\u0443\u0432\u0430\u0442\u0438 \u043d\u0430 \u0441\u043e\u0431\u0456 \u0430\u0431\u043e \u0441\u043e\u044e\u0437\u043d\u0438\u043a\u0430\u0445.",
-      "zh-CN": "\u4f7f\u7528\u65f6\u6301\u7eed\u6062\u590d\u751f\u547d\u503c\u7684\u533b\u7597\u7269\u54c1\u3002\u53ef\u4ee5\u5bf9\u81ea\u5df1\u6216\u961f\u53cb\u4f7f\u7528\u3002",
+      "zh-CN": "\u4e00\u79cd\u533b\u7597\u7269\u54c1\uff0c\u5728\u4f7f\u7528\u8fc7\u7a0b\u4e2d\u4e0d\u65ad\u6062\u590d\u751f\u547d\u503c\u3002\u53ef\u4ee5\u5bf9\u81ea\u5df1\u6216\u76df\u53cb\u4f7f\u7528\u3002",
       "zh-TW": "\u4f7f\u7528\u6642\u6301\u7e8c\u6062\u5fa9\u751f\u547d\u503c\u7684\u91ab\u7642\u7269\u54c1\u3002\u53ef\u4ee5\u5c0d\u81ea\u5df1\u6216\u968a\u53cb\u4f7f\u7528\u3002"
     },
     "type": "Blueprint",
@@ -52947,7 +52957,7 @@
       "sr": "Mo\u017ee se baciti.",
       "tr": "F\u0131rlat\u0131labilir.",
       "uk": "\u041c\u043e\u0436\u043d\u0430 \u043a\u0438\u043d\u0443\u0442\u0438.",
-      "zh-CN": "\u53ef\u4ee5\u6295\u63b7\u3002",
+      "zh-CN": "\u53ef\u7528\u4e8e\u6295\u63b7\u3002",
       "zh-TW": "\u53ef\u4ee5\u6295\u64f2\u3002"
     },
     "type": "Misc",
@@ -53122,7 +53132,7 @@
       "en": "Vulcano I",
       "es": "Vulcano I",
       "fr": "Vulcano I",
-      "he": "Vulcano I",
+      "he": "\u05d5\u05d5\u05dc\u05e7\u05e0\u05d5 I",
       "hr": "Vulcano I",
       "it": "Vulcano I",
       "ja": "\u30f4\u30eb\u30ab\u30ce I",
@@ -53953,7 +53963,7 @@
       "pl": "Vulcano IV",
       "pt": "Vulcano IV",
       "pt-BR": "Vulc\u00e3o IV",
-      "ru": "Vulcano IV",
+      "ru": "\u0412\u0443\u043b\u043a\u0430\u043d IV",
       "sr": "Vulcano IV",
       "tr": "Yanarda\u011f IV",
       "uk": "Vulcano IV",
@@ -54404,7 +54414,7 @@
       "sr": "Vodena Pumpa",
       "tr": "Su Pompas\u0131",
       "uk": "\u0412\u043e\u0434\u044f\u043d\u0438\u0439 \u043d\u0430\u0441\u043e\u0441",
-      "zh-CN": "\u62bd\u6c34\u673a",
+      "zh-CN": "\u6c34\u6cf5",
       "zh-TW": "\u62bd\u6c34\u6a5f"
     },
     "description": {
@@ -54467,7 +54477,7 @@
       "sr": "\u017dice",
       "tr": "Kablolar",
       "uk": "\u0414\u0440\u043e\u0442\u0438",
-      "zh-CN": "\u7535\u7ebf",
+      "zh-CN": "\u5bfc\u7ebf",
       "zh-TW": "\u96fb\u7dda"
     },
     "description": {
@@ -54489,7 +54499,7 @@
       "sr": "Koristi se za izradu \u0161irokog spektra predmeta. Mo\u017ee se reciklirati u materijale za izradu. Koristi se za izradu: Vatrena Zamka sa Granatom, Dimna Zamka sa Granatom, Zamka sa Mamcem, Gasna Zamka sa Granatom, Usporiva\u010d Cevi I",
       "tr": "Geni\u015f bir yelpazede e\u015fya \u00fcretiminde kullan\u0131l\u0131r. \u00dcretim malzemelerine geri d\u00f6n\u00fc\u015ft\u00fcr\u00fclebilir. \u00dcretilebilir: Alev Bombas\u0131 Tuza\u011f\u0131, Sis Bombas\u0131 Tuza\u011f\u0131, Yem Bombas\u0131 Tuza\u011f\u0131, Gaz Bombas\u0131 Tuza\u011f\u0131, Namlu Freni I",
       "uk": "\u0412\u0438\u043a\u043e\u0440\u0438\u0441\u0442\u043e\u0432\u0443\u0454\u0442\u044c\u0441\u044f \u0434\u043b\u044f \u0441\u0442\u0432\u043e\u0440\u0435\u043d\u043d\u044f \u0448\u0438\u0440\u043e\u043a\u043e\u0433\u043e \u0441\u043f\u0435\u043a\u0442\u0440\u0443 \u043f\u0440\u0435\u0434\u043c\u0435\u0442\u0456\u0432. \u041c\u043e\u0436\u043d\u0430 \u043f\u0435\u0440\u0435\u0440\u043e\u0431\u0438\u0442\u0438 \u0432 \u043c\u0430\u0442\u0435\u0440\u0456\u0430\u043b\u0438 \u0434\u043b\u044f \u043a\u0440\u0430\u0444\u0442\u0443. \u0412\u0438\u043a\u043e\u0440\u0438\u0441\u0442\u043e\u0432\u0443\u0454\u0442\u044c\u0441\u044f \u0434\u043b\u044f \u0441\u0442\u0432\u043e\u0440\u0435\u043d\u043d\u044f: \u041f\u0430\u0441\u0442\u043a\u0430 \u0437 \u0432\u043e\u0433\u043d\u044f\u043d\u043e\u044e \u0433\u0440\u0430\u043d\u0430\u0442\u043e\u044e, \u041f\u0430\u0441\u0442\u043a\u0430 \u0437 \u0434\u0438\u043c\u043e\u0432\u043e\u044e \u0433\u0440\u0430\u043d\u0430\u0442\u043e\u044e, \u041f\u0430\u0441\u0442\u043a\u0430 \u0437 \u043f\u0440\u0438\u043d\u0430\u0434\u043e\u044e, \u041f\u0430\u0441\u0442\u043a\u0430 \u0437 \u0433\u0430\u0437\u043e\u0432\u043e\u044e \u0433\u0440\u0430\u043d\u0430\u0442\u043e\u044e, \u0414\u0443\u043b\u044c\u043d\u0438\u0439 \u0433\u0430\u043b\u044c\u043c\u043e I",
-      "zh-CN": "\u7528\u4e8e\u5236\u4f5c\u5404\u79cd\u7269\u54c1\u3002\u53ef\u56de\u6536\u4e3a\u5236\u4f5c\u6750\u6599\u3002\u53ef\u5236\u4f5c\uff1a\u70c8\u7130\u624b\u69b4\u5f39\u9677\u9631\u3001\u70df\u96fe\u624b\u69b4\u5f39\u9677\u9631\u3001\u8bf1\u9975\u624b\u69b4\u5f39\u9677\u9631\u3001\u6bd2\u6c14\u624b\u69b4\u5f39\u9677\u9631\u3001\u67aa\u53e3\u5236\u9000\u5668I",
+      "zh-CN": "\u7528\u4e8e\u5236\u4f5c\u5404\u79cd\u7269\u54c1\u3002\u53ef\u56de\u6536\u4e3a\u5236\u4f5c\u6750\u6599\u3002\u53ef\u5236\u4f5c\uff1a\u70c8\u7130\u624b\u96f7\u9677\u9631\u3001\u70df\u96fe\u624b\u96f7\u9677\u9631\u3001\u8bf1\u6355\u624b\u96f7\u9677\u9631\u3001\u6bd2\u6c14\u624b\u96f7\u9677\u9631\u3001\u67aa\u53e3\u5236\u9000\u5668I",
       "zh-TW": "\u7528\u65bc\u88fd\u4f5c\u5404\u7a2e\u7269\u54c1\u3002\u53ef\u56de\u6536\u70ba\u88fd\u4f5c\u6750\u6599\u3002\u53ef\u88fd\u4f5c\uff1a\u70c8\u7130\u624b\u69b4\u5f48\u9677\u9631\u3001\u7159\u9727\u624b\u69b4\u5f48\u9677\u9631\u3001\u8a98\u990c\u624b\u69b4\u5f48\u9677\u9631\u3001\u6bd2\u6c23\u624b\u69b4\u5f48\u9677\u9631\u3001\u69cd\u53e3\u5236\u9000\u5668I"
     },
     "type": "Topside Material",
