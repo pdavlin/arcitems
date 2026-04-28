@@ -1938,6 +1938,119 @@
     "updatedAt": "02/25/2026"
   },
   {
+    "id": "a_wrench_in_the_works",
+    "name": {
+      "de": "Ein Strich durch die Rechnung",
+      "en": "A Wrench in the Works",
+      "es": "Un contratiempo",
+      "fr": "Grain de sable dans l'engrenage",
+      "it": "Un intoppo",
+      "ja": "\u8a08\u753b\u306e\u59a8\u3052",
+      "ko-KR": "\uc791\uc5c5\uc5d0 \ub080 \ub80c\uce58",
+      "pl": "Kij w szprychach",
+      "pt-BR": "Uma Solu\u00e7\u00e3o Ajust\u00e1vel",
+      "ru": "\u041a\u043b\u044e\u0447 \u0432 \u0434\u0435\u043b\u0435",
+      "tr": "Tekere Sokulan \u00c7omak",
+      "zh-CN": "\u6697\u4e2d\u7834\u574f",
+      "zh-TW": "\u963b\u6493\u8a08\u756b",
+      "no": "Kjepper i hjulene",
+      "hr": "Klip u kota\u010dima",
+      "da": "Grus i maskineriet",
+      "he": "\u05de\u05e7\u05dc \u05d1\u05d2\u05dc\u05d2\u05dc\u05d9\u05dd",
+      "uk": "\u041f\u0430\u043b\u043a\u0438 \u0432 \u043a\u043e\u043b\u0435\u0441\u0430",
+      "sr": "Klip u to\u010dkove",
+      "pt": "Areia na Engrenagem"
+    },
+    "map": [
+      "the_spaceport"
+    ],
+    "trader": "Celeste",
+    "description": {
+      "de": "Es sieht so aus, als h\u00e4tte sich der Unmut schlie\u00dflich bis zum Bodenpersonal des Raumhafens selbst ausgebreitet. Eine Meuterei bahnte sich an, mitten im Herzen des Exodus.",
+      "en": "Looks like the resentment ended up reaching the ground staff of the Spaceport itself. A mutiny brewing, right in the heart of the Exodus.",
+      "es": "Parece ser que la crispaci\u00f3n acab\u00f3 llegando al personal de tierra del Puerto espacial. Se estaba gestando una rebeli\u00f3n en el mism\u00edsimo coraz\u00f3n del \u00c9xodo.",
+      "fr": "Les dissensions semblent avoir m\u00eame fini par gagner le personnel au sol du port spatial. Une mutinerie se tramait, en plein c\u0153ur de l'Exode.",
+      "it": "Sembra che il risentimento sia arrivato a coinvolgere anche il personale di terra dello Spazioporto. Stava per scoppiare una rivolta, proprio nel cuore dell'Esodo.",
+      "ja": "\u305d\u306e\u6012\u308a\u306f\u5b87\u5b99\u6e2f\u306e\u5730\u4e0a\u30b9\u30bf\u30c3\u30d5\u306b\u307e\u3067\u5c4a\u3044\u305f\u3088\u3046\u3060\u3002\u30a8\u30af\u30bd\u30c0\u30b9\u306e\u5fc3\u81d3\u90e8\u3067\u53cd\u4e71\u304c\u52c3\u767a\u3057\u3066\u3044\u308b\u3002",
+      "ko-KR": "\uadf8 \ubd88\ub9cc\uc740 \uacb0\uad6d \uc6b0\uc8fc \uae30\uc9c0\uc758 \uc9c0\uc0c1 \uc9c1\uc6d0\ub4e4\uc5d0\uac8c\uae4c\uc9c0 \ubc88\uc9c4 \ubaa8\uc591\uc774\uc5d0\uc694. \uc5d1\uc18c\ub354\uc2a4 \ud55c\ubcf5\ud310\uc5d0\uc11c \ubc18\ub780\uc758 \ubd88\uc528\uac00 \ucee4\uc9c0\uace0 \uc788\uc5c8\ub358 \uac70\uc8e0.",
+      "pl": "Wygl\u0105da na to, \u017ce frustracja udzieli\u0142a si\u0119 te\u017c naziemnej obs\u0142udze portu kosmicznego. W samym sercu Exodusu zanosi\u0142o si\u0119 na bunt.",
+      "pt-BR": "Parece que o descontentamento chegou at\u00e9 a equipe operacional do Espa\u00e7oporto. Um motim tomou forma bem no meio do \u00caxodo.",
+      "ru": "\u041f\u043e\u0445\u043e\u0436\u0435, \u043d\u0435\u0434\u043e\u0432\u043e\u043b\u044c\u0441\u0442\u0432\u043e \u0434\u043e\u0431\u0440\u0430\u043b\u043e\u0441\u044c \u0438 \u0434\u043e \u043d\u0430\u0437\u0435\u043c\u043d\u044b\u0445 \u0441\u043e\u0442\u0440\u0443\u0434\u043d\u0438\u043a\u043e\u0432 \u043a\u043e\u0441\u043c\u043e\u043f\u043e\u0440\u0442\u0430. \u0412 \u0441\u0430\u043c\u043e\u043c \u0441\u0435\u0440\u0434\u0446\u0435 \u0418\u0441\u0445\u043e\u0434\u0430 \u043d\u0430\u0437\u0440\u0435\u043b \u043c\u044f\u0442\u0435\u0436.",
+      "tr": "Anla\u015f\u0131lan k\u0131zg\u0131nl\u0131k Uzayliman\u0131'n\u0131n kendi yer personeline kadar ula\u015fm\u0131\u015f. Exodus'un tam kalbinde bir isyan k\u00f6r\u00fcklenmi\u015f.",
+      "zh-CN": "\u770b\u6765\u4e0d\u6ee1\u60c5\u7eea\u8513\u5ef6\u5230\u4e86\u592a\u7a7a\u6e2f\u7684\u5730\u52e4\u5458\u5de5\uff0c\u201c\u79bb\u5de2\u201d\u7684\u6838\u5fc3\u5730\u5e26\u6b63\u5728\u915d\u917f\u53db\u4e71\u3002",
+      "zh-TW": "\u770b\u4f86\u9019\u80a1\u6028\u6068\u6700\u7d42\u8513\u5ef6\u5230\u4e86\u592a\u7a7a\u6e2f\u672c\u8eab\u7684\u5730\u52e4\u4eba\u54e1\u3002\u5c31\u5728\u51fa\u9003\u671f\u9593\uff0c\u53cd\u53db\u6b63\u5728\u919e\u91c0\u3002",
+      "no": "Ser ut til at misn\u00f8yen endte opp med \u00e5 n\u00e5 bakkemannskapet p\u00e5 selve The Spaceport. Et mytteri er i emning, rett i hjertet av Exodus.",
+      "hr": "\u010cini se da je ogor\u010denost na kraju stigla i do zemaljskog osoblja The Spaceporta. Sprema se pobuna, i to u samom srcu Exodusa.",
+      "da": "Det ser ud til, at vreden endte med at n\u00e5 frem til selve jordpersonalet p\u00e5 The Spaceport. Et mytteri er under opsejling, lige i hjertet af Exodus.",
+      "he": "\u05e0\u05e8\u05d0\u05d4 \u05e9\u05d4\u05d8\u05d9\u05e0\u05d4 \u05d4\u05d2\u05d9\u05e2\u05d4 \u05d1\u05e1\u05d5\u05e4\u05d5 \u05e9\u05dc \u05d3\u05d1\u05e8 \u05dc\u05e6\u05d5\u05d5\u05ea \u05d4\u05e7\u05e8\u05e7\u05e2 \u05e9\u05dc The Spaceport \u05e2\u05e6\u05de\u05d5. \u05de\u05e8\u05d3 \u05de\u05ea\u05d1\u05e9\u05dc, \u05de\u05de\u05e9 \u05d1\u05dc\u05d1 \u05d4-Exodus.",
+      "uk": "\u0421\u0445\u043e\u0436\u0435, \u043d\u0435\u0432\u0434\u043e\u0432\u043e\u043b\u0435\u043d\u043d\u044f \u0434\u0456\u0441\u0442\u0430\u043b\u043e\u0441\u044f \u0439 \u043d\u0430\u0437\u0435\u043c\u043d\u043e\u0433\u043e \u043f\u0435\u0440\u0441\u043e\u043d\u0430\u043b\u0443 \u0441\u0430\u043c\u043e\u0433\u043e The Spaceport. \u041d\u0430\u0437\u0440\u0456\u0432\u0430\u0454 \u0437\u0430\u043a\u043e\u043b\u043e\u0442, \u043f\u0440\u043e\u0441\u0442\u043e \u0432 \u0441\u0435\u0440\u0446\u0456 Exodus.",
+      "sr": "Izgleda da je ogor\u010denost na kraju stigla i do zemaljskog osoblja na lokaciji The Spaceport. Sprema se pobuna, i to u samom srcu Exodusa.",
+      "pt": "Parece que o ressentimento acabou chegando \u00e0 equipe de terra do pr\u00f3prio The Spaceport. Um motim se formando bem no cora\u00e7\u00e3o do Exodus."
+    },
+    "objectives": [
+      {
+        "de": "Durchsuche die Busse in der N\u00e4he des Westtors.",
+        "en": "Search the buses near the western gate",
+        "es": "Registra los autobuses junto a la puerta oeste.",
+        "fr": "Fouiller les bus pr\u00e8s de la porte ouest",
+        "it": "Ispeziona i bus vicino al cancello occidentale",
+        "ja": "\u897f\u9580\u8fd1\u304f\u306e\u30d0\u30b9\u3092\u8abf\u3079\u308b",
+        "ko-KR": "\uc11c\ucabd \uac8c\uc774\ud2b8 \uadfc\ucc98 \ubc84\uc2a4 \uc218\uc0c9\ud558\uae30",
+        "pl": "Przeszukaj autobusy przy zachodniej bramie",
+        "pt-BR": "Vasculhe os \u00f4nibus perto do port\u00e3o oeste",
+        "ru": "\u041e\u0431\u044b\u0449\u0438\u0442\u0435 \u0430\u0432\u0442\u043e\u0431\u0443\u0441\u044b \u0443 \u0437\u0430\u043f\u0430\u0434\u043d\u044b\u0445 \u0432\u043e\u0440\u043e\u0442.",
+        "tr": "Bat\u0131 kap\u0131s\u0131 yak\u0131n\u0131ndaki otob\u00fcsleri ara",
+        "zh-CN": "\u641c\u7d22\u897f\u95e8\u9644\u8fd1\u7684\u5df4\u58eb",
+        "zh-TW": "\u641c\u7d22\u897f\u5927\u9580\u9644\u8fd1\u7684\u516c\u8eca",
+        "no": "Gjennoms\u00f8k bussene n\u00e6r vestporten",
+        "hr": "Pretra\u017ei autobuse u blizini zapadnih vrata",
+        "da": "Gennems\u00f8g busserne n\u00e6r den vestlige port",
+        "he": "\u05d7\u05e4\u05e9 \u05d1\u05d0\u05d5\u05d8\u05d5\u05d1\u05d5\u05e1\u05d9\u05dd \u05dc\u05d9\u05d3 \u05d4\u05e9\u05e2\u05e8 \u05d4\u05de\u05e2\u05e8\u05d1\u05d9",
+        "uk": "\u041e\u0431\u0448\u0443\u043a\u0430\u0439\u0442\u0435 \u0430\u0432\u0442\u043e\u0431\u0443\u0441\u0438 \u0431\u0456\u043b\u044f \u0437\u0430\u0445\u0456\u0434\u043d\u0438\u0445 \u0432\u043e\u0440\u0456\u0442",
+        "sr": "Pretra\u017ei autobuse blizu zapadne kapije",
+        "pt": "Vasculhe os \u00f4nibus perto do port\u00e3o oeste"
+      },
+      {
+        "de": "Finde den Vorrat an Sabotagematerial, der bei den Wassert\u00fcrmen versteckt ist.",
+        "en": "Locate the stash of sabotage supplies hidden at the Water Towers",
+        "es": "Encuentra el alijo de suministros saboteados oculto en las torres de agua.",
+        "fr": "Localiser la r\u00e9serve de mat\u00e9riaux de sabotage cach\u00e9e dans les Ch\u00e2teaux d'eau",
+        "it": "Individua la scorta di materiale per il sabotaggio nascosta nelle Torri idriche",
+        "ja": "\u7d66\u6c34\u5854\u306b\u96a0\u3055\u308c\u3066\u3044\u308b\u7834\u58ca\u5de5\u4f5c\u7528\u7269\u8cc7\u306e\u4fdd\u7ba1\u5834\u6240\u3092\u898b\u3064\u3051\u308b",
+        "ko-KR": "\uae09\uc218\ud0d1\uc5d0 \uc228\uaca8\uc9c4 \ud30c\uad34 \uacf5\uc791 \ubcf4\uae09\ud488 \uc740\ub2c9\ucc98 \ucc3e\uae30",
+        "pl": "Znajd\u017a skrytk\u0119 z zapasami sabota\u017cyst\u00f3w ukryt\u0105 w wie\u017cach ci\u015bnie\u0144",
+        "pt-BR": "Localize o estoque com suprimentos de sabotagem escondido nas Torres de \u00c1gua",
+        "ru": "\u041d\u0430\u0439\u0434\u0438\u0442\u0435 \u0445\u0440\u0430\u043d\u0438\u043b\u0438\u0449\u0435 \u0441 \u043f\u0440\u0438\u043f\u0430\u0441\u0430\u043c\u0438 \u0434\u043b\u044f \u0441\u0430\u0431\u043e\u0442\u0430\u0436\u0430, \u0441\u043f\u0440\u044f\u0442\u0430\u043d\u043d\u043e\u0435 \u0432 \u0432\u043e\u0434\u043e\u043d\u0430\u043f\u043e\u0440\u043d\u044b\u0445 \u0431\u0430\u0448\u043d\u044f\u0445.",
+        "tr": "Su Kulelerinde gizlenen sabotaj malzemesi zulas\u0131n\u0131 bul",
+        "zh-CN": "\u627e\u5230\u85cf\u5728\u6c34\u5854\u7684\u7834\u574f\u7269\u8d44\u50a8\u5907\u7bb1",
+        "zh-TW": "\u627e\u5230\u85cf\u5728\u6c34\u5854\u5167\u7684\u7834\u58de\u7528\u54c1\u5132\u85cf\u7bb1",
+        "no": "Finn lageret med sabotasjeutstyr som er skjult ved vannt\u00e5rnene",
+        "hr": "Prona\u0111i zalihu opreme za sabota\u017eu skrivenu kod vodenih tornjeva",
+        "da": "Find gemmestedet med sabotageforsyninger skjult ved vandt\u00e5rnene",
+        "he": "\u05d0\u05ea\u05e8 \u05d0\u05ea \u05de\u05d0\u05d2\u05e8 \u05e6\u05d9\u05d5\u05d3 \u05d4\u05d7\u05d1\u05dc\u05d4 \u05d4\u05de\u05d5\u05e1\u05ea\u05e8 \u05d1\u05de\u05d2\u05d3\u05dc\u05d9 \u05d4\u05de\u05d9\u05dd",
+        "uk": "\u0417\u043d\u0430\u0439\u0434\u0456\u0442\u044c \u0441\u0445\u043e\u0432\u0430\u043d\u043a\u0443 \u0437 \u043f\u0440\u0438\u043f\u0430\u0441\u0430\u043c\u0438 \u0434\u043b\u044f \u0441\u0430\u0431\u043e\u0442\u0430\u0436\u0443 \u0431\u0456\u043b\u044f \u0432\u043e\u0434\u043e\u043d\u0430\u043f\u0456\u0440\u043d\u0438\u0445 \u0432\u0435\u0436",
+        "sr": "Prona\u0111i skrivene zalihe za sabota\u017eu kod vodenih tornjeva",
+        "pt": "Localize o estoque de suprimentos de sabotagem escondido nas Torres de \u00c1gua"
+      }
+    ],
+    "rewardItemIds": [
+      {
+        "itemId": "mechanical_components",
+        "quantity": 5
+      },
+      {
+        "itemId": "mod_components",
+        "quantity": 3
+      }
+    ],
+    "xp": 0,
+    "previousQuestIds": [
+      "safe_harbor"
+    ],
+    "nextQuestIds": [],
+    "updatedAt": "04/28/2026"
+  },
+  {
     "id": "after_rain_comes",
     "name": {
       "da": "Efter regn kommer",
@@ -2400,6 +2513,138 @@
       "our_presence_up_there"
     ],
     "updatedAt": "03/31/2026"
+  },
+  {
+    "id": "battening_down",
+    "name": {
+      "de": "Auf das Schlimmste vorbereiten",
+      "en": "Battening Down",
+      "es": "Echar el cerrojo",
+      "fr": "Mise en berne",
+      "it": "Messa in sicurezza",
+      "ja": "\u4e07\u5168\u306e\u5099\u3048",
+      "ko-KR": "\ucca0\uc800\ud55c \ub300\ube44",
+      "pl": "Przygotowuj\u0105c si\u0119 na najgorsze",
+      "pt-BR": "Refor\u00e7ando Tudo",
+      "ru": "\u041c\u0435\u0440\u044b \u043f\u0440\u0435\u0434\u043e\u0441\u0442\u043e\u0440\u043e\u0436\u043d\u043e\u0441\u0442\u0438",
+      "tr": "Zora Haz\u0131rl\u0131k",
+      "zh-CN": "\u52a0\u56fa\u9632\u5fa1",
+      "zh-TW": "\u56b4\u9663\u4ee5\u5f85",
+      "no": "Skalker lukene",
+      "hr": "Priprema za oluju",
+      "da": "Skalkning af lugerne",
+      "he": "\u05d4\u05d9\u05e2\u05e8\u05db\u05d5\u05ea \u05dc\u05e1\u05e2\u05e8\u05d4",
+      "uk": "\u041f\u0456\u0434\u0433\u043e\u0442\u043e\u0432\u043a\u0430 \u0434\u043e \u0448\u0442\u043e\u0440\u043c\u0443",
+      "sr": "Priprema za oluju",
+      "pt": "Preparando para a Tempestade"
+    },
+    "map": [
+      "-21263888"
+    ],
+    "trader": "Apollo",
+    "description": {
+      "de": "Wir hatten gehofft, dass uns die Ufermauern in Riven Tides etwas Schutz vor den Elementen bieten w\u00fcrden, aber anscheinend haben die Hurrikane auch diesen Ort nicht verschont.",
+      "en": "We\u2019d hoped the seawalls at Riven Tides might offer us some protection from the elements, but it seems the hurricanes were not kind to this place, either.",
+      "es": "Esper\u00e1bamos que los rompeolas de Mareas divididas nos protegieran del clima, pero los huracanes tambi\u00e9n se cebaron con este sitio.",
+      "fr": "Nous esp\u00e9rions que les digues de Riven Tides nous offriraient une certaine protection contre les \u00e9l\u00e9ments, mais les ouragans n'ont apparemment pas \u00e9pargn\u00e9 cet endroit.",
+      "it": "Speravamo che le dighe di Spezzamarea ci offrissero un po' di protezione dalle intemperie, ma sembra che gli uragani non siano stati clementi nemmeno con questo luogo.",
+      "ja": "\u30ea\u30d6\u30f3\u30fb\u30bf\u30a4\u30ba\u306e\u9632\u6ce2\u5824\u304c\u98a8\u96e8\u304b\u3089\u5b88\u3063\u3066\u304f\u308c\u308b\u3053\u3068\u3092\u671f\u5f85\u3057\u3066\u3044\u305f\u3093\u3060\u304c\u3001\u3069\u3046\u3084\u3089\u30cf\u30ea\u30b1\u30fc\u30f3\u306f\u3053\u306e\u5834\u6240\u306b\u3082\u5bb9\u8d66\u306a\u304f\u8972\u3044\u639b\u304b\u3063\u3066\u304d\u305f\u3089\u3057\u3044\u3002",
+      "ko-KR": "\uac08\ub77c\uc9c4 \ubb3c\uacb0\uc758 \ubc29\ud30c\uc81c\uac00 \ube44\ubc14\ub78c\uc744 \ub9c9\uc544\uc8fc\uae30\ub97c \ubc14\ub790\uc9c0\ub9cc, \ud5c8\ub9ac\ucf00\uc778\uc774 \uc790\ube44 \uc5c6\uc774 \ubab0\uc544\uce5c \ubaa8\uc591\uc785\ub2c8\ub2e4.",
+      "pl": "Mieli\u015bmy nadziej\u0119, \u017ce falochrony na Rozdartym Wybrze\u017cu ochroni\u0105 nas przed \u017cywio\u0142ami, ale, jak wida\u0107, huragany nie oszcz\u0119dzi\u0142y te\u017c tego miejsca.",
+      "pt-BR": "A gente tinha esperan\u00e7a de que os quebra-mares em Mar\u00e9s Partidas dessem alguma prote\u00e7\u00e3o contra intemp\u00e9ries, mas parece que os furac\u00f5es castigaram o lugar.",
+      "ru": "\u041c\u044b \u043d\u0430\u0434\u0435\u044f\u043b\u0438\u0441\u044c, \u0447\u0442\u043e \u0432\u043e\u043b\u043d\u043e\u0440\u0435\u0437\u044b \u0432 \u0411\u0443\u0440\u043d\u044b\u0445 \u043f\u043e\u0442\u043e\u043a\u0430\u0445 \u0437\u0430\u0449\u0438\u0442\u044f\u0442 \u043d\u0430\u0441 \u043e\u0442 \u0441\u0442\u0438\u0445\u0438\u0439, \u043d\u043e \u0443\u0440\u0430\u0433\u0430\u043d\u044b \u044d\u0442\u043e \u043c\u0435\u0441\u0442\u043e \u043d\u0435 \u043f\u043e\u0436\u0430\u043b\u0435\u043b\u0438.",
+      "tr": "Riven Tides'daki deniz setleri bizi biraz korur diye ummu\u015ftuk ancak g\u00f6r\u00fcn\u00fc\u015fe g\u00f6re kas\u0131rgalar buray\u0131 da vurmu\u015f.",
+      "zh-CN": "\u6211\u4eec\u672c\u6307\u671b\u88c2\u6f6e\u9547\u7684\u6d77\u5824\u80fd\u62b5\u5fa1\u5929\u707e\uff0c\u53ef\u98d3\u98ce\u4e5f\u6ca1\u653e\u8fc7\u8fd9\u91cc\u3002",
+      "zh-TW": "\u6211\u5011\u672c\u4f86\u671f\u671b\u88c2\u6f6e\u93ae\u7684\u9632\u6ce2\u5824\u53ef\u4ee5\u70ba\u6211\u5011\u62b5\u64cb\u60e1\u52a3\u7684\u6d77\u6d6a\uff0c\u4f46\u770b\u4f86\u98b6\u98a8\u4e5f\u5c0d\u9019\u500b\u5730\u65b9\u4e0d\u53cb\u5584\u3002",
+      "no": "Vi hadde h\u00e5pet at sj\u00f8murene ved Riven Tides ville gi oss litt beskyttelse mot elementene, men det ser ut til at orkanene ikke var n\u00e5dige med dette stedet heller.",
+      "hr": "Nadali smo se da \u0107e nam lukobrani u Riven Tidesu pru\u017eiti nekakvu za\u0161titu od vremenskih neprilika, ali \u010dini se da uragani ni prema ovom mjestu nisu bili blagi.",
+      "da": "Vi havde h\u00e5bet, at b\u00f8lgebryderne ved Riven Tides kunne tilbyde os lidt beskyttelse mod elementerne, men det lader til, at orkanerne heller ikke var n\u00e5dige mod dette sted.",
+      "he": "\u05e7\u05d9\u05d5\u05d5\u05d9\u05e0\u05d5 \u05e9\u05d7\u05d5\u05de\u05d5\u05ea \u05d4\u05de\u05d2\u05df \u05d1-Riven Tides \u05d9\u05e2\u05e0\u05d9\u05e7\u05d5 \u05dc\u05e0\u05d5 \u05e7\u05e6\u05ea \u05d4\u05d2\u05e0\u05d4 \u05de\u05e4\u05e0\u05d9 \u05d0\u05d9\u05ea\u05e0\u05d9 \u05d4\u05d8\u05d1\u05e2, \u05d0\u05d1\u05dc \u05e0\u05e8\u05d0\u05d4 \u05e9\u05e1\u05d5\u05e4\u05d5\u05ea \u05d4\u05d4\u05d5\u05e8\u05d9\u05e7\u05df \u05dc\u05d0 \u05d7\u05e1\u05d5 \u05d2\u05dd \u05e2\u05dc \u05d4\u05de\u05e7\u05d5\u05dd \u05d4\u05d6\u05d4.",
+      "uk": "\u041c\u0438 \u0441\u043f\u043e\u0434\u0456\u0432\u0430\u043b\u0438\u0441\u044f, \u0449\u043e \u0434\u0430\u043c\u0431\u0438 \u0432 Riven Tides \u0445\u043e\u0447 \u044f\u043a\u043e\u0441\u044c \u0437\u0430\u0445\u0438\u0441\u0442\u044f\u0442\u044c \u043d\u0430\u0441 \u0432\u0456\u0434 \u0441\u0442\u0438\u0445\u0456\u0457, \u0430\u043b\u0435, \u0441\u0445\u043e\u0436\u0435, \u0443\u0440\u0430\u0433\u0430\u043d\u0438 \u043d\u0435 \u043f\u043e\u0449\u0430\u0434\u0438\u043b\u0438 \u0456 \u0446\u0435 \u043c\u0456\u0441\u0446\u0435.",
+      "sr": "Nadali smo se da \u0107e nam obalski bedemi u lokaciji Riven Tides pru\u017eiti neku za\u0161titu od vremenskih neprilika, ali izgleda da uragani ni prema ovom mestu nisu bili blagonakloni.",
+      "pt": "Esper\u00e1vamos que os quebra-mares em Riven Tides nos oferecessem alguma prote\u00e7\u00e3o contra os elementos, mas parece que os furac\u00f5es tamb\u00e9m n\u00e3o foram gentis com este lugar."
+    },
+    "objectives": [
+      {
+        "de": "Fotografiere die Risse, die sich in der Ufermauer bilden.",
+        "en": "Photograph the cracks forming in the seawall",
+        "es": "Saca una foto de las grietas del rompeolas.",
+        "fr": "Photographier les fissures qui se forment dans la digue",
+        "it": "Fai una foto alle crepe che si formano nella diga",
+        "ja": "\u9632\u6ce2\u5824\u306e\u4e80\u88c2\u3092\u64ae\u5f71\u3059\u308b",
+        "ko-KR": "\ubc29\ud30c\uc81c\uc5d0 \uc0dd\uae30\uace0 \uc788\ub294 \uade0\uc5f4 \ucd2c\uc601\ud558\uae30",
+        "pl": "Zr\u00f3b zdj\u0119cie p\u0119kni\u0119ciom powstaj\u0105cym na falochronie",
+        "pt-BR": "Fotografe as rachaduras que est\u00e3o se formando no quebra-mar",
+        "ru": "\u0421\u0444\u043e\u0442\u043e\u0433\u0440\u0430\u0444\u0438\u0440\u0443\u0439\u0442\u0435 \u0442\u0440\u0435\u0449\u0438\u043d\u044b \u043d\u0430 \u0432\u043e\u043b\u043d\u043e\u0440\u0435\u0437\u0435.",
+        "tr": "Deniz seddinde olu\u015fan \u00e7atlaklar\u0131n foto\u011fraf\u0131n\u0131 \u00e7ek",
+        "zh-CN": "\u62cd\u6444\u6d77\u5824\u4e0a\u7684\u88c2\u7f1d",
+        "zh-TW": "\u62cd\u651d\u9632\u6ce2\u5824\u4e0a\u5f62\u6210\u7684\u88c2\u7e2b",
+        "no": "Fotografer sprekkene som danner seg i sj\u00f8muren",
+        "hr": "Fotografiraj pukotine koje nastaju u lukobranu",
+        "da": "Fotografer revnerne, der dannes i b\u00f8lgebryderen",
+        "he": "\u05e6\u05dc\u05dd \u05d0\u05ea \u05d4\u05e1\u05d3\u05e7\u05d9\u05dd \u05e9\u05e0\u05d5\u05e6\u05e8\u05d9\u05dd \u05d1\u05d7\u05d5\u05de\u05ea \u05d4\u05de\u05d2\u05df",
+        "uk": "\u0421\u0444\u043e\u0442\u043e\u0433\u0440\u0430\u0444\u0443\u0439\u0442\u0435 \u0442\u0440\u0456\u0449\u0438\u043d\u0438, \u0449\u043e \u0443\u0442\u0432\u043e\u0440\u044e\u044e\u0442\u044c\u0441\u044f \u043d\u0430 \u0434\u0430\u043c\u0431\u0456",
+        "sr": "Fotografi\u0161i pukotine koje se stvaraju na obalskom bedemu",
+        "pt": "Fotografe as rachaduras se formando no quebra-mar"
+      },
+      {
+        "de": "Sammle Proben von der K\u00fcstenlinie in der N\u00e4he des Hotelstrands.",
+        "en": "Sample the shoreline near the hotel beach",
+        "es": "Recoge muestras en la orilla junto al hotel.",
+        "fr": "Pr\u00e9lever un \u00e9chantillon sur le littoral pr\u00e8s de la plage de l'h\u00f4tel",
+        "it": "Esplora la costa della spiaggia vicina all'hotel",
+        "ja": "\u30db\u30c6\u30eb\u306e\u30d3\u30fc\u30c1\u8fd1\u304f\u306e\u6d77\u5cb8\u7dda\u3067\u30b5\u30f3\u30d7\u30eb\u3092\u63a1\u308b",
+        "ko-KR": "\ud638\ud154 \ud574\ubcc0 \uadfc\ucc98 \ud574\uc548\uc120 \uc0d8\ud50c \ucc44\ucde8\ud558\uae30",
+        "pl": "Pobierz pr\u00f3bki na linii brzegowej w pobli\u017cu hotelowej pla\u017cy",
+        "pt-BR": "Colete uma amostra na faixa costeira perto da praia do hotel",
+        "ru": "\u0412\u043e\u0437\u044c\u043c\u0438\u0442\u0435 \u043e\u0431\u0440\u0430\u0437\u0446\u044b \u043d\u0430 \u043f\u043e\u0431\u0435\u0440\u0435\u0436\u044c\u0435 \u043e\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u043f\u043b\u044f\u0436\u0430.",
+        "tr": "Otel sahilininin yak\u0131n\u0131ndaki sahil \u015feridinden numune al",
+        "zh-CN": "\u5728\u9152\u5e97\u6d77\u6ee9\u9644\u8fd1\u7684\u6d77\u5cb8\u7ebf\u91c7\u96c6\u6837\u672c",
+        "zh-TW": "\u5728\u98ef\u5e97\u6d77\u7058\u9644\u8fd1\u7684\u6d77\u5cb8\u7dda\u63a1\u96c6\u6a23\u672c",
+        "no": "Ta pr\u00f8ver av strandlinjen n\u00e6r hotellstranden",
+        "hr": "Uzmi uzorak s obale blizu hotelske pla\u017ee",
+        "da": "Tag pr\u00f8ver af kystlinjen n\u00e6r hotellets strand",
+        "he": "\u05e7\u05d7 \u05d3\u05d2\u05d9\u05de\u05d4 \u05de\u05e7\u05d5 \u05d4\u05d7\u05d5\u05e3 \u05dc\u05d9\u05d3 \u05d7\u05d5\u05e3 \u05d4\u05de\u05dc\u05d5\u05df",
+        "uk": "\u0412\u0456\u0437\u044c\u043c\u0456\u0442\u044c \u0437\u0440\u0430\u0437\u043a\u0438 \u043d\u0430 \u0443\u0437\u0431\u0435\u0440\u0435\u0436\u0436\u0456 \u0431\u0456\u043b\u044f \u043f\u043b\u044f\u0436\u0443 \u0433\u043e\u0442\u0435\u043b\u044e",
+        "sr": "Uzmi uzorak sa obale blizu hotelske pla\u017ee",
+        "pt": "Colete amostras da costa perto da praia do hotel"
+      },
+      {
+        "de": "Repariere die undichte \u00d6lleitung im Nordosten.",
+        "en": "Fix the leaking oil pipe in the northeast",
+        "es": "Repara la tuber\u00eda de crudo en el noreste.",
+        "fr": "R\u00e9parer l'ol\u00e9oduc qui fuit au nord-est",
+        "it": "Ripara il tubo dell'olio che perde vicino a nord-est.",
+        "ja": "\u5317\u6771\u306b\u3042\u308b\u6f0f\u308c\u3066\u3044\u308b\u77f3\u6cb9\u30d1\u30a4\u30d7\u3092\u4fee\u7406\u3059\u308b",
+        "ko-KR": "\ubd81\ub3d9\ucabd\uc5d0 \uc788\ub294 \uc0c8\ub294 \uc1a1\uc720\uad00 \uc218\ub9ac\ud558\uae30",
+        "pl": "Napraw przeciekaj\u0105c\u0105 rur\u0119 naftow\u0105 na p\u00f3\u0142nocnym wschodzie.",
+        "pt-BR": "Conserte o cano de \u00f3leo com vazamento no nordeste.",
+        "ru": "\u0423\u0441\u0442\u0440\u0430\u043d\u0438\u0442\u0435 \u0443\u0442\u0435\u0447\u043a\u0443 \u043d\u0435\u0444\u0442\u0435\u043f\u0440\u043e\u0432\u043e\u0434\u0430 \u043d\u0430 \u0441\u0435\u0432\u0435\u0440\u043e-\u0432\u043e\u0441\u0442\u043e\u043a\u0435.",
+        "tr": "Kuzeydo\u011fudaki s\u0131zd\u0131ran ya\u011f borusunu tamir et",
+        "zh-CN": "\u4fee\u590d\u4e1c\u5317\u65b9\u5411\u6f0f\u6cb9\u7684\u6cb9\u7ba1",
+        "zh-TW": "\u4fee\u7406\u6771\u5317\u65b9\u7684\u6f0f\u6cb9\u7ba1\u7dda",
+        "no": "Reparer det lekkende oljer\u00f8ret i nord\u00f8st",
+        "hr": "Popravi naftovod koji curi na sjeveroistoku",
+        "da": "Reparer det l\u00e6kkende olier\u00f8r i nord\u00f8st",
+        "he": "\u05ea\u05e7\u05df \u05d0\u05ea \u05e6\u05d9\u05e0\u05d5\u05e8 \u05d4\u05e0\u05e4\u05d8 \u05d4\u05d3\u05d5\u05dc\u05e3 \u05d1\u05e6\u05e4\u05d5\u05df-\u05de\u05d6\u05e8\u05d7",
+        "uk": "\u041f\u043e\u043b\u0430\u0433\u043e\u0434\u044c\u0442\u0435 \u043d\u0430\u0444\u0442\u043e\u043f\u0440\u043e\u0432\u0456\u0434, \u0449\u043e \u043f\u0440\u043e\u0442\u0456\u043a\u0430\u0454 \u043d\u0430 \u043f\u0456\u0432\u043d\u0456\u0447\u043d\u043e\u043c\u0443 \u0441\u0445\u043e\u0434\u0456",
+        "sr": "Popravi naftovod koji curi na severoistoku",
+        "pt": "Conserte o vazamento do tubo de \u00f3leo no nordeste"
+      }
+    ],
+    "rewardItemIds": [
+      {
+        "itemId": "smoke_grenade_trap",
+        "quantity": 3
+      }
+    ],
+    "xp": 0,
+    "previousQuestIds": [
+      "ss4",
+      "april_quest_unlock"
+    ],
+    "nextQuestIds": [],
+    "updatedAt": "04/28/2026"
   },
   {
     "id": "bees",
@@ -3601,6 +3846,126 @@
       "snap_and_salvage"
     ],
     "updatedAt": "03/31/2026"
+  },
+  {
+    "id": "collision_course",
+    "name": {
+      "de": "Kollisionskurs",
+      "en": "Collision Course",
+      "es": "Trayectoria de colisi\u00f3n",
+      "fr": "Droit \u00e0 la collision",
+      "it": "Rotta di collisione",
+      "ja": "\u885d\u7a81\u30b3\u30fc\u30b9",
+      "ko-KR": "\ucda9\ub3cc \uacbd\ub85c",
+      "pl": "Kurs kolizyjny",
+      "pt-BR": "Rota de Colis\u00e3o",
+      "ru": "\u0422\u0440\u0430\u0435\u043a\u0442\u043e\u0440\u0438\u044f \u0441\u0442\u043e\u043b\u043a\u043d\u043e\u0432\u0435\u043d\u0438\u044f",
+      "tr": "\u00c7arp\u0131\u015fma Rotas\u0131",
+      "zh-CN": "\u78b0\u649e\u822a\u7ebf",
+      "zh-TW": "\u78b0\u649e\u822a\u7dda",
+      "no": "Kollisjonskurs",
+      "hr": "Putanja sudara",
+      "da": "Kollisionskurs",
+      "he": "\u05de\u05e1\u05dc\u05d5\u05dc \u05d4\u05ea\u05e0\u05d2\u05e9\u05d5\u05ea",
+      "uk": "\u041a\u0443\u0440\u0441 \u043d\u0430 \u0437\u0456\u0442\u043a\u043d\u0435\u043d\u043d\u044f",
+      "sr": "Putanja sudara",
+      "pt": "Rota de Colis\u00e3o"
+    },
+    "trader": "Tian Wen",
+    "requiredItemIds": [
+      {
+        "itemId": "comet_igniter",
+        "quantity": 1
+      }
+    ],
+    "description": {
+      "de": "Viele Raider haben gelernt, einem Kometen auszuweichen, aber viel zu wenige wissen, wie man sie zum Absturz bringt und an ihre inneren Teile herankommt.",
+      "en": "Many Raiders have learned how to dodge a Comet, but far too few know how to bring them down and get at their inner parts.",
+      "es": "La mayor\u00eda de Raiders ya saben c\u00f3mo esquivar un cometa, pero muy pocos saben c\u00f3mo abatirlo y llevarse sus piezas internas.",
+      "fr": "Bon nombre de Raiders ont appris \u00e0 esquiver une Com\u00e8te, mais tr\u00e8s peu savent les abattre et en extraire les composants.",
+      "it": "Molti Raider hanno imparato a schivare una Cometa, ma purtroppo pochi sanno come abbatterla e raggiungere le sue parti interne.",
+      "ja": "\u30b3\u30e1\u30c3\u30c8\u306e\u907f\u3051\u65b9\u3092\u899a\u3048\u305f\u30ec\u30a4\u30c0\u30fc\u306f\u305f\u304f\u3055\u3093\u3044\u308b\u3051\u3069\u3001\u5012\u3057\u3066\u5185\u90e8\u306e\u30d1\u30fc\u30c4\u3092\u624b\u306b\u5165\u308c\u308b\u65b9\u6cd5\u3092\u77e5\u308b\u4eba\u306f\u3042\u307e\u308a\u306b\u3082\u5c11\u306a\u3044\u3093\u3060\u3002",
+      "ko-KR": "\ub808\uc774\ub354\uac00 \ucf54\uba67\uc744 \ud53c\ud558\ub294 \ubc95\uc744 \uc544\ub294 \uc0ac\ub78c\uc740 \ub9ce\uc9c0\ub9cc, \ub188\uc744 \uaca9\ucd94\ud574 \ub0b4\ubd80 \ubd80\ud488\uc744 \ud655\ubcf4\ud558\ub294 \ubc95\uc744 \uc544\ub294 \uc774\ub294 \ud131\uc5c6\uc774 \uc801\uc2b5\ub2c8\ub2e4.",
+      "pl": "Wielu \u0142upie\u017cc\u00f3w nauczy\u0142o si\u0119 unika\u0107 komety, ale zdecydowanie zbyt ma\u0142a garstka wie, jak je pokona\u0107 i wydoby\u0107 z nich cz\u0119\u015bci.",
+      "pt-BR": "Muitos Raiders j\u00e1 aprenderam a se esquivar de um Cometa, mas poucos sabem como derrubar um e aproveitar o que tem dentro.",
+      "ru": "\u041c\u043d\u043e\u0433\u0438\u0435 \u0440\u0435\u0439\u0434\u0435\u0440\u044b \u043d\u0430\u0443\u0447\u0438\u043b\u0438\u0441\u044c \u0443\u0432\u043e\u0440\u0430\u0447\u0438\u0432\u0430\u0442\u044c\u0441\u044f \u043e\u0442 \u00ab\u041a\u043e\u043c\u0435\u0442\u00bb, \u043d\u043e \u043b\u0438\u0448\u044c \u0435\u0434\u0438\u043d\u0438\u0446\u044b \u0437\u043d\u0430\u044e\u0442, \u043a\u0430\u043a \u0438\u0445 \u043e\u0434\u043e\u043b\u0435\u0442\u044c \u0438 \u0440\u0430\u0437\u043e\u0431\u0440\u0430\u0442\u044c \u043d\u0430 \u0437\u0430\u043f\u0447\u0430\u0441\u0442\u0438.",
+      "tr": "Bir\u00e7ok Raider Kuyrukl\u0131 Y\u0131ld\u0131zlardan ka\u00e7\u0131nmas\u0131n\u0131 \u00f6\u011frendi ancak onlar\u0131 d\u00fc\u015f\u00fcr\u00fcp i\u00e7 k\u0131s\u0131mlar\u0131na ula\u015fmas\u0131n\u0131 \u00e7ok az\u0131 biliyor.",
+      "zh-CN": "\u4e0d\u5c11\u5947\u88ad\u8005\u90fd\u61c2\u5f97\u5982\u4f55\u8eb2\u907f\u201c\u5f57\u661f\u201d\uff0c\u53ef\u6ca1\u51e0\u4e2a\u4eba\u77e5\u9053\u600e\u4e48\u51fb\u843d\u5b83\u3001\u62c6\u51fa\u5185\u90e8\u96f6\u4ef6\u3002",
+      "zh-TW": "\u8a31\u591a\u63a0\u624b\u90fd\u5b78\u6703\u4e86\u5982\u4f55\u8ff4\u907f\u5f57\u661f\uff0c\u4f46\u592a\u5c11\u4eba\u77e5\u9053\u5982\u4f55\u6253\u5012\u5b83\u5011\u3001\u53d6\u5f97\u5b83\u5011\u7684\u5167\u90e8\u96f6\u4ef6\u4e86\u3002",
+      "no": "Mange Raiders har l\u00e6rt \u00e5 unnvike en Comet, men altfor f\u00e5 vet hvordan de skal felle dem og f\u00e5 tak i de indre delene.",
+      "hr": "Mnogi Raideri su nau\u010dili kako izbje\u0107i Comet, ali ih premalo zna kako ih sru\u0161iti i do\u010depati se njihovih unutarnjih dijelova.",
+      "da": "Mange Raiders har l\u00e6rt at undvige en Komet, men alt for f\u00e5 ved, hvordan man nedl\u00e6gger dem og f\u00e5r fat i deres indre dele.",
+      "he": "\u05e4\u05d5\u05e9\u05d8\u05d9\u05dd \u05e8\u05d1\u05d9\u05dd \u05dc\u05de\u05d3\u05d5 \u05d0\u05d9\u05da \u05dc\u05d4\u05ea\u05d7\u05de\u05e7 \u05de-Comet, \u05d0\u05d1\u05dc \u05de\u05e2\u05d8\u05d9\u05dd \u05de\u05d3\u05d9 \u05d9\u05d5\u05d3\u05e2\u05d9\u05dd \u05d0\u05d9\u05da \u05dc\u05d4\u05e4\u05d9\u05dc \u05d0\u05d5\u05ea\u05dd \u05d5\u05dc\u05d4\u05d2\u05d9\u05e2 \u05dc\u05d7\u05dc\u05e7\u05d9\u05dd \u05d4\u05e4\u05e0\u05d9\u05de\u05d9\u05d9\u05dd \u05e9\u05dc\u05d4\u05dd.",
+      "uk": "\u0411\u0430\u0433\u0430\u0442\u043e \u0420\u0435\u0439\u0434\u0435\u0440\u0456\u0432 \u043d\u0430\u0432\u0447\u0438\u043b\u0438\u0441\u044f \u0443\u0445\u0438\u043b\u044f\u0442\u0438\u0441\u044f \u0432\u0456\u0434 \u041a\u043e\u043c\u0435\u0442, \u0430\u043b\u0435 \u043d\u0430\u0434\u0442\u043e \u043c\u0430\u043b\u043e \u0437\u043d\u0430\u044e\u0442\u044c, \u044f\u043a \u0457\u0445 \u0437\u0431\u0438\u0432\u0430\u0442\u0438 \u0442\u0430 \u0434\u0456\u0441\u0442\u0430\u0432\u0430\u0442\u0438 \u0432\u043d\u0443\u0442\u0440\u0456\u0448\u043d\u0456 \u0434\u0435\u0442\u0430\u043b\u0456.",
+      "sr": "Mnogi Raideri su nau\u010dili kako da izbegnu Comet, ali premalo njih zna kako da ga obori i do\u0111e do njegovih unutra\u0161njih delova.",
+      "pt": "Muitos Raiders aprenderam a desviar de um Comet, mas poucos sabem como derrub\u00e1-los e pegar suas pe\u00e7as internas."
+    },
+    "objectives": [
+      {
+        "de": "Zerst\u00f6re einen Kometen.",
+        "en": "Destroy a Comet",
+        "es": "Destruye un cometa.",
+        "fr": "D\u00e9truire une Com\u00e8te",
+        "it": "Distruggi una Cometa",
+        "ja": "\u30b3\u30e1\u30c3\u30c8\u3092\u7834\u58ca\u3059\u308b",
+        "ko-KR": "\ucf54\uba67 \ud30c\uad34\ud558\uae30",
+        "pl": "Zniszcz komet\u0119",
+        "pt-BR": "Destrua um Cometa",
+        "ru": "\u0423\u043d\u0438\u0447\u0442\u043e\u0436\u044c\u0442\u0435 \u00ab\u041a\u043e\u043c\u0435\u0442\u0443\u00bb.",
+        "tr": "Bir Kuyruklu Y\u0131ld\u0131z Yok Et",
+        "zh-CN": "\u6467\u6bc1\u4e00\u4e2a\u201c\u5f57\u661f\u201d",
+        "zh-TW": "\u6467\u6bc01\u53f0\u5f57\u661f",
+        "no": "\u00d8delegg en Comet",
+        "hr": "Uni\u0161ti Comet",
+        "da": "\u00d8del\u00e6g en Komet",
+        "he": "\u05d4\u05e9\u05de\u05d3 Comet",
+        "uk": "\u0417\u043d\u0438\u0449\u0442\u0435 \u041a\u043e\u043c\u0435\u0442\u0443",
+        "sr": "Uni\u0161ti Comet",
+        "pt": "Destrua um Comet"
+      },
+      {
+        "de": "Liefere einen Kometenz\u00fcnder an Tian Wen.",
+        "en": "Deliver a Comet Igniter to Tian Wen",
+        "es": "Entr\u00e9gale un encendedor de cometa a Tian Wen.",
+        "fr": "Livrer un allumeur de Com\u00e8te \u00e0 Tian Wen",
+        "it": "Consegna un Accendicomete a Tian Wen",
+        "ja": "\u30c6\u30a3\u30a2\u30f3\u30fb\u30a6\u30a7\u30f3\u306b\u30b3\u30e1\u30c3\u30c8\u30fb\u30a4\u30b0\u30ca\u30a4\u30bf\u30fc\u3092\u5c4a\u3051\u308b",
+        "ko-KR": "\ud2f0\uc548 \uc6ec\uc5d0\uac8c \ucf54\uba67 \uc810\ud654\uae30 \uc804\ub2ec\ud558\uae30",
+        "pl": "Dostarcz zapalnik komety Tian Wen",
+        "pt-BR": "Entregue um Acendedor de Cometa para Tian Wen",
+        "ru": "\u0414\u043e\u0441\u0442\u0430\u0432\u044c\u0442\u0435 \u0422\u044f\u043d\u044c \u0412\u044d\u043d\u044c \u0437\u0430\u043f\u0430\u043b\u044c\u043d\u043e\u0435 \u0443\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432\u043e \u00ab\u041a\u043e\u043c\u0435\u0442\u044b\u00bb.",
+        "tr": "Tian Wen'e bir Kuyruklu Y\u0131ld\u0131z Ate\u015fleyicisi teslim et",
+        "zh-CN": "\u5c06\u201c\u5f57\u661f\u201d\u70b9\u706b\u5668\u4ea4\u7ed9\u5929\u739f",
+        "zh-TW": "\u5c07\u5f57\u661f\u9ede\u706b\u5668\u9001\u53bb\u7d66\u7530\u6587",
+        "no": "Lever en Comet-tenner til Tian Wen",
+        "hr": "Dostavi upalja\u010d Cometa Tian Wenu",
+        "da": "Aflever en Komet-t\u00e6ndsats til Tian Wen",
+        "he": "\u05de\u05e1\u05d5\u05e8 \u05de\u05e6\u05ea Comet \u05dc-Tian Wen",
+        "uk": "\u041f\u0435\u0440\u0435\u0434\u0430\u0439\u0442\u0435 \u0437\u0430\u043f\u0430\u043b\u044e\u0432\u0430\u0447 \u041a\u043e\u043c\u0435\u0442\u0438 Tian Wen",
+        "sr": "Dostavi Comet Igniter Tian Wenu",
+        "pt": "Entregue um Ignitor de Comet para Tian Wen"
+      }
+    ],
+    "rewardItemIds": [
+      {
+        "itemId": "canto_i",
+        "quantity": 1
+      },
+      {
+        "itemId": "extended_medium_mag_iii",
+        "quantity": 1
+      },
+      {
+        "itemId": "muzzle_brake_ii",
+        "quantity": 1
+      }
+    ],
+    "xp": 0,
+    "previousQuestIds": [
+      "ss8"
+    ],
+    "nextQuestIds": [],
+    "updatedAt": "04/28/2026"
   },
   {
     "id": "combat_recon",
@@ -7310,6 +7675,169 @@
     "updatedAt": "02/25/2026"
   },
   {
+    "id": "line_in_the_sand",
+    "name": {
+      "de": "Linie im Sand",
+      "en": "Line in the Sand",
+      "es": "Una l\u00ednea en la arena",
+      "fr": "Derni\u00e8re limite",
+      "it": "Linea nella sabbia",
+      "ja": "\u6700\u7d42\u9632\u885b\u7dda",
+      "ko-KR": "\ubaa8\ub798 \uc704 \uc800\uc9c0\uc120",
+      "pl": "Ostateczna granica",
+      "pt-BR": "Risco na Areia",
+      "ru": "\u041b\u0438\u043d\u0438\u044f \u043d\u0430 \u043f\u0435\u0441\u043a\u0435",
+      "tr": "Kumdaki Hat",
+      "zh-CN": "\u6c99\u6ee9\u9632\u7ebf",
+      "zh-TW": "\u6c99\u7058\u7d05\u7dda",
+      "no": "Strek i sanden",
+      "hr": "Crta u pijesku",
+      "da": "Streg i sandet",
+      "he": "\u05e7\u05d5 \u05d1\u05d7\u05d5\u05dc",
+      "uk": "\u041b\u0456\u043d\u0456\u044f \u043d\u0430 \u043f\u0456\u0441\u043a\u0443",
+      "sr": "Linija u pesku",
+      "pt": "Linha na Areia"
+    },
+    "map": [
+      "buried_city"
+    ],
+    "trader": "Celeste",
+    "description": {
+      "de": "Auf dieser Festplatte aus Stella Montis befanden sich nicht nur die Unterlagen zur Stilllegung, sondern auch die Transportpl\u00e4ne f\u00fcr einige ziemlich wichtige Exodus-Komponenten.",
+      "en": "That Stella Montis hard drive contained more than just the shutdown documentation - it also had the transport schedules of some pretty critical Exodus components.",
+      "es": "Ese disco duro de Stella Montis no solo conten\u00eda documentos de la cancelaci\u00f3n, tambi\u00e9n hab\u00eda horarios de transporte de unos componentes del \u00c9xodo muy importantes.",
+      "fr": "Ce disque dur de Stella Montis ne contenait pas seulement la documentation relative \u00e0 l'arr\u00eat du projet, mais aussi les calendriers de transport de certains composants essentiels de l'Exode.",
+      "it": "Il disco rigido di Stella Montis non conteneva solo la documentazione per lo spegnimento, ma anche i programmi di trasporto di alcuni componenti critici dell'Esodo.",
+      "ja": "\u30b9\u30c6\u30e9\u30fb\u30e2\u30f3\u30c6\u30a3\u30b9\u306e\u30cf\u30fc\u30c9\u30c9\u30e9\u30a4\u30d6\u306b\u5165\u3063\u3066\u3044\u305f\u306e\u306f\u3001\u4e2d\u6b62\u306b\u95a2\u3059\u308b\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\u3060\u3051\u3058\u3083\u306a\u3044\u3002\u304b\u306a\u308a\u91cd\u8981\u306a\u30a8\u30af\u30bd\u30c0\u30b9\u306e\u90e8\u54c1\u306e\u8f38\u9001\u30b9\u30b1\u30b8\u30e5\u30fc\u30eb\u3082\u542b\u307e\u308c\u3066\u3044\u305f\u3002",
+      "ko-KR": "\uc2a4\ud154\ub77c \ubaac\ud2f0\uc2a4 \ud558\ub4dc \ub4dc\ub77c\uc774\ube0c\uc5d0\ub294 \uc911\ub2e8 \ubb38\uc11c\ub9cc \ub4e4\uc5b4 \uc788\ub358 \uac8c \uc544\ub2c8\uc5c8\uc2b5\ub2c8\ub2e4. \uaf64 \uc911\uc694\ud55c \uc5d1\uc18c\ub354\uc2a4 \ubd80\ud488\uc758 \uc6b4\uc1a1 \uacc4\ud68d\ub3c4 \ub4e4\uc5b4 \uc788\uc5c8\uc8e0.",
+      "pl": "Na tym dysku twardym ze Stella Montis znajdowa\u0142a si\u0119 nie tylko dokumentacja z zamkni\u0119cia, ale te\u017c harmonogramy transportowe dotycz\u0105ce kluczowych cz\u0119\u015bci z czas\u00f3w Exodusu.",
+      "pt-BR": "Aquele HD de Stella Montis n\u00e3o tinha s\u00f3 a papelada do encerramento. Tamb\u00e9m tinha os cronogramas de transporte de componentes bem importantes do \u00caxodo.",
+      "ru": "\u041d\u0430 \u0436\u0435\u0441\u0442\u043a\u043e\u043c \u0434\u0438\u0441\u043a\u0435 \u0438\u0437 \u00ab\u0421\u0442\u0435\u043b\u043b\u0430 \u041c\u043e\u043d\u0442\u0438\u0441\u00bb \u0431\u044b\u043b\u0430 \u043d\u0435 \u0442\u043e\u043b\u044c\u043a\u043e \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430\u0446\u0438\u044f \u043e \u0437\u0430\u043a\u0440\u044b\u0442\u0438\u0438, \u043d\u043e \u0438 \u0440\u0430\u0441\u043f\u0438\u0441\u0430\u043d\u0438\u0435 \u043f\u043e\u0441\u0442\u0430\u0432\u043e\u043a \u043a\u0440\u0438\u0442\u0438\u0447\u0435\u0441\u043a\u0438 \u0432\u0430\u0436\u043d\u044b\u0445 \u0434\u043b\u044f \u0418\u0441\u0445\u043e\u0434\u0430 \u043a\u043e\u043c\u043f\u043e\u043d\u0435\u043d\u0442\u043e\u0432.",
+      "tr": "Stella Montis'ten gelen sabit diskte kapan\u0131\u015f belgelerinden daha fazlas\u0131 varm\u0131\u015f. Baz\u0131 \u00e7ok kritik Exodus bile\u015fenlerlerinin ta\u015f\u0131ma programlar\u0131 da i\u00e7indeymi\u015f.",
+      "zh-CN": "\u90a3\u4e2a\u661f\u8fb0\u5c71\u786c\u76d8\u91cc\u4e0d\u5149\u6709\u5173\u505c\u6587\u4ef6\uff0c\u8fd8\u6709\u201c\u79bb\u5de2\u201d\u5173\u952e\u90e8\u4ef6\u7684\u8fd0\u8f93\u65f6\u523b\u8868\u3002",
+      "zh-TW": "\u90a3\u500b\u661f\u8fb0\u5c71\u786c\u789f\u5305\u542b\u7684\u8cc7\u6599\u9060\u9060\u4e0d\u53ea\u662f\u7d42\u6b62\u6587\u4ef6\uff0c\u53e6\u5916\u9084\u6709\u4e00\u4e9b\u76f8\u7576\u91cd\u8981\u7684\u51fa\u9003\u7528\u54c1\u904b\u8f38\u6642\u7a0b\u8868\u3002",
+      "no": "Den harddisken fra Stella Montis inneholdt mer enn bare nedstengningsdokumentasjonen - den hadde ogs\u00e5 transportplanene for noen ganske kritiske Exodus-komponenter.",
+      "hr": "Taj tvrdi disk iz Stella Montisa sadr\u017eavao je vi\u0161e od same dokumentacije o ga\u0161enju - na njemu su bili i rasporedi transporta nekih prili\u010dno klju\u010dnih komponenti Exodusa.",
+      "da": "Den Stella Montis-harddisk indeholdt mere end bare nedlukningsdokumentationen - den havde ogs\u00e5 transportplanerne for nogle ret kritiske Exodus-komponenter.",
+      "he": "\u05d4\u05db\u05d5\u05e0\u05df \u05d4\u05e7\u05e9\u05d9\u05d7 \u05de-Stella Montis \u05d4\u05db\u05d9\u05dc \u05d9\u05d5\u05ea\u05e8 \u05de\u05e1\u05ea\u05dd \u05de\u05e1\u05de\u05db\u05d9 \u05db\u05d9\u05d1\u05d5\u05d9 - \u05d4\u05d9\u05d5 \u05d1\u05d5 \u05d2\u05dd \u05dc\u05d5\u05d7\u05d5\u05ea \u05d6\u05de\u05e0\u05d9 \u05d4\u05d4\u05d5\u05d1\u05dc\u05d4 \u05e9\u05dc \u05db\u05de\u05d4 \u05e8\u05db\u05d9\u05d1\u05d9 Exodus \u05e7\u05e8\u05d9\u05d8\u05d9\u05d9\u05dd \u05dc\u05de\u05d3\u05d9.",
+      "uk": "\u0422\u043e\u0439 \u0436\u043e\u0440\u0441\u0442\u043a\u0438\u0439 \u0434\u0438\u0441\u043a \u0437\u0456 Stella Montis \u043c\u0456\u0441\u0442\u0438\u0432 \u043d\u0435 \u043b\u0438\u0448\u0435 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430\u0446\u0456\u044e \u0449\u043e\u0434\u043e \u0432\u0456\u0434\u043a\u043b\u044e\u0447\u0435\u043d\u043d\u044f \u2014 \u043d\u0430 \u043d\u044c\u043e\u043c\u0443 \u0442\u0430\u043a\u043e\u0436 \u0431\u0443\u043b\u0438 \u0433\u0440\u0430\u0444\u0456\u043a\u0438 \u0442\u0440\u0430\u043d\u0441\u043f\u043e\u0440\u0442\u0443\u0432\u0430\u043d\u043d\u044f \u0434\u043e\u0441\u0438\u0442\u044c \u0432\u0430\u0436\u043b\u0438\u0432\u0438\u0445 \u043a\u043e\u043c\u043f\u043e\u043d\u0435\u043d\u0442\u0456\u0432 Exodus.",
+      "sr": "Taj Stella Montis hard disk je sadr\u017eao vi\u0161e od same dokumentacije o ga\u0161enju - na njemu su se nalazili i rasporedi transporta nekih prili\u010dno klju\u010dnih komponenti za Exodus.",
+      "pt": "Aquele disco r\u00edgido de Stella Montis continha mais do que apenas a documenta\u00e7\u00e3o de desligamento - tamb\u00e9m tinha os cronogramas de transporte de alguns componentes muito cr\u00edticos do Exodus."
+    },
+    "objectives": [
+      {
+        "de": "Finde heraus, warum der Zug den Marano-Bahnhof nie erreicht hat.",
+        "en": "Find out why the train never reached Marano Station",
+        "es": "Averigua por qu\u00e9 el tren nunca lleg\u00f3 a la estaci\u00f3n de Marano.",
+        "fr": "D\u00e9couvrir pourquoi le train n'a jamais atteint la gare de Marano",
+        "it": "Scopri perch\u00e9 il treno non \u00e8 mai arrivato alla stazione Marano",
+        "ja": "\u96fb\u8eca\u304c\u30de\u30e9\u30fc\u30ce\u99c5\u306b\u5230\u7740\u3057\u306a\u304b\u3063\u305f\u7406\u7531\u3092\u8abf\u3079\u308b",
+        "ko-KR": "\uc5f4\ucc28\uac00 \ub9c8\ub77c\ub178\uc5ed\uc5d0 \ub3c4\ucc29\ud558\uc9c0 \ubabb\ud55c \uc774\uc720 \uc54c\uc544\ub0b4\uae30",
+        "pl": "Dowiedz si\u0119, dlaczego poci\u0105g nigdy nie dojecha\u0142 na stacj\u0119 Marano",
+        "pt-BR": "Descubra por que o trem nunca chegou \u00e0 Esta\u00e7\u00e3o Marano",
+        "ru": "\u0412\u044b\u044f\u0441\u043d\u0438\u0442\u0435, \u043f\u043e\u0447\u0435\u043c\u0443 \u043f\u043e\u0435\u0437\u0434 \u0442\u0430\u043a \u0438 \u043d\u0435 \u0434\u043e\u0448\u0435\u043b \u0434\u043e \u0441\u0442\u0430\u043d\u0446\u0438\u0438 \u041c\u0430\u0440\u0430\u043d\u043e.",
+        "tr": "Trenin Marano \u0130stasyonu'na ula\u015fmama nedenini \u00f6\u011fren",
+        "zh-CN": "\u67e5\u660e\u5217\u8f66\u4e3a\u4f55\u672a\u80fd\u62b5\u8fbe\u9a6c\u62c9\u8bfa\u8f66\u7ad9",
+        "zh-TW": "\u67e5\u51fa\u706b\u8eca\u59cb\u7d42\u672a\u80fd\u62b5\u9054\u99ac\u62c9\u8afe\u7ad9\u7684\u539f\u56e0",
+        "no": "Finn ut hvorfor toget aldri n\u00e5dde Marano Station",
+        "hr": "Saznaj za\u0161to vlak nikada nije stigao na Marano Station",
+        "da": "Find ud af, hvorfor toget aldrig n\u00e5ede frem til Marano Station",
+        "he": "\u05d2\u05dc\u05d4 \u05de\u05d3\u05d5\u05e2 \u05d4\u05e8\u05db\u05d1\u05ea \u05de\u05e2\u05d5\u05dc\u05dd \u05dc\u05d0 \u05d4\u05d2\u05d9\u05e2\u05d4 \u05dc-Marano Station",
+        "uk": "\u0414\u0456\u0437\u043d\u0430\u0439\u0442\u0435\u0441\u044f, \u0447\u043e\u043c\u0443 \u043f\u043e\u0457\u0437\u0434 \u0442\u0430\u043a \u0456 \u043d\u0435 \u043f\u0440\u0438\u0431\u0443\u0432 \u043d\u0430 Marano Station",
+        "sr": "Saznaj za\u0161to voz nikada nije stigao na stanicu Marano",
+        "pt": "Descubra por que o trem nunca chegou a Marano Station"
+      },
+      {
+        "de": "Finde heraus, wer den Raub\u00fcberfall organisiert hat.",
+        "en": "Find out who orchestrated the robbery",
+        "es": "Descubre qui\u00e9n orquest\u00f3 el robo.",
+        "fr": "D\u00e9couvrir qui a orchestr\u00e9 le vol",
+        "it": "Scopri chi ha orchestrato il furto",
+        "ja": "\u5f37\u76d7\u4e8b\u4ef6\u306e\u9996\u8b00\u8005\u3092\u7a81\u304d\u6b62\u3081\u308b",
+        "ko-KR": "\uac15\ub3c4 \uc0ac\uac74\uc758 \uc8fc\ub3d9\uc790 \uc54c\uc544\ub0b4\uae30",
+        "pl": "Dowiedz si\u0119, kto zorganizowa\u0142 napad",
+        "pt-BR": "Descubra quem orquestrou o roubo",
+        "ru": "\u0412\u044b\u044f\u0441\u043d\u0438\u0442\u0435, \u043a\u0442\u043e \u043e\u0440\u0433\u0430\u043d\u0438\u0437\u043e\u0432\u0430\u043b \u043a\u0440\u0430\u0436\u0443.",
+        "tr": "Soygunu kimin d\u00fczenledi\u011fini \u00f6\u011fren",
+        "zh-CN": "\u67e5\u660e\u7b56\u5212\u52ab\u6848\u7684\u4e3b\u8c0b",
+        "zh-TW": "\u67e5\u51fa\u662f\u8ab0\u7b56\u5283\u4e86\u9019\u8d77\u6436\u52ab",
+        "no": "Finn ut hvem som orkestrerte ranet",
+        "hr": "Saznaj tko je organizirao plja\u010dku",
+        "da": "Find ud af, hvem der stod bag r\u00f8veriet",
+        "he": "\u05d2\u05dc\u05d4 \u05de\u05d9 \u05ea\u05db\u05e0\u05df \u05d0\u05ea \u05d4\u05e9\u05d5\u05d3",
+        "uk": "\u0414\u0456\u0437\u043d\u0430\u0439\u0442\u0435\u0441\u044f, \u0445\u0442\u043e \u043e\u0440\u0433\u0430\u043d\u0456\u0437\u0443\u0432\u0430\u0432 \u043f\u043e\u0433\u0440\u0430\u0431\u0443\u0432\u0430\u043d\u043d\u044f",
+        "sr": "Saznaj ko je organizovao plja\u010dku",
+        "pt": "Descubra quem orquestrou o roubo"
+      },
+      {
+        "de": "Finde heraus, wo die Schubd\u00fcsenventile versteckt wurden.",
+        "en": "Find out where the thruster valves were stashed",
+        "es": "Averigua d\u00f3nde escondieron las v\u00e1lvulas de propulsor.",
+        "fr": "D\u00e9couvrir o\u00f9 les vannes de propulseur ont \u00e9t\u00e9 cach\u00e9es",
+        "it": "Scopri dove sono riposte le valvole di propulsione",
+        "ja": "\u30b9\u30e9\u30b9\u30bf\u30fc\u30d0\u30eb\u30d6\u306e\u96a0\u3057\u5834\u6240\u3092\u898b\u3064\u3051\u308b",
+        "ko-KR": "\ucd94\uc9c4\uae30 \ubc38\ube0c\uac00 \uc228\uaca8\uc9c4 \uacf3 \uc54c\uc544\ub0b4\uae30",
+        "pl": "Dowiedz si\u0119, gdzie ukryto zawory silnik\u00f3w steruj\u0105cych",
+        "pt-BR": "Descubra onde as v\u00e1lvulas de propuls\u00e3o foram escondidas",
+        "ru": "\u041d\u0430\u0439\u0434\u0438\u0442\u0435, \u043a\u0443\u0434\u0430 \u043f\u0440\u0438\u043f\u0440\u044f\u0442\u0430\u043b\u0438 \u043a\u043b\u0430\u043f\u0430\u043d\u044b \u0434\u0432\u0438\u0433\u0430\u0442\u0435\u043b\u0435\u0439.",
+        "tr": "\u0130tici vanalar\u0131n zulaland\u0131\u011f\u0131 yeri bul",
+        "zh-CN": "\u67e5\u660e\u63a8\u8fdb\u5668\u9600\u95e8\u7684\u85cf\u533f\u5730\u70b9",
+        "zh-TW": "\u627e\u51fa\u63a8\u9032\u95a5\u9580\u88ab\u85cf\u5728\u54ea\u88e1",
+        "no": "Finn ut hvor thruster-ventilene ble gjemt",
+        "hr": "Saznaj gdje su skriveni ventili potisnika",
+        "da": "Find ud af, hvor raketventilerne blev gemt",
+        "he": "\u05d2\u05dc\u05d4 \u05d4\u05d9\u05db\u05df \u05d4\u05d5\u05e1\u05ea\u05e8\u05d5 \u05e9\u05e1\u05ea\u05d5\u05de\u05d9 \u05d4\u05d3\u05d7\u05e3",
+        "uk": "\u0414\u0456\u0437\u043d\u0430\u0439\u0442\u0435\u0441\u044f, \u0434\u0435 \u0431\u0443\u043b\u0438 \u0437\u0430\u0445\u043e\u0432\u0430\u043d\u0456 \u043a\u043b\u0430\u043f\u0430\u043d\u0438 \u043f\u0440\u0438\u0441\u043a\u043e\u0440\u044e\u0432\u0430\u0447\u0430",
+        "sr": "Saznaj gde su sakriveni ventili potisnika",
+        "pt": "Descubra onde as v\u00e1lvulas do propulsor foram escondidas"
+      },
+      {
+        "de": "Durchsuche den Keller des nahegelegenen H\u00e4ndler-Apartments.",
+        "en": "Search the basement of the merchant\u2019s nearby apartment",
+        "es": "Registra el s\u00f3tano del apartamento cercano del comerciante.",
+        "fr": "Fouiller le sous-sol de l'appartement proche du marchand.",
+        "it": "Ispeziona il seminterrato dell'appartamento vicino del mercante.",
+        "ja": "\u5546\u4eba\u306e\u8fd1\u304f\u306e\u30a2\u30d1\u30fc\u30c8\u306e\u5730\u4e0b\u3092\u8abf\u3079\u308b",
+        "ko-KR": "\uc0c1\uc778\uc758 \uadfc\ucc98 \uc544\ud30c\ud2b8 \uc9c0\ud558\uc2e4 \uc218\uc0c9\ud558\uae30",
+        "pl": "Przeszukaj piwnic\u0119 pobliskiego mieszkania kupca.",
+        "pt-BR": "Vasculhe o por\u00e3o do apartamento pr\u00f3ximo do comerciante.",
+        "ru": "\u041e\u0431\u044b\u0449\u0438\u0442\u0435 \u043f\u043e\u0434\u0432\u0430\u043b \u0431\u043b\u0438\u0437\u043b\u0435\u0436\u0430\u0449\u0435\u0439 \u043a\u0432\u0430\u0440\u0442\u0438\u0440\u044b \u043f\u0440\u043e\u0434\u0430\u0432\u0446\u0430.",
+        "tr": "T\u00fcccar\u0131n yak\u0131ndaki apartman\u0131n\u0131n bodrumunu ara",
+        "zh-CN": "\u641c\u67e5\u5546\u4eba\u9644\u8fd1\u516c\u5bd3\u7684\u5730\u4e0b\u5ba4",
+        "zh-TW": "\u641c\u5c0b\u5546\u4eba\u9644\u8fd1\u516c\u5bd3\u7684\u5730\u4e0b\u5ba4",
+        "no": "Gjennoms\u00f8k kjelleren i kj\u00f8pmannens n\u00e6rliggende leilighet",
+        "hr": "Pretra\u017ei podrum obli\u017enjeg trgov\u010devog stana",
+        "da": "Gennems\u00f8g k\u00e6lderen i k\u00f8bmandens n\u00e6rliggende lejlighed",
+        "he": "\u05d7\u05e4\u05e9 \u05d1\u05de\u05e8\u05ea\u05e3 \u05d4\u05d3\u05d9\u05e8\u05d4 \u05d4\u05e1\u05de\u05d5\u05db\u05d4 \u05e9\u05dc \u05d4\u05e1\u05d5\u05d7\u05e8",
+        "uk": "\u041e\u0431\u0448\u0443\u043a\u0430\u0439\u0442\u0435 \u043f\u0456\u0434\u0432\u0430\u043b \u0441\u0443\u0441\u0456\u0434\u043d\u044c\u043e\u0457 \u043a\u0432\u0430\u0440\u0442\u0438\u0440\u0438 \u0442\u043e\u0440\u0433\u043e\u0432\u0446\u044f",
+        "sr": "Pretra\u017ei podrum obli\u017enjeg trgov\u010devog stana",
+        "pt": "Vasculhe o por\u00e3o do apartamento pr\u00f3ximo do mercador"
+      }
+    ],
+    "rewardItemIds": [
+      {
+        "itemId": "exodus_modules",
+        "quantity": 2
+      },
+      {
+        "itemId": "magnetic_accelerator",
+        "quantity": 2
+      },
+      {
+        "itemId": "magnetron",
+        "quantity": 2
+      }
+    ],
+    "xp": 0,
+    "previousQuestIds": [
+      "last_entry"
+    ],
+    "nextQuestIds": [
+      "safe_harbor"
+    ],
+    "updatedAt": "04/28/2026"
+  },
+  {
     "id": "lost_in_transmission",
     "name": {
       "da": "Forsvundet i transmissionen",
@@ -9791,6 +10319,169 @@
     "updatedAt": "02/25/2026"
   },
   {
+    "id": "safe_harbor",
+    "name": {
+      "de": "Sicherer Hafen",
+      "en": "Safe Harbor",
+      "es": "Puerto seguro",
+      "fr": "Havre de paix",
+      "it": "Porto sicuro",
+      "ja": "\u5b89\u5168\u306a\u6e2f",
+      "ko-KR": "\uc548\uc2dd\uc758 \ud56d\uad6c",
+      "pl": "Bezpieczna przysta\u0144",
+      "pt-BR": "Porto Seguro",
+      "ru": "\u0422\u0438\u0445\u0430\u044f \u0433\u0430\u0432\u0430\u043d\u044c",
+      "tr": "G\u00fcvenli Liman",
+      "zh-CN": "\u5b89\u5168\u6e2f\u6e7e",
+      "zh-TW": "\u5b89\u5168\u6d77\u7063",
+      "no": "Trygg havn",
+      "da": "Sikker havn",
+      "hr": "Sigurna luka",
+      "sr": "Sigurna luka",
+      "pt": "Porto Seguro",
+      "uk": "\u0411\u0435\u0437\u043f\u0435\u0447\u043d\u0430 \u0433\u0430\u0432\u0430\u043d\u044c",
+      "he": "\u05d7\u05d5\u05e3 \u05de\u05d1\u05d8\u05d7\u05d9\u05dd"
+    },
+    "map": [
+      "-21263888"
+    ],
+    "trader": "Tian Wen",
+    "description": {
+      "de": "Die Nachricht von der Zugentgleisung hat sich wohl schnell verbreitet \u2026 Und viele Mitarbeiter dazu veranlasst, einige wirklich schicke technische Spielereien vor neugierigen Blicken zu verstecken.",
+      "en": "Seems like news of the train derailment spread fast\u2026 And drove many workers to stash some very tasty technology away from prying eyes.",
+      "es": "Parece ser que la noticia del descarrilamiento corri\u00f3 como la p\u00f3lvora... e hizo que muchos trabajadores escondieran tecnolog\u00eda de lo m\u00e1s jugosa.",
+      "fr": "La nouvelle du d\u00e9raillement s'est r\u00e9pandue comme une tra\u00een\u00e9e de poudre... et elle a pouss\u00e9 de nombreux employ\u00e9s \u00e0 escamoter des technologies prometteuses.",
+      "it": "Sembra che la notizia del deragliamento del treno si sia diffusa in fretta... E abbia spinto molti lavoratori a nascondere della tecnologia molto preziosa lontano da occhi indiscreti.",
+      "ja": "\u8131\u7dda\u4e8b\u6545\u306e\u30cb\u30e5\u30fc\u30b9\u306f\u3042\u3063\u3068\u3044\u3046\u9593\u306b\u5e83\u307e\u3063\u305f\u307f\u305f\u3044\u3060\u306d\u2026 \u305d\u3057\u3066\u591a\u304f\u306e\u4f5c\u696d\u54e1\u304c\u3001\u4eba\u76ee\u3092\u907f\u3051\u3066\u8cb4\u91cd\u306a\u6280\u8853\u3092\u96a0\u305d\u3046\u3068\u3057\u305f\u3002",
+      "ko-KR": "\uc5f4\ucc28 \ud0c8\uc120 \uc18c\uc2dd\uc774 \ube60\ub974\uac8c \ud37c\uc9c4 \uac83 \uac19\uc2b5\ub2c8\ub2e4\u2026 \uadf8\ub798\uc11c \ub9ce\uc740 \ub178\ub3d9\uc790\uac00 \uac10\uc2dc\ub97c \ud53c\ud574 \ud0d0\ub098\ub294 \uc7a5\ube44\ub97c \uc228\uaca8\ub450\uac8c \ub41c \uac83 \uac19\uace0\uc694.",
+      "pl": "Wie\u015bci o wykolejeniu poci\u0105gu chyba szybko si\u0119 roznios\u0142y\u2026 I sk\u0142oni\u0142y wielu pracownik\u00f3w do ukrycia bardzo kusz\u0105cej technologii z dala od w\u015bcibskich oczu.",
+      "pt-BR": "Parece que a not\u00edcia do descarrilamento do trem se espalhou r\u00e1pido... e fez com que muitos trabalhadores escondessem \u00f3timas tecnologias.",
+      "ru": "\u041a\u0430\u0436\u0435\u0442\u0441\u044f, \u043d\u043e\u0432\u043e\u0441\u0442\u0438 \u043e \u043f\u043e\u0435\u0437\u0434\u0435, \u0441\u043e\u0448\u0435\u0434\u0448\u0435\u043c \u0441 \u0440\u0435\u043b\u044c\u0441\u043e\u0432, \u0440\u0430\u0441\u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0438\u043b\u0438\u0441\u044c \u0431\u044b\u0441\u0442\u0440\u043e. \u041c\u043d\u043e\u0433\u0438\u0435 \u0440\u0430\u0431\u043e\u0442\u043d\u0438\u043a\u0438 \u0431\u044b\u0441\u0442\u0440\u043e \u0443\u0442\u0430\u0449\u0438\u043b\u0438 \u043b\u0430\u043a\u043e\u043c\u044b\u0435 \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0438 \u043f\u043e\u0434\u0430\u043b\u044c\u0448\u0435 \u043e\u0442 \u043b\u044e\u0431\u043e\u043f\u044b\u0442\u043d\u044b\u0445 \u0433\u043b\u0430\u0437.",
+      "tr": "Anla\u015f\u0131lan raydan \u00e7\u0131kan tren haberi h\u0131zl\u0131 yay\u0131lm\u0131\u015f... Bir\u00e7ok i\u015f\u00e7i f\u0131rsattan istifade de\u011ferli teknoloji \u00fcr\u00fcnlerini merakl\u0131 g\u00f6zlerden uza\u011fa zulalam\u0131\u015f.",
+      "zh-CN": "\u5217\u8f66\u8131\u8f68\u7684\u6d88\u606f\u4f20\u5f97\u771f\u5feb\u2026\u2026\u8fd8\u4fc3\u4f7f\u4e0d\u5c11\u5de5\u4eba\u628a\u503c\u94b1\u7684\u79d1\u6280\u88c5\u5907\u85cf\u4e86\u8d77\u6765\uff0c\u907f\u5f00\u8033\u76ee\u3002",
+      "zh-TW": "\u770b\u4f86\u706b\u8eca\u51fa\u8ecc\u7684\u6d88\u606f\u50b3\u64ad\u5f97\u5f88\u5feb\u2026\u8a31\u591a\u5de5\u4eba\u807d\u5230\u6d88\u606f\uff0c\u8dd1\u53bb\u628a\u4e00\u4e9b\u4ee4\u4eba\u5782\u6d8e\u7684\u79d1\u6280\u8a2d\u5099\u5077\u5077\u85cf\u4e86\u8d77\u4f86\u3002",
+      "no": "Ser ut til at nyheten om togavsporingen spredte seg raskt\u2026 Og fikk mange arbeidere til \u00e5 gjemme unna sv\u00e6rt fristende teknologi fra nysgjerrige blikk.",
+      "da": "Det lader til, at nyheden om togafsporingen spredte sig hurtigt\u2026 Og fik mange arbejdere til at gemme noget meget l\u00e6kker teknologi v\u00e6k fra nysgerrige blikke.",
+      "hr": "\u010cini se da su se vijesti o iskliznu\u0107u vlaka brzo pro\u0161irile\u2026 I natjerale mnoge radnike da sakriju vrlo primamljivu tehnologiju od znati\u017eeljnih o\u010diju.",
+      "sr": "Izgleda da su se vesti o iskliznu\u0107u voza brzo pro\u0161irile\u2026 I naterale mnoge radnike da sakriju veoma primamljivu tehnologiju daleko od radoznalih o\u010diju.",
+      "pt": "Parece que as not\u00edcias sobre o descarrilamento do trem se espalharam r\u00e1pido\u2026 E fizeram com que muitos trabalhadores escondessem algumas tecnologias muito valiosas longe de olhos curiosos.",
+      "uk": "\u0421\u0445\u043e\u0436\u0435, \u043d\u043e\u0432\u0438\u043d\u0430 \u043f\u0440\u043e \u0441\u0445\u043e\u0434\u0436\u0435\u043d\u043d\u044f \u043f\u043e\u0442\u044f\u0433\u0430 \u0437 \u0440\u0435\u0439\u043e\u043a \u0440\u043e\u0437\u043b\u0435\u0442\u0456\u043b\u0430\u0441\u044f \u0448\u0432\u0438\u0434\u043a\u043e\u2026 \u0406 \u0437\u043c\u0443\u0441\u0438\u043b\u0430 \u0431\u0430\u0433\u0430\u0442\u044c\u043e\u0445 \u0440\u043e\u0431\u0456\u0442\u043d\u0438\u043a\u0456\u0432 \u043f\u0440\u0438\u0445\u043e\u0432\u0430\u0442\u0438 \u0434\u0443\u0436\u0435 \u043b\u0430\u0441\u0456 \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0456\u0457 \u043f\u043e\u0434\u0430\u043b\u0456 \u0432\u0456\u0434 \u0441\u0442\u043e\u0440\u043e\u043d\u043d\u0456\u0445 \u043e\u0447\u0435\u0439.",
+      "he": "\u05e0\u05e8\u05d0\u05d4 \u05e9\u05d4\u05d7\u05d3\u05e9\u05d5\u05ea \u05e2\u05dc \u05d9\u05e8\u05d9\u05d3\u05ea \u05d4\u05e8\u05db\u05d1\u05ea \u05de\u05d4\u05e4\u05e1\u05d9\u05dd \u05d4\u05ea\u05e4\u05e9\u05d8\u05d5 \u05de\u05d4\u05e8\u2026 \u05d5\u05d2\u05e8\u05de\u05d5 \u05dc\u05e4\u05d5\u05e2\u05dc\u05d9\u05dd \u05e8\u05d1\u05d9\u05dd \u05dc\u05d4\u05d7\u05d1\u05d9\u05d0 \u05d8\u05db\u05e0\u05d5\u05dc\u05d5\u05d2\u05d9\u05d4 \u05e9\u05d5\u05d5\u05d4 \u05d1\u05de\u05d9\u05d5\u05d7\u05d3 \u05d4\u05e8\u05d7\u05e7 \u05de\u05e2\u05d9\u05e0\u05d9\u05d9\u05dd \u05e1\u05e7\u05e8\u05e0\u05d9\u05d5\u05ea."
+    },
+    "objectives": [
+      {
+        "de": "Finde den Hinweis, der vom K\u00fcchenpersonal des Restaurants zur\u00fcckgelassen wurde.",
+        "en": "Find the clue left by the restaurant kitchen staff",
+        "es": "Encuentra la pista que dej\u00f3 el personal de cocina.",
+        "fr": "Trouver l'indice laiss\u00e9 par le personnel de cuisine du restaurant",
+        "it": "Trova l'indizio lasciato dallo staff della cucina del ristorante",
+        "ja": "\u30ec\u30b9\u30c8\u30e9\u30f3\u306e\u53a8\u623f\u30b9\u30bf\u30c3\u30d5\u304c\u6b8b\u3057\u305f\u30d2\u30f3\u30c8\u3092\u63a2\u3059",
+        "ko-KR": "\ub808\uc2a4\ud1a0\ub791 \uc8fc\ubc29 \uc9c1\uc6d0\uc774 \ub0a8\uae34 \ub2e8\uc11c \ucc3e\uae30",
+        "pl": "Znajd\u017a wskaz\u00f3wk\u0119 pozostawion\u0105 przez pracownik\u00f3w restauracyjnej kuchni",
+        "pt-BR": "Encontre a pista deixada pelos funcion\u00e1rios da cozinha do restaurante",
+        "ru": "\u041d\u0430\u0439\u0434\u0438\u0442\u0435 \u043f\u043e\u0434\u0441\u043a\u0430\u0437\u043a\u0443, \u043e\u0441\u0442\u0430\u0432\u043b\u0435\u043d\u043d\u0443\u044e \u0441\u043e\u0442\u0440\u0443\u0434\u043d\u0438\u043a\u043e\u043c \u043a\u0443\u0445\u043d\u0438.",
+        "tr": "Restoran\u0131n mutfak personeli taraf\u0131ndan b\u0131rak\u0131lan ipucunu bul",
+        "zh-CN": "\u627e\u5230\u9910\u5385\u540e\u53a8\u5458\u5de5\u7559\u4e0b\u7684\u7ebf\u7d22",
+        "zh-TW": "\u627e\u5230\u9910\u5ef3\u5eda\u623f\u54e1\u5de5\u7559\u4e0b\u7684\u7dda\u7d22",
+        "no": "Finn ledetr\u00e5den etterlatt av restaurantens kj\u00f8kkenpersonale",
+        "da": "Find sporet, der er efterladt af restaurantens k\u00f8kkenpersonale",
+        "hr": "Prona\u0111i trag koji je ostavilo kuhinjsko osoblje restorana",
+        "sr": "Prona\u0111i trag koji je ostavilo osoblje restoranske kuhinje",
+        "pt": "Encontre a pista deixada pela equipe da cozinha do restaurante",
+        "uk": "\u0417\u043d\u0430\u0439\u0434\u0456\u0442\u044c \u043f\u0456\u0434\u043a\u0430\u0437\u043a\u0443, \u0437\u0430\u043b\u0438\u0448\u0435\u043d\u0443 \u043f\u0435\u0440\u0441\u043e\u043d\u0430\u043b\u043e\u043c \u043a\u0443\u0445\u043d\u0456 \u0440\u0435\u0441\u0442\u043e\u0440\u0430\u043d\u0443",
+        "he": "\u05de\u05e6\u05d0 \u05d0\u05ea \u05d4\u05e8\u05de\u05d6 \u05e9\u05d4\u05e9\u05d0\u05d9\u05e8 \u05e6\u05d5\u05d5\u05ea \u05d4\u05de\u05d8\u05d1\u05d7 \u05e9\u05dc \u05d4\u05de\u05e1\u05e2\u05d3\u05d4"
+      },
+      {
+        "de": "Finde das Gebiet, das auf der Skizze zu sehen ist.",
+        "en": "Find the area portrayed in the sketch",
+        "es": "Encuentra la zona del dibujo.",
+        "fr": "Trouver la surface illustr\u00e9e sur le croquis",
+        "it": "Trova l'area ritratta nel disegno",
+        "ja": "\u30b9\u30b1\u30c3\u30c1\u306b\u63cf\u304b\u308c\u305f\u5834\u6240\u3092\u63a2\u3059",
+        "ko-KR": "\uc2a4\ucf00\uce58\uc5d0 \uadf8\ub824\uc9c4 \uc7a5\uc18c \ucc3e\uae30",
+        "pl": "Znajd\u017a miejsce przedstawione na rysunku",
+        "pt-BR": "Encontre a \u00e1rea mostrada no esbo\u00e7o",
+        "ru": "\u041d\u0430\u0439\u0434\u0438\u0442\u0435 \u043c\u0435\u0441\u0442\u043e \u0441 \u0440\u0438\u0441\u0443\u043d\u043a\u0430.",
+        "tr": "Taslakta \u00e7izilen b\u00f6lgeyi bul",
+        "zh-CN": "\u627e\u5230\u7d20\u63cf\u4e2d\u63cf\u7ed8\u7684\u533a\u57df",
+        "zh-TW": "\u627e\u5230\u7d20\u63cf\u4e2d\u63cf\u7e6a\u7684\u5340\u57df",
+        "no": "Finn omr\u00e5det avbildet p\u00e5 skissen",
+        "da": "Find omr\u00e5det vist p\u00e5 skitsen",
+        "hr": "Prona\u0111i podru\u010dje prikazano na skici",
+        "sr": "Prona\u0111i oblast prikazanu na skici",
+        "pt": "Encontre a \u00e1rea retratada no esbo\u00e7o",
+        "uk": "\u0417\u043d\u0430\u0439\u0434\u0456\u0442\u044c \u043c\u0456\u0441\u0446\u0435, \u0437\u043e\u0431\u0440\u0430\u0436\u0435\u043d\u0435 \u043d\u0430 \u0435\u0441\u043a\u0456\u0437\u0456",
+        "he": "\u05de\u05e6\u05d0 \u05d0\u05ea \u05d4\u05d0\u05d6\u05d5\u05e8 \u05d4\u05de\u05d5\u05e4\u05d9\u05e2 \u05d1\u05e1\u05e7\u05d9\u05e6\u05d4"
+      },
+      {
+        "de": "Grabe das unter der Erde liegende Teil aus.",
+        "en": "Dig up the buried part",
+        "es": "Desentierra la parte cubierta de arena.",
+        "fr": "D\u00e9terrer la pi\u00e8ce enfouie",
+        "it": "Dissotterra la parte sepolta",
+        "ja": "\u57cb\u307e\u3063\u3066\u3044\u308b\u30d1\u30fc\u30c4\u3092\u6398\u308a\u51fa\u3059",
+        "ko-KR": "\ubb3b\ud78c \ubd80\ud488 \ud30c\ub0b4\uae30",
+        "pl": "Wykop zakopan\u0105 cz\u0119\u015b\u0107",
+        "pt-BR": "Desenterre a pe\u00e7a enterrada",
+        "ru": "\u0420\u0430\u0441\u043a\u043e\u043f\u0430\u0439\u0442\u0435 \u0434\u0435\u0442\u0430\u043b\u044c.",
+        "tr": "G\u00f6m\u00fcl\u00fc par\u00e7ay\u0131 kazarak \u00e7\u0131kar",
+        "zh-CN": "\u6316\u51fa\u63a9\u57cb\u7684\u96f6\u4ef6",
+        "zh-TW": "\u6316\u51fa\u57cb\u85cf\u7684\u96f6\u4ef6",
+        "no": "Grav opp den nedgravde delen",
+        "da": "Grav den nedgravede del op",
+        "hr": "Iskopaj zakopani dio",
+        "sr": "Iskopaj zakopani deo",
+        "pt": "Desenterre a pe\u00e7a enterrada",
+        "uk": "\u0412\u0438\u043a\u043e\u043f\u0430\u0439\u0442\u0435 \u0437\u0430\u043a\u043e\u043f\u0430\u043d\u0443 \u0434\u0435\u0442\u0430\u043b\u044c",
+        "he": "\u05d7\u05e4\u05d5\u05e8 \u05d5\u05d4\u05d5\u05e6\u05d0 \u05d0\u05ea \u05d4\u05d7\u05dc\u05e7 \u05d4\u05e7\u05d1\u05d5\u05e8"
+      },
+      {
+        "de": "Liefere das Pr\u00e4zisions-Kardan-System an Tian Wen.",
+        "en": "Deliver the Precision Gimbal to Tian Wen",
+        "es": "Entr\u00e9gale el card\u00e1n de precisi\u00f3n a Tian Wen.",
+        "fr": "Livrer le cardan de pr\u00e9cision \u00e0 Tian Wen",
+        "it": "Consegna il giunto cardanico di precisione a Tian Wen",
+        "ja": "\u30c6\u30a3\u30a2\u30f3\u30fb\u30a6\u30a7\u30f3\u306b\u7cbe\u5bc6\u30b8\u30f3\u30d0\u30eb\u3092\u5c4a\u3051\u308b",
+        "ko-KR": "\ud2f0\uc548 \uc6ec\uc5d0\uac8c \uc815\ubc00 \uc9d0\ubc8c \uc804\ub2ec\ud558\uae30",
+        "pl": "Dostarcz precyzyjny stabilizator Tian Wen",
+        "pt-BR": "Entregue o Card\u00e3 de Precis\u00e3o para Tian Wen",
+        "ru": "\u0414\u043e\u0441\u0442\u0430\u0432\u044c\u0442\u0435 \u0422\u044f\u043d\u044c \u0412\u044d\u043d\u044c \u043a\u0430\u0440\u0434\u0430\u043d\u043d\u044b\u0439 \u043f\u043e\u0434\u0432\u0435\u0441 \u0433\u0438\u0440\u043e\u0441\u043a\u043e\u043f\u0430.",
+        "tr": "Tian Wen'e Hassas Yalpa \u00c7emberi'ni teslim et",
+        "zh-CN": "\u5c06\u7cbe\u5bc6\u4e91\u53f0\u4ea4\u7ed9\u5929\u739f",
+        "zh-TW": "\u5c07\u9ad8\u7cbe\u5ea6\u5e73\u8861\u74b0\u67b6\u9001\u53bb\u7d66\u7530\u6587",
+        "no": "Lever Precision Gimbal til Tian Wen",
+        "da": "Aflever Pr\u00e6cisions-gimbal til Tian Wen",
+        "hr": "Isporu\u010di Precizni stabilizator Tian Wenu",
+        "sr": "Dostavi precizni stabilizator Tian Wenu",
+        "pt": "Entregue o Gimbal de Precis\u00e3o para Tian Wen",
+        "uk": "\u0414\u043e\u0441\u0442\u0430\u0432\u0442\u0435 \u0422\u043e\u0447\u043d\u0438\u0439 \u043f\u0456\u0434\u0432\u0456\u0441 \u0434\u043b\u044f Tian Wen",
+        "he": "\u05de\u05e1\u05d5\u05e8 \u05d0\u05ea \u05d4\u05d2\u05d9\u05de\u05d1\u05dc \u05d4\u05de\u05d3\u05d5\u05d9\u05e7 \u05dc-Tian Wen"
+      }
+    ],
+    "rewardItemIds": [
+      {
+        "itemId": "surge_coil",
+        "quantity": 1
+      },
+      {
+        "itemId": "heavy_gun_parts",
+        "quantity": 1
+      },
+      {
+        "itemId": "horizontal_grip",
+        "quantity": 1
+      }
+    ],
+    "xp": 0,
+    "previousQuestIds": [
+      "line_in_the_sand"
+    ],
+    "nextQuestIds": [
+      "a_wrench_in_the_works"
+    ],
+    "updatedAt": "04/28/2026"
+  },
+  {
     "id": "safe_passage",
     "name": {
       "da": "Sikker passage",
@@ -10009,6 +10700,168 @@
     ],
     "nextQuestIds": [],
     "updatedAt": "03/31/2026"
+  },
+  {
+    "id": "shoring_up_defenses",
+    "name": {
+      "de": "Verteidigungslinie aufbauen",
+      "en": "Shoring Up Defenses",
+      "es": "Apuntalando las defensas",
+      "fr": "Renforcer les d\u00e9fenses",
+      "it": "Rafforzare le difese",
+      "ja": "\u9632\u885b\u4f53\u5236\u306e\u5f37\u5316",
+      "ko-KR": "\ubc29\uc5b4\uc120 \ubcf4\uac15",
+      "pl": "Obrona na brzegu",
+      "pt-BR": "Refor\u00e7ando as Defesas",
+      "ru": "\u041f\u0440\u0438\u0431\u0440\u0435\u0436\u043d\u0430\u044f \u043e\u0431\u043e\u0440\u043e\u043d\u0430",
+      "tr": "Savunmay\u0131 Desteklemek",
+      "zh-CN": "\u52a0\u56fa\u6d77\u5cb8\u9632\u7ebf",
+      "zh-TW": "\u52a0\u56fa\u9632\u79a6",
+      "no": "Forsterke forsvaret",
+      "da": "Forst\u00e6rkning af forsvaret",
+      "hr": "U\u010dvr\u0161\u0107ivanje obrane",
+      "sr": "Oja\u010davanje odbrane",
+      "pt": "Refor\u00e7ando as Defesas",
+      "uk": "\u0417\u043c\u0456\u0446\u043d\u0435\u043d\u043d\u044f \u043e\u0431\u043e\u0440\u043e\u043d\u0438",
+      "he": "\u05d1\u05d9\u05e6\u05d5\u05e8 \u05d4\u05d4\u05d2\u05e0\u05d5\u05ea"
+    },
+    "map": [
+      "-21263888"
+    ],
+    "trader": "Apollo",
+    "description": {
+      "de": "Fr\u00fcher war die weitl\u00e4ufige K\u00fcste ein Ort der Gefahr, doch heute ist sie der einzige Ort, von dem aus wir neue Bedrohungen ausmachen k\u00f6nnen, die in den Rostg\u00fcrtel vordringen.\r\n\r\nAlso m\u00fcssen wir uns selbst Deckung schaffen und die wenigen Verteidigungsanlagen verst\u00e4rken, die wir finden k\u00f6nnen.",
+      "en": "The wide-open coastline used to mean danger, but now it's the only place we can spot new threats moving into the Rust Belt.\r\n\r\nSo we'll have to make our own cover, and reinforce what few defenses we can find.",
+      "es": "Anta\u00f1o, una costa tan despejada era sin\u00f3nimo de peligro, pero ahora es el \u00fanico lugar desde el que podemos avistar nuevas amenazas adentr\u00e1ndose en el Cintur\u00f3n de \u00f3xido.\r\n\r\nNos toca construir nuestra propia cobertura y reforzar las pocas defensas que haya.",
+      "fr": "Autrefois, ce littoral \u00e0 perte de vue \u00e9tait synonyme de danger. Aujourd'hui, c'est le seul endroit d'o\u00f9 l'on peut rep\u00e9rer les nouvelles menaces qui se dirigent vers la R\u00e9gion de la rouille.\r\n\r\nIl va donc falloir nous cr\u00e9er notre propre abri et renforcer les rares d\u00e9fenses que nous pourrons trouver.",
+      "it": "Un tempo questo litorale esposto era sinonimo di pericolo, ma ora \u00e8 l'unico punto da cui possiamo avvistare le nuove minacce che avanzano verso la Cintura di ruggine.\r\n\r\nQuindi dovremo crearci una copertura e rafforzare le poche difese che riusciamo a trovare.",
+      "ja": "\u304b\u3064\u3066\u3053\u306e\u958b\u3051\u305f\u6d77\u5cb8\u7dda\u306f\u5371\u967a\u306e\u8c61\u5fb4\u3060\u3063\u305f\u3002\u3060\u304c\u4eca\u3067\u306f\u3001\u30e9\u30b9\u30c8\u30d9\u30eb\u30c8\u3078\u9032\u8ecd\u3057\u3066\u304f\u308b\u65b0\u305f\u306a\u8105\u5a01\u3092\u5bdf\u77e5\u3067\u304d\u308b\u552f\u4e00\u306e\u5834\u6240\u3060\u3002\r\n\r\n\u3060\u304b\u3089\u81ea\u5206\u305f\u3061\u3067\u906e\u853d\u7269\u3092\u4f5c\u3063\u3066\u3001\u5411\u3053\u3046\u3067\u898b\u3064\u304b\u308b\u6570\u5c11\u306a\u3044\u9632\u5fa1\u8a2d\u5099\u3092\u5f37\u5316\u3057\u306a\u3044\u3068\u3044\u3051\u306a\u3044\u3002",
+      "ko-KR": "\uc0ac\ubc29\uc774 \ud2b8\uc778 \ud574\uc548\uc120\uc740 \uc608\uc804\uc5d4 \uc704\ud5d8 \uadf8 \uc790\uccb4\uc600\uc9c0\ub9cc, \uc774\uc81c\ub294 \ub7ec\uc2a4\ud2b8 \ubca8\ud2b8\ub85c \uc720\uc785\ub418\ub294 \uc0c8\ub85c\uc6b4 \uc704\ud611\uc744 \uac10\uc2dc\ud560 \uc218 \uc788\ub294 \uc720\uc77c\ud55c \uc7a5\uc18c\uc785\ub2c8\ub2e4.\r\n\r\n\uadf8\ub7ec\ub2c8 \uc6b0\ub9ac\uac00 \uc9c1\uc811 \uc5c4\ud3d0\ubb3c\uc744 \ub9cc\ub4e4\uace0, \ub0a8\uc544 \uc788\ub294 \uc5bc\ub9c8 \uc548 \ub418\ub294 \ubc29\uc5b4 \uc2dc\uc124\ub3c4 \ubcf4\uac15\ud574\uc57c \ud569\ub2c8\ub2e4.",
+      "pl": "Rozleg\u0142e, ods\u0142oni\u0119te wybrze\u017ce kojarzy\u0142o si\u0119 niegdy\u015b z niebezpiecze\u0144stwem, ale obecnie to jedyne miejsce, z kt\u00f3rego mo\u017cemy dostrzec nowe zagro\u017cenia nadci\u0105gaj\u0105ce do Rdzawego Pasa.\r\n\r\nB\u0119dziemy musieli zadba\u0107 o os\u0142on\u0119 i wzmocni\u0107 wszelkie znalezione na miejscu struktury obronne.",
+      "pt-BR": "Antigamente, este litoral aberto era sin\u00f4nimo de perigo, mas agora \u00e9 o \u00fanico lugar de onde podemos avistar novas amea\u00e7as avan\u00e7ando para o Cintur\u00e3o da Ferrugem.\r\n\r\nEnt\u00e3o vamos ter que improvisar cobertura e refor\u00e7ar as poucas defesas que restam.",
+      "ru": "\u0420\u0430\u043d\u044c\u0448\u0435 \u043e\u0442\u043a\u0440\u044b\u0442\u043e\u0435 \u043f\u043e\u0431\u0435\u0440\u0435\u0436\u044c\u0435 \u043e\u0437\u043d\u0430\u0447\u0430\u043b\u043e \u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u044c, \u043d\u043e \u0442\u0435\u043f\u0435\u0440\u044c \u044d\u0442\u043e \u0435\u0434\u0438\u043d\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0435 \u043c\u0435\u0441\u0442\u043e, \u043e\u0442\u043a\u0443\u0434\u0430 \u043c\u043e\u0436\u043d\u043e \u0437\u0430\u043c\u0435\u0442\u0438\u0442\u044c \u043d\u043e\u0432\u044b\u0435 \u0443\u0433\u0440\u043e\u0437\u044b, \u043f\u0440\u043e\u043d\u0438\u043a\u0430\u044e\u0449\u0438\u0435 \u0432 \u041c\u0435\u0434\u043d\u044b\u0439 \u043f\u043e\u044f\u0441.\r\n\r\n\u0422\u0430\u043a \u0447\u0442\u043e \u043f\u0440\u0438\u0434\u0435\u0442\u0441\u044f \u0441\u0430\u043c\u0438\u043c \u0441\u0434\u0435\u043b\u0430\u0442\u044c \u0443\u043a\u0440\u044b\u0442\u0438\u044f \u0438 \u043f\u043e\u0447\u0438\u043d\u0438\u0442\u044c \u0443\u043a\u0440\u0435\u043f\u043b\u0435\u043d\u0438\u044f, \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0435\u0449\u0435 \u0446\u0435\u043b\u044b.",
+      "tr": "Eskiden bu u\u00e7suz bucaks\u0131z sahil \u015feridi tehlike demekti; \u015fimdiyse Pasl\u0131 Kemer'e ilerleyen yeni tehditleri saptayabilece\u011fimiz tek yer oras\u0131.\r\n\r\nO y\u00fczden siperimizi kendimiz kaz\u0131p savunmaya dair ne bulursak g\u00fc\u00e7lendirece\u011fiz.",
+      "zh-CN": "\u8fc7\u53bb\uff0c\u5f00\u9614\u7684\u6d77\u5cb8\u7ebf\u66fe\u662f\u5371\u9669\u7684\u8c61\u5f81\uff1b\u4f46\u73b0\u5728\uff0c\u8fd9\u91cc\u662f\u6211\u4eec\u552f\u4e00\u80fd\u53d1\u73b0\u5a01\u80c1\u8fc1\u5165\u9508\u5e26\u7684\u5730\u65b9\u3002\r\n\r\n\u6240\u4ee5\u6211\u4eec\u5f97\u81ea\u5df1\u642d\u5efa\u63a9\u4f53\uff0c\u52a0\u56fa\u4ec5\u5b58\u7684\u9632\u5fa1\u5de5\u4e8b\u3002",
+      "zh-TW": "\u904e\u53bb\uff0c\u958b\u95ca\u7684\u6d77\u5cb8\u7dda\u66fe\u662f\u5371\u96aa\u7684\u8c61\u5fb5\uff1b\u4f46\u73fe\u5728\uff0c\u5b83\u662f\u6211\u5011\u76e3\u8996\u5a01\u8105\u9032\u5165\u9435\u93fd\u5e36\u7684\u552f\u4e00\u5730\u9ede\u3002\r\n\r\n\u56e0\u6b64\uff0c\u6211\u5011\u5fc5\u9808\u5efa\u9020\u81ea\u5df1\u7684\u63a9\u9ad4\uff0c\u4e26\u5f37\u5316\u6211\u5011\u80fd\u627e\u5230\u7684\u5c11\u5c11\u5e7e\u8655\u9632\u79a6\u3002",
+      "no": "Den \u00e5pne kystlinjen pleide \u00e5 bety fare, men n\u00e5 er det det eneste stedet vi kan oppdage nye trusler som beveger seg inn i Rust Belt.\r\n\r\nS\u00e5 vi m\u00e5 lage v\u00e5r egen dekning, og forsterke det lille forsvaret vi kan finne.",
+      "da": "Den \u00e5bne kystlinje bet\u00f8d tidligere fare, men nu er det det eneste sted, vi kan spotte nye trusler, der rykker ind i Rustb\u00e6ltet.\r\n\r\nS\u00e5 vi bliver n\u00f8dt til at lave vores egen d\u00e6kning og forst\u00e6rke de f\u00e5 forsvarsv\u00e6rker, vi kan finde.",
+      "hr": "\u0160iroka, otvorena obala nekada je zna\u010dila opasnost, ali sada je jedino mjesto gdje mo\u017eemo uo\u010diti nove prijetnje koje ulaze u Rust Belt.\r\n\r\nZato \u0107emo morati napraviti vlastiti zaklon i poja\u010dati ono malo obrane \u0161to mo\u017eemo prona\u0107i.",
+      "sr": "\u0160iroka, otvorena obala nekada je zna\u010dila opasnost, ali sada je to jedino mesto odakle mo\u017eemo uo\u010diti nove pretnje koje ulaze u Rust Belt.\r\n\r\nZato \u0107emo morati da napravimo sopstveni zaklon i poja\u010damo to malo odbrane \u0161to mo\u017eemo da prona\u0111emo.",
+      "pt": "A costa aberta costumava ser sin\u00f4nimo de perigo, mas agora \u00e9 o \u00fanico lugar onde podemos avistar novas amea\u00e7as entrando no Rust Belt.\r\n\r\nEnt\u00e3o, teremos que criar nossa pr\u00f3pria cobertura e refor\u00e7ar as poucas defesas que conseguirmos encontrar.",
+      "uk": "\u0420\u0430\u043d\u0456\u0448\u0435 \u0432\u0456\u0434\u043a\u0440\u0438\u0442\u0430 \u0431\u0435\u0440\u0435\u0433\u043e\u0432\u0430 \u043b\u0456\u043d\u0456\u044f \u043e\u0437\u043d\u0430\u0447\u0430\u043b\u0430 \u043d\u0435\u0431\u0435\u0437\u043f\u0435\u043a\u0443, \u0430\u043b\u0435 \u0442\u0435\u043f\u0435\u0440 \u0446\u0435 \u0454\u0434\u0438\u043d\u0435 \u043c\u0456\u0441\u0446\u0435, \u0437\u0432\u0456\u0434\u043a\u0438 \u043c\u043e\u0436\u043d\u0430 \u043f\u043e\u043c\u0456\u0442\u0438\u0442\u0438 \u043d\u043e\u0432\u0456 \u0437\u0430\u0433\u0440\u043e\u0437\u0438, \u0449\u043e \u043d\u0430\u0431\u043b\u0438\u0436\u0430\u044e\u0442\u044c\u0441\u044f \u0434\u043e \u0406\u0440\u0436\u0430\u0432\u043e\u0433\u043e \u043f\u043e\u044f\u0441\u0443.\r\n\r\n\u0422\u043e\u0436 \u043d\u0430\u043c \u0434\u043e\u0432\u0435\u0434\u0435\u0442\u044c\u0441\u044f \u0441\u0442\u0432\u043e\u0440\u0438\u0442\u0438 \u0432\u043b\u0430\u0441\u043d\u0435 \u0443\u043a\u0440\u0438\u0442\u0442\u044f \u0456 \u0437\u043c\u0456\u0446\u043d\u0438\u0442\u0438 \u0442\u0456 \u043d\u0435\u0447\u0438\u0441\u043b\u0435\u043d\u043d\u0456 \u043e\u0431\u043e\u0440\u043e\u043d\u043d\u0456 \u0441\u043f\u043e\u0440\u0443\u0434\u0438, \u044f\u043a\u0456 \u0432\u0434\u0430\u0441\u0442\u044c\u0441\u044f \u0437\u043d\u0430\u0439\u0442\u0438.",
+      "he": "\u05e7\u05d5 \u05d4\u05d7\u05d5\u05e3 \u05d4\u05e4\u05ea\u05d5\u05d7 \u05d4\u05d9\u05d5\u05d5\u05d4 \u05d1\u05e2\u05d1\u05e8 \u05e1\u05db\u05e0\u05d4, \u05d0\u05d1\u05dc \u05e2\u05db\u05e9\u05d9\u05d5 \u05d6\u05d4 \u05d4\u05de\u05e7\u05d5\u05dd \u05d4\u05d9\u05d7\u05d9\u05d3 \u05e9\u05d1\u05d5 \u05d0\u05e0\u05d7\u05e0\u05d5 \u05d9\u05db\u05d5\u05dc\u05d9\u05dd \u05dc\u05d6\u05d4\u05d5\u05ea \u05d0\u05d9\u05d5\u05de\u05d9\u05dd \u05d7\u05d3\u05e9\u05d9\u05dd \u05e9\u05e0\u05e2\u05d9\u05dd \u05dc\u05e2\u05d1\u05e8 \u05d4-Rust Belt.\r\n\r\n\u05dc\u05db\u05df \u05e0\u05e6\u05d8\u05e8\u05da \u05dc\u05d9\u05e6\u05d5\u05e8 \u05de\u05d7\u05e1\u05d5\u05ea \u05d1\u05e2\u05e6\u05de\u05e0\u05d5, \u05d5\u05dc\u05d7\u05d6\u05e7 \u05d0\u05ea \u05d4\u05d4\u05d2\u05e0\u05d5\u05ea \u05d4\u05de\u05e2\u05d8\u05d5\u05ea \u05e9\u05e0\u05d5\u05db\u05dc \u05dc\u05de\u05e6\u05d5\u05d0."
+    },
+    "objectives": [
+      {
+        "de": "Zerst\u00f6re {0} Wespen.",
+        "en": "Destroy {0} Wasps",
+        "es": "Destruye {0}\u00a0avispas.",
+        "fr": "D\u00e9truire {0}\u00a0Gu\u00eapes",
+        "it": "Distruggi {0} Vespe",
+        "ja": "\u30ef\u30b9\u30d7\u3092{0}\u4f53\u7834\u58ca\u3059\u308b",
+        "ko-KR": "\uc640\uc2a4\ud504 {0}\uac1c \ud30c\uad34\ud558\uae30",
+        "pl": "Zniszcz osy: {0}",
+        "pt-BR": "Destrua {0} Vespas",
+        "ru": "\u0423\u043d\u0438\u0447\u0442\u043e\u0436\u044c\u0442\u0435 \u00ab\u041e\u0441\u00bb: {0}.",
+        "tr": "{0} E\u015fek Ar\u0131s\u0131 Yok Et",
+        "zh-CN": "\u6467\u6bc1{0}\u4e2a\u201c\u9ec4\u8702\u201d",
+        "zh-TW": "\u6467\u6bc0{0}\u53f0\u9ec3\u8702",
+        "no": "\u00d8delegg {0} Wasps",
+        "da": "\u00d8del\u00e6g {0} Wasps",
+        "hr": "Uni\u0161ti {0} Osa",
+        "sr": "Uni\u0161ti {0} Osa",
+        "pt": "Destrua {0} Vespas",
+        "uk": "\u0417\u043d\u0438\u0449\u0442\u0435 {0} \u041e\u0441",
+        "he": "\u05d4\u05e9\u05de\u05d3 {0} \u05e6\u05e8\u05e2\u05d5\u05ea"
+      },
+      {
+        "de": "Zerst\u00f6re {0} Gl\u00fchw\u00fcrmchen.",
+        "en": "Destroy {0} Fireflies",
+        "es": "Destruye {0}\u00a0luci\u00e9rnagas.",
+        "fr": "D\u00e9truire {0}\u00a0Lucioles",
+        "it": "Distruggi {0} Lucciole",
+        "ja": "\u30d5\u30a1\u30a4\u30a2\u30d5\u30e9\u30a4\u3092{0}\u4f53\u7834\u58ca\u3059\u308b",
+        "ko-KR": "\ud30c\uc774\uc5b4\ud50c\ub77c\uc774 {0}\uac1c \ud30c\uad34\ud558\uae30",
+        "pl": "Zniszcz \u015bwietliki: {0}",
+        "pt-BR": "Destrua {0} Vaga-lumes",
+        "ru": "\u0423\u043d\u0438\u0447\u0442\u043e\u0436\u044c\u0442\u0435 \u00ab\u0421\u0432\u0435\u0442\u043b\u044f\u0447\u043a\u043e\u0432\u00bb: {0}.",
+        "tr": "{0} Ate\u015f B\u00f6ce\u011fi Yok Et",
+        "zh-CN": "\u6467\u6bc1{0}\u4e2a\u201c\u8424\u706b\u866b\u201d",
+        "zh-TW": "\u6467\u6bc0{0}\u53f0\u87a2\u706b\u87f2",
+        "no": "\u00d8delegg {0} Fireflies",
+        "da": "\u00d8del\u00e6g {0} Fireflies",
+        "hr": "Uni\u0161ti {0} Krijesnica",
+        "sr": "Uni\u0161ti {0} Svitaca",
+        "pt": "Destrua {0} Vaga-lumes",
+        "uk": "\u0417\u043d\u0438\u0449\u0442\u0435 {0} \u0421\u0432\u0456\u0442\u043b\u044f\u043a\u0456\u0432",
+        "he": "\u05d4\u05e9\u05de\u05d3 {0} \u05d2\u05d7\u05dc\u05d9\u05dc\u05d9\u05d5\u05ea"
+      },
+      {
+        "de": "Verwende {0} ARC-Legierung(en), um die Raider-Struktur auf einem beliebigen Kran des Stapellagers zu verst\u00e4rken.",
+        "en": "Use {0} ARC Alloy to reinforce the Raider structure on top of any Stacking Yard crane",
+        "es": "Usa {0} aleaciones de ARC para reforzar la estructura de Raiders de cualquier gr\u00faa del patio de apilado.",
+        "fr": "Utiliser {0}\u00a0unit\u00e9(s) d'alliage de l'ARC pour renforcer une structure de Raider au sommet de n'importe quelle grue de l'aire d\u2019empilement.",
+        "it": "Usa {0} leghe ARC per rafforzare la struttura Raider sopra qualsiasi gru del cortile di accumulo.",
+        "ja": "{0}\u3064\u306eARC\u5408\u91d1\u3092\u4f7f\u3044\u3001\u7a4d\u307f\u8fbc\u307f\u5834\u306e\u30af\u30ec\u30fc\u30f3\u306e\u4e0a\u306b\u3042\u308b\u30ec\u30a4\u30c0\u30fc\u306e\u4f4f\u5c45\u3092\u88dc\u5f37\u3059\u308b",
+        "ko-KR": "\uc801\uce58\uc7a5 \ud06c\ub808\uc778 \uc544\ubb34 \uacf3\uc758 \uaf2d\ub300\uae30\uc5d0 \uc788\ub294 \ub808\uc774\ub354 \uad6c\uc870\ubb3c\uc744 \uc544\ud06c \ud569\uae08 {0}\uac1c\ub85c \ubcf4\uac15\ud558\uae30",
+        "pl": "U\u017cyj {0} szt. stopu ARC, aby wzmocni\u0107 konstrukcj\u0119 \u0142upie\u017cc\u00f3w na szczycie dowolnego \u017curawia na sk\u0142adowisku.",
+        "pt-BR": "Use {0} ligas ARC para refor\u00e7ar a estrutura de Raider no topo de qualquer guindaste do P\u00e1tio de Empilhamento.",
+        "ru": "\u0418\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0439\u0442\u0435 \u0441\u043f\u043b\u0430\u0432 ARC ({0}), \u0447\u0442\u043e\u0431\u044b \u0443\u043a\u0440\u0435\u043f\u0438\u0442\u044c \u043f\u043e\u0441\u0442\u0440\u043e\u0439\u043a\u0443 \u0440\u0435\u0439\u0434\u0435\u0440\u043e\u0432 \u043d\u0430 \u043b\u044e\u0431\u043e\u043c \u0438\u0437 \u043a\u0440\u0430\u043d\u043e\u0432 \u0441\u043a\u043b\u0430\u0434\u0441\u043a\u043e\u0439 \u043f\u043b\u043e\u0449\u0430\u0434\u043a\u0438.",
+        "tr": "{0} ARC Ala\u015f\u0131m\u0131 kullanarak bir Y\u0131\u011fma Avlusu vincinin \u00fczerindeki Raider yap\u0131s\u0131n\u0131 g\u00fc\u00e7lendir",
+        "zh-CN": "\u4f7f\u7528{0}\u5757ARC\u5408\u91d1\u52a0\u56fa\u5806\u6599\u573a\u8d77\u91cd\u673a\u9876\u90e8\u7684\u5947\u88ad\u8005\u5efa\u7b51",
+        "zh-TW": "\u4f7f\u7528{0}\u500bARC\u5408\u91d1\u4f86\u52a0\u56fa\u5806\u7f6e\u5834\u4efb\u4e00\u53f0\u540a\u8eca\u9802\u7aef\u7684\u63a0\u624b\u5efa\u7bc9",
+        "no": "Bruk {0} ARC Alloy til \u00e5 forsterke Raider-strukturen p\u00e5 toppen av en hvilken som helst Stacking Yard-kran",
+        "da": "Brug {0} ARC-legering til at forst\u00e6rke Raider-strukturen p\u00e5 toppen af en vilk\u00e5rlig Stacking Yard-kran",
+        "hr": "Upotrijebi {0} ARC legure za poja\u010davanje Raider strukture na vrhu bilo koje dizalice na lokaciji Stacking Yard",
+        "sr": "Iskoristi {0} ARC legure da oja\u010da\u0161 Raider strukturu na vrhu bilo koje dizalice u Stacking Yard-u",
+        "pt": "Use {0} de Liga de ARC para refor\u00e7ar a estrutura Raider no topo de qualquer guindaste do Stacking Yard",
+        "uk": "\u0412\u0438\u043a\u043e\u0440\u0438\u0441\u0442\u0430\u0439\u0442\u0435 {0} \u0441\u043f\u043b\u0430\u0432\u0443 ARC, \u0449\u043e\u0431 \u0437\u043c\u0456\u0446\u043d\u0438\u0442\u0438 \u0441\u043f\u043e\u0440\u0443\u0434\u0443 \u0440\u0435\u0439\u0434\u0435\u0440\u0456\u0432 \u043d\u0430 \u0432\u0435\u0440\u0448\u0438\u043d\u0456 \u0431\u0443\u0434\u044c-\u044f\u043a\u043e\u0433\u043e \u043a\u0440\u0430\u043d\u0430 \u043d\u0430 \u0421\u043e\u0440\u0442\u0443\u0432\u0430\u043b\u044c\u043d\u043e\u043c\u0443 \u043c\u0430\u0439\u0434\u0430\u043d\u0447\u0438\u043a\u0443",
+        "he": "\u05d4\u05e9\u05ea\u05de\u05e9 \u05d1-{0} \u05e1\u05d2\u05e1\u05d5\u05d2\u05ea ARC \u05db\u05d3\u05d9 \u05dc\u05d7\u05d6\u05e7 \u05d0\u05ea \u05de\u05d1\u05e0\u05d4 \u05d4-Raider \u05e2\u05dc \u05d2\u05d1\u05d9 \u05db\u05dc \u05de\u05e0\u05d5\u05e3 \u05d1-Stacking Yard"
+      },
+      {
+        "de": "Verbarrikadiere die verschlossenen Fenster im Hotel.",
+        "en": "Board up shuttered windows in the hotel",
+        "es": "Sella las ventanas rotas del hotel.",
+        "fr": "Barricader les fen\u00eatres \u00e0 volets de l'h\u00f4tel",
+        "it": "Sbarra con delle assi le finestre chiuse dell'hotel",
+        "ja": "\u30db\u30c6\u30eb\u306e\u9589\u3056\u3055\u308c\u305f\u7a93\u3092\u677f\u3067\u585e\u3050",
+        "ko-KR": "\ud638\ud154\uc758 \ub2eb\ud78c \ucc3d\ubb38\uc5d0 \ud310\uc790 \ub367\ub300\uae30",
+        "pl": "Zabij deskami rozbite okna w hotelu",
+        "pt-BR": "Feche com t\u00e1buas as janelas protegidas do hotel",
+        "ru": "\u0417\u0430\u0431\u0435\u0439\u0442\u0435 \u0434\u043e\u0441\u043a\u0430\u043c\u0438 \u043e\u043a\u043d\u0430 \u0432 \u043e\u0442\u0435\u043b\u0435.",
+        "tr": "Oteldeki panjurlar\u0131 kapal\u0131 pencerelere tahta \u00e7ak",
+        "zh-CN": "\u7528\u6728\u677f\u5c01\u4f4f\u9152\u5e97\u7684\u767e\u53f6\u7a97",
+        "zh-TW": "\u5c01\u4f4f\u98ef\u5e97\u7684\u767e\u8449\u7a97",
+        "no": "Spikre igjen vinduer med skodder p\u00e5 hotellet",
+        "da": "S\u00f8m br\u00e6dder for de skoddede vinduer p\u00e5 hotellet",
+        "hr": "Zabij daskama zatvorene prozore u hotelu",
+        "sr": "Zakucaj daskama zatvorene prozore u hotelu",
+        "pt": "Feche com t\u00e1buas as janelas do hotel",
+        "uk": "\u0417\u0430\u0431\u0438\u0439\u0442\u0435 \u0434\u043e\u0448\u043a\u0430\u043c\u0438 \u0437\u0430\u0447\u0438\u043d\u0435\u043d\u0456 \u0432\u0456\u043a\u043d\u0430 \u0432 \u0433\u043e\u0442\u0435\u043b\u0456",
+        "he": "\u05d0\u05d8\u05d5\u05dd \u05d1\u05e7\u05e8\u05e9\u05d9\u05dd \u05d0\u05ea \u05d4\u05d7\u05dc\u05d5\u05e0\u05d5\u05ea \u05d4\u05de\u05d5\u05d2\u05e4\u05d9\u05dd \u05d1\u05de\u05dc\u05d5\u05df"
+      }
+    ],
+    "rewardItemIds": [
+      {
+        "itemId": "barricade_kit",
+        "quantity": 3
+      },
+      {
+        "itemId": "lure_grenade_trap",
+        "quantity": 3
+      },
+      {
+        "itemId": "seeker_grenade",
+        "quantity": 6
+      }
+    ],
+    "xp": 0,
+    "previousQuestIds": [
+      "ss4",
+      "april_quest_unlock"
+    ],
+    "nextQuestIds": [],
+    "updatedAt": "04/28/2026"
   },
   {
     "id": "snap_and_salvage",
