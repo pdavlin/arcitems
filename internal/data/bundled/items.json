@@ -22975,7 +22975,7 @@
     "rarity": "Common",
     "value": 12,
     "weightKg": 0.05,
-    "stackSize": 40,
+    "stackSize": 60,
     "craftQuantity": 10,
     "compatibleWith": [
       "Anvil",
@@ -22989,7 +22989,7 @@
       "metal_parts": 3
     },
     "imageFilename": "https://cdn.arctracker.io/items/heavy_ammo.png",
-    "updatedAt": "02/24/2026",
+    "updatedAt": "04/28/2026",
     "addedIn": "base",
     "vendors": [
       {
@@ -35653,7 +35653,8 @@
     "craftBench": "utility_bench",
     "stationLevelRequired": 3,
     "recipe": {
-      "power_rod": 1
+      "power_rod": 1,
+      "turbine_compressor": 1
     },
     "recyclesInto": {
       "advanced_electrical_components": 1,
@@ -48231,7 +48232,7 @@
     "stackSize": 1,
     "imageFilename": "https://cdn.arctracker.io/items/tactical_mk3_smoke_blueprint.png",
     "updatedAt": "04/28/2026",
-    "addedIn": "base"
+    "addedIn": "1.26"
   },
   {
     "id": "tagging_grenade",
@@ -51405,7 +51406,7 @@
     "description": {
       "da": "",
       "de": "",
-      "en": "",
+      "en": "Can be recycled into crafting materials.",
       "es": "",
       "fr": "",
       "he": "",
@@ -51427,7 +51428,16 @@
     "type": "Recyclable",
     "rarity": "Epic",
     "foundIn": "ARC",
+    "value": 5000,
+    "weightKg": 0.5,
     "stackSize": 3,
+    "recyclesInto": {
+      "arc_circuitry": 1,
+      "arc_motion_core": 1
+    },
+    "salvagesInto": {
+      "arc_circuitry": 1
+    },
     "updatedAt": "04/28/2026",
     "addedIn": "1.26"
   },
@@ -51662,7 +51672,7 @@
     "rarity": "Epic",
     "value": 6000,
     "weightKg": 0.5,
-    "stackSize": 1,
+    "stackSize": 3,
     "recyclesInto": {
       "advanced_electrical_components": 1,
       "arc_circuitry": 2
@@ -55204,14 +55214,13 @@
       }
     },
     "recyclesInto": {
-      "arc_alloy": 1,
-      "electrical_components": 1
+      "arc_alloy": 2
     },
     "salvagesInto": {
       "arc_alloy": 2
     },
     "imageFilename": "https://cdn.arctracker.io/items/wasp_driver.png",
-    "updatedAt": "01/13/2026",
+    "updatedAt": "04/28/2026",
     "addedIn": "base",
     "tip": "The Wasp Driver is a rare item is dropped by Wasps that can be recycled into crafting materials."
   },
@@ -55393,7 +55402,10 @@
     "weightKg": 0.2,
     "stackSize": 5,
     "blueprintLocked": true,
-    "craftBench": "medical_lab",
+    "craftBench": [
+      "med_station",
+      "in_raid"
+    ],
     "stationLevelRequired": 1,
     "recipe": {
       "fabric": 10,
