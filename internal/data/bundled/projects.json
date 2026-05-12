@@ -2437,7 +2437,7 @@
         "phase": 5,
         "requirementItemIds": [
           {
-            "itemId": "monolith_part",
+            "itemId": "turbine_compressor",
             "quantity": 2
           },
           {
@@ -2692,7 +2692,7 @@
             "quantity": 15
           },
           {
-            "itemId": "monolith_part",
+            "itemId": "turbine_compressor",
             "quantity": 5
           },
           {
