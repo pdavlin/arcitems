@@ -16675,28 +16675,146 @@
     "addedIn": "base"
   },
   {
-    "id": "extended_barrel",
+    "id": "extended_barrel_i",
     "name": {
-      "da": "Forl\u00e6nget l\u00f8b",
-      "de": "Verl\u00e4ngerter Lauf",
-      "en": "Extended Barrel",
-      "es": "Ca\u00f1\u00f3n extendido",
-      "fr": "Canon Allong\u00e9",
-      "he": "\u05e7\u05e0\u05d4 \u05de\u05d5\u05d0\u05e8\u05da",
-      "hr": "Produ\u017eena cijev",
-      "it": "Canna estesa",
-      "ja": "\u62e1\u5f35\u30d0\u30ec\u30eb",
-      "ko-KR": "\ud655\uc7a5\ud615 \ucd1d\uc5f4",
-      "no": "Forlenget l\u00f8p",
-      "pl": "Wyd\u0142u\u017cona lufa",
-      "pt": "Cano estendido",
-      "pt-BR": "Cano Estendido",
-      "ru": "\u0423\u0434\u043b\u0438\u043d\u0435\u043d\u043d\u044b\u0439 \u0441\u0442\u0432\u043e\u043b",
-      "sr": "Produ\u017eena cev",
-      "tr": "Uzat\u0131lm\u0131\u015f Namlu",
-      "uk": "\u041f\u043e\u0434\u043e\u0432\u0436\u0435\u043d\u0438\u0439 \u0441\u0442\u0432\u043e\u043b",
-      "zh-CN": "\u52a0\u957f\u67aa\u7ba1",
-      "zh-TW": "\u52a0\u9577\u69cd\u7ba1"
+      "da": "Forl\u00e6nget l\u00f8b I",
+      "de": "Verl\u00e4ngerter Lauf I",
+      "en": "Extended Barrel I",
+      "es": "Ca\u00f1\u00f3n extendido I",
+      "fr": "Canon Allong\u00e9 I",
+      "he": "\u05e7\u05e0\u05d4 \u05de\u05d5\u05d0\u05e8\u05daI",
+      "hr": "Produ\u017eena cijev I",
+      "it": "Canna estesa I",
+      "ja": "\u62e1\u5f35\u30d0\u30ec\u30eb I",
+      "ko-KR": "\ud655\uc7a5\ud615 \ucd1d\uc5f4 I",
+      "no": "Forlenget l\u00f8p I",
+      "pl": "Wyd\u0142u\u017cona lufa I",
+      "pt": "Cano estendido I",
+      "pt-BR": "Cano Estendido I",
+      "ru": "\u0423\u0434\u043b\u0438\u043d\u0435\u043d\u043d\u044b\u0439 \u0441\u0442\u0432\u043e\u043b I",
+      "sr": "Produ\u017eena cev I",
+      "tr": "Uzat\u0131lm\u0131\u015f Namlu I",
+      "uk": "\u041f\u043e\u0434\u043e\u0432\u0436\u0435\u043d\u0438\u0439 \u0441\u0442\u0432\u043e\u043b I",
+      "zh-CN": "\u52a0\u957f\u67aa\u7ba1 I",
+      "zh-TW": "\u52a0\u9577\u69cd\u7ba1 I"
+    },
+    "type": "Modification",
+    "rarity": "Common",
+    "value": 1000,
+    "craftBench": "weapon_bench",
+    "stationLevelRequired": 1,
+    "recipe": {
+      "metal_parts": 6,
+      "wires": 3
+    },
+    "recyclesInto": {
+      "metal_parts": 5
+    },
+    "salvagesInto": {
+      "metal_parts": 3
+    },
+    "updatedAt": "05/19/2026",
+    "addedIn": "1.29"
+  },
+  {
+    "id": "extended_barrel_ii",
+    "name": {
+      "da": "Forl\u00e6nget l\u00f8b II",
+      "de": "Verl\u00e4ngerter Lauf II",
+      "en": "Extended Barrel II",
+      "es": "Ca\u00f1\u00f3n extendido II",
+      "fr": "Canon Allong\u00e9 II",
+      "he": "\u05e7\u05e0\u05d4 \u05de\u05d5\u05d0\u05e8\u05daII",
+      "hr": "Produ\u017eena cijev II",
+      "it": "Canna estesa II",
+      "ja": "\u62e1\u5f35\u30d0\u30ec\u30eb II",
+      "ko-KR": "\ud655\uc7a5\ud615 \ucd1d\uc5f4 II",
+      "no": "Forlenget l\u00f8p II",
+      "pl": "Wyd\u0142u\u017cona lufa II",
+      "pt": "Cano estendido II",
+      "pt-BR": "Cano Estendido II",
+      "ru": "\u0423\u0434\u043b\u0438\u043d\u0435\u043d\u043d\u044b\u0439 \u0441\u0442\u0432\u043e\u043b II",
+      "sr": "Produ\u017eena cev II",
+      "tr": "Uzat\u0131lm\u0131\u015f Namlu II",
+      "uk": "\u041f\u043e\u0434\u043e\u0432\u0436\u0435\u043d\u0438\u0439 \u0441\u0442\u0432\u043e\u043b II",
+      "zh-CN": "\u52a0\u957f\u67aa\u7ba1 II",
+      "zh-TW": "\u52a0\u9577\u69cd\u7ba1 II"
+    },
+    "type": "Modification",
+    "rarity": "Common",
+    "value": 3000,
+    "blueprintLocked": true,
+    "craftBench": "weapon_bench",
+    "stationLevelRequired": 2,
+    "recipe": {
+      "mechanical_components": 3,
+      "wires": 6
+    },
+    "recyclesInto": {
+      "mechanical_components": 1,
+      "wires": 1
+    },
+    "salvagesInto": {
+      "mechanical_components": 1
+    },
+    "updatedAt": "05/19/2026",
+    "addedIn": "1.29"
+  },
+  {
+    "id": "extended_barrel_ii_blueprint",
+    "name": {
+      "da": "Forlaenget lob-tegning II",
+      "de": "Bauplan: Verlangerter Lauf II",
+      "en": "Extended Barrel II Blueprint",
+      "es": "Plano de Canon extendido II",
+      "fr": "Schema Canon Allonge II",
+      "he": "\u05e9\u05e8\u05d8\u05d5\u05d8 \u05dc\u05e7\u05e0\u05d4 \u05de\u05d5\u05d0\u05e8\u05daII",
+      "hr": "Produzena cijev Nacrt II",
+      "it": "Progetto Canna estesa II",
+      "ja": "\u62e1\u5f35\u30d0\u30ec\u30eb \u8a2d\u8a08\u56f3 II",
+      "ko-KR": "\ud655\uc7a5\ud615 \ucd1d\uc5f4 \uc124\uacc4\ub3c4 II",
+      "no": "Forlenget lop-tegning II",
+      "pl": "Projekt Wydluzona lufa II",
+      "pt": "Projeto de Cano estendido II",
+      "pt-BR": "Esquema de Cano Estendido II",
+      "ru": "\u0427\u0435\u0440\u0442\u0435\u0436 \u2014 \u0423\u0434\u043b\u0438\u043d\u0435\u043d\u043d\u044b\u0439 \u0441\u0442\u0432\u043e\u043b II",
+      "sr": "Produzena cev Nacrt II",
+      "tr": "Uzatilmis Namlu Tasla\u011f\u0131 II",
+      "uk": "\u041a\u0440\u0435\u0441\u043b\u0435\u043d\u043d\u044f \u041f\u043e\u0434\u043e\u0432\u0436\u0435\u043d\u0438\u0439 \u0441\u0442\u0432\u043e\u043b II",
+      "zh-CN": "\u52a0\u957f\u67aa\u7ba1 \u84dd\u56fe II",
+      "zh-TW": "\u52a0\u9577\u69cd\u7ba1 \u85cd\u5716 II"
+    },
+    "type": "Blueprint",
+    "rarity": "Common",
+    "value": 5000,
+    "weightKg": 0,
+    "stackSize": 1,
+    "updatedAt": "05/19/2026",
+    "addedIn": "1.29"
+  },
+  {
+    "id": "extended_barrel_iii",
+    "name": {
+      "da": "Forl\u00e6nget l\u00f8b III",
+      "de": "Verl\u00e4ngerter Lauf III",
+      "en": "Extended Barrel III",
+      "es": "Ca\u00f1\u00f3n extendido III",
+      "fr": "Canon Allong\u00e9 III",
+      "he": "\u05e7\u05e0\u05d4 \u05de\u05d5\u05d0\u05e8\u05daIII",
+      "hr": "Produ\u017eena cijev III",
+      "it": "Canna estesa III",
+      "ja": "\u62e1\u5f35\u30d0\u30ec\u30eb III",
+      "ko-KR": "\ud655\uc7a5\ud615 \ucd1d\uc5f4 III",
+      "no": "Forlenget l\u00f8p III",
+      "pl": "Wyd\u0142u\u017cona lufa III",
+      "pt": "Cano estendido III",
+      "pt-BR": "Cano Estendido III",
+      "ru": "\u0423\u0434\u043b\u0438\u043d\u0435\u043d\u043d\u044b\u0439 \u0441\u0442\u0432\u043e\u043b III",
+      "sr": "Produ\u017eena cev III",
+      "tr": "Uzat\u0131lm\u0131\u015f Namlu III",
+      "uk": "\u041f\u043e\u0434\u043e\u0432\u0436\u0435\u043d\u0438\u0439 \u0441\u0442\u0432\u043e\u043b III",
+      "zh-CN": "\u52a0\u957f\u67aa\u7ba1 III",
+      "zh-TW": "\u52a0\u9577\u69cd\u7ba1 III"
     },
     "description": {
       "da": "\u00d8ger kuglehastigheden moderat. Kompatibel med: Tempest, Arpeggio, Ferro, Renegade, Anvil",
@@ -16807,28 +16925,28 @@
     "addedIn": "base"
   },
   {
-    "id": "extended_barrel_blueprint",
+    "id": "extended_barrel_iii_blueprint",
     "name": {
-      "da": "Forlaenget lob-tegning",
-      "de": "Bauplan: Verlangerter Lauf",
-      "en": "Extended Barrel Blueprint",
-      "es": "Plano de Canon extendido",
-      "fr": "Schema Canon Allonge",
-      "he": "\u05e9\u05e8\u05d8\u05d5\u05d8 \u05dc\u05e7\u05e0\u05d4 \u05de\u05d5\u05d0\u05e8\u05da",
-      "hr": "Produzena cijev Nacrt",
-      "it": "Progetto Canna estesa",
-      "ja": "\u62e1\u5f35\u30d0\u30ec\u30eb \u8a2d\u8a08\u56f3",
-      "ko-KR": "\ud655\uc7a5\ud615 \ucd1d\uc5f4 \uc124\uacc4\ub3c4",
-      "no": "Forlenget lop-tegning",
-      "pl": "Projekt Wydluzona lufa",
-      "pt": "Projeto de Cano estendido",
-      "pt-BR": "Esquema de Cano Estendido",
-      "ru": "\u0427\u0435\u0440\u0442\u0435\u0436 \u2014 \u0423\u0434\u043b\u0438\u043d\u0435\u043d\u043d\u044b\u0439 \u0441\u0442\u0432\u043e\u043b",
-      "sr": "Produzena cev Nacrt",
-      "tr": "Uzatilmis Namlu Tasla\u011f\u0131",
-      "uk": "\u041a\u0440\u0435\u0441\u043b\u0435\u043d\u043d\u044f \u041f\u043e\u0434\u043e\u0432\u0436\u0435\u043d\u0438\u0439 \u0441\u0442\u0432\u043e\u043b",
-      "zh-CN": "\u52a0\u957f\u67aa\u7ba1 \u84dd\u56fe",
-      "zh-TW": "\u52a0\u9577\u69cd\u7ba1 \u85cd\u5716"
+      "da": "Forlaenget lob-tegning III",
+      "de": "Bauplan: Verlangerter Lauf III",
+      "en": "Extended Barrel III Blueprint",
+      "es": "Plano de Canon extendido III",
+      "fr": "Schema Canon Allonge III",
+      "he": "\u05e9\u05e8\u05d8\u05d5\u05d8 \u05dc\u05e7\u05e0\u05d4 \u05de\u05d5\u05d0\u05e8\u05daIII",
+      "hr": "Produzena cijev Nacrt III",
+      "it": "Progetto Canna estesa III",
+      "ja": "\u62e1\u5f35\u30d0\u30ec\u30eb \u8a2d\u8a08\u56f3 III",
+      "ko-KR": "\ud655\uc7a5\ud615 \ucd1d\uc5f4 \uc124\uacc4\ub3c4 III",
+      "no": "Forlenget lop-tegning III",
+      "pl": "Projekt Wydluzona lufa III",
+      "pt": "Projeto de Cano estendido III",
+      "pt-BR": "Esquema de Cano Estendido III",
+      "ru": "\u0427\u0435\u0440\u0442\u0435\u0436 \u2014 \u0423\u0434\u043b\u0438\u043d\u0435\u043d\u043d\u044b\u0439 \u0441\u0442\u0432\u043e\u043b III",
+      "sr": "Produzena cev Nacrt III",
+      "tr": "Uzatilmis Namlu Tasla\u011f\u0131 III",
+      "uk": "\u041a\u0440\u0435\u0441\u043b\u0435\u043d\u043d\u044f \u041f\u043e\u0434\u043e\u0432\u0436\u0435\u043d\u0438\u0439 \u0441\u0442\u0432\u043e\u043b III",
+      "zh-CN": "\u52a0\u957f\u67aa\u7ba1 \u84dd\u56fe III",
+      "zh-TW": "\u52a0\u9577\u69cd\u7ba1 \u85cd\u5716 III"
     },
     "description": {
       "da": "Oger kuglehastigheden moderat. Kompatibel med: Tempest, Arpeggio, Ferro, Renegade, Anvil",
@@ -20559,7 +20677,7 @@
     },
     "type": "Augment",
     "rarity": "Common",
-    "value": 100,
+    "value": 660,
     "weightKg": 1,
     "stackSize": 1,
     "effects": {
@@ -20594,7 +20712,7 @@
       "rubber_parts": 6
     },
     "imageFilename": "https://cdn.arctracker.io/items/v2/free_loadout_augment.png",
-    "updatedAt": "03/31/2026",
+    "updatedAt": "05/19/2026",
     "addedIn": "base"
   },
   {
@@ -36689,6 +36807,259 @@
     "imageFilename": "https://cdn.arctracker.io/items/v2/raiders_refuge_security_code.png",
     "updatedAt": "02/06/2026",
     "addedIn": "base"
+  },
+  {
+    "id": "rascal_blueprint",
+    "name": {
+      "en": "Rascal Blueprint"
+    },
+    "description": {
+      "en": "Fires explosive projectiles that only detonate when hitting ARC."
+    },
+    "type": "Blueprint",
+    "rarity": "Common",
+    "value": 5000,
+    "weightKg": 0,
+    "stackSize": 1,
+    "imageFilename": "https://cdn.arctracker.io/items/v2/rascal.png",
+    "updatedAt": "05/19/2026",
+    "addedIn": "1.29"
+  },
+  {
+    "id": "rascal_i",
+    "name": {
+      "en": "Rascal I"
+    },
+    "description": {
+      "en": "Fires explosive projectiles that only detonate when hitting ARC."
+    },
+    "type": "Special",
+    "rarity": "Rare",
+    "value": 7000,
+    "weightKg": 4,
+    "isWeapon": true,
+    "blueprintLocked": true,
+    "effects": {
+      "Ammo Type": {
+        "value": "Launcher Ammo",
+        "da": "Ammunitionstype",
+        "de": "Munitionstyp",
+        "en": "Ammo Type",
+        "es": "Tipo de Munici\u00f3n",
+        "fr": "Type de Munitions",
+        "he": "\u05e1\u05d5\u05d2 \u05ea\u05d7\u05de\u05d5\u05e9\u05ea",
+        "hr": "Tip Municije",
+        "it": "Tipo di Munizioni",
+        "ja": "\u5f3e\u85ac\u30bf\u30a4\u30d7",
+        "ko-KR": "\ud0c4\uc57d \uc720\ud615",
+        "no": "Ammunisjonstype",
+        "pl": "Typ Amunicji",
+        "pt": "Tipo de Muni\u00e7\u00e3o",
+        "pt-BR": "Tipo de muni\u00e7\u00e3o",
+        "ru": "\u0422\u0438\u043f \u0431\u043e\u0435\u043f\u0440\u0438\u043f\u0430\u0441\u043e\u0432",
+        "sr": "Tip Municije",
+        "tr": "Mermi T\u00fcr\u00fc",
+        "uk": "\u0422\u0438\u043f \u0431\u043e\u0454\u043f\u0440\u0438\u043f\u0430\u0441\u0456\u0432",
+        "zh-CN": "\u5f39\u836f\u7c7b\u578b",
+        "zh-TW": "\u5f48\u85e5\u985e\u578b"
+      },
+      "ARC Armor Penetration": {
+        "value": "Very Strong",
+        "da": "ARC Rustningspenetrering",
+        "de": "ARC-Panzerungsdurchdringung",
+        "en": "ARC Armor Penetration",
+        "es": "Penetraci\u00f3n de Blindaje ARC",
+        "fr": "P\u00e9n\u00e9tration d'Armure ARC",
+        "he": "\u05d7\u05d3\u05d9\u05e8\u05ea \u05e9\u05e8\u05d9\u05d5\u05df ARC",
+        "hr": "ARC Probijanje Oklopa",
+        "it": "Penetrazione armature ARC",
+        "ja": "ARC\u88c5\u7532\u8cab\u901a",
+        "ko-KR": "\uc544\ud06c \uc7a5\uac11 \uad00\ud1b5",
+        "no": "ARC Rustningspenetrering",
+        "pl": "Przebicie Pancerza ARC",
+        "pt": "Penetra\u00e7\u00e3o de Blindagem ARC",
+        "pt-BR": "Penetra\u00e7\u00e3o contra blindagem ARC",
+        "ru": "\u041f\u0440\u043e\u0431\u0438\u0442\u0438\u0435 \u0431\u0440\u043e\u043d\u0438 ARC",
+        "sr": "ARC Probijanje Oklopa",
+        "tr": "ARC Z\u0131rh Delme",
+        "uk": "\u041f\u0440\u043e\u0431\u0438\u0442\u0442\u044f \u0431\u0440\u043e\u043d\u0456 ARC",
+        "zh-CN": "ARC \u62a4\u7532\u7a7f\u900f",
+        "zh-TW": "ARC \u8b77\u7532\u7a7f\u900f"
+      },
+      "Durability": {
+        "value": "100/100",
+        "da": "Holdbarhed",
+        "de": "Haltbarkeit",
+        "en": "Durability",
+        "es": "Durabilidad",
+        "fr": "Durabilit\u00e9",
+        "he": "\u05e2\u05de\u05d9\u05d3\u05d5\u05ea",
+        "hr": "Izdr\u017eljivost",
+        "it": "Tenuta",
+        "ja": "\u8010\u4e45\u6027",
+        "ko-KR": "\ub0b4\uad6c\ub3c4",
+        "no": "Holdbarhet",
+        "pl": "Wytrzyma\u0142o\u015b\u0107",
+        "pt": "Durabilidade",
+        "pt-BR": "Durabilidade",
+        "ru": "\u041f\u0440\u043e\u0447\u043d\u043e\u0441\u0442\u044c",
+        "sr": "Izdr\u017eljivost",
+        "tr": "Dayan\u0131kl\u0131l\u0131k",
+        "uk": "\u041c\u0456\u0446\u043d\u0456\u0441\u0442\u044c",
+        "zh-CN": "\u8010\u4e45\u5ea6",
+        "zh-TW": "\u8010\u4e45\u5ea6"
+      },
+      "Firing Mode": {
+        "value": "Break-Action",
+        "da": "Skydningstilstand",
+        "de": "Feuermodus",
+        "en": "Firing Mode",
+        "es": "Modo de Disparo",
+        "fr": "Mode de Tir",
+        "he": "\u05de\u05e6\u05d1 \u05d9\u05e8\u05d9",
+        "hr": "Re\u017eim Paljbe",
+        "it": "Modalit\u00e0 di Fuoco",
+        "ja": "\u5c04\u6483\u30e2\u30fc\u30c9",
+        "ko-KR": "\ubc1c\uc0ac \ubaa8\ub4dc",
+        "no": "Skyttemodus",
+        "pl": "Tryb Ognia",
+        "pt": "Modo de Disparo",
+        "pt-BR": "Modo de disparo",
+        "ru": "\u0420\u0435\u0436\u0438\u043c \u0441\u0442\u0440\u0435\u043b\u044c\u0431\u044b",
+        "sr": "Re\u017eim Paljbe",
+        "tr": "At\u0131\u015f Modu",
+        "uk": "\u0420\u0435\u0436\u0438\u043c \u0441\u0442\u0440\u0456\u043b\u044c\u0431\u0438",
+        "zh-CN": "\u5c04\u51fb\u6a21\u5f0f",
+        "zh-TW": "\u5c04\u64ca\u6a21\u5f0f"
+      },
+      "Magazine Size": {
+        "value": 1,
+        "da": "Magasinst\u00f8rrelse",
+        "de": "Magazingr\u00f6\u00dfe",
+        "en": "Magazine Size",
+        "es": "Tama\u00f1o del Cargador",
+        "fr": "Taille du Chargeur",
+        "he": "\u05d2\u05d5\u05d3\u05dc \u05de\u05d7\u05e1\u05e0\u05d9\u05ea",
+        "hr": "Veli\u010dina Okvira",
+        "it": "Capacit\u00e0 Caricatore",
+        "ja": "\u30de\u30ac\u30b8\u30f3\u30b5\u30a4\u30ba",
+        "ko-KR": "\ud0c4\ucc3d \ud06c\uae30",
+        "no": "Magasinst\u00f8rrelse",
+        "pl": "Pojemno\u015b\u0107 Magazynka",
+        "pt": "Tamanho do Carregador",
+        "pt-BR": "Tamanho do Pente",
+        "ru": "\u0420\u0430\u0437\u043c\u0435\u0440 \u043c\u0430\u0433\u0430\u0437\u0438\u043d\u0430",
+        "sr": "Veli\u010dina Okvira",
+        "tr": "\u015earj\u00f6r Boyutu",
+        "uk": "\u0420\u043e\u0437\u043c\u0456\u0440 \u043c\u0430\u0433\u0430\u0437\u0438\u043d\u0443",
+        "zh-CN": "\u5f39\u5323\u5bb9\u91cf",
+        "zh-TW": "\u5f48\u5323\u5bb9\u91cf"
+      }
+    },
+    "craftBench": "weapon_bench",
+    "stationLevelRequired": 2,
+    "recipe": {
+      "advanced_mechanical_components": 2,
+      "canister": 5,
+      "heavy_gun_parts": 3
+    },
+    "recyclesInto": {
+      "advanced_mechanical_components": 1,
+      "heavy_gun_parts": 2
+    },
+    "salvagesInto": {
+      "heavy_gun_parts": 2
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/v2/rascal.png",
+    "updatedAt": "05/19/2026",
+    "addedIn": "1.29"
+  },
+  {
+    "id": "rascal_ii",
+    "name": {
+      "en": "Rascal II"
+    },
+    "description": {
+      "en": "Fires explosive projectiles that only detonate when hitting ARC."
+    },
+    "type": "Special",
+    "rarity": "Rare",
+    "value": 10000,
+    "weightKg": 4,
+    "isWeapon": true,
+    "craftBench": "weapon_bench",
+    "recyclesInto": {
+      "advanced_mechanical_components": 2,
+      "heavy_gun_parts": 2
+    },
+    "salvagesInto": {
+      "heavy_gun_parts": 2
+    },
+    "upgradeCost": {
+      "advanced_mechanical_components": 1,
+      "heavy_gun_parts": 2
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/v2/rascal.png",
+    "updatedAt": "05/19/2026",
+    "addedIn": "1.29"
+  },
+  {
+    "id": "rascal_iii",
+    "name": {
+      "en": "Rascal III"
+    },
+    "description": {
+      "en": "Fires explosive projectiles that only detonate when hitting ARC."
+    },
+    "type": "Special",
+    "rarity": "Rare",
+    "value": 13000,
+    "weightKg": 4,
+    "isWeapon": true,
+    "craftBench": "weapon_bench",
+    "recyclesInto": {
+      "advanced_mechanical_components": 2,
+      "heavy_gun_parts": 3
+    },
+    "salvagesInto": {
+      "heavy_gun_parts": 3
+    },
+    "upgradeCost": {
+      "advanced_mechanical_components": 1,
+      "heavy_gun_parts": 2
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/v2/rascal.png",
+    "updatedAt": "05/19/2026",
+    "addedIn": "1.29"
+  },
+  {
+    "id": "rascal_iv",
+    "name": {
+      "en": "Rascal IV"
+    },
+    "description": {
+      "en": "Fires explosive projectiles that only detonate when hitting ARC."
+    },
+    "type": "Special",
+    "rarity": "Rare",
+    "value": 17000,
+    "weightKg": 4,
+    "isWeapon": true,
+    "craftBench": "weapon_bench",
+    "recyclesInto": {
+      "advanced_mechanical_components": 3,
+      "heavy_gun_parts": 3
+    },
+    "salvagesInto": {
+      "heavy_gun_parts": 3
+    },
+    "upgradeCost": {
+      "advanced_mechanical_components": 2,
+      "heavy_gun_parts": 2
+    },
+    "imageFilename": "https://cdn.arctracker.io/items/v2/rascal.png",
+    "updatedAt": "05/19/2026",
+    "addedIn": "1.29"
   },
   {
     "id": "rattler_i",

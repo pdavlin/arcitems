@@ -1008,8 +1008,7 @@
           {
             "category": "ArcDamage",
             "kind": "damage_tiers",
-            "questGameAssetId": "250322893",
-            "rewardItemId": "expedition_skill_point_token",
+            "valueRequired": 100000,
             "tiers": [
               5000,
               10000,
@@ -1017,7 +1016,8 @@
               50000,
               100000
             ],
-            "valueRequired": 100000
+            "questGameAssetId": "250322893",
+            "rewardItemId": "expedition_skill_point_token"
           }
         ],
         "requirementItemIds": []
@@ -1538,8 +1538,7 @@
           {
             "category": "ArcDamage",
             "kind": "damage_tiers",
-            "questGameAssetId": "674698992",
-            "rewardItemId": "expedition_skill_point_token",
+            "valueRequired": 100000,
             "tiers": [
               5000,
               10000,
@@ -1547,7 +1546,8 @@
               50000,
               100000
             ],
-            "valueRequired": 100000
+            "questGameAssetId": "674698992",
+            "rewardItemId": "expedition_skill_point_token"
           }
         ],
         "requirementItemIds": []
@@ -2068,8 +2068,7 @@
           {
             "category": "ArcDamage",
             "kind": "damage_tiers",
-            "questGameAssetId": "431784727",
-            "rewardItemId": "expedition_skill_point_token",
+            "valueRequired": 100000,
             "tiers": [
               5000,
               10000,
@@ -2077,7 +2076,8 @@
               50000,
               100000
             ],
-            "valueRequired": 100000
+            "questGameAssetId": "431784727",
+            "rewardItemId": "expedition_skill_point_token"
           }
         ],
         "requirementItemIds": []
@@ -2090,26 +2090,26 @@
     "id": "avian_alarm_project",
     "disabled": false,
     "name": {
-      "da": "Fuglealarm",
       "de": "Vogelalarm",
       "en": "Avian Alarm",
       "es": "Alarma aviar",
       "fr": "Alarme aviaire",
-      "he": "\u05d0\u05d6\u05e2\u05e7\u05ea \u05e6\u05d9\u05e4\u05d5\u05e8\u05d9\u05dd",
-      "hr": "Pti\u010dji alarm",
       "it": "Allarme aviario",
       "ja": "\u9ce5\u985e\u8b66\u5831",
       "ko-KR": "\uc870\ub958 \uacbd\ubcf4",
-      "no": "Fuglealarm",
       "pl": "Ptasi alarm",
-      "pt": "Alarme Avi\u00e1rio",
       "pt-BR": "Alarme Avi\u00e1rio",
       "ru": "\u041f\u0435\u0440\u043d\u0430\u0442\u0430\u044f \u0442\u0440\u0435\u0432\u043e\u0433\u0430",
-      "sr": "\u041f\u0442\u0438\u0447\u0458\u0438 \u0430\u043b\u0430\u0440\u043c",
       "tr": "Ku\u015f Alarm\u0131",
-      "uk": "\u041f\u0442\u0430\u0448\u0438\u043d\u0430 \u0441\u0438\u0433\u043d\u0430\u043b\u0456\u0437\u0430\u0446\u0456\u044f",
       "zh-CN": "\u79bd\u9e1f\u8b66\u62a5",
-      "zh-TW": "\u79bd\u985e\u8b66\u5831"
+      "zh-TW": "\u79bd\u985e\u8b66\u5831",
+      "uk": "\u041f\u0442\u0430\u0448\u0438\u043d\u0430 \u0441\u0438\u0433\u043d\u0430\u043b\u0456\u0437\u0430\u0446\u0456\u044f",
+      "pt": "Alarme Avi\u00e1rio",
+      "hr": "Pti\u010dji alarm",
+      "no": "Fuglealarm",
+      "he": "\u05d0\u05d6\u05e2\u05e7\u05ea \u05e6\u05d9\u05e4\u05d5\u05e8\u05d9\u05dd",
+      "da": "Fuglealarm",
+      "sr": "\u041f\u0442\u0438\u0447\u0458\u0438 \u0430\u043b\u0430\u0440\u043c"
     },
     "description": {
       "da": "Speranzanerne har bem\u00e6rket, at nogle fugle er f\u00f8lsomme over for atmosf\u00e6riske \u00e6ndringer, og er begyndt at designe flertrins-alarmsystemer for at advare om forest\u00e5ende fare. Selvom deres pr\u00e6cision har v\u00e6ret diskuteret, er den beroligende effekt af deres selskab ubestridelig.",
@@ -2184,12 +2184,12 @@
           {
             "category": "InteractTask",
             "kind": "checkbox",
-            "questGameAssetId": "382664970",
-            "rewardItemId": "expedition_skill_point_token",
+            "valueRequired": 1,
             "tiers": [
               1
             ],
-            "valueRequired": 1
+            "questGameAssetId": "382664970",
+            "rewardItemId": "expedition_skill_point_token"
           }
         ],
         "requirementItemIds": []
@@ -2970,8 +2970,7 @@
           {
             "category": "ArcDamage",
             "kind": "damage_tiers",
-            "questGameAssetId": "242691618",
-            "rewardItemId": "expedition_skill_point_token",
+            "valueRequired": 100000,
             "tiers": [
               5000,
               10000,
@@ -2979,7 +2978,8 @@
               50000,
               100000
             ],
-            "valueRequired": 100000
+            "questGameAssetId": "242691618",
+            "rewardItemId": "expedition_skill_point_token"
           }
         ],
         "requirementItemIds": []
