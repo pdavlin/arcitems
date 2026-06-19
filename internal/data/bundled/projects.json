@@ -2088,28 +2088,28 @@
   },
   {
     "id": "avian_alarm_project",
-    "disabled": false,
+    "disabled": true,
     "name": {
+      "da": "Fuglealarm",
       "de": "Vogelalarm",
       "en": "Avian Alarm",
       "es": "Alarma aviar",
       "fr": "Alarme aviaire",
+      "he": "\u05d0\u05d6\u05e2\u05e7\u05ea \u05e6\u05d9\u05e4\u05d5\u05e8\u05d9\u05dd",
+      "hr": "Pti\u010dji alarm",
       "it": "Allarme aviario",
       "ja": "\u9ce5\u985e\u8b66\u5831",
       "ko-KR": "\uc870\ub958 \uacbd\ubcf4",
+      "no": "Fuglealarm",
       "pl": "Ptasi alarm",
+      "pt": "Alarme Avi\u00e1rio",
       "pt-BR": "Alarme Avi\u00e1rio",
       "ru": "\u041f\u0435\u0440\u043d\u0430\u0442\u0430\u044f \u0442\u0440\u0435\u0432\u043e\u0433\u0430",
+      "sr": "\u041f\u0442\u0438\u0447\u0458\u0438 \u0430\u043b\u0430\u0440\u043c",
       "tr": "Ku\u015f Alarm\u0131",
-      "zh-CN": "\u79bd\u9e1f\u8b66\u62a5",
-      "zh-TW": "\u79bd\u985e\u8b66\u5831",
       "uk": "\u041f\u0442\u0430\u0448\u0438\u043d\u0430 \u0441\u0438\u0433\u043d\u0430\u043b\u0456\u0437\u0430\u0446\u0456\u044f",
-      "pt": "Alarme Avi\u00e1rio",
-      "hr": "Pti\u010dji alarm",
-      "no": "Fuglealarm",
-      "he": "\u05d0\u05d6\u05e2\u05e7\u05ea \u05e6\u05d9\u05e4\u05d5\u05e8\u05d9\u05dd",
-      "da": "Fuglealarm",
-      "sr": "\u041f\u0442\u0438\u0447\u0458\u0438 \u0430\u043b\u0430\u0440\u043c"
+      "zh-CN": "\u79bd\u9e1f\u8b66\u62a5",
+      "zh-TW": "\u79bd\u985e\u8b66\u5831"
     },
     "description": {
       "da": "Speranzanerne har bem\u00e6rket, at nogle fugle er f\u00f8lsomme over for atmosf\u00e6riske \u00e6ndringer, og er begyndt at designe flertrins-alarmsystemer for at advare om forest\u00e5ende fare. Selvom deres pr\u00e6cision har v\u00e6ret diskuteret, er den beroligende effekt af deres selskab ubestridelig.",
@@ -2970,7 +2970,8 @@
           {
             "category": "ArcDamage",
             "kind": "damage_tiers",
-            "valueRequired": 100000,
+            "questGameAssetId": "242691618",
+            "rewardItemId": "expedition_skill_point_token",
             "tiers": [
               5000,
               10000,
@@ -2978,14 +2979,13 @@
               50000,
               100000
             ],
-            "questGameAssetId": "242691618",
-            "rewardItemId": "expedition_skill_point_token"
+            "valueRequired": 100000
           }
         ],
         "requirementItemIds": []
       }
     ],
-    "endDate": 1782111600,
+    "endDate": 1783411200,
     "startDate": 1777449600
   },
   {
@@ -3986,5 +3986,413 @@
     ],
     "endDate": 1777248000,
     "startDate": 1770940800
+  },
+  {
+    "id": "converging_paths_project",
+    "disabled": false,
+    "name": {
+      "da": "Veje der m\u00f8des",
+      "de": "Sich kreuzende Wege",
+      "en": "Converging Paths",
+      "es": "Caminos convergentes",
+      "fr": "Chemins convergents",
+      "he": "\u05d3\u05e8\u05db\u05d9\u05dd \u05de\u05ea\u05db\u05e0\u05e1\u05d5\u05ea",
+      "hr": "Putevi koji se spajaju",
+      "it": "Percorsi convergenti",
+      "ja": "\u4ea4\u308f\u308b\u9053",
+      "ko-KR": "\ud558\ub098\ub85c \ubaa8\uc774\ub294 \uae38",
+      "no": "Veier som m\u00f8tes",
+      "pl": "Zbiegaj\u0105ce si\u0119 drogi",
+      "pt": "Rotas Convergentes",
+      "pt-BR": "Rotas Convergentes",
+      "ru": "\u0421\u0445\u043e\u0434\u044f\u0449\u0438\u0435\u0441\u044f \u043f\u0443\u0442\u0438",
+      "sr": "Putevi koji se spajaju",
+      "tr": "Kesi\u015fen Yollar",
+      "uk": "\u0428\u043b\u044f\u0445\u0438, \u0449\u043e \u0441\u0445\u043e\u0434\u044f\u0442\u044c\u0441\u044f",
+      "zh-CN": "\u6b8a\u9014\u4ea4\u6c47",
+      "zh-TW": "\u4ea4\u6703\u7684\u9053\u8def"
+    },
+    "description": {
+      "da": "Mens ARC-operationerne breder sig over hele Rustb\u00e6ltet, har nomaderne indvilliget i at dele deres viden til geng\u00e6ld for st\u00f8tte. Der er brug for Raiders til at samle forsyninger, bj\u00e6rge relikvier og hj\u00e6lpe med at sikre fri passage for nomader, der rejser gennem farlige ruter.",
+      "de": "Da sich die ARC-Operationen \u00fcber den Rostg\u00fcrtel ausbreiten, haben die Nomaden zugestimmt, ihr Wissen im Austausch gegen Unterst\u00fctzung weiterzugeben. Es werden Raider gebraucht, um Vorr\u00e4te zu beschaffen, Relikte zu bergen und den Nomaden auf ihren gef\u00e4hrlichen Routen einen sicheren Durchgang zu erm\u00f6glichen.",
+      "en": "With ARC operations spreading across the Rust Belt, the nomads have agreed to share their knowledge in exchange for support. Raiders are needed to gather supplies, recover relics, and help secure safe passage for nomads traveling through dangerous routes.",
+      "es": "Ahora que las operaciones de las ARC se han expandido y abarcan todo el Cintur\u00f3n de \u00f3xido, los n\u00f3madas han aceptado compartir su conocimiento a cambio de apoyo. Se necesitan Raiders para reunir suministros, recuperar reliquias y ayudar a garantizar el paso seguro a los n\u00f3madas que recorren rutas peligrosas.",
+      "fr": "Alors que les op\u00e9rations de l'ARC s'\u00e9tendent \u00e0 travers la R\u00e9gion de la rouille, les nomades ont accept\u00e9 de partager leur savoir en \u00e9change de soutien. L'aide des Raiders est n\u00e9cessaire pour rassembler des provisions, r\u00e9cup\u00e9rer des reliques et assurer un passage s\u00fbr aux nomades voyageant sur les routes dangereuses.",
+      "he": "\u05e2\u05dd \u05d4\u05ea\u05e4\u05e9\u05d8\u05d5\u05ea \u05e4\u05e2\u05d5\u05dc\u05d5\u05ea ARC \u05d1\u05e8\u05d7\u05d1\u05d9 \u05d7\u05d2\u05d5\u05e8\u05ea \u05d4\u05d7\u05dc\u05d5\u05d3\u05d4, \u05d4\u05e0\u05d5\u05d5\u05d3\u05d9\u05dd \u05d4\u05e1\u05db\u05d9\u05de\u05d5 \u05dc\u05d7\u05dc\u05d5\u05e7 \u05d0\u05ea \u05d4\u05d9\u05d3\u05e2 \u05e9\u05dc\u05d4\u05dd \u05d1\u05ea\u05de\u05d5\u05e8\u05d4 \u05dc\u05ea\u05de\u05d9\u05db\u05d4. \u05d3\u05e8\u05d5\u05e9\u05d9\u05dd \u05e8\u05d9\u05d9\u05d3\u05e8\u05d9\u05dd \u05db\u05d3\u05d9 \u05dc\u05d0\u05e1\u05d5\u05e3 \u05d0\u05e1\u05e4\u05e7\u05d4, \u05dc\u05d4\u05e9\u05d9\u05d1 \u05e9\u05e8\u05d9\u05d3\u05d9\u05dd \u05d5\u05dc\u05e2\u05d6\u05d5\u05e8 \u05dc\u05d0\u05d1\u05d8\u05d7 \u05de\u05e2\u05d1\u05e8 \u05d1\u05d8\u05d5\u05d7 \u05dc\u05e0\u05d5\u05d5\u05d3\u05d9\u05dd \u05d4\u05e0\u05e2\u05d9\u05dd \u05d1\u05d3\u05e8\u05db\u05d9\u05dd \u05de\u05e1\u05d5\u05db\u05e0\u05d5\u05ea.",
+      "hr": "Kako se operacije ARC-a \u0161ire Rust Beltom, Nomadi su pristali podijeliti svoje znanje u zamjenu za potporu. Potrebni su Raideri za skupljanje zaliha, vra\u0107anje relikvija i pomo\u0107 u osiguravanju sigurnog prolaza Nomadima koji putuju opasnim rutama.",
+      "it": "Con le operazioni dell'ARC che si estendono in tutta la Cintura di ruggine, i Nomadi hanno accettato di condividere le loro conoscenze in cambio di sostegno. Servono Raider per raccogliere rifornimenti, recuperare reliquie e aiutare a garantire un passaggio sicuro ai Nomadi che viaggiano lungo percorsi pericolosi.",
+      "ja": "ARC\u306e\u6d3b\u52d5\u304c\u30e9\u30b9\u30c8\u30d9\u30eb\u30c8\u5168\u57df\u306b\u62e1\u5927\u3059\u308b\u4e2d\u3001\u904a\u7267\u6c11\u306f\u652f\u63f4\u3068\u5f15\u304d\u63db\u3048\u306b\u81ea\u3089\u306e\u77e5\u8b58\u3092\u5171\u6709\u3059\u308b\u3053\u3068\u306b\u540c\u610f\u3057\u305f\u3002\u7269\u8cc7\u306e\u53ce\u96c6\u3084\u907a\u7269\u306e\u56de\u53ce\u3001\u305d\u3057\u3066\u5371\u967a\u306a\u30eb\u30fc\u30c8\u3092\u65c5\u3059\u308b\u904a\u7267\u6c11\u305f\u3061\u306e\u5b89\u5168\u306a\u901a\u884c\u3092\u78ba\u4fdd\u3059\u308b\u305f\u3081\u306b\u30ec\u30a4\u30c0\u30fc\u304c\u5fc5\u8981\u3068\u3055\u308c\u3066\u3044\u308b\u3002",
+      "ko-KR": "\uc544\ud06c\uc758 \uc791\uc804\uc774 \ub7ec\uc2a4\ud2b8 \ubca8\ud2b8 \uc804\uc5ed\uc73c\ub85c \ud655\uc0b0\ub418\uba74\uc11c, \uc720\ub791\ubbfc\ub4e4\uc740 \uc9c0\uc6d0\uc744 \ubc1b\ub294 \ub300\uac00\ub85c \uc790\uc2e0\ub4e4\uc774 \uc544\ub294 \uac83\uc744 \uc54c\ub824\uc8fc\uae30\ub85c \ud588\uc2b5\ub2c8\ub2e4. \ub808\uc774\ub354\ub4e4\uc740 \ubcf4\uae09\ud488\uc744 \ubaa8\uc73c\uace0, \uc720\ubb3c\uc744 \ud68c\uc218\ud558\uba70, \uc704\ud5d8\ud55c \uae38\uc744 \uc624\uac00\ub294 \uc720\ub791\ubbfc\ub4e4\uc744 \uc704\ud574 \ud1b5\ud589\uc758 \uc548\uc804\uc744 \ud655\ubcf4\ud574\uc57c \ud569\ub2c8\ub2e4.",
+      "no": "Etter hvert som ARC-operasjonene sprer seg over Rustbeltet, har nomadene g\u00e5tt med p\u00e5 \u00e5 dele kunnskapen sin i bytte mot st\u00f8tte. Raiders trengs for \u00e5 samle forsyninger, hente tilbake relikvier og bidra til \u00e5 sikre trygg passasje for nomader som reiser gjennom farlige ruter.",
+      "pl": "Ze wzgl\u0119du na rozprzestrzeniaj\u0105c\u0105 si\u0119 po ca\u0142ym Rdzawym Pasie aktywno\u015b\u0107 maszyn ARC w\u0119drowcy zgodzili si\u0119 przekaza\u0107 swoj\u0105 wiedz\u0119 w zamian za wsparcie. \u0141upie\u017ccy s\u0105 przydatni, gromadz\u0105 bowiem zapasy, pozyskuj\u0105 artefakty i zapewniaj\u0105 bezpiecze\u0144stwo na drodze w\u0119drowcom przemierzaj\u0105cym niebezpieczne szlaki.",
+      "pt": "Com as opera\u00e7\u00f5es ARC se espalhando pelo Cintur\u00e3o da Ferrugem, os n\u00f4mades aceitaram dividir seus conhecimentos em troca de apoio. Raiders s\u00e3o necess\u00e1rios para reunir suprimentos, recuperar rel\u00edquias e ajudar a garantir a travessia segura dos n\u00f4mades por rotas perigosas.",
+      "pt-BR": "Com as opera\u00e7\u00f5es ARC se espalhando pelo Cintur\u00e3o da Ferrugem, os n\u00f4mades aceitaram dividir seus conhecimentos em troca de apoio. Raiders s\u00e3o necess\u00e1rios para reunir suprimentos, recuperar rel\u00edquias e ajudar a garantir a travessia segura dos n\u00f4mades por rotas perigosas.",
+      "ru": "\u0422\u0435\u043f\u0435\u0440\u044c, \u043a\u043e\u0433\u0434\u0430 ARC \u043f\u0440\u043e\u0434\u043e\u043b\u0436\u0430\u0435\u0442 \u0440\u0430\u0441\u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u044f\u0442\u044c\u0441\u044f \u043f\u043e \u041c\u0435\u0434\u043d\u043e\u043c\u0443 \u043f\u043e\u044f\u0441\u0443, \u043a\u043e\u0447\u0435\u0432\u043d\u0438\u043a\u0438 \u0441\u043e\u0433\u043b\u0430\u0441\u0438\u043b\u0438\u0441\u044c \u043f\u043e\u0434\u0435\u043b\u0438\u0442\u044c\u0441\u044f \u0441\u0432\u043e\u0438\u043c\u0438 \u0437\u043d\u0430\u043d\u0438\u044f\u043c\u0438 \u0432 \u043e\u0431\u043c\u0435\u043d \u043d\u0430 \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0443. \u0420\u0435\u0439\u0434\u0435\u0440\u0430\u043c \u043d\u0443\u0436\u043d\u043e \u0441\u043e\u0431\u0438\u0440\u0430\u0442\u044c \u043f\u0440\u0438\u043f\u0430\u0441\u044b, \u0434\u043e\u0431\u044b\u0432\u0430\u0442\u044c \u0440\u0435\u043b\u0438\u043a\u0432\u0438\u0438 \u0438 \u043e\u0431\u0435\u0441\u043f\u0435\u0447\u0438\u0442\u044c \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u044b\u0439 \u043f\u0440\u043e\u0445\u043e\u0434 \u0434\u043b\u044f \u043a\u043e\u0447\u0435\u0432\u043d\u0438\u043a\u043e\u0432, \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0438\u0445 \u043f\u043e \u043e\u043f\u0430\u0441\u043d\u044b\u043c \u043c\u0430\u0440\u0448\u0440\u0443\u0442\u0430\u043c.",
+      "sr": "Kako se ARC operacije \u0161ire Rust Beltom, Nomadi su pristali da podele svoje znanje u zamenu za podr\u0161ku. Potrebni su Raideri da skupljaju zalihe, vra\u0107aju relikvije i pomognu da se obezbedi bezbedan prolaz za Nomade koji putuju opasnim rutama.",
+      "tr": "ARC operasyonlar\u0131n\u0131n Pasl\u0131 Kemer'e yay\u0131lmas\u0131 \u00fczerine g\u00f6\u00e7ebeler, yard\u0131m kar\u015f\u0131l\u0131\u011f\u0131nda bildiklerini payla\u015fmay\u0131 kabul ettiler. Raider'lar\u0131n malzeme toplamas\u0131, yadig\u00e2r kurtarmas\u0131 ve tehlikeli yollardan ge\u00e7en g\u00f6\u00e7ebelere g\u00fcvenli ge\u00e7i\u015f sa\u011flamas\u0131 gerekiyor.",
+      "uk": "\u041e\u0441\u043a\u0456\u043b\u044c\u043a\u0438 \u043e\u043f\u0435\u0440\u0430\u0446\u0456\u0457 ARC \u043f\u043e\u0448\u0438\u0440\u044e\u044e\u0442\u044c\u0441\u044f \u0406\u0440\u0436\u0430\u0432\u0438\u043c \u043f\u043e\u044f\u0441\u043e\u043c, \u041d\u043e\u043c\u0430\u0434\u0438 \u043f\u043e\u0433\u043e\u0434\u0438\u043b\u0438\u0441\u044f \u043f\u043e\u0434\u0456\u043b\u0438\u0442\u0438\u0441\u044f \u0441\u0432\u043e\u0457\u043c\u0438 \u0437\u043d\u0430\u043d\u043d\u044f\u043c\u0438 \u0432 \u043e\u0431\u043c\u0456\u043d \u043d\u0430 \u043f\u0456\u0434\u0442\u0440\u0438\u043c\u043a\u0443. \u041f\u043e\u0442\u0440\u0456\u0431\u043d\u0456 \u0420\u0435\u0439\u0434\u0435\u0440\u0438, \u0449\u043e\u0431 \u0437\u0431\u0438\u0440\u0430\u0442\u0438 \u043f\u0440\u0438\u043f\u0430\u0441\u0438, \u043f\u043e\u0432\u0435\u0440\u0442\u0430\u0442\u0438 \u0440\u0435\u043b\u0456\u043a\u0432\u0456\u0457 \u0442\u0430 \u0434\u043e\u043f\u043e\u043c\u0430\u0433\u0430\u0442\u0438 \u0437\u0430\u0431\u0435\u0437\u043f\u0435\u0447\u0443\u0432\u0430\u0442\u0438 \u0431\u0435\u0437\u043f\u0435\u0447\u043d\u0438\u0439 \u043f\u0440\u043e\u0445\u0456\u0434 \u041d\u043e\u043c\u0430\u0434\u0430\u043c, \u044f\u043a\u0456 \u043c\u0430\u043d\u0434\u0440\u0443\u044e\u0442\u044c \u043d\u0435\u0431\u0435\u0437\u043f\u0435\u0447\u043d\u0438\u043c\u0438 \u043c\u0430\u0440\u0448\u0440\u0443\u0442\u0430\u043c\u0438.",
+      "zh-CN": "ARC\u52bf\u529b\u5728\u9508\u5e26\u4e0d\u65ad\u6269\u5f20\uff0c\u6e38\u7267\u8005\u51b3\u5b9a\u62ff\u51fa\u81ea\u8eab\u5b66\u8bc6\uff0c\u4ee5\u6362\u53d6\u5404\u65b9\u652f\u63f4\u3002\u4e3a\u6b64\uff0c\u9700\u8981\u5947\u88ad\u8005\u641c\u96c6\u7269\u8d44\u3001\u627e\u56de\u9057\u7269\uff0c\u62a4\u9001\u6e38\u7267\u6c11\u7a7f\u884c\u5371\u9669\u8def\u6bb5\u3002",
+      "zh-TW": "\u96a8\u8457ARC\u7684\u6d3b\u52d5\u7bc4\u570d\u4e0d\u65b7\u64f4\u5c55\u5230\u6574\u500b\u9435\u93fd\u5e36\uff0c\u904a\u7267\u8005\u5011\u540c\u610f\u5206\u4eab\u4ed6\u5011\u7684\u77e5\u8b58\uff0c\u4ee5\u4ea4\u63db\u6240\u9700\u7684\u652f\u63f4\u3002\u63a0\u624b\u8ca0\u8cac\u6536\u96c6\u7269\u8cc7\u3001\u627e\u56de\u907a\u7269\uff0c\u4e26\u5354\u52a9\u5fc5\u9808\u7d93\u904e\u5371\u96aa\u8def\u7dda\u7684\u904a\u7267\u8005\u5011\u5b89\u5168\u901a\u884c\u3002"
+    },
+    "phases": [
+      {
+        "name": {
+          "da": "S\u00f8rg for sikker passage for nomaderne",
+          "de": "Sorge f\u00fcr einen sicheren Durchgang f\u00fcr die Nomaden",
+          "en": "Secure Safe Passage for the Nomads",
+          "es": "Garant\u00edzales el paso seguro a los n\u00f3madas",
+          "fr": "Assurer un passage s\u00fbr aux nomades",
+          "he": "\u05d0\u05d1\u05d8\u05d7 \u05de\u05e2\u05d1\u05e8 \u05d1\u05d8\u05d5\u05d7 \u05dc\u05e0\u05d5\u05d5\u05d3\u05d9\u05dd",
+          "hr": "Osiguraj siguran prolaz za Nomade",
+          "it": "Garantisci un passaggio sicuro ai Nomadi",
+          "ja": "\u904a\u7267\u6c11\u306e\u305f\u3081\u306b\u5b89\u5168\u306a\u901a\u8def\u3092\u78ba\u4fdd\u3059\u308b",
+          "ko-KR": "\uc720\ub791\ubbfc\uc744 \uc704\ud574 \uc548\uc804\ud55c \ud1b5\ud589\ub85c \ud655\ubcf4\ud558\uae30",
+          "no": "Sikre trygg passasje for nomadene",
+          "pl": "Zapewnij w\u0119drowcom bezpieczne przej\u015bcie",
+          "pt": "Ajude os N\u00f4mades a passar em seguran\u00e7a",
+          "pt-BR": "Ajude os N\u00f4mades a passar em seguran\u00e7a",
+          "ru": "\u041e\u0431\u0435\u0441\u043f\u0435\u0447\u044c\u0442\u0435 \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u044b\u0439 \u043f\u0440\u043e\u0445\u043e\u0434 \u0434\u043b\u044f \u043a\u043e\u0447\u0435\u0432\u043d\u0438\u043a\u043e\u0432",
+          "sr": "Obezbedi siguran prolaz za Nomade",
+          "tr": "G\u00f6\u00e7ebelere G\u00fcvenli Ge\u00e7i\u015f Sa\u011fla",
+          "uk": "\u0417\u0430\u0431\u0435\u0437\u043f\u0435\u0447 \u0431\u0435\u0437\u043f\u0435\u0447\u043d\u0438\u0439 \u043f\u0440\u043e\u0445\u0456\u0434 \u0434\u043b\u044f \u041d\u043e\u043c\u0430\u0434\u0456\u0432",
+          "zh-CN": "\u4fdd\u969c\u6e38\u7267\u8005\u901a\u884c\u5b89\u5168",
+          "zh-TW": "\u70ba\u904a\u7267\u8005\u78ba\u4fdd\u901a\u884c\u5b89\u5168"
+        },
+        "description": {
+          "da": "G\u00f8r skade p\u00e5 ARC-fjender i sumpen",
+          "de": "F\u00fcge ARC-Gegnern im Sumpf Schaden zu",
+          "en": "Deal Damage to ARC enemies in the Swamp",
+          "es": "Inflige da\u00f1o a enemigos ARC en el pantano",
+          "fr": "Infliger des d\u00e9g\u00e2ts aux ennemis ARC dans le Mar\u00e9cage",
+          "he": "\u05d2\u05e8\u05d5\u05dd \u05e0\u05d6\u05e7 \u05dc\u05d0\u05d5\u05d9\u05d1\u05d9 ARC \u05d1\u05d1\u05d9\u05e6\u05d4",
+          "hr": "Nanesi \u0161tetu neprijateljima ARC-a u mo\u010dvari",
+          "it": "Infliggi danni ai nemici ARC nella palude",
+          "ja": "\u6cbc\u306b\u3044\u308bARC\u30a8\u30cd\u30df\u30fc\u306b\u30c0\u30e1\u30fc\u30b8\u3092\u4e0e\u3048\u308b",
+          "ko-KR": "\ub2aa\uc5d0\uc11c \uc544\ud06c \uc801\uc5d0 \ub300\ubbf8\uc9c0 \uc8fc\uae30",
+          "no": "Gj\u00f8r skade p\u00e5 ARC-fiender i sumpen",
+          "pl": "Zadaj obra\u017cenia wrogim maszynom ARC na bagnie",
+          "pt": "Cause dano a inimigos ARC no P\u00e2ntano",
+          "pt-BR": "Cause dano a inimigos ARC no P\u00e2ntano",
+          "ru": "\u041d\u0430\u043d\u0435\u0441\u0438\u0442\u0435 \u0443\u0440\u043e\u043d \u043c\u0430\u0448\u0438\u043d\u0430\u043c ARC \u043d\u0430 \u0431\u043e\u043b\u043e\u0442\u0435",
+          "sr": "Nanesi \u0161tetu ARC neprijateljima u mo\u010dvari",
+          "tr": "Batakl\u0131k'taki ARC d\u00fc\u015fmanlar\u0131na hasar ver",
+          "uk": "\u0417\u0430\u0432\u0434\u0430\u0439 \u0448\u043a\u043e\u0434\u0438 \u0432\u043e\u0440\u043e\u0433\u0430\u043c ARC \u043d\u0430 \u0431\u043e\u043b\u043e\u0442\u0456",
+          "zh-CN": "\u5bf9\u6cbc\u6cfd\u4e2d\u7684ARC\u654c\u4eba\u9020\u6210\u4f24\u5bb3",
+          "zh-TW": "\u5c0d\u6cbc\u6fa4\u88e1\u7684ARC\u6575\u4eba\u9020\u6210\u50b7\u5bb3"
+        },
+        "phase": 1,
+        "requirementItemIds": []
+      },
+      {
+        "name": {
+          "da": "Saml forsyninger",
+          "de": "Sammle Vorr\u00e4te",
+          "en": "Collect Supplies",
+          "es": "Recoger suministros",
+          "fr": "Collecter des provisions",
+          "he": "\u05d0\u05e1\u05d5\u05e3 \u05d0\u05e1\u05e4\u05e7\u05d4",
+          "hr": "Prikupi zalihe",
+          "it": "Raccogli forniture",
+          "ja": "\u7269\u8cc7\u3092\u96c6\u3081\u308b",
+          "ko-KR": "\ubcf4\uae09\ud488 \uc218\uc9d1\ud558\uae30",
+          "no": "Samle forsyninger",
+          "pl": "Zbierz zapasy",
+          "pt": "Re\u00fana suprimentos",
+          "pt-BR": "Re\u00fana suprimentos",
+          "ru": "\u0421\u043e\u0431\u0435\u0440\u0438\u0442\u0435 \u043f\u0440\u0438\u043f\u0430\u0441\u044b",
+          "sr": "Sakupi zalihe",
+          "tr": "Malzeme Topla",
+          "uk": "\u0417\u0431\u0435\u0440\u0438 \u043f\u0440\u0438\u043f\u0430\u0441\u0438",
+          "zh-CN": "\u6536\u96c6\u8865\u7ed9",
+          "zh-TW": "\u6536\u96c6\u7269\u8cc7"
+        },
+        "description": {
+          "da": "Saml forsyninger, som du kan dele med nomaderne",
+          "de": "Sammle Vorr\u00e4te, um sie mit den Nomaden zu teilen",
+          "en": "Collect supplies to share with the nomads",
+          "es": "Recoge suministros para compartirlos con los n\u00f3madas",
+          "fr": "Collecter des provisions \u00e0 partager avec les nomades",
+          "he": "\u05d0\u05e1\u05d5\u05e3 \u05d0\u05e1\u05e4\u05e7\u05d4 \u05db\u05d3\u05d9 \u05dc\u05d7\u05dc\u05d5\u05e7 \u05d0\u05d5\u05ea\u05d4 \u05e2\u05dd \u05d4\u05e0\u05d5\u05d5\u05d3\u05d9\u05dd",
+          "hr": "Prikupi zalihe koje \u0107e\u0161 podijeliti s Nomadima",
+          "it": "Raccogli forniture da condividere con i Nomadi",
+          "ja": "\u904a\u7267\u6c11\u306b\u5206\u3051\u4e0e\u3048\u308b\u305f\u3081\u306e\u7269\u8cc7\u3092\u96c6\u3081\u308b",
+          "ko-KR": "\uc720\ub791\ubbfc\uc5d0\uac8c \ub098\ub220 \uc904 \ubcf4\uae09\ud488 \uc218\uc9d1",
+          "no": "Samle forsyninger som kan deles med nomadene",
+          "pl": "Zbierz zapasy, aby podzieli\u0107 si\u0119 nimi z w\u0119drowcami",
+          "pt": "Re\u00fana suprimentos para compartilhar com os n\u00f4mades",
+          "pt-BR": "Re\u00fana suprimentos para compartilhar com os n\u00f4mades",
+          "ru": "\u0421\u043e\u0431\u0435\u0440\u0438\u0442\u0435 \u043f\u0440\u0438\u043f\u0430\u0441\u044b, \u043a\u043e\u0442\u043e\u0440\u044b\u043c\u0438 \u043c\u043e\u0436\u043d\u043e \u043f\u043e\u0434\u0435\u043b\u0438\u0442\u044c\u0441\u044f \u0441 \u043a\u043e\u0447\u0435\u0432\u043d\u0438\u043a\u0430\u043c\u0438",
+          "sr": "Sakupi zalihe koje \u0107e\u0161 podeliti sa Nomadima",
+          "tr": "G\u00f6\u00e7ebelerle payla\u015facak malzeme topla",
+          "uk": "\u0417\u0431\u0435\u0440\u0438 \u043f\u0440\u0438\u043f\u0430\u0441\u0438, \u044f\u043a\u0438\u043c\u0438 \u043c\u043e\u0436\u043d\u0430 \u043f\u043e\u0434\u0456\u043b\u0438\u0442\u0438\u0441\u044f \u0437 \u041d\u043e\u043c\u0430\u0434\u0430\u043c\u0438",
+          "zh-CN": "\u6536\u96c6\u7269\u8d44\uff0c\u4e0e\u6e38\u7267\u8005\u5171\u4eab",
+          "zh-TW": "\u6536\u96c6\u53ef\u4ee5\u548c\u904a\u7267\u8005\u5206\u4eab\u7684\u7269\u8cc7"
+        },
+        "phase": 2,
+        "requirementItemIds": [
+          {
+            "itemId": "train_model",
+            "quantity": 3
+          },
+          {
+            "itemId": "vintage_steering_wheel",
+            "quantity": 2
+          },
+          {
+            "itemId": "air_freshener",
+            "quantity": 2
+          },
+          {
+            "itemId": "arc_thermo_lining",
+            "quantity": 6
+          }
+        ]
+      },
+      {
+        "name": {
+          "da": "Skaf relikvier",
+          "de": "Beschaffe Relikte",
+          "en": "Procure Relics",
+          "es": "Recuperar reliquias",
+          "fr": "R\u00e9cup\u00e9rer des reliques",
+          "he": "\u05d4\u05e9\u05d2 \u05e9\u05e8\u05d9\u05d3\u05d9\u05dd",
+          "hr": "Nabavi relikvije",
+          "it": "Procura reliquie",
+          "ja": "\u907a\u7269\u3092\u78ba\u4fdd\u3059\u308b",
+          "ko-KR": "\uc720\ubb3c \uc870\ub2ec\ud558\uae30",
+          "no": "Skaff relikvier",
+          "pl": "Zdob\u0105d\u017a artefakty",
+          "pt": "Obtenha rel\u00edquias",
+          "pt-BR": "Obtenha rel\u00edquias",
+          "ru": "\u0414\u043e\u0431\u0443\u0434\u044c\u0442\u0435 \u0440\u0435\u043b\u0438\u043a\u0432\u0438\u0438",
+          "sr": "Nabavi relikvije",
+          "tr": "Yadig\u00e2r Bul",
+          "uk": "\u0417\u0434\u043e\u0431\u0443\u0434\u044c \u0440\u0435\u043b\u0456\u043a\u0432\u0456\u0457",
+          "zh-CN": "\u641c\u96c6\u9057\u7269",
+          "zh-TW": "\u53d6\u5f97\u907a\u7269"
+        },
+        "description": {
+          "da": "Find relikvier, som du kan dele med nomaderne",
+          "de": "Finde Relikte, die du mit den Nomaden teilen kannst",
+          "en": "Find relics to share with the nomads",
+          "es": "Encuentra reliquias para compartirlas con los n\u00f3madas",
+          "fr": "Trouver des reliques \u00e0 partager avec les nomades",
+          "he": "\u05de\u05e6\u05d0 \u05e9\u05e8\u05d9\u05d3\u05d9\u05dd \u05db\u05d3\u05d9 \u05dc\u05d7\u05dc\u05d5\u05e7 \u05d0\u05d5\u05ea\u05dd \u05e2\u05dd \u05d4\u05e0\u05d5\u05d5\u05d3\u05d9\u05dd",
+          "hr": "Prona\u0111i relikvije koje \u0107e\u0161 podijeliti s Nomadima",
+          "it": "Trova reliquie da condividere con i Nomadi",
+          "ja": "\u904a\u7267\u6c11\u306b\u5206\u3051\u4e0e\u3048\u308b\u305f\u3081\u306e\u907a\u7269\u3092\u63a2\u3059",
+          "ko-KR": "\uc720\ub791\ubbfc\uc5d0\uac8c \ub098\ub220 \uc904 \uc720\ubb3c \ucc3e\uae30",
+          "no": "Finn relikvier som kan deles med nomadene",
+          "pl": "Znajd\u017a artefakty, aby podzieli\u0107 si\u0119 nimi z w\u0119drowcami",
+          "pt": "Encontre rel\u00edquias para compartilhar com os n\u00f4mades",
+          "pt-BR": "Encontre rel\u00edquias para compartilhar com os n\u00f4mades",
+          "ru": "\u041d\u0430\u0439\u0434\u0438\u0442\u0435 \u0440\u0435\u043b\u0438\u043a\u0432\u0438\u0438, \u043a\u043e\u0442\u043e\u0440\u044b\u043c\u0438 \u043c\u043e\u0436\u043d\u043e \u043f\u043e\u0434\u0435\u043b\u0438\u0442\u044c\u0441\u044f \u0441 \u043a\u043e\u0447\u0435\u0432\u043d\u0438\u043a\u0430\u043c\u0438",
+          "sr": "Prona\u0111i relikvije koje \u0107e\u0161 podeliti sa Nomadima",
+          "tr": "G\u00f6\u00e7ebelerle payla\u015facak yadig\u00e2r bul",
+          "uk": "\u0417\u043d\u0430\u0439\u0434\u0438 \u0440\u0435\u043b\u0456\u043a\u0432\u0456\u0457, \u044f\u043a\u0438\u043c\u0438 \u043c\u043e\u0436\u043d\u0430 \u043f\u043e\u0434\u0456\u043b\u0438\u0442\u0438\u0441\u044f \u0437 \u041d\u043e\u043c\u0430\u0434\u0430\u043c\u0438",
+          "zh-CN": "\u5bfb\u627e\u9057\u7269\uff0c\u7528\u4ee5\u548c\u6e38\u7267\u8005\u4ea4\u6362",
+          "zh-TW": "\u5c0b\u627e\u53ef\u4ee5\u548c\u904a\u7267\u8005\u5206\u4eab\u7684\u907a\u7269"
+        },
+        "phase": 3,
+        "requirementItemIds": [
+          {
+            "itemId": "sextant",
+            "quantity": 4
+          },
+          {
+            "itemId": "equatorial_sundial",
+            "quantity": 3
+          },
+          {
+            "itemId": "metal_brackets",
+            "quantity": 5
+          },
+          {
+            "itemId": "arc_performance_steel",
+            "quantity": 7
+          }
+        ]
+      },
+      {
+        "name": {
+          "da": "Opret n\u00f8dforsyningsdepoter",
+          "de": "Lege Notvorr\u00e4te an",
+          "en": "Create Emergency Caches",
+          "es": "Crea alijos de emergencia",
+          "fr": "\u00c9tablir des r\u00e9serves d'urgence",
+          "he": "\u05e6\u05d5\u05e8 \u05de\u05d8\u05de\u05d5\u05e0\u05d9 \u05d7\u05d9\u05e8\u05d5\u05dd",
+          "hr": "Stvori zalihe za hitne slu\u010dajeve",
+          "it": "Crea depositi di emergenza",
+          "ja": "\u7dca\u6025\u7528\u306e\u7269\u8cc7\u8caf\u8535\u5eab\u3092\u4f5c\u308b",
+          "ko-KR": "\ube44\uc0c1 \uc740\ub2c9\ucc98 \ub9cc\ub4e4\uae30",
+          "no": "Lag n\u00f8dlagre",
+          "pl": "Utw\u00f3rz skrytki ratunkowe",
+          "pt": "Crie Estoques de Emerg\u00eancia",
+          "pt-BR": "Crie Estoques de Emerg\u00eancia",
+          "ru": "\u0421\u043e\u0437\u0434\u0430\u0439\u0442\u0435 \u0430\u0432\u0430\u0440\u0438\u0439\u043d\u044b\u0435 \u0442\u0430\u0439\u043d\u0438\u043a\u0438",
+          "sr": "Napravi zalihe za hitne slu\u010dajeve",
+          "tr": "Acil Durum Zulas\u0131 Olu\u015ftur",
+          "uk": "\u0421\u0442\u0432\u043e\u0440\u0438 \u0430\u0432\u0430\u0440\u0456\u0439\u043d\u0456 \u0441\u0445\u0440\u043e\u043d\u0438",
+          "zh-CN": "\u5236\u4f5c\u5e94\u6025\u50a8\u7269\u7bb1",
+          "zh-TW": "\u5efa\u7acb\u7dca\u6025\u85cf\u8ca8"
+        },
+        "description": {
+          "da": "Byg n\u00f8dforsyningsdepoter, der hj\u00e6lper b\u00e5de nomaderne og Raiders med at overleve p\u00e5 overfladen",
+          "de": "Lege Notvorr\u00e4te an, damit sowohl die Nomaden als auch die Raider an der Oberfl\u00e4che \u00fcberleben k\u00f6nnen.",
+          "en": "Build emergency caches to help both the nomads and Raiders stay alive on the surface",
+          "es": "Construye alijos de emergencia para ayudar a los n\u00f3madas y a los Raiders a mantenerse con vida en la superficie.",
+          "fr": "\u00c9tablir des r\u00e9serves d'urgence pour aider les nomades comme les Raiders \u00e0 survivre en Surface.",
+          "he": "\u05d1\u05e0\u05d4 \u05de\u05d8\u05de\u05d5\u05e0\u05d9 \u05d7\u05d9\u05e8\u05d5\u05dd \u05e9\u05d9\u05e2\u05d6\u05e8\u05d5 \u05d2\u05dd \u05dc\u05e0\u05d5\u05d5\u05d3\u05d9\u05dd \u05d5\u05d2\u05dd \u05dc\u05e8\u05d9\u05d9\u05d3\u05e8\u05d9\u05dd \u05dc\u05d4\u05d9\u05e9\u05d0\u05e8 \u05d1\u05d7\u05d9\u05d9\u05dd \u05e2\u05dc \u05e4\u05e0\u05d9 \u05d4\u05e9\u05d8\u05d7",
+          "hr": "Izgradi zalihe za hitne slu\u010dajeve kako bi i Nomadi i Raideri pre\u017eivjeli na povr\u0161ini",
+          "it": "Costruisci depositi di emergenza per aiutare sia i Nomadi che i Raider a sopravvivere in superficie",
+          "ja": "\u904a\u7267\u6c11\u3068\u30ec\u30a4\u30c0\u30fc\u306e\u4e21\u65b9\u304c\u5730\u4e0a\u3067\u751f\u304d\u5ef6\u3073\u3089\u308c\u308b\u3088\u3046\u3001\u7dca\u6025\u7528\u306e\u7269\u8cc7\u8caf\u8535\u5eab\u3092\u5efa\u8a2d\u3059\u308b",
+          "ko-KR": "\uc9c0\uc0c1\uc5d0\uc11c \uc720\ub791\ubbfc\uacfc \ub808\uc774\ub354\uac00 \uc0dd\uc874\ud560 \uc218 \uc788\ub3c4\ub85d \ube44\uc0c1 \uc740\ub2c9\ucc98\ub97c \uac74\uc124\ud558\uc138\uc694.",
+          "no": "Bygg n\u00f8dlagre som hjelper b\u00e5de nomadene og Raiders med \u00e5 holde seg i live p\u00e5 overflaten",
+          "pl": "Zbuduj skrytki ratunkowe, kt\u00f3re pomog\u0105 zar\u00f3wno w\u0119drowcom, jak i \u0142upie\u017ccom przetrwa\u0107 na powierzchni",
+          "pt": "Monte estoques de emerg\u00eancia para ajudar n\u00f4mades e Raiders a sobreviver na superf\u00edcie",
+          "pt-BR": "Monte estoques de emerg\u00eancia para ajudar n\u00f4mades e Raiders a sobreviver na superf\u00edcie",
+          "ru": "\u041e\u0440\u0433\u0430\u043d\u0438\u0437\u0443\u0439\u0442\u0435 \u0430\u0432\u0430\u0440\u0438\u0439\u043d\u044b\u0435 \u0442\u0430\u0439\u043d\u0438\u043a\u0438, \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u043f\u043e\u043c\u043e\u0433\u0443\u0442 \u043a\u043e\u0447\u0435\u0432\u043d\u0438\u043a\u0430\u043c \u0438 \u0440\u0435\u0439\u0434\u0435\u0440\u0430\u043c \u0432\u044b\u0436\u0438\u0432\u0430\u0442\u044c \u043d\u0430 \u043f\u043e\u0432\u0435\u0440\u0445\u043d\u043e\u0441\u0442\u0438",
+          "sr": "Izgradi zalihe za hitne slu\u010dajeve kako bi i Nomadi i Raideri pre\u017eiveli na povr\u0161ini",
+          "tr": "Hem g\u00f6\u00e7ebelerin hem de Raider'lar\u0131n y\u00fczeyde hayatta kalmalar\u0131na yard\u0131m etmek i\u00e7in acil durum zulalar\u0131 in\u015fa et",
+          "uk": "\u0421\u0442\u0432\u043e\u0440\u0438 \u0430\u0432\u0430\u0440\u0456\u0439\u043d\u0456 \u0441\u0445\u0440\u043e\u043d\u0438, \u0449\u043e\u0431 \u0434\u043e\u043f\u043e\u043c\u043e\u0433\u0442\u0438 \u041d\u043e\u043c\u0430\u0434\u0430\u043c \u0456 \u0420\u0435\u0439\u0434\u0435\u0440\u0430\u043c \u0432\u0438\u0436\u0438\u0442\u0438 \u043d\u0430 \u043f\u043e\u0432\u0435\u0440\u0445\u043d\u0456",
+          "zh-CN": "\u5236\u4f5c\u5e94\u6025\u50a8\u7269\u7bb1\uff0c\u5e2e\u52a9\u6e38\u7267\u8005\u548c\u5947\u88ad\u8005\u5728\u5730\u8868\u5b58\u6d3b\u4e0b\u53bb",
+          "zh-TW": "\u5efa\u7acb\u7dca\u6025\u85cf\u8ca8\uff0c\u4ee5\u5e6b\u52a9\u904a\u7267\u8005\u548c\u63a0\u624b\u80fd\u5728\u5730\u9762\u4e0a\u751f\u5b58\u4e0b\u53bb"
+        },
+        "phase": 4,
+        "requirementItemIds": [
+          {
+            "itemId": "tellurion",
+            "quantity": 3
+          },
+          {
+            "itemId": "elephant_obelisk",
+            "quantity": 1
+          },
+          {
+            "itemId": "light_bulb",
+            "quantity": 6
+          },
+          {
+            "itemId": "arc_coolant",
+            "quantity": 9
+          }
+        ]
+      },
+      {
+        "name": {
+          "da": "F\u00e6rdigg\u00f8r kuriositetskabinettet",
+          "de": "Stelle das Kuriosit\u00e4tenkabinett fertig",
+          "en": "Finish the Cabinet of Curiosities",
+          "es": "Termina el armario de las curiosidades",
+          "fr": "Terminer le cabinet des curiosit\u00e9s",
+          "he": "\u05e1\u05d9\u05d9\u05dd \u05d0\u05ea \u05d0\u05e8\u05d5\u05df \u05d4\u05e4\u05dc\u05d0\u05d5\u05ea",
+          "hr": "Dovr\u0161i kabinet zanimljivosti",
+          "it": "Termina la Camera delle meraviglie",
+          "ja": "\u300c\u73cd\u54c1\u9673\u5217\u68da\u300d\u3092\u5b8c\u4e86\u3059\u308b",
+          "ko-KR": "\uc9c4\uadc0\ud488 \uc9c4\uc5f4\uc7a5 \uc644\uc131\ud558\uae30",
+          "no": "Fullf\u00f8r kuriositetskabinettet",
+          "pl": "Uko\u0144cz szafk\u0119 ciekawostek",
+          "pt": "Conclua o Gabinete de Curiosidades",
+          "pt-BR": "Conclua o Gabinete de Curiosidades",
+          "ru": "\u0417\u0430\u043a\u043e\u043d\u0447\u0438\u0442\u0435 \u0441\u043e \u0448\u043a\u0430\u0444\u0447\u0438\u043a\u043e\u043c \u0434\u0438\u043a\u043e\u0432\u0438\u043d",
+          "sr": "Dovr\u0161i kabinet zanimljivosti",
+          "tr": "\u0130lgin\u00e7 \u015eeyler Dolab\u0131'n\u0131 Tamamla",
+          "uk": "\u0417\u0430\u0432\u0435\u0440\u0448\u0438 \u0448\u0430\u0444\u0443 \u0434\u0438\u0432\u043e\u0432\u0438\u0436",
+          "zh-CN": "\u5b8c\u5584\u5947\u73cd\u9648\u5217\u67dc",
+          "zh-TW": "\u5b8c\u6210\u73cd\u5947\u6ac3\u88fd\u4f5c"
+        },
+        "description": {
+          "da": "L\u00e6g sidste h\u00e5nd p\u00e5 kuriositetskabinettet, et nyt symbol p\u00e5 de spirende b\u00e5nd mellem nomaderne og Speranza.",
+          "de": "Verleihe dem Kuriosit\u00e4tenkabinett den letzten Schliff\u00a0\u2013 es ist ein neues Symbol f\u00fcr die aufbl\u00fchenden Beziehungen zwischen den Nomaden und Speranza.",
+          "en": "Put the finishing touches on the cabinet of curiosities, a new emblem of blossoming ties between the nomads and Speranza.",
+          "es": "Da los \u00faltimos retoques al armario de las curiosidades, un nuevo s\u00edmbolo de la incipiente relaci\u00f3n entre los n\u00f3madas y Speranza.",
+          "fr": "Apportez les derni\u00e8res touches au cabinet des curiosit\u00e9s, nouveau symbole des liens grandissants entre les nomades et Speranza.",
+          "he": "\u05d4\u05e9\u05dc\u05dd \u05d0\u05ea \u05d4\u05e0\u05d2\u05d9\u05e2\u05d5\u05ea \u05d4\u05d0\u05d7\u05e8\u05d5\u05e0\u05d5\u05ea \u05d1\u05d0\u05e8\u05d5\u05df \u05d4\u05e4\u05dc\u05d0\u05d5\u05ea, \u05e1\u05de\u05dc \u05d7\u05d3\u05e9 \u05dc\u05e7\u05e9\u05e8\u05d9\u05dd \u05d4\u05e4\u05d5\u05e8\u05d7\u05d9\u05dd \u05d1\u05d9\u05df \u05d4\u05e0\u05d5\u05d5\u05d3\u05d9\u05dd \u05dc-Speranza.",
+          "hr": "Daj zavr\u0161ni dodir kabinetu zanimljivosti, novom simbolu procvata veza izme\u0111u Nomada i Speranze.",
+          "it": "Dai gli ultimi ritocchi alla Camera delle meraviglie, nuovo simbolo dei legami sempre pi\u00f9 stretti tra i Nomadi e Speranza.",
+          "ja": "\u73cd\u54c1\u9673\u5217\u68da\u306b\u6700\u5f8c\u306e\u4ed5\u4e0a\u3052\u3092\u65bd\u305d\u3046\u3002\u904a\u7267\u6c11\u3068\u30b9\u30da\u30e9\u30f3\u30b6\u306e\u7d46\u306e\u6df1\u307e\u308a\u3092\u793a\u3059\u65b0\u305f\u306a\u8c61\u5fb4\u3060\u3002",
+          "ko-KR": "\uc720\ub791\ubbfc\uacfc \uc2a4\ud398\ub780\uc790 \uc0ac\uc774\uc5d0 \uc2f9\ud2b8\ub294 \uc720\ub300\uc758 \uc0c8\ub85c\uc6b4 \uc0c1\uc9d5\uc778 \uc9c4\uadc0\ud488 \uc9c4\uc5f4\uc7a5\uc5d0 \ub9c8\uc9c0\ub9c9 \uc190\uae38\uc744 \ub354\ud558\uc138\uc694.",
+          "no": "Legg siste h\u00e5nd p\u00e5 kuriositetskabinettet, et nytt symbol p\u00e5 de spirende b\u00e5ndene mellom nomadene og Speranza.",
+          "pl": "Nadaj ostatnie szlify szafce ciekawostek, nowemu symbolowi wzmacniaj\u0105cej si\u0119 wi\u0119zi mi\u0119dzy w\u0119drowcami a Speranz\u0105.",
+          "pt": "D\u00ea os toques finais ao Gabinete de Curiosidades, novo s\u00edmbolo da aproxima\u00e7\u00e3o entre os n\u00f4mades e Speranza.",
+          "pt-BR": "D\u00ea os toques finais ao Gabinete de Curiosidades, novo s\u00edmbolo da aproxima\u00e7\u00e3o entre os n\u00f4mades e Speranza.",
+          "ru": "\u041d\u0430\u043d\u0435\u0441\u0438\u0442\u0435 \u043f\u043e\u0441\u043b\u0435\u0434\u043d\u0438\u0435 \u0448\u0442\u0440\u0438\u0445\u0438 \u043d\u0430 \u0448\u043a\u0430\u0444\u0447\u0438\u043a \u0434\u0438\u043a\u043e\u0432\u0438\u043d\u00a0\u2014 \u043d\u043e\u0432\u044b\u0439 \u0441\u0438\u043c\u0432\u043e\u043b \u043d\u0430\u0431\u0438\u0440\u0430\u044e\u0449\u0438\u0445 \u0441\u0438\u043b\u0443 \u0441\u0432\u044f\u0437\u0435\u0439 \u043a\u043e\u0447\u0435\u0432\u043d\u0438\u043a\u043e\u0432 \u0441\u043e \u0421\u043f\u0435\u0440\u0430\u043d\u0446\u0435\u0439.",
+          "sr": "Daj zavr\u0161ni dodir kabinetu zanimljivosti, novom simbolu procvata veza izme\u0111u Nomada i Speranze.",
+          "tr": "\u0130lgin\u00e7 \u015feyler dolab\u0131na son r\u00f6tu\u015flar\u0131 yap. Bu dolap g\u00f6\u00e7ebeler ve Speranza aras\u0131nda ye\u015feren ba\u011f\u0131n ni\u015fanesi olacak.",
+          "uk": "\u0414\u043e\u0434\u0430\u0439 \u043e\u0441\u0442\u0430\u043d\u043d\u0456 \u0448\u0442\u0440\u0438\u0445\u0438 \u0434\u043e \u0448\u0430\u0444\u0438 \u0434\u0438\u0432\u043e\u0432\u0438\u0436, \u043d\u043e\u0432\u043e\u0433\u043e \u0441\u0438\u043c\u0432\u043e\u043b\u0443 \u0440\u043e\u0437\u043a\u0432\u0456\u0442\u0443 \u0437\u0432'\u044f\u0437\u043a\u0456\u0432 \u043c\u0456\u0436 \u041d\u043e\u043c\u0430\u0434\u0430\u043c\u0438 \u0442\u0430 Speranza.",
+          "zh-CN": "\u5c06\u5947\u73cd\u9648\u5217\u67dc\u4fee\u7f2e\u5b8c\u6bd5\uff0c\u8fd9\u5ea7\u67dc\u5b50\u4e5f\u6210\u4e3a\u6e38\u7267\u8005\u4e0e\u65af\u4f69\u5170\u624e\u60c5\u8c0a\u65e5\u6e10\u6df1\u539a\u7684\u8c61\u5f81\u3002",
+          "zh-TW": "\u70ba\u9019\u500b\u5947\u73cd\u6ac3\u505a\u6700\u5f8c\u7684\u88dd\u98fe\u5427\uff0c\u5b83\u5c07\u6210\u70ba\u904a\u7267\u8005\u8207\u65af\u4f69\u862d\u85a9\u4e4b\u9593\u95dc\u4fc2\u84ec\u52c3\u767c\u5c55\u7684\u8c61\u5fb5\u3002"
+        },
+        "phase": 5,
+        "requirementItemIds": [
+          {
+            "itemId": "colorful_shoes_rare",
+            "quantity": 6
+          },
+          {
+            "itemId": "colorful_shoes_epic",
+            "quantity": 3
+          },
+          {
+            "itemId": "colorful_shoes_legendary",
+            "quantity": 2
+          },
+          {
+            "itemId": "arc_synthetic_resin",
+            "quantity": 10
+          }
+        ]
+      },
+      {
+        "name": {
+          "da": "Brug nomadetaktikker til at bek\u00e6mpe ARC",
+          "de": "Setze Nomadentaktiken ein, um gegen ARC zu k\u00e4mpfen",
+          "en": "Use Nomad Tactics to Fight ARC",
+          "es": "Emplea t\u00e1cticas n\u00f3madas para luchar contra las ARC",
+          "fr": "Utiliser les tactiques des nomades pour combattre l'ARC",
+          "he": "\u05d4\u05e9\u05ea\u05de\u05e9 \u05d1\u05d8\u05e7\u05d8\u05d9\u05e7\u05d5\u05ea \u05e0\u05d5\u05d5\u05d3\u05d9\u05dd \u05db\u05d3\u05d9 \u05dc\u05d4\u05d9\u05dc\u05d7\u05dd \u05d1-ARC",
+          "hr": "Upotrijebi nomadske taktike za borbu protiv ARC-a",
+          "it": "Usa le tattiche nomadi per combattere l'ARC",
+          "ja": "\u904a\u7267\u6c11\u306e\u6226\u8853\u3092\u4f7f\u3063\u3066ARC\u3068\u6226\u3046",
+          "ko-KR": "\uc720\ub791\ubbfc\uc758 \uc804\uc220\ub85c \uc544\ud06c\uc5d0 \ub9de\uc11c\uae30",
+          "no": "Bruk nomadetaktikker til \u00e5 bekjempe ARC",
+          "pl": "Wykorzystaj taktyk\u0119 w\u0119drowc\u00f3w do walki z maszynami ARC",
+          "pt": "Use t\u00e1ticas n\u00f4mades para enfrentar ARCs",
+          "pt-BR": "Use t\u00e1ticas n\u00f4mades para enfrentar ARCs",
+          "ru": "\u0418\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0439\u0442\u0435 \u043f\u0440\u043e\u0442\u0438\u0432 ARC \u0442\u0430\u043a\u0442\u0438\u043a\u0443 \u043a\u043e\u0447\u0435\u0432\u043d\u0438\u043a\u043e\u0432",
+          "sr": "Koristi nomadske taktike za borbu protiv ARC-a",
+          "tr": "ARC ile Sava\u015fmak i\u00e7in G\u00f6\u00e7ebe Taktiklerini Kullan",
+          "uk": "\u0412\u0438\u043a\u043e\u0440\u0438\u0441\u0442\u0430\u0439 \u0442\u0430\u043a\u0442\u0438\u043a\u0438 \u041d\u043e\u043c\u0430\u0434\u0456\u0432 \u0434\u043b\u044f \u0431\u043e\u0440\u043e\u0442\u044c\u0431\u0438 \u0437 ARC",
+          "zh-CN": "\u8fd0\u7528\u6e38\u7267\u6218\u672f\u5bf9\u6297ARC",
+          "zh-TW": "\u4f7f\u7528\u904a\u7267\u8005\u6230\u8853\u4f86\u5c0d\u6297ARC"
+        },
+        "description": {
+          "da": "G\u00f8r skade p\u00e5 ARC med miner eller f\u00e6lder (Blaze Grenade Trap, Pulse Mine, Jolt Mine, Explosive Mine, Surge Coil)",
+          "de": "F\u00fcge ARC-Gegnern mit Minen oder Fallen Schaden zu (Laserfalle: Feuer, Sprungmine: Impuls, Schockmine, Sprengmine, \u00dcberspannungsspule)",
+          "en": "Deal damage to ARC using mines or traps (Blaze Grenade Trap, Pulse Mine, Jolt Mine, Explosive Mine, Surge Coil)",
+          "es": "Inflige da\u00f1o a enemigos ARC con minas o trampas (Trampa l\u00e1ser: fuego, Mina de salto: repulsi\u00f3n, Mina de choque, Mina explosiva, Bobina)",
+          "fr": "Infliger des d\u00e9g\u00e2ts aux ennemis ARC \u00e0 l'aide de mines ou de pi\u00e8ges (Pi\u00e8ge laser - Incendiaire, Mine bondissante\u00a0: impulsion, Mine \u00e9tourdissante, Mine explosive, Bobine de surtension)",
+          "he": "\u05d2\u05e8\u05d5\u05dd \u05e0\u05d6\u05e7 \u05dc-ARC \u05d1\u05d0\u05de\u05e6\u05e2\u05d5\u05ea \u05de\u05d5\u05e7\u05e9\u05d9\u05dd \u05d0\u05d5 \u05de\u05dc\u05db\u05d5\u05d3\u05d5\u05ea (Blaze Grenade Trap, Pulse Mine, Jolt Mine, Explosive Mine, Surge Coil)",
+          "hr": "Nanesi \u0161tetu ARC-u pomo\u0107u mina ili zamki (Blaze Grenade Trap, Pulse Mine, Jolt Mine, Explosive Mine, Surge Coil)",
+          "it": "Infliggi danni ai nemici ARC usando mine o trappole (Trappola laser: Fuoco, Mina a salto: impulso, Mina a scossa, Mina esplosiva, Bobina di sovratensione)",
+          "ja": "\u5730\u96f7\u3084\u7f60\u3092\u4f7f\u3063\u3066ARC\u30a8\u30cd\u30df\u30fc\u306b\u30c0\u30e1\u30fc\u30b8\u3092\u4e0e\u3048\u308b(\u30ec\u30fc\u30b6\u30fc\u30c8\u30e9\u30c3\u30d7\uff1a\u30d6\u30ec\u30a4\u30ba, \u30b8\u30e3\u30f3\u30d7\u5730\u96f7\uff1a\u885d\u6483, \u30b8\u30e7\u30eb\u30c8\u5730\u96f7, \u7206\u767a\u5730\u96f7, \u30b5\u30fc\u30b8\u30b3\u30a4\u30eb)",
+          "ko-KR": "\uc9c0\ub8b0\ub098 \ud568\uc815\uc73c\ub85c \uc544\ud06c \uc801\uc5d0 \ub300\ubbf8\uc9c0 \uc8fc\uae30 (\ud654\uc5fc \uc218\ub958\ud0c4 \ud568\uc815, \ud384\uc2a4 \uc9c0\ub8b0, \ucda9\uaca9 \uc9c0\ub8b0, \ud3ed\ubc1c \uc9c0\ub8b0, \uc11c\uc9c0 \ucf54\uc77c)",
+          "no": "Gj\u00f8r skade p\u00e5 ARC med miner eller feller (Blaze Grenade Trap, Pulse Mine, Jolt Mine, Explosive Mine, Surge Coil)",
+          "pl": "Zadaj obra\u017cenia wrogim maszynom ARC za pomoc\u0105 min lub pu\u0142apek (Pu\u0142apka laserowa: ogie\u0144, Mina skacz\u0105ca: impulsowa, Mina wstrz\u0105sowa, Mina wybuchowa, Cewka przepi\u0119ciowa)",
+          "pt": "Cause dano a inimigos ARC com minas ou armadilhas (Armadilha a laser: fogo, Mina Saltadora: impulso, Mina El\u00e9trica, Mina Explosiva, Bobina de Surto)",
+          "pt-BR": "Cause dano a inimigos ARC com minas ou armadilhas (Armadilha a laser: fogo, Mina Saltadora: impulso, Mina El\u00e9trica, Mina Explosiva, Bobina de Surto)",
+          "ru": "\u041d\u0430\u043d\u0435\u0441\u0438\u0442\u0435 \u0443\u0440\u043e\u043d \u043c\u0430\u0448\u0438\u043d\u0430\u043c ARC \u0441 \u043f\u043e\u043c\u043e\u0449\u044c\u044e \u043c\u0438\u043d \u0438\u043b\u0438 \u043b\u043e\u0432\u0443\u0448\u0435\u043a (\u041b\u0430\u0437\u0435\u0440\u043d\u0430\u044f \u043b\u043e\u0432\u0443\u0448\u043a\u0430: \u043e\u0433\u043e\u043d\u044c, \u041f\u043e\u0434\u0431\u0440\u0430\u0441\u044b\u0432\u0430\u044e\u0449\u0430\u044f \u043c\u0438\u043d\u0430 (\u0438\u043c\u043f\u0443\u043b\u044c\u0441\u043d\u0430\u044f), \u042d\u043b\u0435\u043a\u0442\u0440\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u043c\u0438\u043d\u0430, \u0412\u0437\u0440\u044b\u0432\u043d\u0430\u044f \u043c\u0438\u043d\u0430, \u0422\u043e\u043a\u043e\u0432\u0430\u044f \u043a\u0430\u0442\u0443\u0448\u043a\u0430)",
+          "sr": "Nanesi \u0161tetu ARC-u pomo\u0107u mina ili zamki (Blaze Grenade Trap, Pulse Mine, Jolt Mine, Explosive Mine, Surge Coil)",
+          "tr": "ARC d\u00fc\u015fmanlar\u0131na may\u0131n veya tuzaklarla hasar ver (Lazer Tuza\u011f\u0131: Ate\u015f, S\u0131\u00e7rama May\u0131n\u0131: \u0130tici, \u015eok May\u0131n\u0131, Patlay\u0131c\u0131 May\u0131n, Patlama Bobini)",
+          "uk": "\u0417\u0430\u0432\u0434\u0430\u0439 \u0448\u043a\u043e\u0434\u0438 ARC \u0437\u0430 \u0434\u043e\u043f\u043e\u043c\u043e\u0433\u043e\u044e \u043c\u0456\u043d \u0430\u0431\u043e \u043f\u0430\u0441\u0442\u043e\u043a (Blaze Grenade Trap, Pulse Mine, Jolt Mine, Explosive Mine, Surge Coil)",
+          "zh-CN": "\u4f7f\u7528\u5730\u96f7\u6216\u9677\u9631\u5bf9ARC\u654c\u4eba\u9020\u6210\u4f24\u5bb3\uff08\u6fc0\u5149\u9677\u9631\uff1a\u5f3a\u5149\u3001\u8df3\u96f7\uff1a\u51b2\u51fb\u3001\u7535\u51fb\u5730\u96f7\u3001\u7206\u70b8\u5730\u96f7\u3001\u6d8c\u80fd\u7ebf\u5708\uff09",
+          "zh-TW": "\u4f7f\u7528\u5730\u96f7\u6216\u9677\u9631\u5c0dARC\u6575\u4eba\u9020\u6210\u50b7\u5bb3\uff08\u96f7\u5c04\u9677\u9631\uff1a\u70c8\u7130\u3001\u8108\u885d\u5730\u96f7\u3001\u9707\u52d5\u5730\u96f7\u3001\u7206\u7834\u5730\u96f7\u3001\u6e67\u96fb\u7dda\u5708\uff09"
+        },
+        "phase": 6,
+        "requirementItemIds": []
+      }
+    ],
+    "endDate": 1785225600,
+    "startDate": 1778497200
   }
 ]
