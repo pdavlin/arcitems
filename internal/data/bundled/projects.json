@@ -4038,7 +4038,7 @@
       {
         "name": {
           "da": "S\u00f8rg for sikker passage for nomaderne",
-          "de": "Sorge f\u00fcr einen sicheren Durchgang f\u00fcr die Nomaden",
+          "de": "Sicheren Durchgang f\u00fcr die Nomaden schaffen",
           "en": "Secure Safe Passage for the Nomads",
           "es": "Garant\u00edzales el paso seguro a los n\u00f3madas",
           "fr": "Assurer un passage s\u00fbr aux nomades",
@@ -4346,10 +4346,10 @@
       {
         "name": {
           "da": "Brug nomadetaktikker til at bek\u00e6mpe ARC",
-          "de": "Setze Nomadentaktiken ein, um gegen ARC zu k\u00e4mpfen",
+          "de": "Setze Nomadentaktiken im Kampf gegen ARC ein",
           "en": "Use Nomad Tactics to Fight ARC",
-          "es": "Emplea t\u00e1cticas n\u00f3madas para luchar contra las ARC",
-          "fr": "Utiliser les tactiques des nomades pour combattre l'ARC",
+          "es": "Usa t\u00e1cticas n\u00f3madas para luchar contra ARC",
+          "fr": "Combattre l'ARC avec les tactiques de nomades",
           "he": "\u05d4\u05e9\u05ea\u05de\u05e9 \u05d1\u05d8\u05e7\u05d8\u05d9\u05e7\u05d5\u05ea \u05e0\u05d5\u05d5\u05d3\u05d9\u05dd \u05db\u05d3\u05d9 \u05dc\u05d4\u05d9\u05dc\u05d7\u05dd \u05d1-ARC",
           "hr": "Upotrijebi nomadske taktike za borbu protiv ARC-a",
           "it": "Usa le tattiche nomadi per combattere l'ARC",
@@ -4368,25 +4368,25 @@
         },
         "description": {
           "da": "G\u00f8r skade p\u00e5 ARC med miner eller f\u00e6lder (Blaze Grenade Trap, Pulse Mine, Jolt Mine, Explosive Mine, Surge Coil)",
-          "de": "F\u00fcge ARC-Gegnern mit Minen oder Fallen Schaden zu (Laserfalle: Feuer, Sprungmine: Impuls, Schockmine, Sprengmine, \u00dcberspannungsspule)",
+          "de": "F\u00fcge ARC mit Minen oder Fallen Schaden zu (Flammengranaten-Falle, Impulsmine, Schockmine, Sprengmine, \u00dcberspannungsspule)",
           "en": "Deal damage to ARC using mines or traps (Blaze Grenade Trap, Pulse Mine, Jolt Mine, Explosive Mine, Surge Coil)",
-          "es": "Inflige da\u00f1o a enemigos ARC con minas o trampas (Trampa l\u00e1ser: fuego, Mina de salto: repulsi\u00f3n, Mina de choque, Mina explosiva, Bobina)",
-          "fr": "Infliger des d\u00e9g\u00e2ts aux ennemis ARC \u00e0 l'aide de mines ou de pi\u00e8ges (Pi\u00e8ge laser - Incendiaire, Mine bondissante\u00a0: impulsion, Mine \u00e9tourdissante, Mine explosive, Bobine de surtension)",
+          "es": "Inflige da\u00f1o a m\u00e1quinas ARC con minas o trampas (trampa de granada incendiaria, mina de impulso, mina de choque, mina explosiva, bobina)",
+          "fr": "Infliger des d\u00e9g\u00e2ts aux ARC \u00e0 l'aide de mines ou de pi\u00e8ges (pi\u00e8ge \u00e0 grenade flamboyante, mine \u00e0 impulsion, mine \u00e9tourdissante, mine explosive, bobine de surtension)",
           "he": "\u05d2\u05e8\u05d5\u05dd \u05e0\u05d6\u05e7 \u05dc-ARC \u05d1\u05d0\u05de\u05e6\u05e2\u05d5\u05ea \u05de\u05d5\u05e7\u05e9\u05d9\u05dd \u05d0\u05d5 \u05de\u05dc\u05db\u05d5\u05d3\u05d5\u05ea (Blaze Grenade Trap, Pulse Mine, Jolt Mine, Explosive Mine, Surge Coil)",
           "hr": "Nanesi \u0161tetu ARC-u pomo\u0107u mina ili zamki (Blaze Grenade Trap, Pulse Mine, Jolt Mine, Explosive Mine, Surge Coil)",
-          "it": "Infliggi danni ai nemici ARC usando mine o trappole (Trappola laser: Fuoco, Mina a salto: impulso, Mina a scossa, Mina esplosiva, Bobina di sovratensione)",
-          "ja": "\u5730\u96f7\u3084\u7f60\u3092\u4f7f\u3063\u3066ARC\u30a8\u30cd\u30df\u30fc\u306b\u30c0\u30e1\u30fc\u30b8\u3092\u4e0e\u3048\u308b(\u30ec\u30fc\u30b6\u30fc\u30c8\u30e9\u30c3\u30d7\uff1a\u30d6\u30ec\u30a4\u30ba, \u30b8\u30e3\u30f3\u30d7\u5730\u96f7\uff1a\u885d\u6483, \u30b8\u30e7\u30eb\u30c8\u5730\u96f7, \u7206\u767a\u5730\u96f7, \u30b5\u30fc\u30b8\u30b3\u30a4\u30eb)",
-          "ko-KR": "\uc9c0\ub8b0\ub098 \ud568\uc815\uc73c\ub85c \uc544\ud06c \uc801\uc5d0 \ub300\ubbf8\uc9c0 \uc8fc\uae30 (\ud654\uc5fc \uc218\ub958\ud0c4 \ud568\uc815, \ud384\uc2a4 \uc9c0\ub8b0, \ucda9\uaca9 \uc9c0\ub8b0, \ud3ed\ubc1c \uc9c0\ub8b0, \uc11c\uc9c0 \ucf54\uc77c)",
+          "it": "Infliggi danni ai nemici ARC usando mine o trappole (trappola granata incendiaria, mina a impulso, mina a scossa, mina esplosiva, bobina di sovraestensione)",
+          "ja": "\u5730\u96f7\u3084\u7f60\u3092\u4f7f\u3063\u3066ARC\u306b\u30c0\u30e1\u30fc\u30b8\u3092\u4e0e\u3048\u308b\uff08\u30d6\u30ec\u30a4\u30ba\u30fb\u30b0\u30ec\u30cd\u30fc\u30c9\u3001\u7f60\u3001\u30d1\u30eb\u30b9\u5730\u96f7\u3001\u30b8\u30e7\u30eb\u30c8\u5730\u96f7\u3001\u7206\u767a\u5730\u96f7\u3001\u30b5\u30fc\u30b8\u30b3\u30a4\u30eb\uff09",
+          "ko-KR": "\uc9c0\ub8b0\ub098 \ud568\uc815\uc73c\ub85c \uc544\ud06c\uc5d0 \ub300\ubbf8\uc9c0 \uc8fc\uae30(\ud654\uc5fc \uc218\ub958\ud0c4 \ud568\uc815, \ud384\uc2a4 \uc9c0\ub8b0, \ucda9\uaca9 \uc9c0\ub8b0, \ud3ed\ubc1c \uc9c0\ub8b0, \uc11c\uc9c0 \ucf54\uc77c)",
           "no": "Gj\u00f8r skade p\u00e5 ARC med miner eller feller (Blaze Grenade Trap, Pulse Mine, Jolt Mine, Explosive Mine, Surge Coil)",
-          "pl": "Zadaj obra\u017cenia wrogim maszynom ARC za pomoc\u0105 min lub pu\u0142apek (Pu\u0142apka laserowa: ogie\u0144, Mina skacz\u0105ca: impulsowa, Mina wstrz\u0105sowa, Mina wybuchowa, Cewka przepi\u0119ciowa)",
+          "pl": "Zadaj obra\u017cenia wrogim maszynom ARC za pomoc\u0105 min lub pu\u0142apek (pu\u0142apka z granatem zapalaj\u0105cym, mina impulsowa, mina wstrz\u0105sowa, mina wybuchowa, cewka przepi\u0119ciowa)",
           "pt": "Cause dano a inimigos ARC com minas ou armadilhas (Armadilha a laser: fogo, Mina Saltadora: impulso, Mina El\u00e9trica, Mina Explosiva, Bobina de Surto)",
           "pt-BR": "Cause dano a inimigos ARC com minas ou armadilhas (Armadilha a laser: fogo, Mina Saltadora: impulso, Mina El\u00e9trica, Mina Explosiva, Bobina de Surto)",
-          "ru": "\u041d\u0430\u043d\u0435\u0441\u0438\u0442\u0435 \u0443\u0440\u043e\u043d \u043c\u0430\u0448\u0438\u043d\u0430\u043c ARC \u0441 \u043f\u043e\u043c\u043e\u0449\u044c\u044e \u043c\u0438\u043d \u0438\u043b\u0438 \u043b\u043e\u0432\u0443\u0448\u0435\u043a (\u041b\u0430\u0437\u0435\u0440\u043d\u0430\u044f \u043b\u043e\u0432\u0443\u0448\u043a\u0430: \u043e\u0433\u043e\u043d\u044c, \u041f\u043e\u0434\u0431\u0440\u0430\u0441\u044b\u0432\u0430\u044e\u0449\u0430\u044f \u043c\u0438\u043d\u0430 (\u0438\u043c\u043f\u0443\u043b\u044c\u0441\u043d\u0430\u044f), \u042d\u043b\u0435\u043a\u0442\u0440\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u043c\u0438\u043d\u0430, \u0412\u0437\u0440\u044b\u0432\u043d\u0430\u044f \u043c\u0438\u043d\u0430, \u0422\u043e\u043a\u043e\u0432\u0430\u044f \u043a\u0430\u0442\u0443\u0448\u043a\u0430)",
+          "ru": "\u041d\u0430\u043d\u0435\u0441\u0438\u0442\u0435 \u0443\u0440\u043e\u043d \u043c\u0430\u0448\u0438\u043d\u0430\u043c ARC \u0441 \u043f\u043e\u043c\u043e\u0449\u044c\u044e \u043c\u0438\u043d \u0438\u043b\u0438 \u043b\u043e\u0432\u0443\u0448\u0435\u043a (\u043b\u043e\u0432\u0443\u0448\u043a\u0438 \u0441 \u043f\u043b\u0430\u043c\u0435\u043d\u043d\u043e\u0439 \u0433\u0440\u0430\u043d\u0430\u0442\u043e\u0439, \u0438\u043c\u043f\u0443\u043b\u044c\u0441\u043d\u043e\u0439, \u044d\u043b\u0435\u043a\u0442\u0440\u0438\u0447\u0435\u0441\u043a\u043e\u0439 \u0438\u043b\u0438 \u0432\u0437\u0440\u044b\u0432\u043d\u043e\u0439 \u043c\u0438\u043d\u043e\u0439, \u0430 \u0442\u0430\u043a\u0436\u0435 \u0442\u043e\u043a\u043e\u0432\u043e\u0439 \u043a\u0430\u0442\u0443\u0448\u043a\u043e\u0439).",
           "sr": "Nanesi \u0161tetu ARC-u pomo\u0107u mina ili zamki (Blaze Grenade Trap, Pulse Mine, Jolt Mine, Explosive Mine, Surge Coil)",
-          "tr": "ARC d\u00fc\u015fmanlar\u0131na may\u0131n veya tuzaklarla hasar ver (Lazer Tuza\u011f\u0131: Ate\u015f, S\u0131\u00e7rama May\u0131n\u0131: \u0130tici, \u015eok May\u0131n\u0131, Patlay\u0131c\u0131 May\u0131n, Patlama Bobini)",
+          "tr": "ARC'lara may\u0131n veya tuzaklarla hasar ver (Alev Bombas\u0131 Tuza\u011f\u0131, \u0130tici May\u0131n\u0131, \u015eok May\u0131n\u0131, Patlay\u0131c\u0131 May\u0131n, Patlama Bobini)",
           "uk": "\u0417\u0430\u0432\u0434\u0430\u0439 \u0448\u043a\u043e\u0434\u0438 ARC \u0437\u0430 \u0434\u043e\u043f\u043e\u043c\u043e\u0433\u043e\u044e \u043c\u0456\u043d \u0430\u0431\u043e \u043f\u0430\u0441\u0442\u043e\u043a (Blaze Grenade Trap, Pulse Mine, Jolt Mine, Explosive Mine, Surge Coil)",
-          "zh-CN": "\u4f7f\u7528\u5730\u96f7\u6216\u9677\u9631\u5bf9ARC\u654c\u4eba\u9020\u6210\u4f24\u5bb3\uff08\u6fc0\u5149\u9677\u9631\uff1a\u5f3a\u5149\u3001\u8df3\u96f7\uff1a\u51b2\u51fb\u3001\u7535\u51fb\u5730\u96f7\u3001\u7206\u70b8\u5730\u96f7\u3001\u6d8c\u80fd\u7ebf\u5708\uff09",
-          "zh-TW": "\u4f7f\u7528\u5730\u96f7\u6216\u9677\u9631\u5c0dARC\u6575\u4eba\u9020\u6210\u50b7\u5bb3\uff08\u96f7\u5c04\u9677\u9631\uff1a\u70c8\u7130\u3001\u8108\u885d\u5730\u96f7\u3001\u9707\u52d5\u5730\u96f7\u3001\u7206\u7834\u5730\u96f7\u3001\u6e67\u96fb\u7dda\u5708\uff09"
+          "zh-CN": "\u4f7f\u7528\u5730\u96f7\u6216\u9677\u9631\u5bf9ARC\u9020\u6210\u4f24\u5bb3\uff08\u706b\u7130\u624b\u96f7\u9677\u9631\u3001\u8109\u51b2\u5730\u96f7\u3001\u7535\u51fb\u5730\u96f7\u3001\u7206\u70b8\u5730\u96f7\u3001\u6d8c\u80fd\u7ebf\u5708\uff09",
+          "zh-TW": "\u4f7f\u7528\u5730\u96f7\u6216\u9677\u9631\uff08\u70c8\u7130\u624b\u69b4\u5f48\u9677\u9631\u3001\u8108\u885d\u5730\u96f7\u3001\u9707\u52d5\u5730\u96f7\u3001\u7206\u7834\u5730\u96f7\u3001\u6e67\u96fb\u7dda\u5708\uff09\u5c0dARC\u9020\u6210\u50b7\u5bb3"
         },
         "phase": 6,
         "requirementItemIds": []
@@ -4394,5 +4394,534 @@
     ],
     "endDate": 1785225600,
     "startDate": 1778497200
+  },
+  {
+    "id": "expedition_project_s5",
+    "disabled": false,
+    "name": {
+      "da": "Ekspedition (S\u00e6son 5)",
+      "de": "Expedition (Season 5)",
+      "en": "Expedition (Season 5)",
+      "es": "Expedici\u00f3n (Season 5)",
+      "fr": "Exp\u00e9dition (Season 5)",
+      "he": "\u05de\u05e9\u05dc\u05d7\u05ea (\u05e2\u05d5\u05e0\u05d4 5)",
+      "hr": "Ekspedicija (Sezona 5)",
+      "it": "Spedizione (Season 5)",
+      "ja": "\u9060\u5f81 (Season 5)",
+      "ko-KR": "\uc6d0\uc815 (Season 5)",
+      "no": "Ekspedisjon (Sesong 5)",
+      "pl": "Wyprawa (Season 5)",
+      "pt": "Expedi\u00e7\u00e3o (Season 5)",
+      "pt-BR": "Expedi\u00e7\u00e3o (Season 5)",
+      "ru": "\u042d\u043a\u0441\u043f\u0435\u0434\u0438\u0446\u0438\u044f (Season 5)",
+      "sr": "Ekspedicija (Sezona 5)",
+      "tr": "Sefer (Season 5)",
+      "uk": "\u0415\u043a\u0441\u043f\u0435\u0434\u0438\u0446\u0456\u044f (\u0421\u0435\u0437\u043e\u043d 5)",
+      "zh-CN": "\u8fdc\u5f81 (Season 5)",
+      "zh-TW": "\u9060\u5f81 (Season 5)"
+    },
+    "description": {
+      "da": "Ekspeditioner er farlige. Din Raider tager alle sine ejendele med ud i det ukendte hinsides Rustb\u00e6ltet. Til geng\u00e6ld f\u00e5r din n\u00e6ste Raider en unik fordel, som varer indtil den n\u00e6ste Ekspedition drager afsted.",
+      "de": "Expeditionen sind gefahrvoll. Dein Raider nimmt all seine Besitzt\u00fcmer und wagt sich in das unbekannte Land jenseits des Rostg\u00fcrtels. Daf\u00fcr erh\u00e4lt dein n\u00e4chster Raider einen einzigartigen Vorteil, der bis zum Start der n\u00e4chsten Expedition anh\u00e4lt.",
+      "en": "Expeditions are perilous. Your Raider will carry all their possessions into the unknown beyond the Rust Belt. In return, your next Raider gains a unique edge that lasts until the next Expedition departs.",
+      "es": "Las expediciones son peligrosas. Tu Raider se llevar\u00e1 todas sus posesiones consigo en su aventura m\u00e1s all\u00e1 del Cintur\u00f3n de \u00f3xido. A cambio, tu siguiente Raider obtendr\u00e1 una ventaja \u00fanica hasta que salga la pr\u00f3xima expedici\u00f3n.",
+      "fr": "Les Exp\u00e9ditions sont p\u00e9rilleuses. Votre Raider emportera tous ses biens dans le monde inconnu au-del\u00e0 de la R\u00e9gion de la rouille. En \u00e9change, votre prochain Raider b\u00e9n\u00e9ficiera d'un avantage unique qui durera jusqu'au d\u00e9part de la prochaine Exp\u00e9dition.",
+      "he": "\u05de\u05e9\u05dc\u05d7\u05d5\u05ea \u05de\u05e1\u05d5\u05db\u05e0\u05d5\u05ea. \u05d4-Raider \u05e9\u05dc\u05da \u05d9\u05d9\u05e7\u05d7 \u05d0\u05ea \u05db\u05dc \u05e8\u05db\u05d5\u05e9\u05d5 \u05d0\u05dc \u05d4\u05d1\u05dc\u05ea\u05d9 \u05e0\u05d5\u05d3\u05e2 \u05e9\u05de\u05e2\u05d1\u05e8 \u05dc\u05d7\u05d2\u05d5\u05e8\u05ea \u05d4\u05d7\u05dc\u05d5\u05d3\u05d4. \u05d1\u05ea\u05de\u05d5\u05e8\u05d4, \u05d4-Raider \u05d4\u05d1\u05d0 \u05e9\u05dc\u05da \u05d9\u05e7\u05d1\u05dc \u05d9\u05ea\u05e8\u05d5\u05df \u05d9\u05d9\u05d7\u05d5\u05d3\u05d9 \u05e9\u05d9\u05d9\u05de\u05e9\u05da \u05e2\u05d3 \u05dc\u05d9\u05e6\u05d9\u05d0\u05ea \u05d4\u05de\u05e9\u05dc\u05d7\u05ea \u05d4\u05d1\u05d0\u05d4.",
+      "hr": "Ekspedicije su opasne. Tvoj Raider ponijet \u0107e svu svoju imovinu u nepoznato izvan Pojasa hr\u0111e. Zauzvrat, tvoj sljede\u0107i Raider dobiva jedinstvenu prednost koja traje do polaska sljede\u0107e Ekspedicije.",
+      "it": "Le Spedizioni sono pericolose. Il tuo Raider prender\u00e0 con s\u00e9 tutti i suoi beni per avventurarsi oltre la Cintura di ruggine. In cambio, il tuo prossimo Raider otterr\u00e0 un vantaggio unico fino alla partenza della prossima Spedizione.",
+      "ja": "\u9060\u5f81\u306f\u5371\u967a\u306b\u6e80\u3061\u3066\u3044\u308b\u305f\u3081\u3001\u3042\u306a\u305f\u306e\u30ec\u30a4\u30c0\u30fc\u306f\u6301\u3061\u7269\u3092\u3059\u3079\u3066\u6301\u3063\u3066\u30e9\u30b9\u30c8\u30d9\u30eb\u30c8\u306e\u304b\u306a\u305f\u306e\u672a\u77e5\u306e\u9818\u57df\u3078\u6311\u307f\u307e\u3059\u3002\u305d\u306e\u4ee3\u308f\u308a\u3001\u6b21\u306e\u30ec\u30a4\u30c0\u30fc\u306f\u3001\u6b21\u306e\u9060\u5f81\u304c\u65c5\u7acb\u3064\u6642\u307e\u3067\u7d99\u7d9a\u3059\u308b\u7279\u5225\u306a\u30d0\u30d5\u3092\u5f97\u308b\u3053\u3068\u304c\u3067\u304d\u307e\u3059\u3002",
+      "ko-KR": "\uc6d0\uc815\uc740 \uc704\ud5d8\ucc9c\ub9cc\ud569\ub2c8\ub2e4. \ub808\uc774\ub354\ub294 \ubaa8\ub4e0 \uc18c\uc9c0\ud488\uc744 \uc9c0\ub2cc \ucc44 \ub7ec\uc2a4\ud2b8 \ubca8\ud2b8 \ub108\uba38 \ubbf8\uc9c0\uc758 \ub545\uc73c\ub85c \ub5a0\ub098\uac8c \ub418\uc8e0. \uadf8 \ub300\uc2e0, \ub2e4\uc74c \ub808\uc774\ub354\uac00 \uc720\ub9ac\ud55c \uc774\uc810\uc744 \uc5bb\uac8c \ub418\uba70, \uc774\ub294 \ub2e4\uc74c \uc6d0\uc815\uc774 \uc2dc\uc791\ud560 \ub54c\uae4c\uc9c0 \uc720\uc9c0\ub429\ub2c8\ub2e4.",
+      "no": "Ekspedisjoner er farlige. Raideren din tar med seg alle eiendelene sine inn i det ukjente bortenfor Rustbeltet. Til gjengjeld f\u00e5r din neste Raider en unik fordel som varer helt til neste ekspedisjon drar.",
+      "pl": "Wyprawy s\u0105 niebezpieczne. Tw\u00f3j \u0142upie\u017cca zabierze ca\u0142y dobytek i\u00a0wyruszy w nieznane poza terytorium Rdzawego Pasa. Z\u00a0kolei tw\u00f3j kolejny \u0142upie\u017cca zyska wyj\u0105tkow\u0105 przewag\u0119, kt\u00f3ra utrzyma si\u0119 do momentu wys\u0142ania kolejnej wyprawy.",
+      "pt": "Expedi\u00e7\u00f5es s\u00e3o perigosas. Raiders levam tudo o que t\u00eam para se aventurarem em territ\u00f3rios desconhecidos, al\u00e9m do Cintur\u00e3o da Ferrugem. Em troca, Raiders seguintes receber\u00e3o uma vantagem \u00fanica que durar\u00e1 at\u00e9 a pr\u00f3xima Expedi\u00e7\u00e3o partir.",
+      "pt-BR": "Expedi\u00e7\u00f5es s\u00e3o perigosas. Raiders levam tudo o que t\u00eam para se aventurarem em territ\u00f3rios desconhecidos, al\u00e9m do Cintur\u00e3o da Ferrugem. Em troca, Raiders seguintes receber\u00e3o uma vantagem \u00fanica que durar\u00e1 at\u00e9 a pr\u00f3xima Expedi\u00e7\u00e3o partir.",
+      "ru": "\u042d\u043a\u0441\u043f\u0435\u0434\u0438\u0446\u0438\u0438 \u043f\u043e\u043b\u043d\u044b \u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u0435\u0439. \u0412\u0430\u0448 \u0440\u0435\u0439\u0434\u0435\u0440 \u043e\u0442\u043f\u0440\u0430\u0432\u0438\u0442\u0441\u044f \u0437\u0430 \u043f\u0440\u0435\u0434\u0435\u043b\u044b \u041c\u0435\u0434\u043d\u043e\u0433\u043e \u043f\u043e\u044f\u0441\u0430 \u0432\u043c\u0435\u0441\u0442\u0435 \u0441\u043e \u0432\u0441\u0435\u043c \u0441\u0432\u043e\u0438\u043c \u0438\u043c\u0443\u0449\u0435\u0441\u0442\u0432\u043e\u043c. \u0412 \u043e\u0431\u043c\u0435\u043d \u043d\u0430 \u044d\u0442\u043e \u0432\u0430\u0448 \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0438\u0439 \u0440\u0435\u0439\u0434\u0435\u0440 \u043f\u043e\u043b\u0443\u0447\u0438\u0442 \u043f\u0440\u0435\u0438\u043c\u0443\u0449\u0435\u0441\u0442\u0432\u043e \u0434\u043e \u043e\u0442\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u044f \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0435\u0439 \u044d\u043a\u0441\u043f\u0435\u0434\u0438\u0446\u0438\u0438.",
+      "sr": "Ekspedicije su opasne. Tvoj Raider nosi svu svoju imovinu u nepoznato izvan Rust pojasa. Zauzvrat, tvoj slede\u0107i Raider dobija jedinstvenu prednost koja traje do polaska slede\u0107e Ekspedicije.",
+      "tr": "Seferler tehlikelidir. Raider'\u0131n, sahip oldu\u011fu her \u015feyi alarak Pasl\u0131 Kemer'in \u00f6tesindeki bilinmezli\u011fe ad\u0131m atar. Bunun kar\u015f\u0131l\u0131\u011f\u0131nda s\u0131radaki Raider'\u0131n, bir sonraki seferinden ayr\u0131lana kadar devam eden benzersiz bir avantaj kazan\u0131r.",
+      "uk": "\u0415\u043a\u0441\u043f\u0435\u0434\u0438\u0446\u0456\u0457 \u043d\u0435\u0431\u0435\u0437\u043f\u0435\u0447\u043d\u0456. \u0422\u0432\u0456\u0439 \u0440\u0435\u0439\u0434\u0435\u0440 \u043f\u043e\u043d\u0435\u0441\u0435 \u0432\u0441\u0456 \u0441\u0432\u043e\u0457 \u0440\u0435\u0447\u0456 \u0432 \u043d\u0435\u0432\u0456\u0434\u043e\u043c\u0435 \u0437\u0430 \u043c\u0435\u0436\u0456 \u0420\u0436\u0430\u0432\u043e\u0433\u043e \u043f\u043e\u044f\u0441\u0443. \u041d\u0430\u0442\u043e\u043c\u0456\u0441\u0442\u044c \u043d\u0430\u0441\u0442\u0443\u043f\u043d\u0438\u0439 \u0440\u0435\u0439\u0434\u0435\u0440 \u043e\u0442\u0440\u0438\u043c\u0430\u0454 \u0443\u043d\u0456\u043a\u0430\u043b\u044c\u043d\u0443 \u043f\u0435\u0440\u0435\u0432\u0430\u0433\u0443, \u044f\u043a\u0430 \u0442\u0440\u0438\u043c\u0430\u0442\u0438\u043c\u0435\u0442\u044c\u0441\u044f \u0434\u043e \u0432\u0456\u0434\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u043d\u044f \u043d\u0430\u0441\u0442\u0443\u043f\u043d\u043e\u0457 \u0415\u043a\u0441\u043f\u0435\u0434\u0438\u0446\u0456\u0457.",
+      "zh-CN": "\u8fdc\u5f81\u7684\u65c5\u7a0b\u5371\u673a\u91cd\u91cd\u3002\u4e3a\u4e86\u524d\u5f80\u9508\u5e26\u4e4b\u5916\u7684\u672a\u77e5\u533a\u57df\uff0c\u4f60\u7684\u5947\u88ad\u8005\u5c06\u643a\u5e26\u6240\u6709\u8d22\u4ea7\u3002\u4f5c\u4e3a\u56de\u62a5\uff0c\u5728\u4e0b\u4e00\u6b21\u8fdc\u5f81\u51fa\u53d1\u4e4b\u524d\uff0c\u4f60\u7684\u4e0b\u4e00\u540d\u5947\u88ad\u8005\u5c06\u4f1a\u83b7\u5f97\u72ec\u7279\u7684\u4f18\u52bf\u3002",
+      "zh-TW": "\u9060\u5f81\u5145\u6eff\u5371\u96aa\u3002\u4f60\u7684\u63a0\u624b\u5c07\u5e36\u8457\u6240\u6709\u6301\u6709\u7269\u524d\u5f80\u9435\u93fd\u5e36\u5916\u7684\u672a\u77e5\u4e4b\u5730\u3002\u597d\u8655\u662f\uff0c\u4f60\u7684\u4e0b\u4e00\u4f4d\u63a0\u624b\u6703\u7372\u5f97\u7368\u7279\u7684\u512a\u52e2\uff0c\u9019\u6703\u7dad\u6301\u5230\u4e0b\u4e00\u6b21\u9060\u5f81\u51fa\u767c\u70ba\u6b62\u3002"
+    },
+    "phases": [
+      {
+        "name": {
+          "da": "Fundament",
+          "de": "Grundgestell",
+          "en": "Foundation",
+          "es": "Base",
+          "fr": "Base",
+          "he": "\u05d9\u05e1\u05d5\u05d3\u05d5\u05ea",
+          "hr": "Temelji",
+          "it": "Base",
+          "ja": "\u57fa\u790e",
+          "ko-KR": "\uae30\ubc18",
+          "no": "Fundament",
+          "pl": "Fundamenty",
+          "pt": "Funda\u00e7\u00e3o",
+          "pt-BR": "Funda\u00e7\u00e3o",
+          "ru": "\u041e\u0441\u043d\u043e\u0432\u0430",
+          "sr": "Temelji",
+          "tr": "Temel",
+          "uk": "\u0424\u0443\u043d\u0434\u0430\u043c\u0435\u043d\u0442",
+          "zh-CN": "\u57fa\u7840",
+          "zh-TW": "\u57fa\u790e"
+        },
+        "description": {
+          "da": "Opbygning af karavanens bundkonstruktion og ramme",
+          "de": "Der Unterbau und das Fahrgestell des Wohnwagens werden gebaut.",
+          "en": "Building the base structure and frame of the caravan",
+          "es": "Construye la estructura y el chasis de la caravana.",
+          "fr": "Construction de la structure de base et du ch\u00e2ssis de la caravane",
+          "he": "\u05d1\u05e0\u05d9\u05d9\u05ea \u05de\u05d1\u05e0\u05d4 \u05d4\u05d1\u05e1\u05d9\u05e1 \u05d5\u05d4\u05e9\u05dc\u05d3\u05d4 \u05e9\u05dc \u05d4\u05e9\u05d9\u05d9\u05e8\u05d4",
+          "hr": "Izgradnja osnovne strukture i okvira karavane",
+          "it": "Costruzione della struttura di base e del telaio della roulotte",
+          "ja": "\u30ad\u30e3\u30e9\u30d0\u30f3\u306e\u57fa\u790e\u69cb\u9020\u3068\u9aa8\u683c\u3092\u69cb\u7bc9\u3057\u307e\u3059",
+          "ko-KR": "\uce74\ub77c\ubc18\uc758 \uae30\ubcf8 \uad6c\uc870\uc640 \uace8\uc870\ub97c \uac74\uc124\ud569\ub2c8\ub2e4.",
+          "no": "Bygger grunnstrukturen og rammen til karavanen",
+          "pl": "Budowanie podstawowej konstrukcji i\u00a0szkieletu karawany.",
+          "pt": "Constru\u00e7\u00e3o da base da caravana",
+          "pt-BR": "Constru\u00e7\u00e3o da base da caravana",
+          "ru": "\u0421\u043e\u0437\u0434\u0430\u043d\u0438\u0435 \u043e\u0441\u043d\u043e\u0432\u044b \u0434\u043b\u044f \u0444\u0443\u0440\u0433\u043e\u043d\u0430.",
+          "sr": "Izgradnja osnovne konstrukcije i okvira karavana",
+          "tr": "Karavan\u0131n temel yap\u0131s\u0131 ve iskeleti in\u015fa ediliyor",
+          "uk": "\u0411\u0443\u0434\u0456\u0432\u043d\u0438\u0446\u0442\u0432\u043e \u0431\u0430\u0437\u043e\u0432\u043e\u0457 \u043a\u043e\u043d\u0441\u0442\u0440\u0443\u043a\u0446\u0456\u0457 \u0442\u0430 \u0440\u0430\u043c\u0438 \u043a\u0430\u0440\u0430\u0432\u0430\u043d\u0443",
+          "zh-CN": "\u6784\u5efa\u8fdc\u5f81\u961f\u7684\u57fa\u7840\u7ed3\u6784\u548c\u6846\u67b6",
+          "zh-TW": "\u5efa\u9020\u62d6\u8eca\u7684\u57fa\u790e\u7d50\u69cb\u548c\u6846\u67b6"
+        },
+        "phase": 1,
+        "requirementItemIds": [
+          {
+            "itemId": "metal_parts",
+            "quantity": 150
+          },
+          {
+            "itemId": "plastic_parts",
+            "quantity": 100
+          },
+          {
+            "itemId": "arc_alloy",
+            "quantity": 80
+          },
+          {
+            "itemId": "magnet",
+            "quantity": 15
+          }
+        ]
+      },
+      {
+        "name": {
+          "da": "Kernesystemer",
+          "de": "Hauptsysteme",
+          "en": "Core Systems",
+          "es": "Sistemas esenciales",
+          "fr": "Syst\u00e8mes centraux",
+          "he": "\u05de\u05e2\u05e8\u05db\u05d5\u05ea \u05dc\u05d9\u05d1\u05d4",
+          "hr": "Klju\u010dni sustavi",
+          "it": "Sistemi essenziali",
+          "ja": "\u57fa\u5e79\u30b7\u30b9\u30c6\u30e0",
+          "ko-KR": "\ud575\uc2ec \uc2dc\uc2a4\ud15c",
+          "no": "Kjernesystemer",
+          "pl": "Systemy g\u0142\u00f3wne",
+          "pt": "Sistemas Centrais",
+          "pt-BR": "Sistemas Centrais",
+          "ru": "\u0411\u0430\u0437\u043e\u0432\u044b\u0435 \u0441\u0438\u0441\u0442\u0435\u043c\u044b",
+          "sr": "Klju\u010dni sistemi",
+          "tr": "Temel Sistemler",
+          "uk": "\u041e\u0441\u043d\u043e\u0432\u043d\u0456 \u0441\u0438\u0441\u0442\u0435\u043c\u0438",
+          "zh-CN": "\u6838\u5fc3\u7cfb\u7edf",
+          "zh-TW": "\u6838\u5fc3\u7cfb\u7d71"
+        },
+        "description": {
+          "da": "Tilslutning af ledninger, ventilation og vigtige str\u00f8msystemer",
+          "de": "Verbindet Verkabelung, Bel\u00fcftung und wichtige Stromversorgungssysteme.",
+          "en": "Connecting wiring, ventilation, and essential power systems",
+          "es": "Conecta los cables, la ventilaci\u00f3n y los sistemas de energ\u00eda b\u00e1sicos.",
+          "fr": "Raccordement du c\u00e2blage, de la ventilation et des syst\u00e8mes d'alimentation \u00e9lectriques essentiels.",
+          "he": "\u05d7\u05d9\u05d1\u05d5\u05e8 \u05d7\u05d9\u05d5\u05d5\u05d8, \u05d0\u05d5\u05d5\u05e8\u05d5\u05e8 \u05d5\u05de\u05e2\u05e8\u05db\u05d5\u05ea \u05d7\u05e9\u05de\u05dc \u05d7\u05d9\u05d5\u05e0\u05d9\u05d5\u05ea",
+          "hr": "Spajanje o\u017ei\u010denja, ventilacije i klju\u010dnih sustava napajanja",
+          "it": "Collegamento di cavi, ventilazione e sistemi di alimentazione essenziali",
+          "ja": "\u914d\u7dda\u3001\u63db\u6c17\u30b7\u30b9\u30c6\u30e0\u3001\u91cd\u8981\u306a\u52d5\u529b\u7cfb\u7d71\u306a\u3069\u3092\u63a5\u7d9a\u3057\u305f",
+          "ko-KR": "\ubc30\uc120, \ud658\uae30, \ud544\uc218 \uc804\ub825 \uc2dc\uc2a4\ud15c\uc744 \uc5f0\uacb0\ud569\ub2c8\ub2e4.",
+          "no": "Kobler sammen ledninger, ventilasjon og viktige str\u00f8msystemer",
+          "pl": "Pod\u0142\u0105czanie przewod\u00f3w, wentylacji i\u00a0niezb\u0119dnych system\u00f3w zasilania",
+          "pt": "Conex\u00e3o de cabos, ventila\u00e7\u00e3o e sistemas de energia essenciais",
+          "pt-BR": "Conex\u00e3o de cabos, ventila\u00e7\u00e3o e sistemas de energia essenciais",
+          "ru": "\u041f\u0440\u043e\u0432\u043e\u0434\u043a\u0430, \u0432\u0435\u043d\u0442\u0438\u043b\u044f\u0446\u0438\u044f, \u043e\u0441\u043d\u043e\u0432\u043d\u044b\u0435 \u0441\u0438\u0441\u0442\u0435\u043c\u044b \u043f\u0438\u0442\u0430\u043d\u0438\u044f.",
+          "sr": "Povezivanje o\u017ei\u010denja, ventilacije i klju\u010dnih sistema napajanja",
+          "tr": "Kablolar, havaland\u0131rma ve elzem g\u00fc\u00e7 sistemleri ba\u011flan\u0131yor",
+          "uk": "\u041f\u0456\u0434\u043a\u043b\u044e\u0447\u0435\u043d\u043d\u044f \u043f\u0440\u043e\u0432\u043e\u0434\u043a\u0438, \u0432\u0435\u043d\u0442\u0438\u043b\u044f\u0446\u0456\u0457 \u0442\u0430 \u043a\u043b\u044e\u0447\u043e\u0432\u0438\u0445 \u0441\u0438\u0441\u0442\u0435\u043c \u0436\u0438\u0432\u043b\u0435\u043d\u043d\u044f",
+          "zh-CN": "\u8fde\u63a5\u5bfc\u7ebf\u3001\u901a\u98ce\u7cfb\u7edf\u548c\u5173\u952e\u7684\u80fd\u6e90\u7cfb\u7edf",
+          "zh-TW": "\u9023\u7d50\u7dda\u8def\u3001\u901a\u98a8\u548c\u5fc5\u8981\u7684\u96fb\u529b\u7cfb\u7d71"
+        },
+        "phase": 2,
+        "requirementItemIds": [
+          {
+            "itemId": "durable_cloth",
+            "quantity": 30
+          },
+          {
+            "itemId": "duct_tape",
+            "quantity": 25
+          },
+          {
+            "itemId": "mechanical_components",
+            "quantity": 20
+          },
+          {
+            "itemId": "voltage_converter",
+            "quantity": 10
+          }
+        ]
+      },
+      {
+        "name": {
+          "da": "Rammev\u00e6rk",
+          "de": "Rahmenwerk",
+          "en": "Framework",
+          "es": "Estructura",
+          "fr": "Charpente",
+          "he": "\u05e9\u05dc\u05d3",
+          "hr": "Okvir",
+          "it": "Struttura",
+          "ja": "\u30d5\u30ec\u30fc\u30e0\u30ef\u30fc\u30af",
+          "ko-KR": "\ud504\ub808\uc784\uc6cc\ud06c",
+          "no": "Rammeverk",
+          "pl": "Struktura",
+          "pt": "Estrutura",
+          "pt-BR": "Estrutura",
+          "ru": "\u041a\u0430\u0440\u043a\u0430\u0441",
+          "sr": "Okvir",
+          "tr": "\u0130skelet",
+          "uk": "\u041a\u0430\u0440\u043a\u0430\u0441",
+          "zh-CN": "\u4e3b\u4f53\u7ed3\u6784",
+          "zh-TW": "\u9aa8\u67b6"
+        },
+        "description": {
+          "da": "Opbygning af v\u00e6gge og tag, installation af kernesystemer og fastl\u00e6ggelse af indretningen",
+          "de": "W\u00e4nde und Dach werden gefertigt, Hauptsysteme installiert und Innenraumaufteilung wird festgelegt.",
+          "en": "Building walls and roof, installing core systems, and defining the interior layout",
+          "es": "Construye las paredes y el techo, instala los sistemas esenciales y define la disposici\u00f3n del interior.",
+          "fr": "Construction des murs et du toit, installation des syst\u00e8mes centraux et d\u00e9finition de l'am\u00e9nagement int\u00e9rieur",
+          "he": "\u05d1\u05e0\u05d9\u05d9\u05ea \u05e7\u05d9\u05e8\u05d5\u05ea \u05d5\u05d2\u05d2, \u05d4\u05ea\u05e7\u05e0\u05ea \u05de\u05e2\u05e8\u05db\u05d5\u05ea \u05dc\u05d9\u05d1\u05d4 \u05d5\u05d4\u05d2\u05d3\u05e8\u05ea \u05e4\u05e8\u05d9\u05e1\u05ea \u05d4\u05e4\u05e0\u05d9\u05dd",
+          "hr": "Izrada zidova i krova, ugradnja klju\u010dnih sustava i odre\u0111ivanje unutarnjeg rasporeda",
+          "it": "Costruzione delle pareti e del tetto, installazione dei sistemi principali e definizione della disposizione interna",
+          "ja": "\u58c1\u3068\u5929\u4e95\u3092\u4f5c\u308a\u3001\u57fa\u5e79\u30b7\u30b9\u30c6\u30e0\u3092\u7d44\u307f\u5165\u308c\u3001\u5185\u90e8\u306e\u30ec\u30a4\u30a2\u30a6\u30c8\u3092\u6c7a\u5b9a\u3057\u307e\u3059",
+          "ko-KR": "\ubcbd\uacfc \uc9c0\ubd95\uc744 \uac74\uc124\ud558\uace0, \ud575\uc2ec \uc2dc\uc2a4\ud15c\uc744 \uc124\uce58\ud558\uace0, \ub0b4\ubd80 \ubc30\uce58\ub97c \uacb0\uc815\ud569\ub2c8\ub2e4.",
+          "no": "Bygger vegger og tak, installerer kjernesystemer og bestemmer innredningen",
+          "pl": "Budowanie \u015bcian i\u00a0dachu, montowanie system\u00f3w g\u0142\u00f3wnych oraz ustalanie uk\u0142adu wn\u0119trza.",
+          "pt": "Constru\u00e7\u00e3o de paredes e teto, instala\u00e7\u00e3o dos sistemas centrais e defini\u00e7\u00e3o do interior",
+          "pt-BR": "Constru\u00e7\u00e3o de paredes e teto, instala\u00e7\u00e3o dos sistemas centrais e defini\u00e7\u00e3o do interior",
+          "ru": "\u0412\u043e\u0437\u0432\u0435\u0434\u0435\u043d\u0438\u0435 \u0441\u0442\u0435\u043d \u0438 \u043a\u0440\u044b\u0448\u0438, \u0443\u0441\u0442\u0430\u043d\u043e\u0432\u043a\u0430 \u0431\u0430\u0437\u043e\u0432\u044b\u0445 \u0441\u0438\u0441\u0442\u0435\u043c, \u0432\u043d\u0443\u0442\u0440\u0435\u043d\u043d\u044f\u044f \u043f\u043b\u0430\u043d\u0438\u0440\u043e\u0432\u043a\u0430.",
+          "sr": "Izgradnja zidova i krova, ugradnja klju\u010dnih sistema i odre\u0111ivanje unutra\u0161njeg rasporeda",
+          "tr": "Duvarlar ve \u00e7at\u0131lar in\u015fa ediliyor, temel sistemler kuruluyor ve i\u00e7 d\u00fczen belirleniyor",
+          "uk": "\u0417\u0432\u0435\u0434\u0435\u043d\u043d\u044f \u0441\u0442\u0456\u043d \u0456 \u0434\u0430\u0445\u0443, \u0432\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u043d\u044f \u043e\u0441\u043d\u043e\u0432\u043d\u0438\u0445 \u0441\u0438\u0441\u0442\u0435\u043c \u0442\u0430 \u0432\u0438\u0437\u043d\u0430\u0447\u0435\u043d\u043d\u044f \u0432\u043d\u0443\u0442\u0440\u0456\u0448\u043d\u044c\u043e\u0433\u043e \u043f\u043b\u0430\u043d\u0443\u0432\u0430\u043d\u043d\u044f",
+          "zh-CN": "\u5efa\u9020\u5899\u58c1\u548c\u9876\u677f\uff0c\u5b89\u88c5\u6838\u5fc3\u7cfb\u7edf\uff0c\u89c4\u5212\u5185\u90e8\u5e03\u5c40",
+          "zh-TW": "\u6253\u9020\u7246\u58c1\u548c\u5c4b\u9802\u3001\u5b89\u88dd\u6838\u5fc3\u7cfb\u7d71\u4e26\u6c7a\u5b9a\u5167\u90e8\u9673\u8a2d"
+        },
+        "phase": 3,
+        "requirementItemIds": [
+          {
+            "itemId": "arc_circuitry",
+            "quantity": 20
+          },
+          {
+            "itemId": "speaker_component",
+            "quantity": 15
+          },
+          {
+            "itemId": "bastion_cell",
+            "quantity": 5
+          },
+          {
+            "itemId": "magnetic_accelerator",
+            "quantity": 3
+          }
+        ]
+      },
+      {
+        "name": {
+          "da": "Udstyr",
+          "de": "Ausstattung",
+          "en": "Outfitting",
+          "es": "Equipar la caravana",
+          "fr": "\u00c9quipement",
+          "he": "\u05e6\u05d9\u05d5\u05d3",
+          "hr": "Oprema",
+          "it": "Allestimento",
+          "ja": "\u8a2d\u5099",
+          "ko-KR": "\uc7a5\ube44 \uad6c\ube44",
+          "no": "Utrustning",
+          "pl": "Wyposa\u017cenie",
+          "pt": "Aparelhagem",
+          "pt-BR": "Aparelhagem",
+          "ru": "\u041e\u0431\u0443\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432\u043e",
+          "sr": "Oprema",
+          "tr": "Donatma",
+          "uk": "\u041e\u0441\u043d\u0430\u0449\u0435\u043d\u043d\u044f",
+          "zh-CN": "\u823e\u88c5",
+          "zh-TW": "\u8a2d\u5099"
+        },
+        "description": {
+          "da": "Tilf\u00f8jer opbevaring, arbejdsb\u00e6nke, faciliteter og personlige detaljer",
+          "de": "F\u00fcgt Stauraum, Werkb\u00e4nke, Anschl\u00fcsse und einen pers\u00f6nlichen Touch hinzu.",
+          "en": "Adding storage, workbenches, utilities, and personal touches",
+          "es": "A\u00f1ade almacenamiento, mesas de trabajo, utilidades y toques personales.",
+          "fr": "Ajout des r\u00e9serves, des \u00e9tablis, des utilitaires et des touches personnelles.",
+          "he": "\u05d4\u05d5\u05e1\u05e4\u05ea \u05d0\u05d7\u05e1\u05d5\u05df, \u05e9\u05d5\u05dc\u05d7\u05e0\u05d5\u05ea \u05e2\u05d1\u05d5\u05d3\u05d4, \u05ea\u05e9\u05ea\u05d9\u05d5\u05ea \u05d5\u05e0\u05d2\u05d9\u05e2\u05d5\u05ea \u05d0\u05d9\u05e9\u05d9\u05d5\u05ea",
+          "hr": "Dodavanje prostora za pohranu, radnih stolova, uslu\u017enih priklju\u010daka i osobnih detalja",
+          "it": "Aggiunta di spazi di stoccaggio, banchi da lavoro, servizi e tocchi personali",
+          "ja": "\u5009\u5eab\u3001\u30ef\u30fc\u30af\u30d9\u30f3\u30c1\u3001\u30a4\u30f3\u30d5\u30e9\u3001\u305d\u3057\u3066\u3042\u306a\u305f\u3060\u3051\u306e\u5185\u88c5\u3092\u52a0\u3048\u307e\u3059",
+          "ko-KR": "\ucc3d\uace0, \uc791\uc5c5\ub300, \uc720\ud2f8\ub9ac\ud2f0\ub97c \ucd94\uac00\ud558\uace0, \uac1c\uc131\uc744 \ub354\ud569\ub2c8\ub2e4.",
+          "no": "Legger til lagring, arbeidsbenker, fasiliteter og personlige detaljer",
+          "pl": "Dodawanie przestrzeni magazynowej, sto\u0142\u00f3w warsztatowych, element\u00f3w u\u017cytkowych i\u00a0osobistych detali",
+          "pt": "Adi\u00e7\u00e3o de dep\u00f3sitos, bancadas de trabalho, utilit\u00e1rios e toques pessoais",
+          "pt-BR": "Adi\u00e7\u00e3o de dep\u00f3sitos, bancadas de trabalho, utilit\u00e1rios e toques pessoais",
+          "ru": "\u0420\u0430\u0437\u043c\u0435\u0449\u0435\u043d\u0438\u0435 \u043c\u0435\u0441\u0442\u0430 \u0434\u043b\u044f \u0445\u0440\u0430\u043d\u0435\u043d\u0438\u044f, \u0432\u0435\u0440\u0441\u0442\u0430\u043a\u043e\u0432, \u0443\u0434\u043e\u0431\u0441\u0442\u0432 \u0438 \u0432\u043d\u0435\u0441\u0435\u043d\u0438\u0435 \u0444\u0438\u043d\u0430\u043b\u044c\u043d\u044b\u0445 \u0448\u0442\u0440\u0438\u0445\u043e\u0432.",
+          "sr": "Dodavanje skladi\u0161ta, radnih stolova, korisnih instalacija i li\u010dnih detalja",
+          "tr": "Depo, i\u015f tezg\u00e2hlar\u0131, yard\u0131mc\u0131 tesisler ve ki\u015fisel dokunu\u015flar ekleniyor",
+          "uk": "\u0414\u043e\u0434\u0430\u0432\u0430\u043d\u043d\u044f \u0441\u0445\u043e\u0432\u0438\u0449, \u0432\u0435\u0440\u0441\u0442\u0430\u043a\u0456\u0432, \u0456\u043d\u0444\u0440\u0430\u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u0438 \u0442\u0430 \u043e\u0441\u043e\u0431\u0438\u0441\u0442\u0438\u0445 \u0448\u0442\u0440\u0438\u0445\u0456\u0432",
+          "zh-CN": "\u6dfb\u52a0\u8d27\u8231\u3001\u5de5\u4f5c\u53f0\u3001\u57fa\u7840\u914d\u5957\u8bbe\u65bd\u4ee5\u53ca\u4e2a\u4eba\u7279\u8272",
+          "zh-TW": "\u589e\u52a0\u5132\u85cf\u5ba4\u3001\u5de5\u4f5c\u53f0\u3001\u529f\u80fd\u7269\u54c1\u548c\u500b\u4eba\u8272\u5f69"
+        },
+        "phase": 4,
+        "requirementItemIds": [
+          {
+            "itemId": "radio",
+            "quantity": 2
+          },
+          {
+            "itemId": "advanced_mechanical_components",
+            "quantity": 5
+          },
+          {
+            "itemId": "lances_mixtape_5th_edition",
+            "quantity": 2
+          },
+          {
+            "itemId": "rocketeer_driver",
+            "quantity": 3
+          }
+        ]
+      },
+      {
+        "name": {
+          "da": "Lastetrin",
+          "de": "Ladeb\u00fchne",
+          "en": "Load Stage",
+          "es": "Fase de carga",
+          "fr": "Charger le niveau",
+          "he": "\u05e9\u05dc\u05d1 \u05d4\u05d8\u05e2\u05d9\u05e0\u05d4",
+          "hr": "Faza utovara",
+          "it": "Fase di carico",
+          "ja": "\u7a4d\u307f\u5165\u308c\u5834",
+          "ko-KR": "\uc801\uc7ac \ub2e8\uacc4",
+          "no": "Lastetrinn",
+          "pl": "Podest za\u0142adunkowy",
+          "pt": "Carregar Etapa",
+          "pt-BR": "Carregar Etapa",
+          "ru": "\u042d\u0442\u0430\u043f \u0437\u0430\u0433\u0440\u0443\u0437\u043a\u0438",
+          "sr": "Faza utovara",
+          "tr": "Y\u00fckleme Alan\u0131",
+          "uk": "\u0415\u0442\u0430\u043f \u0437\u0430\u0432\u0430\u043d\u0442\u0430\u0436\u0435\u043d\u043d\u044f",
+          "zh-CN": "\u88c5\u8f7d\u9636\u6bb5",
+          "zh-TW": "\u88dd\u8ca8\u968e\u6bb5"
+        },
+        "description": {
+          "da": "Karavanen lastes med vigtige forsyninger. Kamp- og overlevelsesudstyr, proviant og reparationsmaterialer er n\u00f8dvendige for at forberede Ekspeditionen fuldt ud",
+          "de": "Der Wohnwagen wird mit wichtigen Vorr\u00e4ten best\u00fcckt. Kampf- und \u00dcberlebensausr\u00fcstung, Proviant und Reparaturmaterialien geh\u00f6ren zur Vorbereitung auf die Expedition unbedingt dazu.",
+          "en": "Loading the caravan with vital supplies. Combat gear, survival equipment, provisions, and repair materials are needed to fully prepare for the Expedition",
+          "es": "Carga la caravana con suministros esenciales. El equipo de combate, el material de supervivencia, las provisiones y los materiales de reparaci\u00f3n son vitales para salir de expedici\u00f3n.",
+          "fr": "Chargement de provisions essentielles dans la caravane. Pour pr\u00e9parer correctement l'Exp\u00e9dition, il faut pr\u00e9voir de l'\u00e9quipement de combat, du mat\u00e9riel de survie, des provisions et des mat\u00e9riaux de r\u00e9paration.",
+          "he": "\u05d8\u05e2\u05d9\u05e0\u05ea \u05d4\u05e9\u05d9\u05d9\u05e8\u05d4 \u05d1\u05d0\u05e1\u05e4\u05e7\u05d4 \u05d7\u05d9\u05d5\u05e0\u05d9\u05ea. \u05e6\u05d9\u05d5\u05d3 \u05e7\u05e8\u05d1, \u05e6\u05d9\u05d5\u05d3 \u05d4\u05d9\u05e9\u05e8\u05d3\u05d5\u05ea, \u05d0\u05e1\u05e4\u05e7\u05d4 \u05d5\u05d7\u05d5\u05de\u05e8\u05d9 \u05ea\u05d9\u05e7\u05d5\u05df \u05e0\u05d7\u05d5\u05e6\u05d9\u05dd \u05db\u05d3\u05d9 \u05dc\u05d4\u05ea\u05db\u05d5\u05e0\u05df \u05dc\u05de\u05e9\u05dc\u05d7\u05ea \u05d1\u05d0\u05d5\u05e4\u05df \u05de\u05dc\u05d0",
+          "hr": "Utovar karavane klju\u010dnim zalihama. Borbena oprema, oprema za pre\u017eivljavanje, zalihe i materijali za popravke potrebni su za potpunu pripremu za Ekspediciju",
+          "it": "Caricamento della roulotte con rifornimenti essenziali. Per prepararsi al meglio alla Spedizione sono necessari equipaggiamento da combattimento, attrezzatura di sopravvivenza, provviste e materiali da riparazione.",
+          "ja": "\u30ad\u30e3\u30e9\u30d0\u30f3\u306b\u91cd\u8981\u7269\u8cc7\u3092\u7a4d\u307f\u8fbc\u307f\u307e\u3059\u3002\u9060\u5f81\u306b\u306f\u6226\u95d8\u7528\u306e\u88c5\u5099\u3001\u30b5\u30d0\u30a4\u30d0\u30eb\u7528\u5177\u3001\u98df\u6599\u3001\u305d\u3057\u3066\u4fee\u7406\u7528\u306e\u7d20\u6750\u3092\u5341\u5206\u306b\u5099\u3048\u308b\u5fc5\u8981\u304c\u3042\u308a\u307e\u3059",
+          "ko-KR": "\uce74\ub77c\ubc18\uc5d0 \ud544\uc218 \ubcf4\uae09\ud488\uc744 \uc2e3\uc2b5\ub2c8\ub2e4. \uc6d0\uc815 \uc900\ube44\ub97c \uc644\ub8cc\ud558\ub824\uba74 \uc804\ud22c \uc7a5\ube44, \uc0dd\uc874 \uc7a5\ube44, \uc2dd\ub7c9, \uc218\ub9ac \uc7ac\ub8cc\uac00 \ud544\uc694\ud569\ub2c8\ub2e4.",
+          "no": "Laster karavanen med livsviktige forsyninger. Kampsutstyr, overlevelsesutstyr, proviant og reparasjonsmaterialer trengs for \u00e5 forberede ekspedisjonen fullt ut",
+          "pl": "Za\u0142adowanie karawany niezb\u0119dnym zaopatrzeniem. Aby przygotowa\u0107 si\u0119 do wyprawy, niezb\u0119dne s\u0105 sprz\u0119t do walki, wyposa\u017cenie umo\u017cliwiaj\u0105ce przetrwanie, zapasy \u017cywno\u015bci oraz materia\u0142y naprawcze.",
+          "pt": "Carregar a caravana com suprimentos vitais, equipamentos de combate, de sobreviv\u00eancia, provis\u00f5es e materiais de reparo s\u00e3o necess\u00e1rios para a Expedi\u00e7\u00e3o.",
+          "pt-BR": "Carregar a caravana com suprimentos vitais, equipamentos de combate, de sobreviv\u00eancia, provis\u00f5es e materiais de reparo s\u00e3o necess\u00e1rios para a Expedi\u00e7\u00e3o.",
+          "ru": "\u041f\u043e\u0433\u0440\u0443\u0437\u043a\u0430 \u0432\u0441\u0435\u0433\u043e \u043d\u0435\u043e\u0431\u0445\u043e\u0434\u0438\u043c\u043e\u0433\u043e. \u0411\u043e\u0435\u0432\u043e\u0439 \u044d\u043a\u0438\u043f\u0438\u0440\u043e\u0432\u043a\u0438, \u043e\u0431\u043e\u0440\u0443\u0434\u043e\u0432\u0430\u043d\u0438\u044f \u0434\u043b\u044f \u0432\u044b\u0436\u0438\u0432\u0430\u043d\u0438\u044f, \u043f\u0440\u043e\u0432\u0438\u0437\u0438\u0438 \u0438 \u0440\u0435\u043c\u043e\u043d\u0442\u043d\u044b\u0445 \u043c\u0430\u0442\u0435\u0440\u0438\u0430\u043b\u043e\u0432 \u0434\u043b\u044f \u043f\u043e\u043b\u043d\u043e\u0446\u0435\u043d\u043d\u043e\u0439 \u043f\u043e\u0434\u0433\u043e\u0442\u043e\u0432\u043a\u0438 \u043a \u044d\u043a\u0441\u043f\u0435\u0434\u0438\u0446\u0438\u0438.",
+          "sr": "Utovar karavana va\u017enim zalihama. Borbena oprema, oprema za pre\u017eivljavanje, provijant i materijali za popravku potrebni su za potpunu pripremu za Ekspediciju",
+          "tr": "Karavana \u00f6nemli malzemeler dolduruluyor. Sefere tamamen haz\u0131rlanmak i\u00e7in \u00e7at\u0131\u015fma te\u00e7hizat\u0131, hayatta kalma ekipman\u0131, kumanyalar ve tamir materyalleri gerekiyor",
+          "uk": "\u0417\u0430\u0432\u0430\u043d\u0442\u0430\u0436\u0435\u043d\u043d\u044f \u043a\u0430\u0440\u0430\u0432\u0430\u043d\u0443 \u0436\u0438\u0442\u0442\u0454\u0432\u043e \u043d\u0435\u043e\u0431\u0445\u0456\u0434\u043d\u0438\u043c\u0438 \u043f\u0440\u0438\u043f\u0430\u0441\u0430\u043c\u0438. \u0411\u043e\u0439\u043e\u0432\u0435 \u0441\u043f\u043e\u0440\u044f\u0434\u0436\u0435\u043d\u043d\u044f, \u0441\u043f\u043e\u0440\u044f\u0434\u0436\u0435\u043d\u043d\u044f \u0434\u043b\u044f \u0432\u0438\u0436\u0438\u0432\u0430\u043d\u043d\u044f, \u043f\u0440\u043e\u0432\u0456\u0437\u0456\u044f \u0442\u0430 \u0440\u0435\u043c\u043e\u043d\u0442\u043d\u0456 \u043c\u0430\u0442\u0435\u0440\u0456\u0430\u043b\u0438 \u043f\u043e\u0442\u0440\u0456\u0431\u043d\u0456, \u0449\u043e\u0431 \u043f\u043e\u0432\u043d\u0456\u0441\u0442\u044e \u043f\u0456\u0434\u0433\u043e\u0442\u0443\u0432\u0430\u0442\u0438\u0441\u044f \u0434\u043e \u0415\u043a\u0441\u043f\u0435\u0434\u0438\u0446\u0456\u0457",
+          "zh-CN": "\u4e3a\u8fdc\u5f81\u961f\u88c5\u5165\u5fc5\u8981\u7269\u8d44\u3002\u8981\u4e3a\u8fdc\u5f81\u505a\u597d\u5b8c\u5168\u7684\u51c6\u5907\uff0c\u6218\u6597\u88c5\u5907\u3001\u751f\u5b58\u88c5\u5907\u3001\u53e3\u7cae\u4ee5\u53ca\u7ef4\u4fee\u6750\u6599\u662f\u5fc5\u4e0d\u53ef\u5c11\u7684",
+          "zh-TW": "\u5c07\u91cd\u8981\u7684\u7269\u8cc7\u88dd\u4e0a\u62d6\u8eca\u3002\u8981\u505a\u597d\u9060\u5f81\u7684\u5145\u5206\u6e96\u5099\uff0c\u9700\u8981\u6230\u9b25\u88dd\u5099\u3001\u751f\u5b58\u88dd\u5099\u3001\u7269\u8cc7\u4ee5\u53ca\u4fee\u7406\u6750\u6599"
+        },
+        "phase": 5,
+        "requirementCategories": [
+          {
+            "category": "Combat Items",
+            "localizations": {
+              "da": "Kampgenstande",
+              "de": "Kampfgegenst\u00e4nde",
+              "en": "Combat items",
+              "es": "Objetos de combate",
+              "fr": "Objets de combat",
+              "he": "\u05e4\u05e8\u05d9\u05d8\u05d9 \u05e7\u05e8\u05d1",
+              "hr": "Borbeni predmeti",
+              "it": "Oggetti da combattimento",
+              "ja": "\u6226\u95d8\u30a2\u30a4\u30c6\u30e0",
+              "ko-KR": "\uc804\ud22c \uc544\uc774\ud15c",
+              "no": "Kampgjenstander",
+              "pl": "Przedmioty zwi\u0105zane z walk\u0105",
+              "pt": "Itens de combate",
+              "pt-BR": "Itens de combate",
+              "ru": "\u041f\u0440\u0435\u0434\u043c\u0435\u0442\u044b \u0434\u043b\u044f \u0431\u043e\u044f",
+              "sr": "Borbeni predmeti",
+              "tr": "\u00c7at\u0131\u015fma E\u015fyalar\u0131",
+              "uk": "\u0411\u043e\u0439\u043e\u0432\u0456 \u043f\u0440\u0435\u0434\u043c\u0435\u0442\u0438",
+              "zh-CN": "\u6218\u6597\u7269\u54c1",
+              "zh-TW": "\u6230\u9b25\u7269\u54c1"
+            },
+            "valueRequired": 200000
+          },
+          {
+            "category": "Survival Items",
+            "localizations": {
+              "da": "Overlevelsesgenstande",
+              "de": "\u00dcberlebenswichtige Gegenst\u00e4nde",
+              "en": "Survival items",
+              "es": "Objetos de supervivencia",
+              "fr": "Objets de survie",
+              "he": "\u05e4\u05e8\u05d9\u05d8\u05d9 \u05d4\u05d9\u05e9\u05e8\u05d3\u05d5\u05ea",
+              "hr": "Predmeti za pre\u017eivljavanje",
+              "it": "Oggetti di sopravvivenza",
+              "ja": "\u30b5\u30d0\u30a4\u30d0\u30eb\u7528\u5177",
+              "ko-KR": "\uc0dd\uc874 \uc544\uc774\ud15c",
+              "no": "Overlevingsgjenstander",
+              "pl": "Przedmioty umo\u017cliwiaj\u0105ce przetrwanie",
+              "pt": "Itens de sobreviv\u00eancia",
+              "pt-BR": "Itens de sobreviv\u00eancia",
+              "ru": "\u041f\u0440\u0435\u0434\u043c\u0435\u0442\u044b \u0434\u043b\u044f \u0432\u044b\u0436\u0438\u0432\u0430\u043d\u0438\u044f",
+              "sr": "Predmeti za pre\u017eivljavanje",
+              "tr": "Hayatta kalma e\u015fyalar\u0131",
+              "uk": "\u041f\u0440\u0435\u0434\u043c\u0435\u0442\u0438 \u0434\u043b\u044f \u0432\u0438\u0436\u0438\u0432\u0430\u043d\u043d\u044f",
+              "zh-CN": "\u751f\u5b58\u7269\u54c1",
+              "zh-TW": "\u751f\u5b58\u7269\u54c1"
+            },
+            "valueRequired": 100000
+          },
+          {
+            "category": "Provisions",
+            "localizations": {
+              "da": "Proviant",
+              "de": "Proviant",
+              "en": "Provisions",
+              "es": "Provisiones",
+              "fr": "Provisions",
+              "he": "\u05de\u05e6\u05e8\u05db\u05d9\u05dd",
+              "hr": "Namirnice",
+              "it": "Provviste",
+              "ja": "\u98df\u6599",
+              "ko-KR": "\uc2dd\ub7c9",
+              "no": "Proviant",
+              "pl": "Zapasy",
+              "pt": "Provis\u00f5es",
+              "pt-BR": "Provis\u00f5es",
+              "ru": "\u041f\u0440\u043e\u0432\u0438\u0437\u0438\u044f",
+              "sr": "Namirnice",
+              "tr": "Kumanyalar",
+              "uk": "\u041f\u0440\u043e\u0432\u0456\u0437\u0456\u044f",
+              "zh-CN": "\u53e3\u7cae",
+              "zh-TW": "\u7269\u8cc7"
+            },
+            "valueRequired": 150000
+          },
+          {
+            "category": "Materials",
+            "localizations": {
+              "da": "Materialer",
+              "de": "Materialien",
+              "en": "Materials",
+              "es": "Materiales",
+              "fr": "Mat\u00e9riaux",
+              "he": "\u05d7\u05d5\u05de\u05e8\u05d9\u05dd",
+              "hr": "Materijali",
+              "it": "Materiali",
+              "ja": "\u7d20\u6750",
+              "ko-KR": "\uc7ac\ub8cc",
+              "no": "Materialer",
+              "pl": "Materia\u0142y",
+              "pt": "Materiais",
+              "pt-BR": "Materiais",
+              "ru": "\u041c\u0430\u0442\u0435\u0440\u0438\u0430\u043b\u044b",
+              "sr": "Materijali",
+              "tr": "Materyaller",
+              "uk": "\u041c\u0430\u0442\u0435\u0440\u0456\u0430\u043b\u0438",
+              "zh-CN": "\u6750\u6599",
+              "zh-TW": "\u6750\u6599"
+            },
+            "valueRequired": 300000
+          }
+        ],
+        "requirementItemIds": []
+      },
+      {
+        "name": {
+          "da": "Afrejse",
+          "de": "Abreise",
+          "en": "Departure",
+          "es": "Salida",
+          "fr": "D\u00e9part",
+          "he": "\u05d9\u05e6\u05d9\u05d0\u05d4",
+          "hr": "Polazak",
+          "it": "Partenza",
+          "ja": "\u65c5\u7acb\u3061",
+          "ko-KR": "\ucd9c\ubc1c",
+          "no": "Avreise",
+          "pl": "Wyruszenie w\u00a0drog\u0119",
+          "pt": "Partida",
+          "pt-BR": "Partida",
+          "ru": "\u041e\u0442\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435",
+          "sr": "Polazak",
+          "tr": "Ayr\u0131lma",
+          "uk": "\u0412\u0456\u0434\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u043d\u044f",
+          "zh-CN": "\u51fa\u53d1",
+          "zh-TW": "\u51fa\u767c"
+        },
+        "description": {
+          "da": "Din karavane er fuldt lastet, og din Raider er klar til at tage af sted p\u00e5 Ekspedition!\r\n\r\nVed afrejse bliver alle genstande, der er tilbage i din Raiders lager, bidraget til Ekspeditionen, og din n\u00e6ste Raider kan tjene op til fem f\u00e6rdighedspoint baseret p\u00e5 den samlede v\u00e6rdi af disse genstande.",
+          "de": "Dein Wohnwagen ist voll beladen und dein Raider steht bereit, um zur Expedition aufzubrechen!\r\n\r\nBei der Abreise werden alle in deinem Raider-Lager verbliebenen Gegenst\u00e4nde zur Expedition hinzugef\u00fcgt, und dein n\u00e4chster Raider kann\u00a0\u2013 basierend auf dem Gesamtwert dieser Gegenst\u00e4nde\u00a0\u2013 bis zu f\u00fcnf Fertigkeitspunkte erhalten.",
+          "en": "Your caravan is fully stocked and your Raider is ready to depart on the Expedition!\n\nUpon departure, all items remaining in your Raider\u2019s stash will be contributed to the Expedition, and your next Raider can earn up to five skill points based on the total value of those items.",
+          "es": "\u00a1Tu caravana est\u00e1 bien surtida y tu Raider lo tiene todo listo para irse de expedici\u00f3n!\r\n\r\nCuando se vaya, todos los objetos que haya en su alijo se destinar\u00e1n a la expedici\u00f3n y tu siguiente Raider podr\u00e1 obtener hasta cinco puntos de habilidad en funci\u00f3n del valor en total de dichos objetos.",
+          "fr": "Votre caravane est enti\u00e8rement approvisionn\u00e9e et tout est pr\u00eat pour que votre Raider parte en Exp\u00e9dition\u00a0!\r\n\r\n\u00c0 son d\u00e9part, tous les objets restants de sa r\u00e9serve seront revers\u00e9s \u00e0 l'Exp\u00e9dition, et votre prochain Raider pourra gagner jusqu'\u00e0 cinq points de comp\u00e9tence en fonction de la valeur totale de ces objets.",
+          "he": "\u05d4\u05e9\u05d9\u05d9\u05e8\u05d4 \u05e9\u05dc\u05da \u05de\u05dc\u05d0\u05d4 \u05d1\u05d0\u05e1\u05e4\u05e7\u05d4 \u05d5\u05d4-Raider \u05e9\u05dc\u05da \u05de\u05d5\u05db\u05df \u05dc\u05e6\u05d0\u05ea \u05dc\u05de\u05e9\u05dc\u05d7\u05ea!\r\n\r\n\u05e2\u05dd \u05d4\u05d9\u05e6\u05d9\u05d0\u05d4, \u05db\u05dc \u05d4\u05e4\u05e8\u05d9\u05d8\u05d9\u05dd \u05e9\u05e0\u05d5\u05ea\u05e8\u05d5 \u05d1\u05de\u05d7\u05e1\u05df \u05e9\u05dc \u05d4-Raider \u05e9\u05dc\u05da \u05d9\u05d9\u05ea\u05e8\u05de\u05d5 \u05dc\u05de\u05e9\u05dc\u05d7\u05ea, \u05d5\u05d4-Raider \u05d4\u05d1\u05d0 \u05e9\u05dc\u05da \u05d9\u05d5\u05db\u05dc \u05dc\u05d4\u05e8\u05d5\u05d5\u05d9\u05d7 \u05e2\u05d3 \u05d7\u05de\u05e9 \u05e0\u05e7\u05d5\u05d3\u05d5\u05ea \u05de\u05d9\u05d5\u05de\u05e0\u05d5\u05ea \u05d1\u05d4\u05ea\u05d0\u05dd \u05dc\u05e2\u05e8\u05da \u05d4\u05db\u05d5\u05dc\u05dc \u05e9\u05dc \u05d0\u05d5\u05ea\u05dd \u05e4\u05e8\u05d9\u05d8\u05d9\u05dd.",
+          "hr": "Tvoja je karavana potpuno opskrbljena, a tvoj Raider spreman je krenuti u Ekspediciju!\r\n\r\nPri polasku, svi predmeti preostali u spremi\u0161tu tvog Raidera bit \u0107e pridodani Ekspediciji, a tvoj sljede\u0107i Raider mo\u017ee zaraditi do pet bodova vje\u0161tina na temelju ukupne vrijednosti tih predmeta.",
+          "it": "La tua roulotte \u00e8 completamente rifornita e il tuo Raider \u00e8 pronto per la Spedizione!\r\n\r\nAlla partenza, tutti gli oggetti rimasti nel deposito del tuo Raider saranno donati alla Spedizione e il tuo prossimo Raider potr\u00e0 guadagnare fino a cinque punti abilit\u00e0 in base al valore totale di tali oggetti.",
+          "ja": "\u30ad\u30e3\u30e9\u30d0\u30f3\u306b\u7269\u8cc7\u304c\u30b9\u30c8\u30c3\u30af\u3055\u308c\u3001\u9060\u5f81\u306e\u6e96\u5099\u304c\u6574\u3044\u307e\u3057\u305f\u3002\r\n\r\n\u30ec\u30a4\u30c0\u30fc\u304c\u65c5\u7acb\u3064\u3068\u3001\u4fdd\u7ba1\u5eab\u306b\u6b8b\u3063\u3066\u3044\u308b\u30a2\u30a4\u30c6\u30e0\u306f\u3059\u3079\u3066\u9060\u5f81\u306b\u6367\u3052\u3089\u308c\u3001\u6b21\u306b\u4f7f\u7528\u3059\u308b\u30ec\u30a4\u30c0\u30fc\u306f\u3001\u6367\u3052\u305f\u30a2\u30a4\u30c6\u30e0\u306e\u7dcf\u984d\u306b\u5fdc\u3058\u3066\u3001\u30b9\u30ad\u30eb\u30dd\u30a4\u30f3\u30c8\u3092\u6700\u59275\u70b9\u307e\u3067\u7372\u5f97\u3057\u307e\u3059\u3002",
+          "ko-KR": "\uce74\ub77c\ubc18\uc774 \uaf49 \ucc3c\uace0, \ub808\uc774\ub354\uac00 \uc6d0\uc815\uc744 \ub5a0\ub0a0 \uc900\ube44\uac00 \ub418\uc5c8\uc2b5\ub2c8\ub2e4!\r\n\r\n\ucd9c\ubc1c \uc2dc \ub808\uc774\ub354 \ubcf4\uad00\ud568\uc5d0 \ub0a8\uc544 \uc788\ub294 \ubaa8\ub4e0 \uc544\uc774\ud15c\uc740 \uc6d0\uc815\uc5d0 \uc4f0\uc774\uba70, \ud574\ub2f9 \uc544\uc774\ud15c\uc758 \ucd1d \uac00\uce58\uc5d0 \ub530\ub77c \ub2e4\uc74c \ub808\uc774\ub354\uac00 \ucd5c\ub300 5 \uc2a4\ud0ac \ud3ec\uc778\ud2b8\ub97c \uc5bb\uc744 \uc218 \uc788\uc2b5\ub2c8\ub2e4.",
+          "no": "Karavanen din er fullastet, og Raideren din er klar til \u00e5 dra p\u00e5 Ekspedisjonen!\r\n\r\nVed avreise vil alle gjenstander som er igjen i Raiderens lager bli bidratt til Ekspedisjonen, og din neste Raider kan tjene opptil fem ferdighetspoeng basert p\u00e5 den totale verdien av disse gjenstandene.",
+          "pl": "Karawana jest w\u00a0pe\u0142ni zaopatrzona i tw\u00f3j \u0142upie\u017cca mo\u017ce ju\u017c wyruszy\u0107 na wypraw\u0119.\r\n\r\nGdy to zrobi, wszystkie przedmioty w\u00a0skrytce \u0142upie\u017ccy zostan\u0105 przekazane na poczet wyprawy. Kolejny \u0142upie\u017cca b\u0119dzie m\u00f3g\u0142 zdoby\u0107 maksymalnie pi\u0119\u0107 punkt\u00f3w umiej\u0119tno\u015bci zale\u017cnie na podstawie \u0142\u0105cznej warto\u015bci tych przedmiot\u00f3w.",
+          "pt": "Com a caravana abastecida, est\u00e1 tudo pronto para Raiders partirem na Expedi\u00e7\u00e3o!\r\n\r\nAo partirem, todos os itens restantes nos estoques de Raiders contribuir\u00e3o para a Expedi\u00e7\u00e3o, e Raiders seguintes poder\u00e3o receber at\u00e9 cinco pontos de habilidade com base no valor total desses itens.",
+          "pt-BR": "Com a caravana abastecida, est\u00e1 tudo pronto para Raiders partirem na Expedi\u00e7\u00e3o!\r\n\r\nAo partirem, todos os itens restantes nos estoques de Raiders contribuir\u00e3o para a Expedi\u00e7\u00e3o, e Raiders seguintes poder\u00e3o receber at\u00e9 cinco pontos de habilidade com base no valor total desses itens.",
+          "ru": "\u0424\u0443\u0440\u0433\u043e\u043d \u043e\u0441\u043d\u0430\u0449\u0435\u043d, \u0430 \u0432\u0430\u0448 \u0440\u0435\u0439\u0434\u0435\u0440 \u0433\u043e\u0442\u043e\u0432 \u043e\u0442\u043f\u0440\u0430\u0432\u0438\u0442\u044c\u0441\u044f \u0432 \u044d\u043a\u0441\u043f\u0435\u0434\u0438\u0446\u0438\u044e!\r\n\r\n\u041f\u0440\u0438 \u043e\u0442\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0438 \u0432\u0441\u0435 \u043f\u0440\u0435\u0434\u043c\u0435\u0442\u044b \u0438\u0437 \u0445\u0440\u0430\u043d\u0438\u043b\u0438\u0449\u0430 \u043f\u043e\u0439\u0434\u0443\u0442 \u043d\u0430 \u0431\u043b\u0430\u0433\u043e \u044d\u043a\u0441\u043f\u0435\u0434\u0438\u0446\u0438\u0438, \u0430 \u0432\u0430\u0448 \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0438\u0439 \u0440\u0435\u0439\u0434\u0435\u0440 \u0441\u043c\u043e\u0436\u0435\u0442 \u043f\u043e\u043b\u0443\u0447\u0438\u0442\u044c \u0434\u043e \u043f\u044f\u0442\u0438 \u043e\u0447\u043a\u043e\u0432 \u043d\u0430\u0432\u044b\u043a\u043e\u0432 \u0432 \u0437\u0430\u0432\u0438\u0441\u0438\u043c\u043e\u0441\u0442\u0438 \u043e\u0442 \u043e\u0431\u0449\u0435\u0439 \u0441\u0442\u043e\u0438\u043c\u043e\u0441\u0442\u0438 \u044d\u0442\u0438\u0445 \u043f\u0440\u0435\u0434\u043c\u0435\u0442\u043e\u0432.",
+          "sr": "Karavan je potpuno opremljen, a tvoj Raider je spreman da krene u Ekspediciju!\r\n\r\nPri polasku, svi predmeti koji su ostali u Raiderovom skladi\u0161tu bi\u0107e pridodati Ekspediciji, a tvoj slede\u0107i Raider mo\u017ee da zaradi do pet poena ve\u0161tina na osnovu ukupne vrednosti tih predmeta.",
+          "tr": "Karavan\u0131n tamamen dolu ve Raider'\u0131n seferinden ayr\u0131lmaya haz\u0131r!\r\n\r\nAyr\u0131lmadan sonra Raider'\u0131n\u0131n zulas\u0131nda kalan t\u00fcm e\u015fyalar sefere b\u0131rak\u0131lacak ve s\u0131radaki Raider'\u0131n o e\u015fyalar\u0131n toplam de\u011ferine ba\u011fl\u0131 olarak be\u015f yetenek puan\u0131 kazanabilecek.",
+          "uk": "\u0422\u0432\u0456\u0439 \u043a\u0430\u0440\u0430\u0432\u0430\u043d \u043f\u043e\u0432\u043d\u0456\u0441\u0442\u044e \u0437\u0430\u0432\u0430\u043d\u0442\u0430\u0436\u0435\u043d\u0438\u0439, \u0456 \u0442\u0432\u0456\u0439 \u0440\u0435\u0439\u0434\u0435\u0440 \u0433\u043e\u0442\u043e\u0432\u0438\u0439 \u0432\u0438\u0440\u0443\u0448\u0430\u0442\u0438 \u0432 \u0415\u043a\u0441\u043f\u0435\u0434\u0438\u0446\u0456\u044e!\r\n\r\n\u041f\u0456\u0434 \u0447\u0430\u0441 \u0432\u0456\u0434\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u043d\u044f \u0432\u0441\u0456 \u043f\u0440\u0435\u0434\u043c\u0435\u0442\u0438, \u0449\u043e \u0437\u0430\u043b\u0438\u0448\u0438\u043b\u0438\u0441\u044f \u0443 \u0441\u0445\u043e\u0432\u0438\u0449\u0456 \u0442\u0432\u043e\u0433\u043e \u0440\u0435\u0439\u0434\u0435\u0440\u0430, \u0431\u0443\u0434\u0443\u0442\u044c \u043f\u0435\u0440\u0435\u0434\u0430\u043d\u0456 \u0415\u043a\u0441\u043f\u0435\u0434\u0438\u0446\u0456\u0457, \u0430 \u0442\u0432\u0456\u0439 \u043d\u0430\u0441\u0442\u0443\u043f\u043d\u0438\u0439 \u0440\u0435\u0439\u0434\u0435\u0440 \u0437\u043c\u043e\u0436\u0435 \u0437\u0430\u0440\u043e\u0431\u0438\u0442\u0438 \u0434\u043e \u043f\u2019\u044f\u0442\u0438 \u043e\u0447\u043e\u043a \u043d\u0430\u0432\u0438\u0447\u043e\u043a \u0437\u0430\u043b\u0435\u0436\u043d\u043e \u0432\u0456\u0434 \u0437\u0430\u0433\u0430\u043b\u044c\u043d\u043e\u0457 \u0432\u0430\u0440\u0442\u043e\u0441\u0442\u0456 \u0446\u0438\u0445 \u043f\u0440\u0435\u0434\u043c\u0435\u0442\u0456\u0432.",
+          "zh-CN": "\u4f60\u7684\u8fdc\u5f81\u961f\u5df2\u7ecf\u88c5\u6ee1\u4e86\u8d27\u7269\uff0c\u4f60\u7684\u5947\u88ad\u8005\u5df2\u7ecf\u51c6\u5907\u597d\u51fa\u53d1\u8e0f\u4e0a\u8fdc\u5f81\u4e4b\u65c5\uff01\r\n\r\n\u5728\u51fa\u53d1\u65f6\uff0c\u4f60\u7684\u5947\u88ad\u8005\u50a8\u7269\u7bb1\u5185\u7684\u6240\u6709\u5269\u4f59\u7269\u54c1\u90fd\u5c06\u8d21\u732e\u7ed9\u672c\u6b21\u8fdc\u5f81\uff0c\u800c\u4f60\u7684\u4e0b\u4e00\u540d\u5947\u88ad\u8005\u5219\u53ef\u4ee5\u6839\u636e\u8fd9\u4e9b\u7269\u54c1\u7684\u603b\u4ef7\u503c\uff0c\u83b7\u5f97\u6700\u591a5\u4e2a\u6280\u80fd\u70b9\u3002",
+          "zh-TW": "\u4f60\u7684\u62d6\u8eca\u5df2\u6eff\uff0c\u63a0\u624b\u5df2\u6e96\u5099\u51fa\u767c\u9060\u5f81\uff01\r\n\r\n\u51fa\u767c\u5f8c\uff0c\u7559\u5728\u63a0\u624b\u5132\u85cf\u7bb1\u7684\u6240\u6709\u7269\u54c1\u5c07\u8ca2\u737b\u7d66\u9060\u5f81\u968a\uff0c\u6839\u64da\u9019\u4e9b\u7269\u54c1\u7684\u7e3d\u50f9\u503c\uff0c\u4f60\u7684\u4e0b\u4e00\u4f4d\u63a0\u624b\u6700\u591a\u53ef\u4ee5\u7372\u5f975\u9ede\u6280\u80fd\u9ede\u6578\u3002"
+        },
+        "phase": 6,
+        "requirementCategories": [
+          {
+            "category": "ArcDamage",
+            "kind": "damage_tiers",
+            "questGameAssetId": "734193008",
+            "tiers": [
+              5000,
+              10000,
+              30000,
+              50000,
+              100000
+            ],
+            "valueRequired": 100000
+          }
+        ],
+        "requirementItemIds": []
+      }
+    ],
+    "endDate": 1789974000,
+    "startDate": 1783425600
   }
 ]
